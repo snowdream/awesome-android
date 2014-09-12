@@ -61,6 +61,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/emilsjolander/sprinkles](https://github.com/emilsjolander/sprinkles)
 1. **android-database-sqlcipher**  Android SQLite API based on SQLCipher     
 [https://github.com/sqlcipher/android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
+1. **couchbase-lite-android**  Lightweight, embedded, syncable NoSQL database engine for Android.    
+[https://github.com/couchbase/couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
+1. **SimpleNoSQL** A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.      
+[https://github.com/Jearil/SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
+
+
 
 ###Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
@@ -309,6 +315,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
 1. **AndroidFloatLabel** Float Label Edit Texts for Android       
 [https://github.com/weddingparty/AndroidFloatLabel](https://github.com/weddingparty/AndroidFloatLabel)
+1. **AndroidFloatLabel**  Library project with a custom view that implements the Float Label pattern       
+[https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 1. **two-way-gridview** An Android GridView that can be configured to scroll horizontally or vertically         
 [https://github.com/jess-anders/two-way-gridview](https://github.com/jess-anders/two-way-gridview)
 1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik       
@@ -329,9 +337,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
 1. **TabBarView**  An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier     
 [https://github.com/Mirkoddd/TabBarView](https://github.com/Mirkoddd/TabBarView)
-
-
-
+1. **XListView-Android** ListView supports pull refresh and pull up to load more feature.     
+[https://github.com/Maxwin-z/XListView-Android](https://github.com/Maxwin-z/XListView-Android)
+1. **SideNavigation** Implementation of "SIde Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app)    
+[https://github.com/johnkil/SideNavigation](https://github.com/johnkil/SideNavigation)
+1. **L-Dialogs**  A small library replicating the new dialogs in android L.   
+[https://github.com/lewisjdeane/L-Dialogs](https://github.com/lewisjdeane/L-Dialogs)
 
 
 
@@ -481,6 +492,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/phrase](https://github.com/square/phrase)
 1. **seismic**  Android device shake detection.      
 [https://github.com/square/seismic](https://github.com/square/seismic)
+1. **android-validation-komensky** A simple library for validating user input in forms using annotations.      
+[https://github.com/inmite/android-validation-komensky](https://github.com/inmite/android-validation-komensky)    
+1. **AndroidFaceCropper**    Android bitmap Face Cropper     
+[https://github.com/lafosca/AndroidFaceCropper](https://github.com/lafosca/AndroidFaceCropper)
+1. **AutobahnAndroid**  WebSocket & WAMP in Java for Android     
+[https://github.com/tavendo/AutobahnAndroid](https://github.com/tavendo/AutobahnAndroid)
+1. **android_dbinspector** Android library for viewing in app databases.   
+[https://github.com/infinum/android_dbinspector](https://github.com/infinum/android_dbinspector)
 
 ###Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -497,6 +516,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 1. **EazeGraph** An Android chart and graph library      
 [https://github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
+1. **AndroidCharts** An easy-to-use Android charts library with animation.     
+[https://github.com/HackPlan/AndroidCharts](https://github.com/HackPlan/AndroidCharts0https://github.com/HackPlan/AndroidCharts)
+
 
 ###Font 
 1. **Calligraphy**    Custom fonts in Android the easy way...        
