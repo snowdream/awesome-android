@@ -29,6 +29,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
 1. **EventBus**   Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.      
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
+1. **butterknife** View "injection" library for Android.         
+[https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
+1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.     
+[https://github.com/square/otto](https://github.com/square/otto)
+
 
 ###Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
@@ -84,7 +89,9 @@ If the lib is no longer being maintained,please do not add it here.
 1. **http-request**    Java HTTP Request Library    
 [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.     
-[https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
+[https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) 
+1. **robospice**      Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.         
+[https://github.com/stephanenicolas/robospice](https://github.com/stephanenicolas/robospice)
 
 ###Widget
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.     
@@ -101,6 +108,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)  
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
+1. **android-swipelistview**   An Android List View implementation with support for drawable cells and many other swipe related features        
+[https://github.com/47deg/android-swipelistview](https://github.com/47deg/android-swipelistview)  
+1. **android-menudrawer**  A slide-out menu implementation, which allows users to navigate between views in your app.        
+[https://github.com/SimonVT/android-menudrawer](https://github.com/SimonVT/android-menudrawer)
 1. **AndroidStaggeredGrid**    An Android staggered grid view which supports multiple columns with rows of varying sizes.      
 [https://github.com/etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 1. **GreenDroid**   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.     
@@ -109,8 +120,30 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 1. **android-pulltorefresh**    This project aims to provide a reusable pull to refresh widget for Android.     
 [https://github.com/johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+1. **StickyListHeaders**    An android library for section headers that stick to the top       
+[https://github.com/emilsjolander/StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
+1. **Crouton**      Context sensitive notifications for Android      
+[https://github.com/keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)  
+1. **AndroidSlidingUpPanel**  Android Sliding Up Panel Demo      
+[https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
+1. **FadingActionBar**    Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app      
+[https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
 1. **FreeFlow**  A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change             
 [https://github.com/Comcast/FreeFlow](https://github.com/Comcast/FreeFlow)
+1. **android-viewflow** A horizontal view scroller library for Android    
+[https://github.com/pakerfeldt/android-viewflow](https://github.com/pakerfeldt/android-viewflow)  
+1. **AndroidSwipeLayout** The Most Powerful Swipe Layout!        
+[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
+[https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
+1. **circular-progress-button**   Android Circular Progress Button     
+[https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
+1. **android-viewbadger**  A simple way to "badge" any given Android view at runtime without having to cater for it in layout      
+[https://github.com/jgilfelt/android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
+1. **Android-SlideExpandableListView**    A better ExpandableListView, with animated expandable views for each list item          
+[https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
+1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
+[https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
 [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 1. **cropper**   Android widget for cropping and rotating an image.            
@@ -161,6 +194,9 @@ If the lib is no longer being maintained,please do not add it here.
 1. **AndEngine**   Free Android 2D OpenGL Game Engine       
 [https://github.com/nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)
 
+##Other
+1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
+[https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 
 ##License
 ```
