@@ -59,7 +59,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/siyamed/android-satellite-menu](https://github.com/siyamed/android-satellite-menu)
 1. **sprinkles**  Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications           
 [https://github.com/emilsjolander/sprinkles](https://github.com/emilsjolander/sprinkles)
-
+1. **android-database-sqlcipher**  Android SQLite API based on SQLCipher     
+[https://github.com/sqlcipher/android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
 
 ###Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
@@ -87,6 +88,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)
 1. **ViewPagerTransforms**  Library containing common animations needed for transforming ViewPager scrolling for Android v13+.       
 [https://github.com/ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+1. **TransitionsBackport**  A backport of the new Transitions API for Android  
+[https://github.com/guerwan/TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
 
 
 ###Network
@@ -260,6 +263,77 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
 1. **CircularImageView** Custom view for circular images in Android while maintaining the best draw performance       
 [https://github.com/Pkmmte/CircularImageView](https://github.com/Pkmmte/CircularImageView)
+1. **HorizontalVariableListView** Horizontal list view for Android which allows variable items widths          
+[https://github.com/sephiroth74/HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
+1. **emojicon** A library to show emoji in TextView, EditText (like WhatsApp) for Android        
+[https://github.com/rockerhieu/emojicon](https://github.com/rockerhieu/emojicon)
+1. **CircularFloatingActionMenu** an animated circular menu for Android     
+[https://github.com/oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
+1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
+[https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid) 
+1. **android-flat-button**  FButton - a flat button library for Android      
+[https://github.com/hoang8f/android-flat-button](https://github.com/hoang8f/android-flat-button)
+1. **PullToRefresh-ListView** A generic, customizable, open source Android ListView implementation that has 'Pull to Refresh' functionality.         
+[https://github.com/erikwt/PullToRefresh-ListView](https://github.com/erikwt/PullToRefresh-ListView)
+1. **MessageBar** An Android Toast replacement, similar to the one seen in the GMail app.      
+[https://github.com/SimonVT/MessageBar](https://github.com/SimonVT/MessageBar)
+1. **android-pdfview** A fast PDF reader component for Android development    
+[https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
+1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android
+[https://github.com/jblough/Android-Pdf-Viewer-Library](https://github.com/jblough/Android-Pdf-Viewer-Library)
+1. **QuiltViewLibrary**   Android Quilt View Library       
+[https://github.com/jacobmoncur/QuiltViewLibrary](https://github.com/jacobmoncur/QuiltViewLibrary)
+1. **FloatingActionButton**   Android Google+ like floating action button   
+[https://github.com/makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)
+1. **Android-UndoBar** An implementation of Android's Undo Bar as seen in Google's Gmail app.       
+[https://github.com/jenzz/Android-UndoBar](https://github.com/jenzz/Android-UndoBar)
+1. **GoogleProgressBar**  Android library to display progress like google does in some of his services.          
+[https://github.com/jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)
+1. **Android-ScrollBarPanel**  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0           
+[https://github.com/rno/Android-ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
+1. **android-autofittextview**  A TextView that automatically resizes text to fit perfectly within its bounds.          
+[https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
+1. **FlabbyListView** Android library to display a ListView whose cells are not rigid but flabby and react to ListView scroll.         
+[https://github.com/jpardogo/FlabbyListView](https://github.com/jpardogo/FlabbyListView)
+1. **changeloglib**  Android Library to display your changelog     
+[https://github.com/gabrielemariotti/changeloglib](https://github.com/gabrielemariotti/changeloglib)
+1. **Titanic** Android experiment showing a sinking TextView        
+[https://github.com/RomainPiel/Titanic](https://github.com/RomainPiel/Titanic)
+1. **ActionsContentView**  ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu). The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up. 
+[https://github.com/StevenRudenko/ActionsContentView](https://github.com/StevenRudenko/ActionsContentView)
+1. **android-FlipView**   A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application     
+[https://github.com/emilsjolander/android-FlipView](https://github.com/emilsjolander/android-FlipView)
+1. **discreet-app-rate**  A lightweight non intrusive app rate reminder for Android     
+[https://github.com/PomepuyN/discreet-app-rate](https://github.com/PomepuyN/discreet-app-rate)
+1. **KenBurnsView**  Android ImageViews animated by Ken Burns Effect     
+[https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
+1. **AndroidFloatLabel** Float Label Edit Texts for Android       
+[https://github.com/weddingparty/AndroidFloatLabel](https://github.com/weddingparty/AndroidFloatLabel)
+1. **two-way-gridview** An Android GridView that can be configured to scroll horizontally or vertically         
+[https://github.com/jess-anders/two-way-gridview](https://github.com/jess-anders/two-way-gridview)
+1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik       
+[https://github.com/soarcn/UndoBar](https://github.com/soarcn/UndoBar)
+1. **Android-RobotoTextView**   Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts.     
+[https://github.com/johnkil/Android-RobotoTextView](https://github.com/johnkil/Android-RobotoTextView)
+1. **android-flowlayout** Linear layout, that wrap its content to the next line if there is no space in the current line.       
+[https://github.com/ApmeM/android-flowlayout](https://github.com/ApmeM/android-flowlayout)
+1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
+[https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
+1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
+[https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
+1. **AppRater**   AppRater Library for Android           
+[https://github.com/codechimp-org/AppRater](https://github.com/codechimp-org/AppRater)
+1. **android-empty-layout** A library for showing different types of layouts when a list view is empty      
+[https://github.com/alamkanak/android-empty-layout](https://github.com/alamkanak/android-empty-layout)
+1. **material-menu**  Morphing Android menu, back, dismiss and check buttons   
+[https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
+1. **TabBarView**  An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier     
+[https://github.com/Mirkoddd/TabBarView](https://github.com/Mirkoddd/TabBarView)
+
+
+
+
+
 
 1. **cropper**   Android widget for cropping and rotating an image.            
 [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
@@ -322,10 +396,17 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Flowdalic/asmack](https://github.com/Flowdalic/asmack)
 1. **Xabber**    Open source Jabber (XMPP) client with multi-account support, clean and simple interface. Being both free (as in freedom!) and ad-free, Xabber is designed to be the best Jabber client for Android.      
 [https://github.com/redsolution/xabber-android](https://github.com/redsolution/xabber-android)
+1. **Conversations** Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones.     
+[https://github.com/siacs/Conversations](https://github.com/siacs/Conversations)
+1. **yaxim**  YAXIM - Yet Another XMPP Instant Messenger, a jabber client for android      
+[https://github.com/pfleidi/yaxim](https://github.com/pfleidi/yaxim)
+
 
 ###Plugin
 1. **maven-android-plugin**  Android Maven Plugin    
 [https://github.com/jayway/maven-android-plugin](https://github.com/jayway/maven-android-plugin)
+1. **android-archetypes**  Maven Archetypes for Android development       
+[https://github.com/akquinet/android-archetypes](https://github.com/akquinet/android-archetypes)
 1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
 [https://github.com/mosabua/maven-android-sdk-deployer](https://github.com/mosabua/maven-android-sdk-deployer)
 1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.      
@@ -354,6 +435,22 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
 1. **gradle-android-scala-plugin**  gradle-android-scala-plugin adds scala language support to official gradle android plugin            
 [https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
+1. **android-butterknife-zelezny** Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.       
+[https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
+1. **m2e-android**  Android for Maven Eclipse 
+[https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
+
+###Code Generation
+1. **parceler** Android Parcelables made easy through code generation.   
+[https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
+1. auto-parcel  Android Parcelable models made easy     
+[https://github.com/frankiesardo/auto-parcel](https://github.com/frankiesardo/auto-parcel)
+
+###Media
+1. **libstreaming** A solution for streaming H.264, H.263, AMR, AAC using RTP on Android     
+[https://github.com/fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)
+
+
 
 ###Utility
 1. **smoothie**    Easy async loading for Android's ListView/GridView       
@@ -366,10 +463,24 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/robotmedia/AndroidBillingLibrary](https://github.com/robotmedia/AndroidBillingLibrary)
 1. **android-saripaar** UI Validation Library for Android        
 [https://github.com/ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar)
-1. **parceler** Android Parcelables made easy through code generation.   
-[https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
-
-
+1. **timber** A logger with a small, extensible API which provides utility on top of Android's normal Log class.         
+[https://github.com/JakeWharton/timber](https://github.com/JakeWharton/timber)
+1. **wire** Clean, lightweight protocol buffers for Android.         
+[https://github.com/square/wire](https://github.com/square/wire)
+1. **motion**  An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt      
+[https://github.com/nvanbenschoten/motion](https://github.com/nvanbenschoten/motion)
+1. **Colours** A beautiful set of predefined colors and a set of color methods to make your Android development life easier.        
+[https://github.com/MatthewYork/Colours](https://github.com/MatthewYork/Colours)
+1. **Android-Validator** Form Validator Library for Android          
+[https://github.com/throrin19/Android-Validator](https://github.com/throrin19/Android-Validator)
+1. **svg-android**  Support for scalable vector graphics in Android    
+[https://github.com/pents90/svg-android](https://github.com/pents90/svg-android)
+1. **davdroid**  DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices    
+[https://github.com/rfc2822/davdroid](https://github.com/rfc2822/davdroid)
+1. **phrase** 
+[https://github.com/square/phrase](https://github.com/square/phrase)
+1. **seismic**  Android device shake detection.      
+[https://github.com/square/seismic](https://github.com/square/seismic)
 
 ###Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -405,6 +516,17 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PomepuyN/BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
 1. **maven-android-plugin-samples** Usage examples for Android Maven Plugin   
 [https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
+1. **Android-WizardPager**  Android pager-style wizard flow sample code    
+[https://github.com/romannurik/Android-WizardPager](https://github.com/romannurik/Android-WizardPager)
+1. **AndroidPushNotificationsDemo**  A example of an android app that receives push notifications using MQTT.          
+[https://github.com/tokudu/AndroidPushNotificationsDemo](https://github.com/tokudu/AndroidPushNotificationsDemo)
+1. **android-basic-samples**   Google Play game services - Android samples    
+[https://github.com/playgameservices/android-basic-samples](https://github.com/playgameservices/android-basic-samples)
+1. **RobolectricSample**   Sample project demonstrating use of the Robolectric Android testing project       
+[https://github.com/robolectric/RobolectricSample](https://github.com/robolectric/RobolectricSample)
+
+
+
 
 ###Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
