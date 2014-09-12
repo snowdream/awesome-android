@@ -32,6 +32,36 @@ Android 2.2+
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.     
 [https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
 
+###Widget
+1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.      
+[https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+1. **android-pulltorefresh**    This project aims to provide a reusable pull to refresh widget for Android.     
+[https://github.com/johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
+[https://github.com/square/android-times-square](https://github.com/square/android-times-square)
+1. **cropper**   Android widget for cropping and rotating an image.            
+[https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
+1. **ImageViewZoom**     Android ImageView widget with zoom and pan capabilities         
+[https://github.com/sephiroth74/ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
+1. **android-circlebutton**     Circle button widget for Android          
+[https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
+1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
+[https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
+1. **FoldableLayout**      Android widgets to implement folding animation      
+[https://github.com/alexvasilkov/FoldableLayout](https://github.com/alexvasilkov/FoldableLayout)
+1. **Android-MonthCalendarWidget**    A simple example of a responsive Month Calendar app widget for Android      
+[https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
+1. **range-bar**     Android widget for selecting a range of values.       
+[https://github.com/edmodo/range-bar](https://github.com/edmodo/range-bar)
+1. **Android Wheel Menu**   Simple and easy to use circular menu widget for Android.      
+[https://github.com/anupcowkur/Android-Wheel-Menu](https://github.com/anupcowkur/Android-Wheel-Menu)
+1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.       
+[https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
+1. **Android-HorizontalListView**  HorizontalListView is an Android ListView widget which scrolls in a horizontal manner       
+[https://github.com/MeetMe/Android-HorizontalListView](https://github.com/MeetMe/Android-HorizontalListView)
+1. **AndroidWheel**   Custom wheel widget for android     
+[https://github.com/sephiroth74/AndroidWheel](https://github.com/sephiroth74/AndroidWheel)
+
 
 
 ##License
