@@ -45,8 +45,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###Image Loading
-1.**Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
-[https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
+[https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)   
 1. **picasso**  A powerful image downloading and caching library for Android   
 [https://github.com/square/picasso](https://github.com/square/picasso)
 
