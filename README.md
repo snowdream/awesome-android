@@ -57,6 +57,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jgilfelt/android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper)
 1. **android-satellite-menu**    Android Satellite Menu      
 [https://github.com/siyamed/android-satellite-menu](https://github.com/siyamed/android-satellite-menu)
+1. **sprinkles**  Sprinkles is a boiler-plate-reduction-library for dealing with databases in android applications           
+[https://github.com/emilsjolander/sprinkles](https://github.com/emilsjolander/sprinkles)
 
 
 ###Image Loading
@@ -228,6 +230,36 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jasonpolites/gesture-imageview](https://github.com/jasonpolites/gesture-imageview)
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
 [https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
+1. **RefreshActionItem** Android - An action bar item which acts both as a refresh button and as a progress indicator    
+[https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
+1. **android-gpuimage** Android filters based on OpenGL (idea from GPUImage for iOS)     
+[https://github.com/CyberAgent/android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
+1. **android-edittext-validator** Android form edit text is an extension of EditText that brings data validation facilities to the edittext.      
+[https://github.com/vekexasia/android-edittext-validator](https://github.com/vekexasia/android-edittext-validator)
+1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.         
+[https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
+1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.      
+[https://github.com/iPaulPro/aFileChooser](https://github.com/iPaulPro/aFileChooser)
+1. **NewQuickAction**   Android QuickAction
+[https://github.com/lorensiuswlt/NewQuickAction](https://github.com/lorensiuswlt/NewQuickAction)
+1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection        
+[https://github.com/ManuelPeinado/MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)
+1. **android-circlebutton**  Circle button widget for Android
+[https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
+1. **FlatUI**  CengaLabs - Android FlatUI Kit     
+[https://github.com/eluleci/FlatUI](https://github.com/eluleci/FlatUI)
+1. **android-uitableview** Library and example project on how to use the UITableView component     
+[https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
+1. **android-HoloCircularProgressBar**  Holo Circular ProgressBar         
+[https://github.com/passsy/android-HoloCircularProgressBar](https://github.com/passsy/android-HoloCircularProgressBar)
+1. **RibbonMenu**   Navigation menu for Android (based off Google+ app)     
+[https://github.com/darvds/RibbonMenu](https://github.com/darvds/RibbonMenu)
+1. **ListBuddies** Android library to achieve in an easy way, the behaviour of the home page in the Expedia app, with a pair of auto-scroll circular parallax ListViews.     
+[https://github.com/jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)
+1. **Android-ProgressFragment**   Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.     
+[https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
+1. **CircularImageView** Custom view for circular images in Android while maintaining the best draw performance       
+[https://github.com/Pkmmte/CircularImageView](https://github.com/Pkmmte/CircularImageView)
 
 1. **cropper**   Android widget for cropping and rotating an image.            
 [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
@@ -328,6 +360,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lucasr/smoothie](https://github.com/lucasr/smoothie)
 1. **tape**      A lightning fast, transactional, file-based FIFO for Android and Java.    
 [https://github.com/square/tape](https://github.com/square/tape)
+1. **ColorArt**  iTunes 11-style color matching code for Android     
+[https://github.com/MichaelEvans/ColorArt](https://github.com/MichaelEvans/ColorArt)
+1. **AndroidBillingLibrary**   Android Market In-app Billing Library
+[https://github.com/robotmedia/AndroidBillingLibrary](https://github.com/robotmedia/AndroidBillingLibrary)
+1. **android-saripaar** UI Validation Library for Android        
+[https://github.com/ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar)
+1. **parceler** Android Parcelables made easy through code generation.   
+[https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
+
+
 
 ###Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -342,11 +384,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
 1. **MPAndroidChart**  A simple Android chart view / graph view library, supporting line- bar- pie- and candlestick charts as well as scaling, dragging and animations.   
 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-
+1. **EazeGraph** An Android chart and graph library      
+[https://github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
 
 ###Font 
 1. **Calligraphy**    Custom fonts in Android the easy way...        
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
+###OpenGL
+1. **Rajawali** Rajawali is a 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.         
+[https://github.com/MasDennis/Rajawali](https://github.com/MasDennis/Rajawali)
 
 
 ###Demo
@@ -362,6 +409,10 @@ If the lib is no longer being maintained,please do not add it here.
 ###Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
 [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
+1. **anode**  Android framework for node.js applications        
+[https://github.com/paddybyers/anode](https://github.com/paddybyers/anode)
+ 
+
 
 ##License
 ```
