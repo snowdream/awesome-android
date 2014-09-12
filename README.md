@@ -33,7 +33,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.     
 [https://github.com/square/otto](https://github.com/square/otto)
-
+1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
+[https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
+1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.     
+[https://github.com/path/android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)
 
 ###Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
@@ -50,6 +53,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ahmetalpbalkan/orman](https://github.com/ahmetalpbalkan/orman)
 1. **ormdroid** ORMDroid is a simple ORM persistence framework for your Android applications.       
 [https://github.com/roscopeco/ormdroid](https://github.com/roscopeco/ormdroid)
+1. **android-sqlite-asset-helper**   An Android helper class to manage database creation and version management using an application's raw asset files   
+[https://github.com/jgilfelt/android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper)
+1. **android-satellite-menu**    Android Satellite Menu      
+[https://github.com/siyamed/android-satellite-menu](https://github.com/siyamed/android-satellite-menu)
 
 
 ###Image Loading
@@ -59,6 +66,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/picasso](https://github.com/square/picasso)
 1. **ion**   Android Asynchronous Networking and Image Loading    
 [https://github.com/koush/ion](https://github.com/koush/ion)
+1. **glide**   An image loading and caching library for Android focused on smooth scrolling     
+[https://github.com/bumptech/glide](https://github.com/bumptech/glide)
+1. **ImageLoader**  Library for async image loading and caching on Android   
+[https://github.com/novoda/ImageLoader](https://github.com/novoda/ImageLoader)
+
 
 ###Animations
 1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items     
@@ -144,8 +156,40 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
 1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
+1. **android-process-button** Android Buttons With Built-in Progress Meters.   
+[https://github.com/dmytrodanylyk/android-process-button](https://github.com/dmytrodanylyk/android-process-button)
+1. **android-betterpickers**  Android library for better Picker DialogFragments   
+[https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
+1. **StaggeredGridView**  A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.      
+[https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
+1. **LazyList**  Lazy load of images in Android        
+[https://github.com/thest1/LazyList](https://github.com/thest1/LazyList)   
+1. **ProgressWheel** A progress wheel for android, intended for use instead of the standard progress bar.     
+[https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
+1. **DraggablePanel**  Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.   
+[https://github.com/pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
+1. **SuperToasts** A library that extends the Android toast framework.    
+[https://github.com/JohnPersano/SuperToasts](https://github.com/JohnPersano/SuperToasts) 
+1. **android-stackblur** Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.        
+[https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
+1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
+[https://github.com/beworker/pinned-section-listview](https://github.com/beworker/pinned-section-listview)
+1. **AndroidImageSlider**  An amazing and convenient Android image slider.   
+[https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+1. **GlassActionBar**    Android - a library that adds a glass-like effect to the action bar.    
+[https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) 
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
 [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
+1. **AndroidResideMenu** The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.     
+[https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) 
+1. **StickyGridHeaders** An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.     
+[https://github.com/TonicArtos/StickyGridHeaders](https://github.com/TonicArtos/StickyGridHeaders)  
+1. **android-smart-image-view**    Android ImageView replacement which allows image loading from URLs or contact address book, with caching         
+[https://github.com/loopj/android-smart-image-view](https://github.com/loopj/android-smart-image-view)
+1. **AndroidViewHover** An elegant way to show your menu or messages.      
+[https://github.com/daimajia/AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
+
+
 1. **cropper**   Android widget for cropping and rotating an image.            
 [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
 1. **ImageViewZoom**     Android ImageView widget with zoom and pan capabilities         
@@ -194,7 +238,79 @@ If the lib is no longer being maintained,please do not add it here.
 1. **AndEngine**   Free Android 2D OpenGL Game Engine       
 [https://github.com/nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)
 
-##Other
+###XMPP 
+1. **asmack**    A build environment for the XMPP client library Smack on Android      
+[https://github.com/Flowdalic/asmack](https://github.com/Flowdalic/asmack)
+1. **Xabber**    Open source Jabber (XMPP) client with multi-account support, clean and simple interface. Being both free (as in freedom!) and ad-free, Xabber is designed to be the best Jabber client for Android.      
+[https://github.com/redsolution/xabber-android](https://github.com/redsolution/xabber-android)
+
+###Plugin
+1. **maven-android-plugin**  Android Maven Plugin    
+[https://github.com/jayway/maven-android-plugin](https://github.com/jayway/maven-android-plugin)
+1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
+[https://github.com/mosabua/maven-android-sdk-deployer](https://github.com/mosabua/maven-android-sdk-deployer)
+1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.      
+[https://github.com/JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
+1. **android-holo-colors-idea-plugin**    IntelliJ / Android Studio plugin for Android Holo Colors     
+[https://github.com/jeromevdl/android-holo-colors-idea-plugin](https://github.com/jeromevdl/android-holo-colors-idea-plugin)
+1. **lein-droid**  A Leiningen plugin for building Clojure/Android projects    
+[https://github.com/clojure-android/lein-droid](https://github.com/clojure-android/lein-droid)
+1. **android-selector-chapek**  Android Studio plugin which automatically generates drawable selectors from appropriately named resources.       
+[https://github.com/inmite/android-selector-chapek](https://github.com/inmite/android-selector-chapek)
+1. **android-parcelable-intellij-plugin**  IntelliJ Plugin for Android Parcelable boilerplate code generation.      
+[https://github.com/mcharmas/android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+1. **AndroidDynamicLoader**   A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.   
+[https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
+1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
+[https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
+1. **adb-idea** A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.         
+[https://github.com/pbreault/adb-idea](https://github.com/pbreault/adb-idea)
+1. **groovy-android-gradle-plugin**  A Gradle plugin to support the Groovy language for building Android apps        
+[https://github.com/melix/groovy-android-gradle-plugin](https://github.com/melix/groovy-android-gradle-plugin)
+1. **apf**  Android Plugin Framework      
+[https://github.com/umeng/apf](https://github.com/umeng/apf)
+1. **lint-cleaner-plugin**  A Gradle Plugin for removing unused resources in Android projects.      
+[https://github.com/marcoRS/lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
+1. **vim-android**  Vim plugin to do android development.     
+[https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
+1. **gradle-android-scala-plugin**  gradle-android-scala-plugin adds scala language support to official gradle android plugin            
+[https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
+
+###Utility
+1. **smoothie**    Easy async loading for Android's ListView/GridView       
+[https://github.com/lucasr/smoothie](https://github.com/lucasr/smoothie)
+1. **tape**      A lightning fast, transactional, file-based FIFO for Android and Java.    
+[https://github.com/square/tape](https://github.com/square/tape)
+
+###Test
+1. **Junit**   A programmer-oriented testing framework for Java.    
+[https://github.com/junit-team/junit](https://github.com/junit-team/junit)
+1. **robotium**  Like Selenium, but for Android      
+[https://github.com/RobotiumTech/robotium](https://github.com/RobotiumTech/robotium)
+
+###Chart
+1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
+[https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
+1. **MPAndroidChart**  A simple Android chart view / graph view library, supporting line- bar- pie- and candlestick charts as well as scaling, dragging and animations.   
+[https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+
+###Font 
+1. **Calligraphy**    Custom fonts in Android the easy way...        
+[https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
+
+###Demo
+1. **android-demos**  Examples of Android applications
+[https://github.com/novoda/android-demos](https://github.com/novoda/android-demos)
+1. **u2020** A sample Android app which showcases advanced usage of Dagger among other open source libraries.     
+[https://github.com/JakeWharton/u2020](https://github.com/JakeWharton/u2020)
+1. **BlurEffectForAndroidDesign** Sample to show how to implement blur graphical tricks     
+[https://github.com/PomepuyN/BlurEffectForAndroidDesign](https://github.com/PomepuyN/BlurEffectForAndroidDesign)
+1. **maven-android-plugin-samples** Usage examples for Android Maven Plugin   
+[https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
+
+###Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
 [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 
