@@ -104,6 +104,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) 
 1. **robospice**      Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.         
 [https://github.com/stephanenicolas/robospice](https://github.com/stephanenicolas/robospice)
+1. **volley**  volley 
+[https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
+
+
 
 ###Widget
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.     
@@ -188,7 +192,42 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/loopj/android-smart-image-view](https://github.com/loopj/android-smart-image-view)
 1. **AndroidViewHover** An elegant way to show your menu or messages.      
 [https://github.com/daimajia/AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
-
+1. **SystemBarTint** Apply background tinting to the Android system UI when using KitKat translucent modes     
+[https://github.com/jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
+1. **SwipeBackLayout**   An Android library that help you to build app with swipe back gesture.      
+[https://github.com/Issacw0ng/SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout)
+1. **TouchImageView**  Adds touch functionality to Android ImageView.     
+[https://github.com/MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
+1. **ArcMenu**  An android custom view which looks like the menu in Path 2.0 (for iOS).      
+[https://github.com/daCapricorn/ArcMenu](https://github.com/daCapricorn/ArcMenu)
+1. **NumberProgressBar**    A beautiful, slim Android ProgressBar.        
+[https://github.com/daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
+1. **Android-AppMsg**   In-layout notifications. Based on Toast notifications and article by Cyril Mottier      
+[https://github.com/johnkil/Android-AppMsg](https://github.com/johnkil/Android-AppMsg)
+1. **chromeview**  Android WebView implementation that uses the latest Chromium code      
+[https://github.com/pwnall/chromeview](https://github.com/pwnall/chromeview)
+1. **android-iconify** Integration of FontAwesome for Android      
+[https://github.com/JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
+1. **ImageViewZoom**  Android ImageView widget with zoom and pan capabilities   
+[https://github.com/sephiroth74/ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
+1. **StandOut**  StandOut lets you easily create floating windows in your Android app.     
+[https://github.com/pingpongboss/StandOut](https://github.com/pingpongboss/StandOut)
+1. **android-sliding-layer-lib**  This repository host a library that provides an easy way to include an autonomous layer/view that slides from the side of your screen and which is fully gesture ready, the same way as our detail view in Wunderlist 2 does. This pattern can also be seen in Google+’s notification center or in Basecamp’s detail view.      
+[https://github.com/6wunderkinder/android-sliding-layer-lib](https://github.com/6wunderkinder/android-sliding-layer-lib)
+1.**Android-MonthCalendarWidget** A simple example of a responsive Month Calendar app widget for Android    
+[https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
+1. **CircleImageView**  A fast circular ImageView perfect for profile images.  
+[https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
+1. **Shimmer-android**  An Android TextView with a shimmering effect    
+[https://github.com/RomainPiel/Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
+1. **Android-SwipeToDismiss** Android swipe-to-dismiss mini-library and sample code     
+[https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
+1. **android-crop** Android library project for cropping images     
+[https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
+1. **gesture-imageview** This is a simple Android View class which provides basic pinch and zoom capability for images.     
+[https://github.com/jasonpolites/gesture-imageview](https://github.com/jasonpolites/gesture-imageview)
+1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
+[https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
 
 1. **cropper**   Android widget for cropping and rotating an image.            
 [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
@@ -237,6 +276,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/libgdx/libgdx](https://github.com/libgdx/libgdx)
 1. **AndEngine**   Free Android 2D OpenGL Game Engine       
 [https://github.com/nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)
+
+###Bluetooth
+1. **android-beacon-library** Allows Android apps to interact with BLE beacons  
+[https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
+
+###SocialNetworks
+1. **AndroidSocialNetworks** Library for easy work with Facebook, Twitter, LinkedIn and Google on Android    
+[https://github.com/antonkrasov/AndroidSocialNetworks#license](https://github.com/antonkrasov/AndroidSocialNetworks#license)
 
 ###XMPP 
 1. **asmack**    A build environment for the XMPP client library Smack on Android      
@@ -287,6 +334,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/junit-team/junit](https://github.com/junit-team/junit)
 1. **robotium**  Like Selenium, but for Android      
 [https://github.com/RobotiumTech/robotium](https://github.com/RobotiumTech/robotium)
+1. **assertj-android** A set of AssertJ helpers geared toward testing Android.    
+[https://github.com/square/assertj-android](https://github.com/square/assertj-android)
 
 ###Chart
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
