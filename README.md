@@ -11,6 +11,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 ##Libs
 ###Framework
+1. **roboguice** Google Guice on Android, version 2.0     
+[https://github.com/roboguice/roboguice](https://github.com/roboguice/roboguice)
 1. **AndroidAnnotations**  Fast Android Development. Easy maintainance.    
 [https://github.com/excilys/androidannotations](https://github.com/excilys/androidannotations)
 1. **afinal**    Afinal是一个android的ioc，orm框架    
@@ -25,7 +27,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/dagger](https://github.com/square/dagger)
 1. **droidparts**    DI, ORM, JSON, ...  
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
-
+1. **EventBus**   Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.      
+[https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
 ###Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
@@ -49,6 +52,23 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)   
 1. **picasso**  A powerful image downloading and caching library for Android   
 [https://github.com/square/picasso](https://github.com/square/picasso)
+1. **ion**   Android Asynchronous Networking and Image Loading    
+[https://github.com/koush/ion](https://github.com/koush/ion)
+
+###Animations
+1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items     
+[https://github.com/nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
+1. **NineOldAndroids** Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!      
+[https://github.com/JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
+1. **android-flip** A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android    
+[https://github.com/openaphid/android-flip](https://github.com/openaphid/android-flip)
+1. **AndroidViewAnimations** Cute view animation collection.     
+[https://github.com/daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+1. **AnimationEasingFunctions**    Android Animation Easing Functions. Let's make animation more real!       
+[https://github.com/daimajia/AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)
+1. **ViewPagerTransforms**  Library containing common animations needed for transforming ViewPager scrolling for Android v13+.       
+[https://github.com/ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+
 
 ###Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
@@ -79,6 +99,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/WhisperSystems/TextSecure](https://github.com/WhisperSystems/TextSecure)      
 1. **cardslib**  Android Library to build a UI Card    
 [https://github.com/gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)  
+1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
+[https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
 1. **AndroidStaggeredGrid**    An Android staggered grid view which supports multiple columns with rows of varying sizes.      
 [https://github.com/etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 1. **GreenDroid**   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.     
@@ -87,6 +109,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 1. **android-pulltorefresh**    This project aims to provide a reusable pull to refresh widget for Android.     
 [https://github.com/johannilsson/android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)
+1. **FreeFlow**  A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change             
+[https://github.com/Comcast/FreeFlow](https://github.com/Comcast/FreeFlow)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
 [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 1. **cropper**   Android widget for cropping and rotating an image.            
