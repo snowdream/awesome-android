@@ -659,7 +659,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/threerings/playn](https://github.com/threerings/playn)
 1. **LGame**  This is free 2d game development framework(Java Game Engine), support JavaSE/Android/IOS/WP7/HTML5/PSM/Linux/MAC/Windows.    
 [https://github.com/cping/LGame](https://github.com/cping/LGame)
-1. **LiquidFun** LiquidFun is a 2D physics engine for games Developed by GOOGLE
+1. **LiquidFun** LiquidFun is a 2D physics engine for games Developed by GOOGLE    
 [https://github.com/google/liquidfun] (https://github.com/google/liquidfun)
 
 ###Bluetooth
