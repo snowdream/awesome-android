@@ -45,7 +45,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
 1. **androidkit** android开发框架，可以帮助你大量提高android应用开发效率。    
 [https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
-
+1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android      
+[https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
 
 
 
@@ -497,6 +498,37 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/u1aryz/Android-NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)
 1. **ChromaHashView** A classic password visualization concept, ported to Android      
 [https://github.com/MichaelEvans/ChromaHashView](https://github.com/MichaelEvans/ChromaHashView)
+1. **ListviewFilter** Awesome Listview filter functionality in Android.     
+[https://github.com/bhavyahmehta/ListviewFilter](https://github.com/bhavyahmehta/ListviewFilter)
+1. **SnackBar**  toast-like alert pattern for Android        
+[https://github.com/MrEngineer13/SnackBar](https://github.com/MrEngineer13/SnackBar)
+1. **Android-DirectoryChooser** A directory chooser library for Android.   
+[https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
+1. **DynamicGrid**     Drag and drop GridView for Android      
+[https://github.com/askerov/DynamicGrid](https://github.com/askerov/DynamicGrid)
+1. **LicensesDialog** LicensesDialog is an open source library to display licenses of third-party libraries in an Android app.           
+[https://github.com/PSDev/LicensesDialog](https://github.com/PSDev/LicensesDialog)
+1. **CircleLayout** Circular layout for android          
+[https://github.com/dmitry-zaitsev/CircleLayout](https://github.com/dmitry-zaitsev/CircleLayout)
+1. **WheelView** An Android Widget for selecting items that rotate on a wheel.    
+[https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
+1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
+[https://github.com/inovex/ViewPager3D](https://github.com/inovex/ViewPager3D)
+1. **android-calendar-card** Android calendar view (like card)           
+[https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
+1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
+[https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
+1. **SeekArc** Circular SeekBar view for Android             
+[https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -578,6 +610,9 @@ If the lib is no longer being maintained,please do not add it here.
 ###Bluetooth
 1. **android-beacon-library** Allows Android apps to interact with BLE beacons  
 [https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
+1. **Android-BluetoothSPPLibrary** Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth        
+[https://github.com/akexorcist/Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary)
+
 
 ###SocialNetworks
 1. **AndroidSocialNetworks** Library for easy work with Facebook, Twitter, LinkedIn and Google on Android    
@@ -633,6 +668,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
 1. **m2e-android**  Android for Maven Eclipse 
 [https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
+1. **AndroidProguardScala** AndroidProguardScala is an Eclipse plugin that speeds up the development process when you're using Scala on Android.     
+[https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
+
+
+
+
 
 ###Code Generation
 1. **parceler** Android Parcelables made easy through code generation.   
@@ -748,6 +789,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pardom/AndroidUtils](https://github.com/pardom/AndroidUtils)
 1. **ASimpleCache**  a simple cache for android and java       
 [https://github.com/yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
+1. **svg-android** Fork of svg-android +SVN history +Maven +more           
+[https://github.com/japgolly/svg-android](https://github.com/japgolly/svg-android)
+1. **AndroidQuickUtils**   Android QuickUtils is a development library for the Android platform. It is intended to make application development easier and consistent throughout your applications.             
+[https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
 
 
 
@@ -784,6 +829,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
 1. **card.io-Android-SDK** card.io provides fast, easy credit card scanning in mobile apps         
 [https://github.com/card-io/card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK)
+1. **Android-ShareEverywhere** This project is the tribute to my favorite Android Widget: the Share button. Share ALL THE THINGS!             
+[https://github.com/dgmltn/Android-ShareEverywhere](https://github.com/dgmltn/Android-ShareEverywhere)
+1. **android-simpl3r** Amazon S3 multipart file upload for Android, made simple   
+[https://github.com/jgilfelt/android-simpl3r](https://github.com/jgilfelt/android-simpl3r)
+
+
 
 
 
@@ -875,6 +926,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/googlemaps/hellomap-android](https://github.com/googlemaps/hellomap-android) 
 1. **GraphView-Demos**  Examples for my Android GraphView library        
 [https://github.com/jjoe64/GraphView-Demos](https://github.com/jjoe64/GraphView-Demos)
+1. **Android-Volley-Example**  Android volley library examples         
+[https://github.com/PareshMayani/Android-Volley-Example](https://github.com/PareshMayani/Android-Volley-Example)
+
+
+
+
+
 
 
 ###App
@@ -888,7 +946,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bishopmatthew/HackerNews](https://github.com/bishopmatthew/HackerNews)
 1. **News-Android-App** ownCloud News Reader - Android App         
 [https://github.com/owncloud/News-Android-App](https://github.com/owncloud/News-Android-App)
-
+1. **android-delicious**  Delicious Android is an Android app which helps you access and save bookmarks via Delicious. It's available over at Google Play.
+[https://github.com/lexs/android-delicious](https://github.com/lexs/android-delicious)
+1. **droidplanner** Ground Control Station for Android Devices       
+[https://github.com/DroidPlanner/droidplanner](https://github.com/DroidPlanner/droidplanner)
+1. **FoldingNavigationDrawer-Android**   This is a sample project present how to use Folding-Android to add Folding Efect to Navigation Drawer.          
+[https://github.com/tibi1712/FoldingNavigationDrawer-Android](https://github.com/tibi1712/FoldingNavigationDrawer-Android)
+1. **play-android**   Stream music and control the queue of a play server from your Android device.        
+[https://github.com/play/play-android](https://github.com/play/play-android)
+1. **vanilla** Vanilla Music Player for Android (abandoned)       
+[https://github.com/kreed/vanilla](https://github.com/kreed/vanilla)
 
 
 
@@ -901,7 +968,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/coderkiss/ProMosaic](https://github.com/coderkiss/ProMosaic)
 1. **enroscar** A set of Android tools that facilitate apps development       
 [https://github.com/stanfy/enroscar](https://github.com/stanfy/enroscar)
-
+1. **apg** OpenPGP for Android          
+[https://github.com/thialfihar/apg](https://github.com/thialfihar/apg)
+1. **android-device-frame-generator** Wrap your app screenshots in real device artwork       
+[http://f2prateek.com/android-device-frame-generator/](http://f2prateek.com/android-device-frame-generator/)
 
 
 ###Other
