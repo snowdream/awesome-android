@@ -291,6 +291,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
 1. **CircularImageView** Custom view for circular images in Android while maintaining the best draw performance       
 [https://github.com/Pkmmte/CircularImageView](https://github.com/Pkmmte/CircularImageView)
+1. **CircularImageView** Create circular image view in android      
+[https://github.com/lopspower/CircularImageView](https://github.com/lopspower/CircularImageView)
 1. **HorizontalVariableListView** Horizontal list view for Android which allows variable items widths          
 [https://github.com/sephiroth74/HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
 1. **emojicon** A library to show emoji in TextView, EditText (like WhatsApp) for Android        
@@ -463,8 +465,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dlew/android-gridlayout](https://github.com/dlew/android-gridlayout)
 1. **EffectiveAndroidUI** Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".           
 [https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
-
-
+1. **MagicViews** Set custom font in Android application         
+[https://github.com/ikocijan/MagicViews](https://github.com/ikocijan/MagicViews)
+1. **TableFixHeaders** Android library that implements a table with fixed headers.       
+[https://github.com/InQBarna/TableFixHeaders](https://github.com/InQBarna/TableFixHeaders)
 
 
 
@@ -795,7 +799,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bmeike/ProgrammingAndroidExamples](https://github.com/bmeike/ProgrammingAndroidExamples)
 1. **android-layout-samples** Explorations around Android custom layouts   
 [https://github.com/lucasr/android-layout-samples](https://github.com/lucasr/android-layout-samples)
+1. **LearningAndroidYamba** This is the code that goes along with Learning Android book.       
+[https://github.com/twitter-university/LearningAndroidYamba](https://github.com/twitter-university/LearningAndroidYamba)
 
+###App
+1. **2048-android** The android port of the 2048 game (for offline playing)    
+[https://github.com/uberspot/2048-android](https://github.com/uberspot/2048-android)
 
 
 ###Tools
