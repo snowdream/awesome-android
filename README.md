@@ -43,6 +43,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
 1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.     
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
+1. **androidkit** android开发框架，可以帮助你大量提高android应用开发效率。    
+[https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
+
+
 
 
 
@@ -479,6 +483,31 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lorensiuswlt/AndroidImageCrop](https://github.com/lorensiuswlt/AndroidImageCrop)
 1. **android-slideshow-widget**  A set of widgets to create smooth slideshows with ease.        
 [https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
+1. **HanselAndGretel**  Android library providing bread crumbs to the support library fragments.      
+[https://github.com/JakeWharton/HanselAndGretel](https://github.com/JakeWharton/HanselAndGretel)
+1. **android-extendedactionbar**  An example of how to extend the ActionBar under the status bar from the theme         
+[https://github.com/Takhion/android-extendedactionbar](https://github.com/Takhion/android-extendedactionbar)
+1. **HeaderListView** Android ListView with sticky headers       
+[https://github.com/applidium/HeaderListView](https://github.com/applidium/HeaderListView)
+1. **SecretTextView** A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds.         
+[https://github.com/matthewrkula/SecretTextView](https://github.com/matthewrkula/SecretTextView)
+1. **GridViewHeader**  Android GridView with addHeader( View view ) function   
+[https://github.com/munix/GridViewHeader](https://github.com/munix/GridViewHeader)
+1. **Android-NewPopupMenu**  Android-NewPopupMenu is an android library to create popup menu with GoogleMusic app-like style.      
+[https://github.com/u1aryz/Android-NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)
+1. **ChromaHashView** A classic password visualization concept, ported to Android      
+[https://github.com/MichaelEvans/ChromaHashView](https://github.com/MichaelEvans/ChromaHashView)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -717,7 +746,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/d-tarasov/android-intents])(https://github.com/d-tarasov/android-intents)
 1. **AndroidUtils** AndroidUtils        
 [https://github.com/pardom/AndroidUtils](https://github.com/pardom/AndroidUtils)
-
+1. **ASimpleCache**  a simple cache for android and java       
+[https://github.com/yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
 
 
 
@@ -752,6 +782,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dschuermann/android-donations-lib](https://github.com/dschuermann/android-donations-lib)
 1. **android-ffmpeg-java**  Android Java wrapper around ffmpeg command line binary        
 [https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
+1. **card.io-Android-SDK** card.io provides fast, easy credit card scanning in mobile apps         
+[https://github.com/card-io/card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK)
+
+
 
 
 ###Test
@@ -835,9 +869,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/twitter-university/LearningAndroidYamba](https://github.com/twitter-university/LearningAndroidYamba)
 1. **RoboDemo**  RoboDemo is a ShowCase library for Android to demonstrate to users how a given Activity works.        
 [https://github.com/stephanenicolas/RoboDemo](https://github.com/stephanenicolas/RoboDemo)
-
-
-
+1. **ProgrammingAndroid2Examples** This repo contains example code for O'Reilly's "Programming Android" by Zigured Mednieks, Laird Dornin, Blake Meike and Masumi Nakamura      
+[https://github.com/bmeike/ProgrammingAndroid2Examples](https://github.com/bmeike/ProgrammingAndroid2Examples)
+1. **hellomap-android**  Quick start with the Google Maps Android API     
+[https://github.com/googlemaps/hellomap-android](https://github.com/googlemaps/hellomap-android) 
+1. **GraphView-Demos**  Examples for my Android GraphView library        
+[https://github.com/jjoe64/GraphView-Demos](https://github.com/jjoe64/GraphView-Demos)
 
 
 ###App
@@ -847,6 +884,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/HoloAddict/FeedEx](https://github.com/HoloAddict/FeedEx)
 1. **rubychina4android**  Ruby-China的Android客户端       
 [https://github.com/gonjay/rubychina4android](https://github.com/gonjay/rubychina4android)
+1. **HackerNews** An open source Hacker News client for Android.        
+[https://github.com/bishopmatthew/HackerNews](https://github.com/bishopmatthew/HackerNews)
+1. **News-Android-App** ownCloud News Reader - Android App         
+[https://github.com/owncloud/News-Android-App](https://github.com/owncloud/News-Android-App)
 
 
 
@@ -856,6 +897,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
 1. **osmtracker-android** GPS tracking tool for OpenStreetMap       
 [https://github.com/nguillaumin/osmtracker-android](https://github.com/nguillaumin/osmtracker-android)
+1. **ProMosaic**   Make mosaic effect on android         
+[https://github.com/coderkiss/ProMosaic](https://github.com/coderkiss/ProMosaic)
+1. **enroscar** A set of Android tools that facilitate apps development       
+[https://github.com/stanfy/enroscar](https://github.com/stanfy/enroscar)
+
 
 
 ###Other
