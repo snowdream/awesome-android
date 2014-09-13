@@ -39,6 +39,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/path/android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)
 1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。    
 [https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
+1. **AndroidBinding**  MVVM for Android     
+[https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
+
+
+
 
 
 ###Orm 
@@ -68,6 +73,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/couchbase/couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
 1. **SimpleNoSQL** A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.      
 [https://github.com/Jearil/SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
+1. **SQLiteProvider** Extended SQLite functionality for Android            
+[https://github.com/novoda/SQLiteProvider](https://github.com/novoda/SQLiteProvider)
 
 
 
@@ -99,6 +106,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
 1. **TransitionsBackport**  A backport of the new Transitions API for Android  
 [https://github.com/guerwan/TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
+1. **RecyclerViewItemAnimators**  This repo provides simple animators for the item views in the RecyclerView This code is cloned from DefaultItemAnimator provided by Google customizing the animations.             
+[https://github.com/gabrielemariotti/RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
 
 
 ###Network
@@ -240,6 +249,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
 1. **cropimage**  Replacement for deprecated official Android crop image function        
 [https://github.com/biokys/cropimage](https://github.com/biokys/cropimage)
+1. **android-cropimage**CropImage Activity from Gallery.apk packaged as a reusable Android library (4.0 and up).          
+[https://github.com/lvillani/android-cropimage](https://github.com/lvillani/android-cropimage)
 1. **gesture-imageview** This is a simple Android View class which provides basic pinch and zoom capability for images.     
 [https://github.com/jasonpolites/gesture-imageview](https://github.com/jasonpolites/gesture-imageview)
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
@@ -370,10 +381,46 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/hoang8f/android-segmented-control](https://github.com/hoang8f/android-segmented-control)
 1. **IconicDroid**  IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.       
 [https://github.com/atermenji/IconicDroid](https://github.com/atermenji/IconicDroid)
-
-
-
-
+1. **ParallaxPager** Add some depth to your Android scrolling.          
+[https://github.com/prolificinteractive/ParallaxPager](https://github.com/prolificinteractive/ParallaxPager)
+1. **fancybuttons** An Android library to easily create fancy buttons without the need of drawable files.               
+[https://github.com/medyo/fancybuttons](https://github.com/medyo/fancybuttons)
+1. **ParallaxScroll**  Parallax ScrollView and ListView for Android         
+[https://github.com/nirhart/ParallaxScroll](https://github.com/nirhart/ParallaxScroll)
+1. **ViewPagerExtensions** A set of custom views for the ViewPager from the Android Support Package          
+[https://github.com/astuetz/ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions)
+1. **TokenAutoComplete** Gmail style MultiAutoCompleteTextView for Android   
+[https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
+1. **android_maskable_layout**  A library that easily allows you to mask layouts/viewgroups      
+[https://github.com/christophesmet/android_maskable_layout](https://github.com/christophesmet/android_maskable_layout)
+1. **GoogleNavigationDrawerMenu**   Android Library for a DrawerLayout similar to the one in Google Apps       
+[https://github.com/Arasthel/GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
+1. **parallaxviewpager** An easy-to-use ViewPager subclass with parallax background effect for Android apps.         
+[https://github.com/andraskindler/parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)
+1. **AndroidPinning**  A standalone library project for certificate pinning on Android.        
+[https://github.com/moxie0/AndroidPinning](https://github.com/moxie0/AndroidPinning)
+1. **WizardPager** Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager    
+[https://github.com/TechFreak/WizardPager](https://github.com/TechFreak/WizardPager)
+1. **android-visualizer**    Takes the input from the Android MediaPlayer and displays visualizations, like in iTunes or WinAmp          
+[https://github.com/felixpalmer/android-visualizer](https://github.com/felixpalmer/android-visualizer)
+1. **ExpandablePanel** Android library for creating an expandable to full screen view inside a viewgroup composition.        
+[https://github.com/JorgeCastilloPrz/ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
+1. **Android-HorizontalListView** HorizontalListView is an Android ListView widget which scrolls in a horizontal manner (in contrast with the SDK-provided ListView which scrolls vertically).         
+[https://github.com/MeetMe/Android-HorizontalListView](https://github.com/MeetMe/Android-HorizontalListView)
+1. **LinearListView** Android library that allows you to bind a LinearLayout with a ListAdapter.       
+[https://github.com/frankiesardo/LinearListView](https://github.com/frankiesardo/LinearListView)
+1. **DateSlider**  An alternative DatePicker for Android       
+[https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
+1. **ParallaxListView**  A Android ListView Demo with a parallax effect header like Path.         
+[https://github.com/Gnod/ParallaxListView](https://github.com/Gnod/ParallaxListView)
+1. **GooglePlusLayout**  GoolgePlusLayout is a custom layout that plays animation on the children views while scrolling as the layout in the Google Plus (android) main page        
+[https://github.com/Nammari/GooglePlusLayout](https://github.com/Nammari/GooglePlusLayout)
+1. **NiftyNotification**  effects for android notifications.base on (Crouton)  
+[https://github.com/sd6352051/NiftyNotification](https://github.com/sd6352051/NiftyNotification)
+1. **android-auto-scroll-view-pager** Android auto scroll viewpager or viewpager in viewpager           
+[https://github.com/Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)
+1. **NumericPageIndicator** Android - A ViewPager page indicator that displays the current page number and (optionally) the page count           
+[https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
 
 
 
@@ -491,10 +538,15 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
 1. auto-parcel  Android Parcelable models made easy     
 [https://github.com/frankiesardo/auto-parcel](https://github.com/frankiesardo/auto-parcel)
+1.  **RoboCoP**  Pure Java code generation tool for generating a fully functional ContentProvider for Android.        
+[https://github.com/mediarain/RoboCoP](https://github.com/mediarain/RoboCoP)
+
 
 ###Media
 1. **libstreaming** A solution for streaming H.264, H.263, AMR, AAC using RTP on Android     
 [https://github.com/fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)
+
+
 
 ###Embedded
 1. **usb-serial-for-android**  Android USB host serial driver library for CDC, FTDI, Arduino and other devices.           
@@ -552,6 +604,21 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ragunathjawahar/instant-adapter](https://github.com/ragunathjawahar/instant-adapter)
 1. **adapter-kit**  Adapter Kit is a set of useful adapters for Android.    
 [https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
+1. **Reservoir** Android library to easily serialize and cache your objects to disk using key/value pairs.             
+[https://github.com/anupcowkur/Reservoir](https://github.com/anupcowkur/Reservoir)
+1. **Android-Templates-And-Utilities** Collection of source codes, utilities, templates and snippets for Android development.          
+[https://github.com/petrnohejl/Android-Templates-And-Utilities](https://github.com/petrnohejl/Android-Templates-And-Utilities)
+1. **groundy**   Sexy way to execute async/background tasks on Android    
+[https://github.com/telly/groundy](https://github.com/telly/groundy)
+1. **EasyCamera** Wrapper around the android Camera class that simplifies its usage          
+[https://github.com/Glamdring/EasyCamera](https://github.com/Glamdring/EasyCamera)
+1. **CastCompanionLibrary-android**  CastCompanionLibrary-android is a library project to enable developers integrate Cast capabilities into their applications faster and easier.          
+[https://github.com/googlecast/CastCompanionLibrary-android](https://github.com/googlecast/CastCompanionLibrary-android)
+1. **cling** UPnP/DLNA library for Java and Android      
+[https://github.com/4thline/cling](https://github.com/4thline/cling)
+1. **dspec** A simple way to define and render UI specs on top of your Android UI.     
+[https://github.com/lucasr/dspec](https://github.com/lucasr/dspec)
+
 
 
 
@@ -564,6 +631,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/survivingwithandroid/WeatherLib](https://github.com/survivingwithandroid/WeatherLib)
 1. **Clusterkraf** A clustering library for the Google Maps Android API v2.   
 [https://github.com/twotoasters/clusterkraf](https://github.com/twotoasters/clusterkraf)
+1. **aws-sdk-android** Official mirror of the AWS SDK for Android.        
+[https://github.com/aws/aws-sdk-android](https://github.com/aws/aws-sdk-android)
+1. **evernote-sdk-android** Evernote SDK for Android          
+[https://github.com/evernote/evernote-sdk-android](https://github.com/evernote/evernote-sdk-android)
+1. **countly-sdk-android** Countly Mobile Analytics - Android SDK        
+[https://github.com/Countly/countly-sdk-android](https://github.com/Countly/countly-sdk-android)
+1. **ANE-Facebook** Air Native Extension (iOS and Android) for the Facebook mobile SDK         
+[https://github.com/freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)
 
 
 
@@ -574,6 +649,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/RobotiumTech/robotium](https://github.com/RobotiumTech/robotium)
 1. **assertj-android** A set of AssertJ helpers geared toward testing Android.    
 [https://github.com/square/assertj-android](https://github.com/square/assertj-android)
+1. **selendroid** "Selenium for Android" (Test automate native or hybrid Android apps and the mobile web with Selendroid.)         
+[https://github.com/selendroid/selendroid](https://github.com/selendroid/selendroid)
+
 
 ###Chart
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
@@ -584,6 +662,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
 1. **AndroidCharts** An easy-to-use Android charts library with animation.     
 [https://github.com/HackPlan/AndroidCharts](https://github.com/HackPlan/AndroidCharts0https://github.com/HackPlan/AndroidCharts)
+1. **WilliamChart** Android library to create charts.        
+[https://github.com/diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart)
 
 
 ###Font 
@@ -617,7 +697,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/robolectric/RobolectricSample](https://github.com/robolectric/RobolectricSample)
 1. **android-demo** Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description         
 [https://github.com/Trinea/android-demo](https://github.com/Trinea/android-demo)
-
+1. **android-movies-demo** Sample application demonstrating Android design and animation          
+[https://github.com/dlew/android-movies-demo](https://github.com/dlew/android-movies-demo) 
+1. **maven-android-plugin-samples** Usage examples for Android Maven Plugin   
+[https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
+1. **android-http-examples** Sample code for HTTP on Android.        
+[https://github.com/swankjesse/android-http-examples](https://github.com/swankjesse/android-http-examples)
 
 
 ###Other
