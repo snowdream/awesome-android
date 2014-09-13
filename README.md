@@ -31,8 +31,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 1. **butterknife** View "injection" library for Android.         
 [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
-1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.     
-[https://github.com/square/otto](https://github.com/square/otto)
 1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
 1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.     
@@ -56,16 +54,13 @@ If the lib is no longer being maintained,please do not add it here.
 1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具      
 [https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
 
-
-
-
-
-
-
-
-
-
-
+###EventBus
+1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.           
+[https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
+1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.     
+[https://github.com/square/otto](https://github.com/square/otto)
+1. **Guava's event bus** Guava's event bus utility, explained.     
+[https://code.google.com/p/guava-libraries/wiki/EventBusExplained](https://code.google.com/p/guava-libraries/wiki/EventBusExplained)
 
 
 ###Orm 
@@ -114,9 +109,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/novoda/ImageLoader](https://github.com/novoda/ImageLoader)
 1. **webimageloader** Library to handle asynchronous image loading on Android.  
 [https://github.com/lexs/webimageloader](https://github.com/lexs/webimageloader)
- 
-
-
+1. **AndroidImageLoader** Andorid library that loads images asynchronously into cache using a thread pool      
+[https://github.com/wuman/AndroidImageLoader](https://github.com/wuman/AndroidImageLoader)
 
 ###Animations
 1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items     
@@ -141,8 +135,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/MysticTreeGames/android-page-curl](https://github.com/MysticTreeGames/android-page-curl)
 1. **android-cubic-bezier-interpolator** An Android Library that helps you implement bezier animations in you application     
 [https://github.com/codesoup/android-cubic-bezier-interpolator](https://github.com/codesoup/android-cubic-bezier-interpolator)
-
-
+1. **ActivityTransition** An android project presenting some transitions you can use between activities    
+[https://github.com/ophilbert/ActivityTransition](https://github.com/ophilbert/ActivityTransition)
 
 ###Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
@@ -462,6 +456,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
 1. **AndroidCircularSeekBar** A circular seek bar for Android        
 [https://github.com/RaghavSood/AndroidCircularSeekBar](https://github.com/RaghavSood/AndroidCircularSeekBar)
+1. **circularseekbar** Custom circular SeekBar (Circle, Semi-circle, and Ellipse) View/Widget for Android        
+[https://github.com/devadvance/circularseekbar](https://github.com/devadvance/circularseekbar)
 1. **AsymmetricGridView** Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span     
 [https://github.com/felipecsl/AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView)
 1. **ZrcListView**  一个顺滑又漂亮的Android下拉刷新与加载更多列表组件。    
@@ -592,40 +588,26 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView)
 1. **StartPointSeekBar** StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point.   
 [https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. **FlowLayout** Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.      
+[https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout) 
+1. **NoNonsense-FilePicker** A file/directory-picker for android. Implemented as a library project.     
+[https://github.com/spacecowboy/NoNonsense-FilePicker](https://github.com/spacecowboy/NoNonsense-FilePicker)
+1. **PopoverView** A Popover Controller for Android Tablets. It's an easy solution to simulate an iOS UIPopoverController       
+[https://github.com/lupidan/PopoverView](https://github.com/lupidan/PopoverView)
+1. **slideuppane** A pane that slide up from the bottom of an android view    
+[https://github.com/briangriffey/slideuppane](https://github.com/briangriffey/slideuppane)
+1. **FloatingLabel** FloatingLabel Allows you to create a blow kind of EditText.    
+[https://github.com/hardik-trivedi/FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
+1. **Android-CircleMenu** Menu with items on a rotating circle      
+[https://github.com/szugyi/Android-CircleMenu](https://github.com/szugyi/Android-CircleMenu)
+1. **Android-RateThisApp** Android library to show "Rate this app" dialog   
+[https://github.com/kskkbys/Android-RateThisApp](https://github.com/kskkbys/Android-RateThisApp)
+1. **SwipeBack**  SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture       
+[https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
+1. **ScalableLayout** Scalable Layout For Android         
+[https://github.com/ssomai/ScalableLayout](https://github.com/ssomai/ScalableLayout)
+1. **FlipLayout** Android Flip 3D Animation like web Google+       
+[https://github.com/stormzhang/FlipLayout](https://github.com/stormzhang/FlipLayout)
 1. **cropper**   Android widget for cropping and rotating an image.            
 [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
 1. **ImageViewZoom**     Android ImageView widget with zoom and pan capabilities         
@@ -703,9 +685,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dannytiehui/androidpn](https://github.com/dannytiehui/androidpn)
 1. **Android-Paho-Mqtt-Service** A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.  
 [https://github.com/JesseFarebro/Android-Mqtt](https://github.com/JesseFarebro/Android-Mqtt)
-
-
-
 
 
 ###Plugin
@@ -916,10 +895,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jgilfelt/android-simpl3r](https://github.com/jgilfelt/android-simpl3r)
 
 
-
-
-
-
 ###Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
 [https://github.com/junit-team/junit](https://github.com/junit-team/junit)
@@ -954,7 +929,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
 1. **desCharts**  Android Charting Library     
 [https://github.com/bradipao/desCharts](https://github.com/bradipao/desCharts)
-
 
 
 ###Font 
@@ -1018,8 +992,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PaulTR/AndroidDemoProjects](https://github.com/PaulTR/AndroidDemoProjects)
 1. **android-ActivitySceneTransition** Demonstrates how to the use Activity scene transitions when transitions from one Activity to another. Uses a combination of moveImage and changeBounds to nicely transition a grid of images to an Activity with a large image and detail text.     
 [https://github.com/googlesamples/android-ActivitySceneTransition](https://github.com/googlesamples/android-ActivitySceneTransition)
-
-
+1. **android_L_preview_example** This project is focused on the sample using the API's new preview version of Android-L, use of transitions, shadows etc... 
+[https://github.com/saulmm/android_L_preview_example](https://github.com/saulmm/android_L_preview_example)
+1. **googletv-android-samples** Source for many GoogleTV Example applications.   
+[https://github.com/google/googletv-android-samples](https://github.com/google/googletv-android-samples)
 
 
 
@@ -1054,8 +1030,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/siondream/freegemas-gdx](https://github.com/siondream/freegemas-gdx)
 1. **kanxue-android-app** 看雪安全论坛 Android 客户端    
 [https://github.com/kanxue-team/kanxue-android-app](https://github.com/kanxue-team/kanxue-android-app)
-
-
+1. **FlappyCow**   Android game in "Flappy Bird" Style      
+[https://github.com/cubei/FlappyCow](https://github.com/cubei/FlappyCow)
+1.**wakao-app** 哇靠百科 － 一款聚合了众多笑话段子、妹子图、微信公众号文章的Android App。     
+[https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
 
 
 ###Tools
@@ -1083,7 +1061,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jgilfelt/NotificationLog](https://github.com/jgilfelt/NotificationLog)
 1. **Java7-on-Android** Java 7 features backported to Android 2.2+      
 [https://github.com/yareally/Java7-on-Android](https://github.com/yareally/Java7-on-Android)
-
+1. **AndroidSliderPreference** Android library that allows applications to add dialog-based slider widgets to their settings     
+[https://github.com/jayschwa/AndroidSliderPreference](https://github.com/jayschwa/AndroidSliderPreference)
 
 
 ###Other
