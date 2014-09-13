@@ -49,6 +49,21 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
 1. **xCombine** Android Plugin Framework       
 [https://github.com/wyouflf/xCombine](https://github.com/wyouflf/xCombine)
+1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。     
+[https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
+1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way     
+[https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
+1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具      
+[https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -97,6 +112,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 1. **ImageLoader**  Library for async image loading and caching on Android   
 [https://github.com/novoda/ImageLoader](https://github.com/novoda/ImageLoader)
+1. **webimageloader** Library to handle asynchronous image loading on Android.  
+[https://github.com/lexs/webimageloader](https://github.com/lexs/webimageloader)
+ 
+
 
 
 ###Animations
@@ -120,6 +139,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/xgc1986/ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer)
 1. **android-page-curl**  Page Curl for Android        
 [https://github.com/MysticTreeGames/android-page-curl](https://github.com/MysticTreeGames/android-page-curl)
+1. **android-cubic-bezier-interpolator** An Android Library that helps you implement bezier animations in you application     
+[https://github.com/codesoup/android-cubic-bezier-interpolator](https://github.com/codesoup/android-cubic-bezier-interpolator)
 
 
 
@@ -142,7 +163,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/stephanenicolas/robospice](https://github.com/stephanenicolas/robospice)
 1. **volley**  volley 
 [https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
-
+1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android     
+[https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
 
 
 ###Widget
@@ -536,11 +558,40 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/terlici/DragNDropList](https://github.com/terlici/DragNDropList)
 1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)        
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
-
-
-
-
-
+1. **GaugeView** An Android library for drawing gauges on Canvas.         
+[https://github.com/CodeAndMagic/GaugeView](https://github.com/CodeAndMagic/GaugeView)
+1. **anytextview**  An extension of Android's TextView and EditText that let's you use the font of your choice        
+[https://github.com/hanspeide/anytextview](https://github.com/hanspeide/anytextview)
+1. **ExpandableButtonMenu** An Android library for an expandable button menu   
+[https://github.com/lemonlabs/ExpandableButtonMenu](https://github.com/lemonlabs/ExpandableButtonMenu)
+1. **DragLayout** An Android Project       
+[https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
+1. **ATableView** Create iOS-like tables (UITableView) for Android, using UIKit object model.      
+[https://github.com/dmacosta/ATableView](https://github.com/dmacosta/ATableView)
+1. **Android-RecurrencePicker** Google Calendar Recurrence picker       
+[https://github.com/Shusshu/Android-RecurrencePicker](https://github.com/Shusshu/Android-RecurrencePicker)
+1. **android-floating-action-menu** Floating Action Menu for Android. Inspired by the Google Plus floating menu.     
+[https://github.com/sephiroth74/android-floating-action-menu](https://github.com/sephiroth74/android-floating-action-menu)
+1. **ActionSheetForAndroid** IOS UIActionSheet in Android       
+[https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
+1. **QuickReturn** Android ListView that implements the QuickReturn UI pattern. Written from scratch with focus on performance.     
+[https://github.com/felipecsl/QuickReturn](https://github.com/felipecsl/QuickReturn)
+1. **QustomDialog** a quick custom android dialog project        
+[https://github.com/danoz73/QustomDialog](https://github.com/danoz73/QustomDialog)
+1. **ckChangeLog** ckChangeLog - An Android Library to display a Change Log    
+[https://github.com/cketti/ckChangeLog](https://github.com/cketti/ckChangeLog)
+1. **android-floatinglabel-widgets** Floating label input widgets      
+[https://github.com/marvinlabs/android-floatinglabel-widgets](https://github.com/marvinlabs/android-floatinglabel-widgets)
+1. **SwipeableLayout** A swipeable - auto resizing view group for android     
+[https://github.com/wmbest2/SwipeableLayout](https://github.com/wmbest2/SwipeableLayout)
+1. **FloatingGroupExpandableListView** An open source Android library that provides a floating group view at the top of the ExpandableListView       
+[https://github.com/diegocarloslima/FloatingGroupExpandableListView](https://github.com/diegocarloslima/FloatingGroupExpandableListView)
+1. **PullSeparateListView** 到顶部或底部时拉动，item分离效果    
+[https://github.com/chiemy/PullSeparateListView](https://github.com/chiemy/PullSeparateListView)
+1. **MarkdownView** MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.       
+[https://github.com/falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView)
+1. **StartPointSeekBar** StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point.   
+[https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
 
 
 
@@ -624,7 +675,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)
 1. **playn** A Java game development framework that deploys to JVM, HTML5, Android and iOS.    
 [https://github.com/threerings/playn](https://github.com/threerings/playn)
-
+1. **LGame**  This is free 2d game development framework(Java Game Engine), support JavaSE/Android/IOS/WP7/HTML5/PSM/Linux/MAC/Windows.    
+[https://github.com/cping/LGame](https://github.com/cping/LGame)
 
 
 ###Bluetooth
@@ -649,6 +701,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pfleidi/yaxim](https://github.com/pfleidi/yaxim)
 1. **androidpn**     An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.    
 [https://github.com/dannytiehui/androidpn](https://github.com/dannytiehui/androidpn)
+1. **Android-Paho-Mqtt-Service** A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.  
+[https://github.com/JesseFarebro/Android-Mqtt](https://github.com/JesseFarebro/Android-Mqtt)
+
+
+
 
 
 ###Plugin
@@ -876,6 +933,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BaiduQA/Cafe](https://github.com/BaiduQA/Cafe)
 1. **android-junit-report** A custom instrumentation test runner for Android that generates XML reports for integration with other tools.          
 [https://github.com/jsankey/android-junit-report](https://github.com/jsankey/android-junit-report)
+1. **robolectric**  Android Unit Testing Framework      
+[https://github.com/xtremelabs/robolectric](https://github.com/xtremelabs/robolectric)
 
 
 ###Chart
@@ -957,6 +1016,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/googledrive/android-demos](https://github.com/googledrive/android-demos)
 1. **AndroidDemoProjects**  Collection of Small Android Projects        
 [https://github.com/PaulTR/AndroidDemoProjects](https://github.com/PaulTR/AndroidDemoProjects)
+1. **android-ActivitySceneTransition** Demonstrates how to the use Activity scene transitions when transitions from one Activity to another. Uses a combination of moveImage and changeBounds to nicely transition a grid of images to an Activity with a large image and detail text.     
+[https://github.com/googlesamples/android-ActivitySceneTransition](https://github.com/googlesamples/android-ActivitySceneTransition)
 
 
 
@@ -985,6 +1046,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kreed/vanilla](https://github.com/kreed/vanilla)
 1. **OpenFlappyBird** An open source clone of a famous flappy bird game for Android using AndEngine         
 [https://github.com/deano2390/OpenFlappyBird](https://github.com/deano2390/OpenFlappyBird)
+1. **TurtlePlayer** A Free, Fully Fledged, Open-Source Music Player for Android    
+[https://github.com/eddturtle/TurtlePlayer](https://github.com/eddturtle/TurtlePlayer)
+1. **seadroid** Android client for Seafile       
+[https://github.com/haiwen/seadroid](https://github.com/haiwen/seadroid)
+1. **freegemas-gdx** Freegemas libGDX is an Android and Java desktop port of Freegemas, which in turn is an open source version of the well known Bejeweled.   
+[https://github.com/siondream/freegemas-gdx](https://github.com/siondream/freegemas-gdx)
+1. **kanxue-android-app** 看雪安全论坛 Android 客户端    
+[https://github.com/kanxue-team/kanxue-android-app](https://github.com/kanxue-team/kanxue-android-app)
+
+
 
 
 ###Tools
@@ -1006,6 +1077,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ravidsrk/AndroidGradleStarter](https://github.com/ravidsrk/AndroidGradleStarter)
 1. **android-gradle-template** Combines Android Studio, Gradle, Espresso, Robolectric, AndroidAnnotations, RoboCoP, JaCoCo        
 [https://github.com/nenick/android-gradle-template](https://github.com/nenick/android-gradle-template)
+1. **swiftp** FTP server for your android device.       
+[https://github.com/ppareit/swiftp](https://github.com/ppareit/swiftp)
+1. **NotificationLog** Use an expanded notification as a makeshift Android log output console.       
+[https://github.com/jgilfelt/NotificationLog](https://github.com/jgilfelt/NotificationLog)
+1. **Java7-on-Android** Java 7 features backported to Android 2.2+      
+[https://github.com/yareally/Java7-on-Android](https://github.com/yareally/Java7-on-Android)
+
 
 
 ###Other
