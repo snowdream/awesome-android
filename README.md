@@ -41,7 +41,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
 1. **AndroidBinding**  MVVM for Android     
 [https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
-
+1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.     
+[https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
 
 
 
@@ -108,6 +109,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/guerwan/TransitionsBackport](https://github.com/guerwan/TransitionsBackport)
 1. **RecyclerViewItemAnimators**  This repo provides simple animators for the item views in the RecyclerView This code is cloned from DefaultItemAnimator provided by Google customizing the animations.             
 [https://github.com/gabrielemariotti/RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
+1. **ParallaxPagerTransformer**  A pager for Android with parallax effect    
+[https://github.com/xgc1986/ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer)
 
 
 ###Network
@@ -421,6 +424,34 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)
 1. **NumericPageIndicator** Android - A ViewPager page indicator that displays the current page number and (optionally) the page count           
 [https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
+1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
+[https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
+1. **AndroidCircularSeekBar** A circular seek bar for Android        
+[https://github.com/RaghavSood/AndroidCircularSeekBar](https://github.com/RaghavSood/AndroidCircularSeekBar)
+1. **AsymmetricGridView** Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span     
+[https://github.com/felipecsl/AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView)
+1. **ZrcListView**  一个顺滑又漂亮的Android下拉刷新与加载更多列表组件。    
+[https://github.com/zarics/ZrcListView](https://github.com/zarics/ZrcListView)
+1. **PagedHeadListView** Android boosted ListView supporting paginated header with a new material page indicator.     
+[https://github.com/JorgeCastilloPrz/PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView)
+1. **AndroidCoolDragAndDropGridView** An example of a gridview with various column span items and drag and drop support like Google keep has     
+[https://github.com/theredsunrise/AndroidCoolDragAndDropGridView](https://github.com/theredsunrise/AndroidCoolDragAndDropGridView)
+1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
+[https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -618,7 +649,18 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/4thline/cling](https://github.com/4thline/cling)
 1. **dspec** A simple way to define and render UI specs on top of your Android UI.     
 [https://github.com/lucasr/dspec](https://github.com/lucasr/dspec)
-
+1. **GhostLog** Android app that displays the logcat buffer in a system overlay window        
+[https://github.com/jgilfelt/GhostLog](https://github.com/jgilfelt/GhostLog)
+1. **secure-preferences**  Android Shared preference wrapper than encrypts the keys and values of Shared Preferences. It's not bullet proof security but rather a quick win for incrementally making your android app more secure.   
+[https://github.com/scottyab/secure-preferences](https://github.com/scottyab/secure-preferences)
+1. **DebugLog** Create a simple and more understandable Android logs.   
+[https://github.com/MustafaFerhan/DebugLog](https://github.com/MustafaFerhan/DebugLog)
+1. **AndroidCaldavSyncAdapater** Caldav synch adapter for Android         
+[https://github.com/gggard/AndroidCaldavSyncAdapater](https://github.com/gggard/AndroidCaldavSyncAdapater)
+1. **easy-adapter** Easy Adapters library for Android        
+[https://github.com/ribot/easy-adapter](https://github.com/ribot/easy-adapter)
+1. **Renderers** Renderers is an Android library that avoids all the boilerplate needed to create a new ListView adapter.    
+[https://github.com/pedrovgs/Renderers](https://github.com/pedrovgs/Renderers)
 
 
 
@@ -639,7 +681,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Countly/countly-sdk-android](https://github.com/Countly/countly-sdk-android)
 1. **ANE-Facebook** Air Native Extension (iOS and Android) for the Facebook mobile SDK         
 [https://github.com/freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)
-
+1. **Office-365-SDK-for-Android**  Office 365 SDK for Android Preview by Microsoft Open Technologies, Inc.   
+[https://github.com/OfficeDev/Office-365-SDK-for-Android](https://github.com/OfficeDev/Office-365-SDK-for-Android)
 
 
 ###Test
@@ -651,6 +694,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/assertj-android](https://github.com/square/assertj-android)
 1. **selendroid** "Selenium for Android" (Test automate native or hybrid Android apps and the mobile web with Selendroid.)         
 [https://github.com/selendroid/selendroid](https://github.com/selendroid/selendroid)
+1. **Cafe** A powerful test framework for Android named Case Automated Framework for Everyone.    
+[https://github.com/BaiduQA/Cafe](https://github.com/BaiduQA/Cafe)
+
 
 
 ###Chart
@@ -664,6 +710,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/HackPlan/AndroidCharts](https://github.com/HackPlan/AndroidCharts0https://github.com/HackPlan/AndroidCharts)
 1. **WilliamChart** Android library to create charts.        
 [https://github.com/diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart)
+1. **Android-Charts** Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.     
+[https://github.com/limccn/Android-Charts](https://github.com/limccn/Android-Charts)
+1. **XCL-Charts**      Android开源图表库(XCL-Charts is a free charting library for Android platform.)      
+[https://github.com/xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
 
 
 ###Font 
@@ -703,6 +753,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
 1. **android-http-examples** Sample code for HTTP on Android.        
 [https://github.com/swankjesse/android-http-examples](https://github.com/swankjesse/android-http-examples)
+1. **androidmvp**   MVP Android Example      
+[https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
+
 
 
 ###Other
