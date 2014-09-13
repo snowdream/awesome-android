@@ -47,7 +47,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
 1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android      
 [https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
-
+1. **xCombine** Android Plugin Framework       
+[https://github.com/wyouflf/xCombine](https://github.com/wyouflf/xCombine)
 
 
 
@@ -81,7 +82,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Jearil/SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
 1. **SQLiteProvider** Extended SQLite functionality for Android            
 [https://github.com/novoda/SQLiteProvider](https://github.com/novoda/SQLiteProvider)
-
+1. **Android-AnnotatedSQL**  Android library for auto generating SQL schema and Content provider         
+[https://github.com/hamsterksu/Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL)
 
 
 ###Image Loading
@@ -520,6 +522,24 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 1. **SeekArc** Circular SeekBar view for Android             
 [https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
+1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
+[https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
+1. **LoopingViewPager** An android ViewPager extension allowing infinite scrolling        
+[https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
+1. **android-accordion-view** Simple ListView based Android AccordionView    
+[https://github.com/hamsterready/android-accordion-view](https://github.com/hamsterready/android-accordion-view)
+1. **GifImageView** Android ImageView that handles animated GIF images     
+[https://github.com/felipecsl/GifImageView](https://github.com/felipecsl/GifImageView)
+1. **HoloCircleSeekBar** Android circle seekbar widget inspired from      
+[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
+1. **DragNDropList** An easy to use Drag & Drop List for Android. Direct replacement of the android ListView.     
+[https://github.com/terlici/DragNDropList](https://github.com/terlici/DragNDropList)
+1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)        
+[https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
+
+
+
+
 
 
 
@@ -670,7 +690,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
 1. **AndroidProguardScala** AndroidProguardScala is an Eclipse plugin that speeds up the development process when you're using Scala on Android.     
 [https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
-
+1. **android-studio-unit-test-plugin** Android Studio IDE support for Android gradle unit tests. Prepared for Robolectric.    
+[https://github.com/evant/android-studio-unit-test-plugin](https://github.com/evant/android-studio-unit-test-plugin)
 
 
 
@@ -785,6 +806,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnjohndoe/TypedPreferences](https://github.com/johnjohndoe/TypedPreferences)
 1. **android-intents** A collection of well-known Android intents for most common actions        
 [https://github.com/d-tarasov/android-intents])(https://github.com/d-tarasov/android-intents)
+1. **android-intents** A small library which will save you from writing the same intent creation code again and again for the most simple tasks      
+[https://github.com/marvinlabs/android-intents](https://github.com/marvinlabs/android-intents)
 1. **AndroidUtils** AndroidUtils        
 [https://github.com/pardom/AndroidUtils](https://github.com/pardom/AndroidUtils)
 1. **ASimpleCache**  a simple cache for android and java       
@@ -793,7 +816,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/japgolly/svg-android](https://github.com/japgolly/svg-android)
 1. **AndroidQuickUtils**   Android QuickUtils is a development library for the Android platform. It is intended to make application development easier and consistent throughout your applications.             
 [https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
-
+1. **esperandro**  Easy SharedPreference Engine foR ANDROid      
+[https://github.com/dkunzler/esperandro](https://github.com/dkunzler/esperandro)
 
 
 ###SDK 
@@ -850,7 +874,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/selendroid/selendroid](https://github.com/selendroid/selendroid)
 1. **Cafe** A powerful test framework for Android named Case Automated Framework for Everyone.    
 [https://github.com/BaiduQA/Cafe](https://github.com/BaiduQA/Cafe)
-
+1. **android-junit-report** A custom instrumentation test runner for Android that generates XML reports for integration with other tools.          
+[https://github.com/jsankey/android-junit-report](https://github.com/jsankey/android-junit-report)
 
 
 ###Chart
@@ -928,8 +953,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jjoe64/GraphView-Demos](https://github.com/jjoe64/GraphView-Demos)
 1. **Android-Volley-Example**  Android volley library examples         
 [https://github.com/PareshMayani/Android-Volley-Example](https://github.com/PareshMayani/Android-Volley-Example)
-
-
+1. **android-demos** Google Drive Android API Demos     
+[https://github.com/googledrive/android-demos](https://github.com/googledrive/android-demos)
+1. **AndroidDemoProjects**  Collection of Small Android Projects        
+[https://github.com/PaulTR/AndroidDemoProjects](https://github.com/PaulTR/AndroidDemoProjects)
 
 
 
@@ -956,7 +983,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/play/play-android](https://github.com/play/play-android)
 1. **vanilla** Vanilla Music Player for Android (abandoned)       
 [https://github.com/kreed/vanilla](https://github.com/kreed/vanilla)
-
+1. **OpenFlappyBird** An open source clone of a famous flappy bird game for Android using AndEngine         
+[https://github.com/deano2390/OpenFlappyBird](https://github.com/deano2390/OpenFlappyBird)
 
 
 ###Tools
@@ -972,6 +1000,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/thialfihar/apg](https://github.com/thialfihar/apg)
 1. **android-device-frame-generator** Wrap your app screenshots in real device artwork       
 [http://f2prateek.com/android-device-frame-generator/](http://f2prateek.com/android-device-frame-generator/)
+1. **gnupg-for-android** A port of gnupg to Android     
+[https://github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
+1. **AndroidGradleStarter** Android Gradle Starter      
+[https://github.com/ravidsrk/AndroidGradleStarter](https://github.com/ravidsrk/AndroidGradleStarter)
+1. **android-gradle-template** Combines Android Studio, Gradle, Espresso, Robolectric, AndroidAnnotations, RoboCoP, JaCoCo        
+[https://github.com/nenick/android-gradle-template](https://github.com/nenick/android-gradle-template)
 
 
 ###Other
