@@ -111,6 +111,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/gabrielemariotti/RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)
 1. **ParallaxPagerTransformer**  A pager for Android with parallax effect    
 [https://github.com/xgc1986/ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer)
+1. **android-page-curl**  Page Curl for Android        
+[https://github.com/MysticTreeGames/android-page-curl](https://github.com/MysticTreeGames/android-page-curl)
+
 
 
 ###Network
@@ -442,10 +445,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Frank-Zhu/PullZoomView](https://github.com/Frank-Zhu/PullZoomView)
 1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
 [https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
-
-
-
-
+1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+        
+[https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
+1. **gif-movie-view** Android View widget for displaying GIF animations.   
+[https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
+1. **ResideLayout** An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu         
+[https://github.com/kyze8439690/ResideLayout](https://github.com/kyze8439690/ResideLayout)
+1. **VerticalViewPager** Vertical implementation of Android ViewPager     
+[https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
+1. **CustomLoading**  custom loading for android        
+[https://github.com/stormzhang/CustomLoading](https://github.com/stormzhang/CustomLoading)
 
 
 
@@ -672,6 +681,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pedrovgs/Renderers](https://github.com/pedrovgs/Renderers)
 1. **routable-android** Routable, an in-app native URL router, for Android    
 [https://github.com/clayallsopp/routable-android](https://github.com/clayallsopp/routable-android)
+1. **fb-android-dagger** A set of helper classes for using dagger with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.     
+[https://github.com/adennie/fb-android-dagger](https://github.com/adennie/fb-android-dagger)
 
 
 ###SDK 
@@ -693,6 +704,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)
 1. **Office-365-SDK-for-Android**  Office 365 SDK for Android Preview by Microsoft Open Technologies, Inc.   
 [https://github.com/OfficeDev/Office-365-SDK-for-Android](https://github.com/OfficeDev/Office-365-SDK-for-Android)
+1. **weibo_android_sdk**  新浪微博 Android SDK          
+[https://github.com/sinaweibosdk/weibo_android_sdk](https://github.com/sinaweibosdk/weibo_android_sdk)
+1. **socialauth-android** SocialAuth repository which contains socialauth android version and samples             
+[https://github.com/3pillarlabs/socialauth-android](https://github.com/3pillarlabs/socialauth-android)
+1. **PayPal-Android-SDK** Accept PayPal and credit cards in your Android app   
+[https://github.com/paypal/PayPal-Android-SDK](https://github.com/paypal/PayPal-Android-SDK)
 
 
 ###Test
