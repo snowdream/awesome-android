@@ -469,6 +469,24 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ikocijan/MagicViews](https://github.com/ikocijan/MagicViews)
 1. **TableFixHeaders** Android library that implements a table with fixed headers.       
 [https://github.com/InQBarna/TableFixHeaders](https://github.com/InQBarna/TableFixHeaders)
+1. **FloatingNotification** Floating Notification for Android app - Facebook ChatHeads Notification system           
+[https://github.com/marshallino16/FloatingNotification](https://github.com/marshallino16/FloatingNotification)
+1. **SizeAdjustingTextView** This is based on an open source autosizing textview for Android.         
+[https://github.com/erchenger/SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView)
+1. **android-shape-imageview** Custom shaped android imageview components    
+[https://github.com/siyamed/android-shape-imageview](https://github.com/siyamed/android-shape-imageview)
+1. **AndroidImageCrop** How select and crop image on Android       
+[https://github.com/lorensiuswlt/AndroidImageCrop](https://github.com/lorensiuswlt/AndroidImageCrop)
+1. **android-slideshow-widget**  A set of widgets to create smooth slideshows with ease.        
+[https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
+
+
+
+
+
+
+
+
 
 
 
@@ -693,6 +711,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/adennie/fb-android-dagger](https://github.com/adennie/fb-android-dagger)
 1. **android-gesture-detectors**  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector     
 [https://github.com/Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors)
+1. **TypedPreferences**  Preference wrappers for primitive types for Android   
+[https://github.com/johnjohndoe/TypedPreferences](https://github.com/johnjohndoe/TypedPreferences)
+1. **android-intents** A collection of well-known Android intents for most common actions        
+[https://github.com/d-tarasov/android-intents])(https://github.com/d-tarasov/android-intents)
+1. **AndroidUtils** AndroidUtils        
+[https://github.com/pardom/AndroidUtils](https://github.com/pardom/AndroidUtils)
+
+
 
 
 ###SDK 
@@ -720,6 +746,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/3pillarlabs/socialauth-android](https://github.com/3pillarlabs/socialauth-android)
 1. **PayPal-Android-SDK** Accept PayPal and credit cards in your Android app   
 [https://github.com/paypal/PayPal-Android-SDK](https://github.com/paypal/PayPal-Android-SDK)
+1. **barcodescanner**  Barcode Scanner Libraries for Android         
+[https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
+1. **android-donations-lib** Donations Library for Android. Supports Google Play Store, Flattr, PayPal, and Bitcoin           
+[https://github.com/dschuermann/android-donations-lib](https://github.com/dschuermann/android-donations-lib)
+1. **android-ffmpeg-java**  Android Java wrapper around ffmpeg command line binary        
+[https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
 
 
 ###Test
@@ -801,15 +833,29 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lucasr/android-layout-samples](https://github.com/lucasr/android-layout-samples)
 1. **LearningAndroidYamba** This is the code that goes along with Learning Android book.       
 [https://github.com/twitter-university/LearningAndroidYamba](https://github.com/twitter-university/LearningAndroidYamba)
+1. **RoboDemo**  RoboDemo is a ShowCase library for Android to demonstrate to users how a given Activity works.        
+[https://github.com/stephanenicolas/RoboDemo](https://github.com/stephanenicolas/RoboDemo)
+
+
+
+
 
 ###App
 1. **2048-android** The android port of the 2048 game (for offline playing)    
 [https://github.com/uberspot/2048-android](https://github.com/uberspot/2048-android)
+1. **FeedEx** FeedEx News Reader is a light and modern Android feed reader, based on Sparse rss.         
+[https://github.com/HoloAddict/FeedEx](https://github.com/HoloAddict/FeedEx)
+1. **rubychina4android**  Ruby-China的Android客户端       
+[https://github.com/gonjay/rubychina4android](https://github.com/gonjay/rubychina4android)
+
+
 
 
 ###Tools
 1. **dex-method-counts** Command-line tool to count per-package methods in Android .dex files         
 [https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
+1. **osmtracker-android** GPS tracking tool for OpenStreetMap       
+[https://github.com/nguillaumin/osmtracker-android](https://github.com/nguillaumin/osmtracker-android)
 
 
 ###Other
