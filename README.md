@@ -455,10 +455,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
 1. **CustomLoading**  custom loading for android        
 [https://github.com/stormzhang/CustomLoading](https://github.com/stormzhang/CustomLoading)
-
-
-
-
+1. **InfiniteViewPager** Augment Android's ViewPager with wrap-around functionality.        
+[https://github.com/antonyt/InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager)
+1. **chromium_webview** Android WebView wrapper based on chromium     
+[https://github.com/mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview)
+1. **android-gridlayout** A backwards compatible implementation of GridLayout for Android     
+[https://github.com/dlew/android-gridlayout](https://github.com/dlew/android-gridlayout)
+1. **EffectiveAndroidUI** Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".           
+[https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
 
 
 
@@ -683,6 +687,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/clayallsopp/routable-android](https://github.com/clayallsopp/routable-android)
 1. **fb-android-dagger** A set of helper classes for using dagger with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.     
 [https://github.com/adennie/fb-android-dagger](https://github.com/adennie/fb-android-dagger)
+1. **android-gesture-detectors**  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector     
+[https://github.com/Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors)
 
 
 ###SDK 
@@ -787,6 +793,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 1. **ProgrammingAndroidExamples** This repo contains example code for O'Reilly's "Programming Android" by Zigured Mednieks, Laird Dornin, Blake Meike and Masumi Nakamura      
 [https://github.com/bmeike/ProgrammingAndroidExamples](https://github.com/bmeike/ProgrammingAndroidExamples)
+1. **android-layout-samples** Explorations around Android custom layouts   
+[https://github.com/lucasr/android-layout-samples](https://github.com/lucasr/android-layout-samples)
+
+
+
+###Tools
+1. **dex-method-counts** Command-line tool to count per-package methods in Android .dex files         
+[https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
 
 
 ###Other
