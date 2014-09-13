@@ -438,8 +438,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/theredsunrise/AndroidCoolDragAndDropGridView](https://github.com/theredsunrise/AndroidCoolDragAndDropGridView)
 1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
 [https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
-
-
+1. **PullZoomView** An Android custom ListView and ScrollView with pull to zoom-in.    
+[https://github.com/Frank-Zhu/PullZoomView](https://github.com/Frank-Zhu/PullZoomView)
+1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
+[https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 
 
 
@@ -504,6 +506,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/libgdx/libgdx](https://github.com/libgdx/libgdx)
 1. **AndEngine**   Free Android 2D OpenGL Game Engine       
 [https://github.com/nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine)
+1. **playn** A Java game development framework that deploys to JVM, HTML5, Android and iOS.    
+[https://github.com/threerings/playn](https://github.com/threerings/playn)
+
+
 
 ###Bluetooth
 1. **android-beacon-library** Allows Android apps to interact with BLE beacons  
@@ -571,6 +577,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/frankiesardo/auto-parcel](https://github.com/frankiesardo/auto-parcel)
 1.  **RoboCoP**  Pure Java code generation tool for generating a fully functional ContentProvider for Android.        
 [https://github.com/mediarain/RoboCoP](https://github.com/mediarain/RoboCoP)
+1. **android-contentprovider-generator**  A small tool to generate an Android ContentProvider.   
+[https://github.com/BoD/android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator)
+
 
 
 ###Media
@@ -661,7 +670,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ribot/easy-adapter](https://github.com/ribot/easy-adapter)
 1. **Renderers** Renderers is an Android library that avoids all the boilerplate needed to create a new ListView adapter.    
 [https://github.com/pedrovgs/Renderers](https://github.com/pedrovgs/Renderers)
-
+1. **routable-android** Routable, an in-app native URL router, for Android    
+[https://github.com/clayallsopp/routable-android](https://github.com/clayallsopp/routable-android)
 
 
 ###SDK 
@@ -714,6 +724,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/limccn/Android-Charts](https://github.com/limccn/Android-Charts)
 1. **XCL-Charts**      Android开源图表库(XCL-Charts is a free charting library for Android platform.)      
 [https://github.com/xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
+1. **desCharts**  Android Charting Library     
+[https://github.com/bradipao/desCharts](https://github.com/bradipao/desCharts)
+
 
 
 ###Font 
@@ -755,7 +768,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/swankjesse/android-http-examples](https://github.com/swankjesse/android-http-examples)
 1. **androidmvp**   MVP Android Example      
 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
-
+1. **ProgrammingAndroidExamples** This repo contains example code for O'Reilly's "Programming Android" by Zigured Mednieks, Laird Dornin, Blake Meike and Masumi Nakamura      
+[https://github.com/bmeike/ProgrammingAndroidExamples](https://github.com/bmeike/ProgrammingAndroidExamples)
 
 
 ###Other
