@@ -37,6 +37,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
 1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.     
 [https://github.com/path/android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)
+1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。    
+[https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
+
 
 ###Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
