@@ -238,6 +238,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
 1. **android-crop** Android library project for cropping images     
 [https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
+1. **cropimage**  Replacement for deprecated official Android crop image function        
+[https://github.com/biokys/cropimage](https://github.com/biokys/cropimage)
 1. **gesture-imageview** This is a simple Android View class which provides basic pinch and zoom capability for images.     
 [https://github.com/jasonpolites/gesture-imageview](https://github.com/jasonpolites/gesture-imageview)
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
@@ -346,6 +348,34 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/SideNavigation](https://github.com/johnkil/SideNavigation)
 1. **L-Dialogs**  A small library replicating the new dialogs in android L.   
 [https://github.com/lewisjdeane/L-Dialogs](https://github.com/lewisjdeane/L-Dialogs)
+1. **ImageLayout** Android - A layout that arranges its children in relation to a background image            
+[https://github.com/ManuelPeinado/ImageLayout](https://github.com/ManuelPeinado/ImageLayout)
+1. **DraggableGridView**  A drag-and-drop scrolling grid view for Android      
+[https://github.com/thquinn/DraggableGridView](https://github.com/thquinn/DraggableGridView)
+1. **PinterestListView** Pinterest style ListView for Android         
+[https://github.com/vladexologija/PinterestListView](https://github.com/vladexologija/PinterestListView)
+1. **ProgressPieView** Android library for showing progress in a highly customizable pie.       
+[https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
+1. **android-square-progressbar**  An android library to display a progressbar that goes around an image.        
+[https://github.com/mrwonderman/android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar)
+1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem      
+[https://github.com/mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
+1. **android-pulltorefresh-and-loadmore**   android custom listview,with interaction pattern load more and pull to refresh to load data dinamically    
+[https://github.com/shontauro/android-pulltorefresh-and-loadmore](https://github.com/shontauro/android-pulltorefresh-and-loadmore)
+1. **PinnedHeaderListView**  A ListView with pinned section headers for Android   
+[https://github.com/JimiSmith/PinnedHeaderListView](https://github.com/JimiSmith/PinnedHeaderListView)
+1. **poppyview** Android library implementing a poppy view on scroll, similar to the one found in the Google Plus app          
+[https://github.com/flavienlaurent/poppyview](https://github.com/flavienlaurent/poppyview)
+1. **android-segmented-control** ios7 UISegmentedControl for android        
+[https://github.com/hoang8f/android-segmented-control](https://github.com/hoang8f/android-segmented-control)
+1. **IconicDroid**  IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.       
+[https://github.com/atermenji/IconicDroid](https://github.com/atermenji/IconicDroid)
+
+
+
+
+
+
 
 
 
@@ -414,6 +444,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/siacs/Conversations](https://github.com/siacs/Conversations)
 1. **yaxim**  YAXIM - Yet Another XMPP Instant Messenger, a jabber client for android      
 [https://github.com/pfleidi/yaxim](https://github.com/pfleidi/yaxim)
+1. **androidpn**     An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit.    
+[https://github.com/dannytiehui/androidpn](https://github.com/dannytiehui/androidpn)
 
 
 ###Plugin
@@ -464,6 +496,9 @@ If the lib is no longer being maintained,please do not add it here.
 1. **libstreaming** A solution for streaming H.264, H.263, AMR, AAC using RTP on Android     
 [https://github.com/fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)
 
+###Embedded
+1. **usb-serial-for-android**  Android USB host serial driver library for CDC, FTDI, Arduino and other devices.           
+[https://github.com/mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android)
 
 
 ###Utility
@@ -503,6 +538,34 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/tavendo/AutobahnAndroid](https://github.com/tavendo/AutobahnAndroid)
 1. **android_dbinspector** Android library for viewing in app databases.   
 [https://github.com/infinum/android_dbinspector](https://github.com/infinum/android_dbinspector)
+1. **wishlist** Utilities I wish Android had but doesn't        
+[https://github.com/kevinsawicki/wishlist](https://github.com/kevinsawicki/wishlist)
+1. **FunDapter**  Simplify Adapter creation for your Android ListViews.     
+[https://github.com/amigold/FunDapter](https://github.com/amigold/FunDapter)
+1. **joda-time-android**  Joda-Time library with Android specialization     
+[https://github.com/dlew/joda-time-android](https://github.com/dlew/joda-time-android)
+1. **OpenKeychain** OpenKeychain is an OpenPGP implementation for Android.    
+[https://github.com/open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
+1. **Silk**  A library containing a large set of utilities and views for Android apps.         
+[https://github.com/afollestad/Silk](https://github.com/afollestad/Silk)
+1. **instant-adapter**  Just like instant coffee, saves 78% of your time on Android's Custom Adapters.           
+[https://github.com/ragunathjawahar/instant-adapter](https://github.com/ragunathjawahar/instant-adapter)
+1. **adapter-kit**  Adapter Kit is a set of useful adapters for Android.    
+[https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
+
+
+
+###SDK 
+1. **mapbox-android-sdk**    Open Source Maps SDK for Android    
+[https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
+1. **android-checkout**    Library for Android In-App Billing (Version 3)           
+[https://github.com/serso/android-checkout](https://github.com/serso/android-checkout)
+1. **WeatherLib**   Android Weather Library: android weather lib to develop weather based app fast and easily      
+[https://github.com/survivingwithandroid/WeatherLib](https://github.com/survivingwithandroid/WeatherLib)
+1. **Clusterkraf** A clustering library for the Google Maps Android API v2.   
+[https://github.com/twotoasters/clusterkraf](https://github.com/twotoasters/clusterkraf)
+
+
 
 ###Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -531,6 +594,9 @@ If the lib is no longer being maintained,please do not add it here.
 1. **Rajawali** Rajawali is a 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.         
 [https://github.com/MasDennis/Rajawali](https://github.com/MasDennis/Rajawali)
 
+###Debug
+1. **android-grid-wichterle** This app will show grid overlay over whole system which helps you to verify your excellent app design.          
+[https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 
 ###Demo
 1. **android-demos**  Examples of Android applications
@@ -549,7 +615,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/playgameservices/android-basic-samples](https://github.com/playgameservices/android-basic-samples)
 1. **RobolectricSample**   Sample project demonstrating use of the Robolectric Android testing project       
 [https://github.com/robolectric/RobolectricSample](https://github.com/robolectric/RobolectricSample)
-
+1. **android-demo** Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description         
+[https://github.com/Trinea/android-demo](https://github.com/Trinea/android-demo)
 
 
 
