@@ -745,8 +745,14 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###Media
+1. **FFmpeg** mirror of git://source.ffmpeg.org/ffmpeg.git       
+[https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+1. **FFMpeg** this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)          
+[https://github.com/havlenapetr/FFMpeg](https://github.com/havlenapetr/FFMpeg)
 1. **libstreaming** A solution for streaming H.264, H.263, AMR, AAC using RTP on Android     
 [https://github.com/fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)
+1. **AndroidFFmpeg** FFmpeg build for android random architectures with example jni        
+[https://github.com/appunite/AndroidFFmpeg](https://github.com/appunite/AndroidFFmpeg)
 1. **android-ffmpeg-java**  Android Java wrapper around ffmpeg command line binary        
 [https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
 1. **FFmpeg-Android** Script and Instructions for building FFmpeg for Android  
