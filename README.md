@@ -747,6 +747,14 @@ If the lib is no longer being maintained,please do not add it here.
 ###Media
 1. **libstreaming** A solution for streaming H.264, H.263, AMR, AAC using RTP on Android     
 [https://github.com/fyhertz/libstreaming](https://github.com/fyhertz/libstreaming)
+1. **android-ffmpeg-java**  Android Java wrapper around ffmpeg command line binary        
+[https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
+1. **FFmpeg-Android** Script and Instructions for building FFmpeg for Android  
+[https://github.com/OnlyInAmerica/FFmpeg-Android](https://github.com/OnlyInAmerica/FFmpeg-Android)
+1. **android-ffmpeg** a system for building custom ffmpeg binaries for Android  
+[https://github.com/guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg)
+1. **android-ffmpeg-with-rtmp** This repository contains script(s) to build ffmpeg for android with RTMP (and OpenSSL) support.          
+[https://github.com/cine-io/android-ffmpeg-with-rtmp](https://github.com/cine-io/android-ffmpeg-with-rtmp)
 
 
 
@@ -885,8 +893,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
 1. **android-donations-lib** Donations Library for Android. Supports Google Play Store, Flattr, PayPal, and Bitcoin           
 [https://github.com/dschuermann/android-donations-lib](https://github.com/dschuermann/android-donations-lib)
-1. **android-ffmpeg-java**  Android Java wrapper around ffmpeg command line binary        
-[https://github.com/guardianproject/android-ffmpeg-java](https://github.com/guardianproject/android-ffmpeg-java)
 1. **card.io-Android-SDK** card.io provides fast, easy credit card scanning in mobile apps         
 [https://github.com/card-io/card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK)
 1. **Android-ShareEverywhere** This project is the tribute to my favorite Android Widget: the Share button. Share ALL THE THINGS!             
@@ -1035,6 +1041,14 @@ If the lib is no longer being maintained,please do not add it here.
 1.**wakao-app** 哇靠百科 － 一款聚合了众多笑话段子、妹子图、微信公众号文章的Android App。     
 [https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
 
+###Security
+1. **gnupg-for-android** A port of gnupg to Android     
+[https://github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
+1. **openssl-android**  a version of the official Android openssl setup to build standalone for use in app       
+[https://github.com/guardianproject/openssl-android](https://github.com/guardianproject/openssl-android)
+1. **apg** OpenPGP for Android          
+[https://github.com/thialfihar/apg](https://github.com/thialfihar/apg)
+
 
 ###Tools
 1. **dex-method-counts** Command-line tool to count per-package methods in Android .dex files         
@@ -1045,12 +1059,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/coderkiss/ProMosaic](https://github.com/coderkiss/ProMosaic)
 1. **enroscar** A set of Android tools that facilitate apps development       
 [https://github.com/stanfy/enroscar](https://github.com/stanfy/enroscar)
-1. **apg** OpenPGP for Android          
-[https://github.com/thialfihar/apg](https://github.com/thialfihar/apg)
 1. **android-device-frame-generator** Wrap your app screenshots in real device artwork       
 [http://f2prateek.com/android-device-frame-generator/](http://f2prateek.com/android-device-frame-generator/)
-1. **gnupg-for-android** A port of gnupg to Android     
-[https://github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 1. **AndroidGradleStarter** Android Gradle Starter      
 [https://github.com/ravidsrk/AndroidGradleStarter](https://github.com/ravidsrk/AndroidGradleStarter)
 1. **android-gradle-template** Combines Android Studio, Gradle, Espresso, Robolectric, AndroidAnnotations, RoboCoP, JaCoCo        
