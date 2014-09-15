@@ -94,6 +94,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/novoda/SQLiteProvider](https://github.com/novoda/SQLiteProvider)
 1. **Android-AnnotatedSQL**  Android library for auto generating SQL schema and Content provider         
 [https://github.com/hamsterksu/Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL)
+1. **DBExecutor** DBExecutor            
+[https://github.com/LuckyJayce/DBExecutor](https://github.com/LuckyJayce/DBExecutor)
 
 
 ###Image Loading
