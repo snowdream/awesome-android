@@ -27,8 +27,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/dagger](https://github.com/square/dagger)
 1. **droidparts**    DI, ORM, JSON, ...  
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
-1. **EventBus**   Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.      
-[https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 1. **butterknife** View "injection" library for Android.         
 [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
@@ -61,6 +59,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/otto](https://github.com/square/otto)
 1. **Guava's event bus** Guava's event bus utility, explained.     
 [https://code.google.com/p/guava-libraries/wiki/EventBusExplained](https://code.google.com/p/guava-libraries/wiki/EventBusExplained)
+1. **RxJava**  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.  
+[https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+1. **RxAndroid**  RxJava bindings for Android       
+[https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 
 ###Orm 
@@ -1018,6 +1020,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/saulmm/android_L_preview_example](https://github.com/saulmm/android_L_preview_example)
 1. **googletv-android-samples** Source for many GoogleTV Example applications.   
 [https://github.com/google/googletv-android-samples](https://github.com/google/googletv-android-samples)
+1. **Android-RxJava**  Learning RxJava for Android by example       
+[https://github.com/kaushikgopal/Android-RxJava](https://github.com/kaushikgopal/Android-RxJava)
 
 
 
