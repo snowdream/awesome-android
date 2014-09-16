@@ -139,6 +139,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/codesoup/android-cubic-bezier-interpolator](https://github.com/codesoup/android-cubic-bezier-interpolator)
 1. **ActivityTransition** An android project presenting some transitions you can use between activities    
 [https://github.com/ophilbert/ActivityTransition](https://github.com/ophilbert/ActivityTransition)
+1. **EasyAndroidAnimations** Easy Android Animations is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects in your application with one or two lines of code.          
+[https://github.com/2359media/EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations)
+
 
 ###Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
