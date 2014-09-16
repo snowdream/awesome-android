@@ -764,6 +764,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg)
 1. **android-ffmpeg-with-rtmp** This repository contains script(s) to build ffmpeg for android with RTMP (and OpenSSL) support.          
 [https://github.com/cine-io/android-ffmpeg-with-rtmp](https://github.com/cine-io/android-ffmpeg-with-rtmp)
+1. **mp4parser** A Java API to read, write and create MP4 files         
+[https://github.com/sannies/mp4parser](https://github.com/sannies/mp4parser)
+1. **jcodec** jcodec - a pure java implementation of video/audio codecs.      
+[https://github.com/jcodec/jcodec](https://github.com/jcodec/jcodec)
 
 
 
