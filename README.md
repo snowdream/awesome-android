@@ -537,8 +537,6 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ####Other
-1. **WheelView**     An Android Widget for selecting items that rotate on a wheel.     
-[https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
 1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
 [https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
 1. **AndroidWheel**   Custom wheel widget for android     
