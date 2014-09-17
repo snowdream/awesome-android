@@ -208,7 +208,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 1. **TokenAutoComplete** Gmail style MultiAutoCompleteTextView for Android   
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
-
+1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
+[https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 
 ####ImageView
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
@@ -548,9 +549,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
 1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
 [https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
-
-
-####UnProcessed
 1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.        
 [https://github.com/AndroidBootstrap/android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)  
 1. **cardslib**  Android Library to build a UI Card    
@@ -665,8 +663,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
 1. **WheelView** An Android Widget for selecting items that rotate on a wheel.    
 [https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
-1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
-[https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)        
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
 1. **GaugeView** An Android library for drawing gauges on Canvas.         
