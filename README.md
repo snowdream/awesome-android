@@ -358,6 +358,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/emilsjolander/StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
 1. **LazyList**  Lazy load of images in Android        
 [https://github.com/thest1/LazyList](https://github.com/thest1/LazyList)   
+1. **FloatingGroupExpandableListView** An open source Android library that provides a floating group view at the top of the ExpandableListView       
+[https://github.com/diegocarloslima/FloatingGroupExpandableListView](https://github.com/diegocarloslima/FloatingGroupExpandableListView)
+1. **PullSeparateListView** 到顶部或底部时拉动，item分离效果    
+[https://github.com/chiemy/PullSeparateListView](https://github.com/chiemy/PullSeparateListView)
+1. **Android-SlideExpandableListView**    A better ExpandableListView, with animated expandable views for each list item          
+[https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
+1. **HorizontalVariableListView** Horizontal list view for Android which allows variable items widths          
+[https://github.com/sephiroth74/HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
+1. **ListBuddies** Android library to achieve in an easy way, the behaviour of the home page in the Expedia app, with a pair of auto-scroll circular parallax ListViews.     
+[https://github.com/jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)
 
 
 ####GridView
@@ -406,6 +416,20 @@ If the lib is no longer being maintained,please do not add it here.
 1. **SnackBar**  toast-like alert pattern for Android        
 [https://github.com/MrEngineer13/SnackBar](https://github.com/MrEngineer13/SnackBar)
 
+####SeekBar
+1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.     
+[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
+1. **AndroidCircularSeekBar** A circular seek bar for Android        
+[https://github.com/RaghavSood/AndroidCircularSeekBar](https://github.com/RaghavSood/AndroidCircularSeekBar)
+1. **circularseekbar** Custom circular SeekBar (Circle, Semi-circle, and Ellipse) View/Widget for Android        
+[https://github.com/devadvance/circularseekbar](https://github.com/devadvance/circularseekbar)
+1. **StartPointSeekBar** StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point.   
+[https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
+1. **SeekArc** Circular SeekBar view for Android             
+[https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
+1. **HoloCircleSeekBar** Android circle seekbar widget inspired from      
+[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
+
 
 ####Calendar View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
@@ -414,10 +438,59 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 1. **calendar-widget**      The Android calendar widget is home screen widget for your Android device. It displays a list of upcoming calendar events so that you can easily have a glimpse at your upcoming appointments.       
 [https://github.com/plusonelabs/calendar-widget](https://github.com/plusonelabs/calendar-widget)
+1. **android-spinnerwheel**     Wheel-like spinner widget for Android     
+[https://github.com/ai212983/android-spinnerwheel](https://github.com/ai212983/android-spinnerwheel)
+1. **Android-MonthCalendarWidget**    A simple example of a responsive Month Calendar app widget for Android      
+[https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
+1. **android-betterpickers**  Android library for better Picker DialogFragments   
+[https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
 
 
+####Layout
+1. **FoldableLayout**      Android widgets to implement folding animation      
+[https://github.com/alexvasilkov/FoldableLayout](https://github.com/alexvasilkov/FoldableLayout)
+1. **ScalableLayout** Scalable Layout For Android         
+[https://github.com/ssomai/ScalableLayout](https://github.com/ssomai/ScalableLayout)
+1. **FlipLayout** Android Flip 3D Animation like web Google+       
+[https://github.com/stormzhang/FlipLayout](https://github.com/stormzhang/FlipLayout)
+1. **FlowLayout** Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.      
+[https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout) 
+1. **CircleLayout** Circular layout for android          
+[https://github.com/dmitry-zaitsev/CircleLayout](https://github.com/dmitry-zaitsev/CircleLayout)
+1. **ResideLayout** An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu         
+[https://github.com/kyze8439690/ResideLayout](https://github.com/kyze8439690/ResideLayout)
+1. **GooglePlusLayout**  GoolgePlusLayout is a custom layout that plays animation on the children views while scrolling as the layout in the Google Plus (android) main page        
+[https://github.com/Nammari/GooglePlusLayout](https://github.com/Nammari/GooglePlusLayout)
+1. **android-empty-layout** A library for showing different types of layouts when a list view is empty      
+[https://github.com/alamkanak/android-empty-layout](https://github.com/alamkanak/android-empty-layout)
+1. **ImageLayout** Android - A layout that arranges its children in relation to a background image            
+[https://github.com/ManuelPeinado/ImageLayout](https://github.com/ManuelPeinado/ImageLayout)
+1. **android-flowlayout** Linear layout, that wrap its content to the next line if there is no space in the current line.       
+[https://github.com/ApmeM/android-flowlayout](https://github.com/ApmeM/android-flowlayout)
+1. **AndroidSwipeLayout** The Most Powerful Swipe Layout!        
+[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+1. **FreeFlow**  A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change             
+[https://github.com/Comcast/FreeFlow](https://github.com/Comcast/FreeFlow)
+1. **SwipeableLayout** A swipeable - auto resizing view group for android     
+[https://github.com/wmbest2/SwipeableLayout](https://github.com/wmbest2/SwipeableLayout)
 
 
+####Other
+1. **WheelView**     An Android Widget for selecting items that rotate on a wheel.     
+[https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
+1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
+[https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
+1. **AndroidWheel**   Custom wheel widget for android     
+[https://github.com/sephiroth74/AndroidWheel](https://github.com/sephiroth74/AndroidWheel)
+1. **range-bar**     Android widget for selecting a range of values.       
+[https://github.com/edmodo/range-bar](https://github.com/edmodo/range-bar)
+1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.       
+[https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
+1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
+[https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
+
+
+####UnProcessed
 1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.        
 [https://github.com/AndroidBootstrap/android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)  
 1. **cardslib**  Android Library to build a UI Card    
@@ -426,21 +499,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 1. **AndroidSlidingUpPanel**  Android Sliding Up Panel Demo      
 [https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
-1. **FreeFlow**  A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change             
-[https://github.com/Comcast/FreeFlow](https://github.com/Comcast/FreeFlow)
 1. **android-viewflow** A horizontal view scroller library for Android    
 [https://github.com/pakerfeldt/android-viewflow](https://github.com/pakerfeldt/android-viewflow)  
-1. **AndroidSwipeLayout** The Most Powerful Swipe Layout!        
-[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
 1. **android-viewbadger**  A simple way to "badge" any given Android view at runtime without having to cater for it in layout      
 [https://github.com/jgilfelt/android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
-1. **Android-SlideExpandableListView**    A better ExpandableListView, with animated expandable views for each list item          
-[https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView)
-1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
-[https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
-1. **android-betterpickers**  Android library for better Picker DialogFragments   
-[https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
-
 1. **ProgressWheel** A progress wheel for android, intended for use instead of the standard progress bar.     
 [https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
 1. **DraggablePanel**  Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.   
@@ -449,8 +511,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
 1. **AndroidImageSlider**  An amazing and convenient Android image slider.   
 [https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
-
-
 1. **StickyGridHeaders** An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.     
 [https://github.com/TonicArtos/StickyGridHeaders](https://github.com/TonicArtos/StickyGridHeaders)  
 1. **AndroidViewHover** An elegant way to show your menu or messages.      
@@ -467,16 +527,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pingpongboss/StandOut](https://github.com/pingpongboss/StandOut)
 1. **android-sliding-layer-lib**  This repository host a library that provides an easy way to include an autonomous layer/view that slides from the side of your screen and which is fully gesture ready, the same way as our detail view in Wunderlist 2 does. This pattern can also be seen in Google+’s notification center or in Basecamp’s detail view.      
 [https://github.com/6wunderkinder/android-sliding-layer-lib](https://github.com/6wunderkinder/android-sliding-layer-lib)
-1.**Android-MonthCalendarWidget** A simple example of a responsive Month Calendar app widget for Android    
-[https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
 1. **Android-SwipeToDismiss** Android swipe-to-dismiss mini-library and sample code     
 [https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
-
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
 [https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
 1. **RefreshActionItem** Android - An action bar item which acts both as a refresh button and as a progress indicator    
 [https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
-
 1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.         
 [https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
 1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.      
@@ -485,12 +541,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lorensiuswlt/NewQuickAction](https://github.com/lorensiuswlt/NewQuickAction)
 1. **android-uitableview** Library and example project on how to use the UITableView component     
 [https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
-1. **ListBuddies** Android library to achieve in an easy way, the behaviour of the home page in the Expedia app, with a pair of auto-scroll circular parallax ListViews.     
-[https://github.com/jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)
 1. **Android-ProgressFragment**   Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.     
 [https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
-1. **HorizontalVariableListView** Horizontal list view for Android which allows variable items widths          
-[https://github.com/sephiroth74/HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
 1. **android-pdfview** A fast PDF reader component for Android development    
 [https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
 1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android
@@ -517,18 +569,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik       
 [https://github.com/soarcn/UndoBar](https://github.com/soarcn/UndoBar)
-1. **android-flowlayout** Linear layout, that wrap its content to the next line if there is no space in the current line.       
-[https://github.com/ApmeM/android-flowlayout](https://github.com/ApmeM/android-flowlayout)
 1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
 1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
 [https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
 1. **AppRater**   AppRater Library for Android           
 [https://github.com/codechimp-org/AppRater](https://github.com/codechimp-org/AppRater)
-1. **android-empty-layout** A library for showing different types of layouts when a list view is empty      
-[https://github.com/alamkanak/android-empty-layout](https://github.com/alamkanak/android-empty-layout)
-1. **ImageLayout** Android - A layout that arranges its children in relation to a background image            
-[https://github.com/ManuelPeinado/ImageLayout](https://github.com/ManuelPeinado/ImageLayout)
 1. **ProgressPieView** Android library for showing progress in a highly customizable pie.       
 [https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
 1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem      
@@ -561,8 +607,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JorgeCastilloPrz/ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
 1. **DateSlider**  An alternative DatePicker for Android       
 [https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
-1. **GooglePlusLayout**  GoolgePlusLayout is a custom layout that plays animation on the children views while scrolling as the layout in the Google Plus (android) main page        
-[https://github.com/Nammari/GooglePlusLayout](https://github.com/Nammari/GooglePlusLayout)
 1. **NiftyNotification**  effects for android notifications.base on (Crouton)  
 [https://github.com/sd6352051/NiftyNotification](https://github.com/sd6352051/NiftyNotification)
 1. **android-auto-scroll-view-pager** Android auto scroll viewpager or viewpager in viewpager           
@@ -571,10 +615,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
 1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
 [https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
-1. **AndroidCircularSeekBar** A circular seek bar for Android        
-[https://github.com/RaghavSood/AndroidCircularSeekBar](https://github.com/RaghavSood/AndroidCircularSeekBar)
-1. **circularseekbar** Custom circular SeekBar (Circle, Semi-circle, and Ellipse) View/Widget for Android        
-[https://github.com/devadvance/circularseekbar](https://github.com/devadvance/circularseekbar)
 1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
 [https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
 1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
@@ -583,8 +623,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
 1. **gif-movie-view** Android View widget for displaying GIF animations.   
 [https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
-1. **ResideLayout** An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu         
-[https://github.com/kyze8439690/ResideLayout](https://github.com/kyze8439690/ResideLayout)
 1. **VerticalViewPager** Vertical implementation of Android ViewPager     
 [https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
 1. **CustomLoading**  custom loading for android        
@@ -609,8 +647,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/MichaelEvans/ChromaHashView](https://github.com/MichaelEvans/ChromaHashView)
 1. **Android-DirectoryChooser** A directory chooser library for Android.   
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
-1. **CircleLayout** Circular layout for android          
-[https://github.com/dmitry-zaitsev/CircleLayout](https://github.com/dmitry-zaitsev/CircleLayout)
 1. **WheelView** An Android Widget for selecting items that rotate on a wheel.    
 [https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
 1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
@@ -619,14 +655,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-1. **SeekArc** Circular SeekBar view for Android             
-[https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
 1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
 [https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
 1. **LoopingViewPager** An android ViewPager extension allowing infinite scrolling        
 [https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
-1. **HoloCircleSeekBar** Android circle seekbar widget inspired from      
-[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
 1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)        
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
 1. **GaugeView** An Android library for drawing gauges on Canvas.         
@@ -643,56 +675,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cketti/ckChangeLog](https://github.com/cketti/ckChangeLog)
 1. **android-floatinglabel-widgets** Floating label input widgets      
 [https://github.com/marvinlabs/android-floatinglabel-widgets](https://github.com/marvinlabs/android-floatinglabel-widgets)
-1. **SwipeableLayout** A swipeable - auto resizing view group for android     
-[https://github.com/wmbest2/SwipeableLayout](https://github.com/wmbest2/SwipeableLayout)
-1. **FloatingGroupExpandableListView** An open source Android library that provides a floating group view at the top of the ExpandableListView       
-[https://github.com/diegocarloslima/FloatingGroupExpandableListView](https://github.com/diegocarloslima/FloatingGroupExpandableListView)
-1. **PullSeparateListView** 到顶部或底部时拉动，item分离效果    
-[https://github.com/chiemy/PullSeparateListView](https://github.com/chiemy/PullSeparateListView)
 1. **MarkdownView** MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.       
 [https://github.com/falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView)
-1. **StartPointSeekBar** StartPointSeekBar is a custom view for the Android platform that makes it possible to have a SeekBar to have custom start point.   
-[https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
-1. **FlowLayout** Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.      
-[https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout) 
 1. **NoNonsense-FilePicker** A file/directory-picker for android. Implemented as a library project.     
 [https://github.com/spacecowboy/NoNonsense-FilePicker](https://github.com/spacecowboy/NoNonsense-FilePicker)
 1. **PopoverView** A Popover Controller for Android Tablets. It's an easy solution to simulate an iOS UIPopoverController       
 [https://github.com/lupidan/PopoverView](https://github.com/lupidan/PopoverView)
 1. **slideuppane** A pane that slide up from the bottom of an android view    
 [https://github.com/briangriffey/slideuppane](https://github.com/briangriffey/slideuppane)
-1. **FloatingLabel** FloatingLabel Allows you to create a blow kind of EditText.    
-[https://github.com/hardik-trivedi/FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
 1. **SwipeBack**  SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture       
 [https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
-1. **ScalableLayout** Scalable Layout For Android         
-[https://github.com/ssomai/ScalableLayout](https://github.com/ssomai/ScalableLayout)
-1. **FlipLayout** Android Flip 3D Animation like web Google+       
-[https://github.com/stormzhang/FlipLayout](https://github.com/stormzhang/FlipLayout)
-1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
-[https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
-1. **FoldableLayout**      Android widgets to implement folding animation      
-[https://github.com/alexvasilkov/FoldableLayout](https://github.com/alexvasilkov/FoldableLayout)
-1. **Android-MonthCalendarWidget**    A simple example of a responsive Month Calendar app widget for Android      
-[https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
-1. **range-bar**     Android widget for selecting a range of values.       
-[https://github.com/edmodo/range-bar](https://github.com/edmodo/range-bar)
-1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.       
-[https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
-1. **AndroidWheel**   Custom wheel widget for android     
-[https://github.com/sephiroth74/AndroidWheel](https://github.com/sephiroth74/AndroidWheel)
-1. **android-spinnerwheel**     Wheel-like spinner widget for Android     
-[https://github.com/ai212983/android-spinnerwheel](https://github.com/ai212983/android-spinnerwheel)
-1. **chips-edittext-library**      Chips EditText, Token EditText, Bubble EditText, Spannable EditText and etc.. There are many names of this control. Here I develop easy to understand , modify and integrate Chips Edit Text widget for Android     
-[https://github.com/kpbird/chips-edittext-library](https://github.com/kpbird/chips-edittext-library)
-1. **gif-movie-view**  Android View widget for displaying GIF animations.
-[https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
-1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
-[https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
-1. **WheelView**     An Android Widget for selecting items that rotate on a wheel.     
-[https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
-1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.     
-[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
 
 
 
