@@ -141,7 +141,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ophilbert/ActivityTransition](https://github.com/ophilbert/ActivityTransition)
 1. **EasyAndroidAnimations** Easy Android Animations is an animation library that aims to make android animations easier, with 50+ builtin animations, it allows you to introduce many complex animation effects in your application with one or two lines of code.          
 [https://github.com/2359media/EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations)
-
+1. **AndroidImageSlider**  An amazing and convenient Android image slider.   
+[https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
 
 ###Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
@@ -267,7 +268,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 
 
-####Progressbar
+####Progressbar/Progress View
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
 1. **NumberProgressBar**    A beautiful, slim Android ProgressBar.        
@@ -280,7 +281,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
 1. **GoogleProgressBar**  Android library to display progress like google does in some of his services.          
 [https://github.com/jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)
-
+1. **ProgressWheel** A progress wheel for android, intended for use instead of the standard progress bar.     
+[https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
+1. **RefreshActionItem** Android - An action bar item which acts both as a refresh button and as a progress indicator    
+[https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
 
 ####Menu
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.     
@@ -313,6 +317,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) 
 1. **GoogleNavigationDrawerMenu**   Android Library for a DrawerLayout similar to the one in Google Apps       
 [https://github.com/Arasthel/GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
+1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
+[https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
+1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
+[https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
+
 
 ####Dialog
 1. **QustomDialog** a quick custom android dialog project        
@@ -409,6 +418,26 @@ If the lib is no longer being maintained,please do not add it here.
 1. **StaggeredGridView**  A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.      
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
 
+####ViewPager
+1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.      
+[https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+1. **ViewPagerExtensions** A set of custom views for the ViewPager from the Android Support Package          
+[https://github.com/astuetz/ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions)
+1. **parallaxviewpager** An easy-to-use ViewPager subclass with parallax background effect for Android apps.         
+[https://github.com/andraskindler/parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)
+1. **android-auto-scroll-view-pager** Android auto scroll viewpager or viewpager in viewpager           
+[https://github.com/Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)
+1. **NumericPageIndicator** Android - A ViewPager page indicator that displays the current page number and (optionally) the page count           
+[https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
+1. **VerticalViewPager** Vertical implementation of Android ViewPager     
+[https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
+1. **InfiniteViewPager** Augment Android's ViewPager with wrap-around functionality.        
+[https://github.com/antonyt/InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager)
+1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
+[https://github.com/inovex/ViewPager3D](https://github.com/inovex/ViewPager3D)
+1. **LoopingViewPager** An android ViewPager extension allowing infinite scrolling        
+[https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
+
 
 ####ActionBar
 1. **ActionBarSherlock**   Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.     
@@ -465,6 +494,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
 1. **android-calendar-card** Android calendar view (like card)           
 [https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
+1. **DateSlider**  An alternative DatePicker for Android       
+[https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
+
 
 ####Layout
 1. **FoldableLayout**      Android widgets to implement folding animation      
@@ -523,22 +555,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/AndroidBootstrap/android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)  
 1. **cardslib**  Android Library to build a UI Card    
 [https://github.com/gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)  
-1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.      
-[https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 1. **AndroidSlidingUpPanel**  Android Sliding Up Panel Demo      
 [https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
 1. **android-viewflow** A horizontal view scroller library for Android    
 [https://github.com/pakerfeldt/android-viewflow](https://github.com/pakerfeldt/android-viewflow)  
 1. **android-viewbadger**  A simple way to "badge" any given Android view at runtime without having to cater for it in layout      
 [https://github.com/jgilfelt/android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
-1. **ProgressWheel** A progress wheel for android, intended for use instead of the standard progress bar.     
-[https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
 1. **DraggablePanel**  Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.   
 [https://github.com/pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
 1. **android-stackblur** Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.        
 [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
-1. **AndroidImageSlider**  An amazing and convenient Android image slider.   
-[https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
 1. **StickyGridHeaders** An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.     
 [https://github.com/TonicArtos/StickyGridHeaders](https://github.com/TonicArtos/StickyGridHeaders)  
 1. **AndroidViewHover** An elegant way to show your menu or messages.      
@@ -557,8 +583,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
 [https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
-1. **RefreshActionItem** Android - An action bar item which acts both as a refresh button and as a progress indicator    
-[https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
 1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.         
 [https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
 1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.      
@@ -605,10 +629,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/atermenji/IconicDroid](https://github.com/atermenji/IconicDroid)
 1. **ParallaxPager** Add some depth to your Android scrolling.          
 [https://github.com/prolificinteractive/ParallaxPager](https://github.com/prolificinteractive/ParallaxPager)
-1. **ViewPagerExtensions** A set of custom views for the ViewPager from the Android Support Package          
-[https://github.com/astuetz/ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions)
-1. **parallaxviewpager** An easy-to-use ViewPager subclass with parallax background effect for Android apps.         
-[https://github.com/andraskindler/parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)
 1. **AndroidPinning**  A standalone library project for certificate pinning on Android.        
 [https://github.com/moxie0/AndroidPinning](https://github.com/moxie0/AndroidPinning)
 1. **WizardPager** Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager    
@@ -617,28 +637,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/felixpalmer/android-visualizer](https://github.com/felixpalmer/android-visualizer)
 1. **ExpandablePanel** Android library for creating an expandable to full screen view inside a viewgroup composition.        
 [https://github.com/JorgeCastilloPrz/ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
-1. **DateSlider**  An alternative DatePicker for Android       
-[https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
 1. **NiftyNotification**  effects for android notifications.base on (Crouton)  
 [https://github.com/sd6352051/NiftyNotification](https://github.com/sd6352051/NiftyNotification)
-1. **android-auto-scroll-view-pager** Android auto scroll viewpager or viewpager in viewpager           
-[https://github.com/Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)
-1. **NumericPageIndicator** Android - A ViewPager page indicator that displays the current page number and (optionally) the page count           
-[https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
 1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
 [https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
-1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
-[https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
 1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
 [https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+        
 [https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
-1. **VerticalViewPager** Vertical implementation of Android ViewPager     
-[https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
 1. **CustomLoading**  custom loading for android        
 [https://github.com/stormzhang/CustomLoading](https://github.com/stormzhang/CustomLoading)
-1. **InfiniteViewPager** Augment Android's ViewPager with wrap-around functionality.        
-[https://github.com/antonyt/InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager)
 1. **chromium_webview** Android WebView wrapper based on chromium     
 [https://github.com/mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview)
 1. **MagicViews** Set custom font in Android application         
@@ -657,14 +665,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
 1. **WheelView** An Android Widget for selecting items that rotate on a wheel.    
 [https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
-1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
-[https://github.com/inovex/ViewPager3D](https://github.com/inovex/ViewPager3D)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
-[https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
-1. **LoopingViewPager** An android ViewPager extension allowing infinite scrolling        
-[https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
 1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)        
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
 1. **GaugeView** An Android library for drawing gauges on Canvas.         
