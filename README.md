@@ -197,6 +197,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/coreform/android-formidable-validation](https://github.com/coreform/android-formidable-validation)
 1. **android-edittext-validator** Android form edit text is an extension of EditText that brings data validation facilities to the edittext.      
 [https://github.com/vekexasia/android-edittext-validator](https://github.com/vekexasia/android-edittext-validator)
+1. **chips-edittext-library**      Chips EditText, Token EditText, Bubble EditText, Spannable EditText and etc.. There are many names of this control. Here I develop easy to understand , modify and integrate Chips Edit Text widget for Android     
+[https://github.com/kpbird/chips-edittext-library](https://github.com/kpbird/chips-edittext-library)
+1. **FloatingLabel** FloatingLabel Allows you to create a blow kind of EditText.    
+[https://github.com/hardik-trivedi/FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
 
 
 ####ImageView
@@ -234,6 +238,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lvillani/android-cropimage](https://github.com/lvillani/android-cropimage)
 1. **android-gpuimage** Android filters based on OpenGL (idea from GPUImage for iOS)     
 [https://github.com/CyberAgent/android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
+1. **gif-movie-view**  Android View widget for displaying GIF animations.
+[https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
 
 
 ####Button
@@ -307,7 +313,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lewisjdeane/L-Dialogs](https://github.com/lewisjdeane/L-Dialogs)
 1. **LicensesDialog** LicensesDialog is an open source library to display licenses of third-party libraries in an Android app.           
 [https://github.com/PSDev/LicensesDialog](https://github.com/PSDev/LicensesDialog)
-
+1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
+[https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
 
 ####ListView
 1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
@@ -687,6 +694,20 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
 
 
+###Adapter
+1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection        
+[https://github.com/ManuelPeinado/MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)
+1. **easy-adapter** Easy Adapters library for Android        
+[https://github.com/ribot/easy-adapter](https://github.com/ribot/easy-adapter)
+1. **Renderers** Renderers is an Android library that avoids all the boilerplate needed to create a new ListView adapter.    
+[https://github.com/pedrovgs/Renderers](https://github.com/pedrovgs/Renderers)
+1. **FunDapter**  Simplify Adapter creation for your Android ListViews.     
+[https://github.com/amigold/FunDapter](https://github.com/amigold/FunDapter)
+1. **instant-adapter**  Just like instant coffee, saves 78% of your time on Android's Custom Adapters.           
+[https://github.com/ragunathjawahar/instant-adapter](https://github.com/ragunathjawahar/instant-adapter)
+1. **adapter-kit**  Adapter Kit is a set of useful adapters for Android.    
+[https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
+
 
 ###Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
@@ -853,18 +874,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/infinum/android_dbinspector](https://github.com/infinum/android_dbinspector)
 1. **wishlist** Utilities I wish Android had but doesn't        
 [https://github.com/kevinsawicki/wishlist](https://github.com/kevinsawicki/wishlist)
-1. **FunDapter**  Simplify Adapter creation for your Android ListViews.     
-[https://github.com/amigold/FunDapter](https://github.com/amigold/FunDapter)
 1. **joda-time-android**  Joda-Time library with Android specialization     
 [https://github.com/dlew/joda-time-android](https://github.com/dlew/joda-time-android)
 1. **OpenKeychain** OpenKeychain is an OpenPGP implementation for Android.    
 [https://github.com/open-keychain/open-keychain](https://github.com/open-keychain/open-keychain)
 1. **Silk**  A library containing a large set of utilities and views for Android apps.         
 [https://github.com/afollestad/Silk](https://github.com/afollestad/Silk)
-1. **instant-adapter**  Just like instant coffee, saves 78% of your time on Android's Custom Adapters.           
-[https://github.com/ragunathjawahar/instant-adapter](https://github.com/ragunathjawahar/instant-adapter)
-1. **adapter-kit**  Adapter Kit is a set of useful adapters for Android.    
-[https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
 1. **Reservoir** Android library to easily serialize and cache your objects to disk using key/value pairs.             
 [https://github.com/anupcowkur/Reservoir](https://github.com/anupcowkur/Reservoir)
 1. **Android-Templates-And-Utilities** Collection of source codes, utilities, templates and snippets for Android development.          
@@ -887,10 +902,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/MustafaFerhan/DebugLog](https://github.com/MustafaFerhan/DebugLog)
 1. **AndroidCaldavSyncAdapater** Caldav synch adapter for Android         
 [https://github.com/gggard/AndroidCaldavSyncAdapater](https://github.com/gggard/AndroidCaldavSyncAdapater)
-1. **easy-adapter** Easy Adapters library for Android        
-[https://github.com/ribot/easy-adapter](https://github.com/ribot/easy-adapter)
-1. **Renderers** Renderers is an Android library that avoids all the boilerplate needed to create a new ListView adapter.    
-[https://github.com/pedrovgs/Renderers](https://github.com/pedrovgs/Renderers)
 1. **routable-android** Routable, an in-app native URL router, for Android    
 [https://github.com/clayallsopp/routable-android](https://github.com/clayallsopp/routable-android)
 1. **fb-android-dagger** A set of helper classes for using dagger with Android components such as Applications, Activities, Fragments, BroadcastReceivers, and Services.     
