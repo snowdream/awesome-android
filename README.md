@@ -338,7 +338,7 @@ If the lib is no longer being maintained,please do not add it here.
 1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
 
-####ListView
+####ListView/ScrollView
 1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
 [https://github.com/beworker/pinned-section-listview](https://github.com/beworker/pinned-section-listview)
 1. **PullToRefresh-ListView** A generic, customizable, open source Android ListView implementation that has 'Pull to Refresh' functionality.         
@@ -397,6 +397,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/sephiroth74/HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
 1. **ListBuddies** Android library to achieve in an easy way, the behaviour of the home page in the Expedia app, with a pair of auto-scroll circular parallax ListViews.     
 [https://github.com/jpardogo/ListBuddies](https://github.com/jpardogo/ListBuddies)
+1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
+[https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
+1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
+[https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
+1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
+[https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
 
 
 ####GridView
@@ -611,8 +617,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/soarcn/UndoBar](https://github.com/soarcn/UndoBar)
 1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
-1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
-[https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
 1. **AppRater**   AppRater Library for Android           
 [https://github.com/codechimp-org/AppRater](https://github.com/codechimp-org/AppRater)
 1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem      
@@ -635,10 +639,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JorgeCastilloPrz/ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
 1. **NiftyNotification**  effects for android notifications.base on (Crouton)  
 [https://github.com/sd6352051/NiftyNotification](https://github.com/sd6352051/NiftyNotification)
-1. **Android-Tiling-ScrollView** A tiling scrollview to display large picture (similar to iOS "CATiledLayer")       
-[https://github.com/ened/Android-Tiling-ScrollView](https://github.com/ened/Android-Tiling-ScrollView)
-1. **PullScrollView** 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。     
-[https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+        
 [https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
 1. **CustomLoading**  custom loading for android        
