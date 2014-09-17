@@ -651,7 +651,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
 1. **calendar-widget**      The Android calendar widget is home screen widget for your Android device. It displays a list of upcoming calendar events so that you can easily have a glimpse at your upcoming appointments.       
 [https://github.com/plusonelabs/calendar-widget](https://github.com/plusonelabs/calendar-widget)
-
+1. **PagingGridView** A Paging GridView with the same behavior as PagingListView.         
+[https://github.com/nicolasjafelle/PagingGridView](https://github.com/nicolasjafelle/PagingGridView)
 
 ###Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
