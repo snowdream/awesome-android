@@ -201,6 +201,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kpbird/chips-edittext-library](https://github.com/kpbird/chips-edittext-library)
 1. **FloatingLabel** FloatingLabel Allows you to create a blow kind of EditText.    
 [https://github.com/hardik-trivedi/FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)
+1. **AndroidFloatLabel** Float Label Edit Texts for Android       
+[https://github.com/weddingparty/AndroidFloatLabel](https://github.com/weddingparty/AndroidFloatLabel)
+1. **AndroidFloatLabel**  Library project with a custom view that implements the Float Label pattern       
+[https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
+1. **TokenAutoComplete** Gmail style MultiAutoCompleteTextView for Android   
+[https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 
 
 ####ImageView
@@ -270,6 +276,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/passsy/android-HoloCircularProgressBar](https://github.com/passsy/android-HoloCircularProgressBar)
 1. **android-square-progressbar**  An android library to display a progressbar that goes around an image.        
 [https://github.com/mrwonderman/android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar)
+1. **ProgressPieView** Android library for showing progress in a highly customizable pie.       
+[https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
+1. **GoogleProgressBar**  Android library to display progress like google does in some of his services.          
+[https://github.com/jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)
 
 
 ####Menu
@@ -301,6 +311,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/SideNavigation](https://github.com/johnkil/SideNavigation)
 1. **AndroidResideMenu** The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.     
 [https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) 
+1. **GoogleNavigationDrawerMenu**   Android Library for a DrawerLayout similar to the one in Google Apps       
+[https://github.com/Arasthel/GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
 
 ####Dialog
 1. **QustomDialog** a quick custom android dialog project        
@@ -451,7 +463,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
 1. **android-betterpickers**  Android library for better Picker DialogFragments   
 [https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
-
+1. **android-calendar-card** Android calendar view (like card)           
+[https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
 
 ####Layout
 1. **FoldableLayout**      Android widgets to implement folding animation      
@@ -480,6 +493,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Comcast/FreeFlow](https://github.com/Comcast/FreeFlow)
 1. **SwipeableLayout** A swipeable - auto resizing view group for android     
 [https://github.com/wmbest2/SwipeableLayout](https://github.com/wmbest2/SwipeableLayout)
+1. **SwipeBackLayout**   An Android library that help you to build app with swipe back gesture.      
+[https://github.com/Issacw0ng/SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout)
+1. **android_maskable_layout**  A library that easily allows you to mask layouts/viewgroups      
+[https://github.com/christophesmet/android_maskable_layout](https://github.com/christophesmet/android_maskable_layout)
+1. **android-gridlayout** A backwards compatible implementation of GridLayout for Android     
+[https://github.com/dlew/android-gridlayout](https://github.com/dlew/android-gridlayout)
+1. **DragLayout** An Android Project       
+[https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 
 
 ####Other
@@ -524,8 +545,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/daimajia/AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
 1. **SystemBarTint** Apply background tinting to the Android system UI when using KitKat translucent modes     
 [https://github.com/jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
-1. **SwipeBackLayout**   An Android library that help you to build app with swipe back gesture.      
-[https://github.com/Issacw0ng/SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout)
 1. **chromeview**  Android WebView implementation that uses the latest Chromium code      
 [https://github.com/pwnall/chromeview](https://github.com/pwnall/chromeview)
 1. **android-iconify** Integration of FontAwesome for Android      
@@ -558,8 +577,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jacobmoncur/QuiltViewLibrary](https://github.com/jacobmoncur/QuiltViewLibrary)
 1. **Android-UndoBar** An implementation of Android's Undo Bar as seen in Google's Gmail app.       
 [https://github.com/jenzz/Android-UndoBar](https://github.com/jenzz/Android-UndoBar)
-1. **GoogleProgressBar**  Android library to display progress like google does in some of his services.          
-[https://github.com/jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)
 1. **Android-ScrollBarPanel**  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0           
 [https://github.com/rno/Android-ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
 1. **changeloglib**  Android Library to display your changelog     
@@ -570,10 +587,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PomepuyN/discreet-app-rate](https://github.com/PomepuyN/discreet-app-rate)
 1. **KenBurnsView**  Android ImageViews animated by Ken Burns Effect     
 [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
-1. **AndroidFloatLabel** Float Label Edit Texts for Android       
-[https://github.com/weddingparty/AndroidFloatLabel](https://github.com/weddingparty/AndroidFloatLabel)
-1. **AndroidFloatLabel**  Library project with a custom view that implements the Float Label pattern       
-[https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
 1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik       
 [https://github.com/soarcn/UndoBar](https://github.com/soarcn/UndoBar)
 1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
@@ -582,8 +595,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
 1. **AppRater**   AppRater Library for Android           
 [https://github.com/codechimp-org/AppRater](https://github.com/codechimp-org/AppRater)
-1. **ProgressPieView** Android library for showing progress in a highly customizable pie.       
-[https://github.com/FilipPudak/ProgressPieView](https://github.com/FilipPudak/ProgressPieView)
 1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem      
 [https://github.com/mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
 1. **poppyview** Android library implementing a poppy view on scroll, similar to the one found in the Google Plus app          
@@ -596,12 +607,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/prolificinteractive/ParallaxPager](https://github.com/prolificinteractive/ParallaxPager)
 1. **ViewPagerExtensions** A set of custom views for the ViewPager from the Android Support Package          
 [https://github.com/astuetz/ViewPagerExtensions](https://github.com/astuetz/ViewPagerExtensions)
-1. **TokenAutoComplete** Gmail style MultiAutoCompleteTextView for Android   
-[https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
-1. **android_maskable_layout**  A library that easily allows you to mask layouts/viewgroups      
-[https://github.com/christophesmet/android_maskable_layout](https://github.com/christophesmet/android_maskable_layout)
-1. **GoogleNavigationDrawerMenu**   Android Library for a DrawerLayout similar to the one in Google Apps       
-[https://github.com/Arasthel/GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
 1. **parallaxviewpager** An easy-to-use ViewPager subclass with parallax background effect for Android apps.         
 [https://github.com/andraskindler/parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)
 1. **AndroidPinning**  A standalone library project for certificate pinning on Android.        
@@ -628,8 +633,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+        
 [https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
-1. **gif-movie-view** Android View widget for displaying GIF animations.   
-[https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
 1. **VerticalViewPager** Vertical implementation of Android ViewPager     
 [https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
 1. **CustomLoading**  custom loading for android        
@@ -638,8 +641,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/antonyt/InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager)
 1. **chromium_webview** Android WebView wrapper based on chromium     
 [https://github.com/mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview)
-1. **android-gridlayout** A backwards compatible implementation of GridLayout for Android     
-[https://github.com/dlew/android-gridlayout](https://github.com/dlew/android-gridlayout)
 1. **MagicViews** Set custom font in Android application         
 [https://github.com/ikocijan/MagicViews](https://github.com/ikocijan/MagicViews)
 1. **TableFixHeaders** Android library that implements a table with fixed headers.       
@@ -658,8 +659,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
 1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
 [https://github.com/inovex/ViewPager3D](https://github.com/inovex/ViewPager3D)
-1. **android-calendar-card** Android calendar view (like card)           
-[https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
@@ -670,8 +669,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
 1. **GaugeView** An Android library for drawing gauges on Canvas.         
 [https://github.com/CodeAndMagic/GaugeView](https://github.com/CodeAndMagic/GaugeView)
-1. **DragLayout** An Android Project       
-[https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 1. **ATableView** Create iOS-like tables (UITableView) for Android, using UIKit object model.      
 [https://github.com/dmacosta/ATableView](https://github.com/dmacosta/ATableView)
 1. **Android-RecurrencePicker** Google Calendar Recurrence picker       
