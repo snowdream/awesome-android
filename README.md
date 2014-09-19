@@ -96,6 +96,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/hamsterksu/Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL)
 1. **DBExecutor** DBExecutor            
 [https://github.com/LuckyJayce/DBExecutor](https://github.com/LuckyJayce/DBExecutor)
+1. **LitePal** An Android library that allows developers to use SQLite database extremely easy.            
+[https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
 
 
 ###Image Loading
