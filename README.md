@@ -98,6 +98,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/LuckyJayce/DBExecutor](https://github.com/LuckyJayce/DBExecutor)
 1. **LitePal** An Android library that allows developers to use SQLite database extremely easy.            
 [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
+1. **realm-java** Realm is a mobile database: a replacement for SQLite & ORMs     
+[https://github.com/realm/realm-java](https://github.com/realm/realm-java) 
 
 
 ###Image Loading
@@ -250,7 +252,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/CyberAgent/android-gpuimage](https://github.com/CyberAgent/android-gpuimage)
 1. **gif-movie-view**  Android View widget for displaying GIF animations.
 [https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
-
+1. **WaveDrawable** Drawable animation inspired by Tinder.        
+[https://github.com/Alexrs95/WaveDrawable](https://github.com/Alexrs95/WaveDrawable)
 
 ####Button
 1. **circular-progress-button**   Android Circular Progress Button     
@@ -339,6 +342,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PSDev/LicensesDialog](https://github.com/PSDev/LicensesDialog)
 1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
+1. **MaterialDialog** An Android library for conveniently building Material Design Dialog in Android version 2.2 ~ L.       
+[https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
 
 ####ListView/ScrollView
 1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
@@ -505,6 +510,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kenumir/android-calendar-card](https://github.com/kenumir/android-calendar-card)
 1. **DateSlider**  An alternative DatePicker for Android       
 [https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
+1. **Android-Week-View** Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.      
+[https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
 
 
 ####Layout
@@ -999,6 +1006,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###Font 
 1. **Calligraphy**    Custom fonts in Android the easy way...        
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+1. **android-typeface-helper** Typeface helper for Android        
+[https://github.com/norbsoft/android-typeface-helper](https://github.com/norbsoft/android-typeface-helper)
 
 ###OpenGL
 1. **Rajawali** Rajawali is a 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.         
@@ -1139,7 +1148,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 1. **anode**  Android framework for node.js applications        
 [https://github.com/paddybyers/anode](https://github.com/paddybyers/anode)
- 
+1. **Fragment-Switcher** An instance-state saving fragment switcher, intended for use with navigation drawers or tabs.       
+[https://github.com/jacobtabak/Fragment-Switcher](https://github.com/jacobtabak/Fragment-Switcher)
 
 
 ##License
