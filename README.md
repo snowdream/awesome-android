@@ -344,6 +344,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
 1. **MaterialDialog** An Android library for conveniently building Material Design Dialog in Android version 2.2 ~ L.       
 [https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
+1. **PostOffice**    This is a library for easily constructing Holo and Material Design Dialogs.     
+[https://github.com/r0adkll/PostOffice](https://github.com/r0adkll/PostOffice)
+
 
 ####ListView/ScrollView
 1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
@@ -554,6 +557,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ####Other
+1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
+[https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
 1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
 [https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
 1. **AndroidWheel**   Custom wheel widget for android     
@@ -616,6 +621,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jenzz/Android-UndoBar](https://github.com/jenzz/Android-UndoBar)
 1. **Android-ScrollBarPanel**  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0           
 [https://github.com/rno/Android-ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
+1. **ScrollBarPanelWithClock** Path like scrollbar panel with clock.      
+[https://github.com/learnNcode/ScrollBarPanelWithClock](https://github.com/learnNcode/ScrollBarPanelWithClock)
 1. **changeloglib**  Android Library to display your changelog     
 [https://github.com/gabrielemariotti/changeloglib](https://github.com/gabrielemariotti/changeloglib)
 1. **android-FlipView**   A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application     
@@ -1141,7 +1148,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jgilfelt/NotificationLog](https://github.com/jgilfelt/NotificationLog)
 1. **Java7-on-Android** Java 7 features backported to Android 2.2+      
 [https://github.com/yareally/Java7-on-Android](https://github.com/yareally/Java7-on-Android)
-
+1. **Genius-Android** 一个在Android中能经常使用的库集合，包括日志，命令行语句执行；Ping,DNS,Telnet,TraceRoute等网络包；同时包含一套UI主题。      
+[https://github.com/qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)
 
 ###Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
