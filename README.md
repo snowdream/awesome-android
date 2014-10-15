@@ -814,6 +814,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mediarain/RoboCoP](https://github.com/mediarain/RoboCoP)
 1. **android-contentprovider-generator**  A small tool to generate an Android ContentProvider.   
 [https://github.com/BoD/android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator)
+1. **ParcelablePlease**  Annotation Processor for generating Parcelable code    
+[https://github.com/sockeqwe/ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease)
 
 
 
