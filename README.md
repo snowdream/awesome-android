@@ -260,7 +260,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
 1. **android-process-button** Android Buttons With Built-in Progress Meters.   
 [https://github.com/dmytrodanylyk/android-process-button](https://github.com/dmytrodanylyk/android-process-button)
-1. **android-circlebutton**  Circle button widget for Android
+1. **android-circlebutton**  Circle button widget for Android           
 [https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
 1. **android-flat-button**  FButton - a flat button library for Android      
 [https://github.com/hoang8f/android-flat-button](https://github.com/hoang8f/android-flat-button)
@@ -605,7 +605,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
 1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.      
 [https://github.com/iPaulPro/aFileChooser](https://github.com/iPaulPro/aFileChooser)
-1. **NewQuickAction**   Android QuickAction
+1. **NewQuickAction**   Android QuickAction             
 [https://github.com/lorensiuswlt/NewQuickAction](https://github.com/lorensiuswlt/NewQuickAction)
 1. **android-uitableview** Library and example project on how to use the UITableView component     
 [https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
@@ -613,7 +613,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
 1. **android-pdfview** A fast PDF reader component for Android development    
 [https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
-1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android
+1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android         
 [https://github.com/jblough/Android-Pdf-Viewer-Library](https://github.com/jblough/Android-Pdf-Viewer-Library)
 1. **QuiltViewLibrary**   Android Quilt View Library       
 [https://github.com/jacobmoncur/QuiltViewLibrary](https://github.com/jacobmoncur/QuiltViewLibrary)
@@ -795,7 +795,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
 1. **android-butterknife-zelezny** Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.       
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
-1. **m2e-android**  Android for Maven Eclipse 
+1. **m2e-android**  Android for Maven Eclipse                
 [https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
 1. **AndroidProguardScala** AndroidProguardScala is an Eclipse plugin that speeds up the development process when you're using Scala on Android.     
 [https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
@@ -1029,7 +1029,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 
 ###Demo
-1. **android-demos**  Examples of Android applications
+1. **android-demos**  Examples of Android applications           
 [https://github.com/novoda/android-demos](https://github.com/novoda/android-demos)
 1. **u2020** A sample Android app which showcases advanced usage of Dagger among other open source libraries.     
 [https://github.com/JakeWharton/u2020](https://github.com/JakeWharton/u2020)
@@ -1097,7 +1097,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bishopmatthew/HackerNews](https://github.com/bishopmatthew/HackerNews)
 1. **News-Android-App** ownCloud News Reader - Android App         
 [https://github.com/owncloud/News-Android-App](https://github.com/owncloud/News-Android-App)
-1. **android-delicious**  Delicious Android is an Android app which helps you access and save bookmarks via Delicious. It's available over at Google Play.
+1. **android-delicious**  Delicious Android is an Android app which helps you access and save bookmarks via Delicious. It's available over at Google Play.    
 [https://github.com/lexs/android-delicious](https://github.com/lexs/android-delicious)
 1. **droidplanner** Ground Control Station for Android Devices       
 [https://github.com/DroidPlanner/droidplanner](https://github.com/DroidPlanner/droidplanner)
