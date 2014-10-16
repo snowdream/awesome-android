@@ -252,7 +252,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/sbakhtiarov/gif-movie-view](https://github.com/sbakhtiarov/gif-movie-view)
 1. **WaveDrawable** Drawable animation inspired by Tinder.        
 [https://github.com/Alexrs95/WaveDrawable](https://github.com/Alexrs95/WaveDrawable)
-1.**DrawerArrowDrawable**  Visual back-port of the rotating drawer-to-arrow drawable from Android L               
+1. **DrawerArrowDrawable**  Visual back-port of the rotating drawer-to-arrow drawable from Android L               
 [https://github.com/ChrisRenke/DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable)
 
 ####Button
