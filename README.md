@@ -222,8 +222,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/loopj/android-smart-image-view](https://github.com/loopj/android-smart-image-view)
 1. **TouchImageView**  Adds touch functionality to Android ImageView.     
 [https://github.com/MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
-1. **ImageViewZoom**  Android ImageView widget with zoom and pan capabilities   
-[https://github.com/sephiroth74/ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
 1. **CircleImageView**  A fast circular ImageView perfect for profile images.  
 [https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
 1. **gesture-imageview** This is a simple Android View class which provides basic pinch and zoom capability for images.     
@@ -492,8 +490,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
 1. **SeekArc** Circular SeekBar view for Android             
 [https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
-1. **HoloCircleSeekBar** Android circle seekbar widget inspired from      
-[https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
 
 
 ####Calendar View
@@ -999,7 +995,7 @@ If the lib is no longer being maintained,please do not add it here.
 1. **EazeGraph** An Android chart and graph library      
 [https://github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
 1. **AndroidCharts** An easy-to-use Android charts library with animation.     
-[https://github.com/HackPlan/AndroidCharts](https://github.com/HackPlan/AndroidCharts0https://github.com/HackPlan/AndroidCharts)
+[https://github.com/HackPlan/AndroidCharts](https://github.com/HackPlan/AndroidCharts)
 1. **WilliamChart** Android library to create charts.        
 [https://github.com/diogobernardino/WilliamChart](https://github.com/diogobernardino/WilliamChart)
 1. **Android-Charts** Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.     
