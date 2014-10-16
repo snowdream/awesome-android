@@ -553,6 +553,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ####Other
+1. **LDrawer**   Android drawer icon with material design animation    
+[https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
 [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
 1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
@@ -810,6 +812,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mediarain/RoboCoP](https://github.com/mediarain/RoboCoP)
 1. **android-contentprovider-generator**  A small tool to generate an Android ContentProvider.   
 [https://github.com/BoD/android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator)
+1. **ParcelablePlease**  Annotation Processor for generating Parcelable code    
+[https://github.com/sockeqwe/ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease)
 
 
 
@@ -1004,6 +1008,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts)
 1. **desCharts**  Android Charting Library     
 [https://github.com/bradipao/desCharts](https://github.com/bradipao/desCharts)
+1. **HelloCharts**   Charts/graphs library for Android compatible with API 8+    
+[https://github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 
 
 ###Font 
