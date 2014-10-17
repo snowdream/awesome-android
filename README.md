@@ -555,6 +555,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ####Other
+1. **RippleEffect**   Implementation of Ripple effect from Material Design for Android API 14+             
+[https://github.com/traex/RippleEffect](https://github.com/traex/RippleEffect)
 1. **LDrawer**   Android drawer icon with material design animation    
 [https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
