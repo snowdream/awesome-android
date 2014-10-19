@@ -1016,6 +1016,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 
 
+###Icons
+1. **material-design-icons** Material Design icons by Google         
+[https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
+
+
 ###Font 
 1. **Calligraphy**    Custom fonts in Android the easy way...        
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
