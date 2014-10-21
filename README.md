@@ -179,6 +179,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/eluleci/FlatUI](https://github.com/eluleci/FlatUI)
 1. **EffectiveAndroidUI** Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".           
 [https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
+1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0     
+[https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
+1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.               
+[https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
 
 
 ####TextView/EditText
@@ -552,6 +556,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 1. **ExpandableLayout**  Implementation of ExpandableListview with custom header and custom content.        
 [https://github.com/traex/ExpandableLayout](https://github.com/traex/ExpandableLayout)
+1. **material-ripple**    Android L Ripple effect wrapper for Views       
+[https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
+
 
 
 ####Other
@@ -946,7 +953,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
 1. **android-checkout**    Library for Android In-App Billing (Version 3)           
 [https://github.com/serso/android-checkout](https://github.com/serso/android-checkout)
-1. **WeatherLib**   Android Weather Library: android weather lib to develop weather based app fast and easily      
+1. **WeatmherLib**   Android Weather Library: android weather lib to develop weather based app fast and easily      
 [https://github.com/survivingwithandroid/WeatherLib](https://github.com/survivingwithandroid/WeatherLib)
 1. **Clusterkraf** A clustering library for the Google Maps Android API v2.   
 [https://github.com/twotoasters/clusterkraf](https://github.com/twotoasters/clusterkraf)
@@ -1139,6 +1146,9 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###Tools
+1. **scrollscreenshot**  Make Android screenshots of scrollable screen content    
+[https://github.com/PGSSoft/scrollscreenshot](https://github.com/PGSSoft/scrollscreenshot)
+
 1. **dex-method-counts** Command-line tool to count per-package methods in Android .dex files         
 [https://github.com/mihaip/dex-method-counts](https://github.com/mihaip/dex-method-counts)
 1. **osmtracker-android** GPS tracking tool for OpenStreetMap       
