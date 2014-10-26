@@ -1099,7 +1099,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/google/googletv-android-samples](https://github.com/google/googletv-android-samples)
 1. **Android-RxJava**  Learning RxJava for Android by example       
 [https://github.com/kaushikgopal/Android-RxJava](https://github.com/kaushikgopal/Android-RxJava)
-
+1. **Android-LollipopShowcase**  A simple app to showcase some of the cool new cool stuff in Android L. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar           
+[https://github.com/mikepenz/Android-LollipopShowcase](https://github.com/mikepenz/Android-LollipopShowcase)
 
 
 ###App
