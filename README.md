@@ -729,6 +729,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ragunathjawahar/instant-adapter](https://github.com/ragunathjawahar/instant-adapter)
 1. **adapter-kit**  Adapter Kit is a set of useful adapters for Android.    
 [https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
+1. **EfficientAdapter**  An efficient adapter to make the use of RecyclerView much easier for Android.          
+[https://github.com/StanKocken/EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
 
 
 ###Game Engine
@@ -1174,6 +1176,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/yareally/Java7-on-Android](https://github.com/yareally/Java7-on-Android)
 1. **Genius-Android** 一个在Android中能经常使用的库集合，包括日志，命令行语句执行；Ping,DNS,Telnet,TraceRoute等网络包；同时包含一套UI主题。      
 [https://github.com/qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)
+1. **TaggerString** TaggerString is very light library which allows to build dynamic string resource in much more readable way.        
+[https://github.com/polok/TaggerString](https://github.com/polok/TaggerString)
+
 
 ###Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
