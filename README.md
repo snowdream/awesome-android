@@ -352,6 +352,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
 1. **PostOffice**    This is a library for easily constructing Holo and Material Design Dialogs.     
 [https://github.com/r0adkll/PostOffice](https://github.com/r0adkll/PostOffice)
+1. **sweet-alert-dialog**  Android版的SweetAlert，清新文艺，快意灵动的甜心弹框     
+[https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
+
 
 
 ####ListView/ScrollView
