@@ -1,4 +1,4 @@
-#android-libs
+#awesome-android
 
 ##Introduction
 android libs from github
