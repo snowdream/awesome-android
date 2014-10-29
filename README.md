@@ -422,6 +422,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/MarkMjw/PullScrollView](https://github.com/MarkMjw/PullScrollView)
 1. **StickyScrollViewItems** A small android library for tagging views inside a ScrollView as "sticky" making them stick to the top of the scroll container until a new sticky view comes and takes it's place         
 [https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
+1. **Discrollview**  Scroll + discover = DiscrollView      
+[https://github.com/flavienlaurent/discrollview](https://github.com/flavienlaurent/discrollview)
+
 
 
 ####GridView
