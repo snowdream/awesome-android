@@ -1109,6 +1109,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kaushikgopal/Android-RxJava](https://github.com/kaushikgopal/Android-RxJava)
 1. **Android-LollipopShowcase**  A simple app to showcase some of the cool new cool stuff in Android L. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar           
 [https://github.com/mikepenz/Android-LollipopShowcase](https://github.com/mikepenz/Android-LollipopShowcase)
+1. **QuickNews** This is a news client, similar to netease, news headlines    
+[https://github.com/tigerguixh/QuickNews](https://github.com/tigerguixh/QuickNews)
+
 
 
 ###App
