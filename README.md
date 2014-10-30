@@ -402,7 +402,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/r0adkll/PostOffice](https://github.com/r0adkll/PostOffice)
 1. **sweet-alert-dialog**  Android版的SweetAlert，清新文艺，快意灵动的甜心弹框     
 [https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
-
+1. **BlurDialogFragment** Library project to display DialogFragment with a blur effect.              
+[https://github.com/tvbarthel/BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
 
 
 ####<A NAME="ListView/ScrollView"></A>ListView/ScrollView
