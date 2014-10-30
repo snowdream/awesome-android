@@ -1009,6 +1009,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
 1. **esperandro**  Easy SharedPreference Engine foR ANDROid      
 [https://github.com/dkunzler/esperandro](https://github.com/dkunzler/esperandro)
+1. **AndroidCommons** Various useful utilities for Android apps development         
+[https://github.com/alexvasilkov/AndroidCommons](https://github.com/alexvasilkov/AndroidCommons)
+
 
 
 ###<A NAME="SDK"></A>SDK 
