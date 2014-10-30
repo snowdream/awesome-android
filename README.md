@@ -785,6 +785,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mobsandgeeks/adapter-kit](https://github.com/mobsandgeeks/adapter-kit)
 1. **EfficientAdapter**  An efficient adapter to make the use of RecyclerView much easier for Android.          
 [https://github.com/StanKocken/EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
+1. **EasyListViewAdapters**  This library provides Easy Android ListView Adapters(EasyListAdapter & EasyCursorAdapter) which makes designing Multi-Row-Type ListView very simple & cleaner, It also provides many useful features for ListView.           
+[https://github.com/birajpatel/EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters)
+1. **GridListViewAdapters** This library provides GridAdapters(ListGridAdapter & CursorGridAdapter) which enable you to bind your data in grid card fashion within android.widget.ListView, Also provides many other features related to GridListView.            
+[https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
 
 
 ###<A NAME="Game Engine"></A>Game Engine
