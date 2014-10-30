@@ -1111,7 +1111,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mikepenz/Android-LollipopShowcase](https://github.com/mikepenz/Android-LollipopShowcase)
 1. **QuickNews** This is a news client, similar to netease, news headlines    
 [https://github.com/tigerguixh/QuickNews](https://github.com/tigerguixh/QuickNews)
-
+1. **android-best-practices**   Do's and Don'ts for Android development, by Futurice developers          
+[https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)
 
 
 ###App
