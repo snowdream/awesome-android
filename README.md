@@ -35,6 +35,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Layout](#Layout)
   * [Other](#Other)
 * [Adapter](#Adapter)
+* [Validation](#Validation)
 * [Game Engine](#Game Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
@@ -99,6 +100,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
 1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具      
 [https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
+1. **RoboMVVM**   MVVM framework for Android          
+[https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
+
+
 
 ###<A NAME="EventBus"></A>EventBus
 1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.           
@@ -111,7 +116,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
 1. **RxAndroid**  RxJava bindings for Android       
 [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
-
+1. **tinybus** A lightweight and simple event bus optimized for Android     
+[https://github.com/beworker/tinybus](https://github.com/beworker/tinybus)
 
 ###<A NAME="Orm"></A>Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
@@ -223,6 +229,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 ###<A NAME="Widget"></A>Widget
 ####<A NAME="UI"></A>UI
+1. **android-ui**   Android UI library.  Requires API level 14+         
+[https://github.com/markushi/android-ui](https://github.com/markushi/android-ui)
 1. **GreenDroid**   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.     
 [https://github.com/cyrilmottier/GreenDroid](https://github.com/cyrilmottier/GreenDroid)
 1. **FlatUI**  CengaLabs - Android FlatUI Kit     
@@ -792,6 +800,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
 
 
+###<A NAME="Validation"></A>Validation
+1. **android-saripaar**  UI Validation Library for Android          
+[https://github.com/ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar)
+
+
+
+
 ###<A NAME="Game Engine"></A>Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
 [https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/) 
@@ -888,6 +903,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BoD/android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator)
 1. **ParcelablePlease**  Annotation Processor for generating Parcelable code    
 [https://github.com/sockeqwe/ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease)
+1. **pojobuilder** A Java Code Generator for Pojo Builders            
+[https://github.com/mkarneim/pojobuilder](https://github.com/mkarneim/pojobuilder)
+1. **javawriter** A utility class which aids in generating Java source files.    
+[https://github.com/square/javawriter](https://github.com/square/javawriter)
+
 
 
 
@@ -1092,6 +1112,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Icons"></A>Icons
 1. **material-design-icons** Material Design icons by Google         
 [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
+1. **Skycons** Forecast / DarkSky's Skycons, Animated Weather icons recreated for Android      
+[https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
 
 
 ###<A NAME="Font"></A>Font 
@@ -1099,6 +1121,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
 1. **android-typeface-helper** Typeface helper for Android        
 [https://github.com/norbsoft/android-typeface-helper](https://github.com/norbsoft/android-typeface-helper)
+1. **Android-Icon-Fonts**  Material and Holo iconic fonts.        
+[https://github.com/johnkil/Android-Icon-Fonts](https://github.com/johnkil/Android-Icon-Fonts)
+1. **Print**  A lightweight Android library for use iconic fonts.       
+[https://github.com/johnkil/Print/](https://github.com/johnkil/Print/)
+
+
 
 ###<A NAME="OpenGL"></A>OpenGL
 1. **Rajawali** Rajawali is a 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.         
@@ -1244,6 +1272,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/qiujuer/Genius-Android](https://github.com/qiujuer/Genius-Android)
 1. **TaggerString** TaggerString is very light library which allows to build dynamic string resource in much more readable way.        
 [https://github.com/polok/TaggerString](https://github.com/polok/TaggerString)
+1. **svg2android**  SVG to Android VectorDrawable XML resource file          
+[https://github.com/inloop/svg2android](https://github.com/inloop/svg2android)
+1. **gplay.ws** create a badge to promote your own Android application in a single step         
+[http://gplay.ws/](http://gplay.ws/)
+1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
+[https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
 
 
 ###<A NAME="Other1"></A>Other
