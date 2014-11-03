@@ -389,6 +389,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/adamrocker/simple-side-drawer](https://github.com/adamrocker/simple-side-drawer)
 1. **BlurNavigationDrawer** Android - Blur Navigation Drawer like Etsy app.    
 [https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
+1. **ActionSheetForAndroid**    IOS UIActionSheet in Android         
+[https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
 
 
 ####<A NAME="Dialog"></A>Dialog
@@ -481,6 +483,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/emilsjolander/StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)
 1. **Discrollview**  Scroll + discover = DiscrollView      
 [https://github.com/flavienlaurent/discrollview](https://github.com/flavienlaurent/discrollview)
+1. **SwipeMenuListView**   SwipeMenuListView            
+[https://github.com/baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)
 
 
 
@@ -627,7 +631,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/traex/ExpandableLayout](https://github.com/traex/ExpandableLayout)
 1. **material-ripple**    Android L Ripple effect wrapper for Views       
 [https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
-
+1. **android-PullRefreshLayout**  This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.           
+[https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 
 
 ####<A NAME="Other"></A>Other
