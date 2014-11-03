@@ -4,7 +4,7 @@
 android libs from github
 
 ##System requirements
-Android 2.2+
+Android
 
 ##Notice
 If the lib is no longer being maintained,please do not add it here.
@@ -503,6 +503,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 1. **StaggeredGridView**  A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.      
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
+1. **android-GridViewWithHeaderAndFooter**  GridView with Header and Footer    
+[https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
+
+
 
 ####<A NAME="ViewPager"></A>ViewPager
 1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.      
