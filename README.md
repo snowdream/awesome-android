@@ -36,6 +36,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Other](#Other)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
+* [Gesture](#Gesture)
 * [Game Engine](#Game Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
@@ -813,6 +814,10 @@ If the lib is no longer being maintained,please do not add it here.
 1. **android-saripaar**  UI Validation Library for Android          
 [https://github.com/ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar)
 
+
+###<A NAME="Gesture"></A>Gesture
+1. **android-gesture-detectors**  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector                   
+[https://github.com/Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors)
 
 
 
