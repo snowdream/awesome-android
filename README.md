@@ -277,6 +277,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
+1. **MaterialEditText**  EditText in Material Design               
+[https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+
+
+
 
 ####<A NAME="ImageView"></A>ImageView
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
