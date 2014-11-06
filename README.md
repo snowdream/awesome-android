@@ -244,6 +244,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
 1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.               
 [https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
+1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.         
+[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
+
 
 
 ####<A NAME="TextView/EditText"></A>TextView/EditText
