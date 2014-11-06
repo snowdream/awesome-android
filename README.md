@@ -226,6 +226,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
 1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android     
 [https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
+1. **unirest-java**  Unirest in Java: Simplified, lightweight HTTP client library.           
+[https://github.com/mashape/unirest-java/](https://github.com/mashape/unirest-java/)
 
 
 ###<A NAME="Widget"></A>Widget
