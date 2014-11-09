@@ -31,28 +31,28 @@
       </header>
       <section>
         <h1>
-<a name="awesome-android" class="anchor" href="#awesome-android"><span class="octicon octicon-link"></span></a>awesome-android</h1>
+<a id="awesome-android" class="anchor" href="#awesome-android" aria-hidden="true"><span class="octicon octicon-link"></span></a>awesome-android</h1>
 
 <h2>
-<a name="introduction" class="anchor" href="#introduction"><span class="octicon octicon-link"></span></a>Introduction</h2>
+<a id="introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction</h2>
 
 <p>android libs from github</p>
 
 <h2>
-<a name="system-requirements" class="anchor" href="#system-requirements"><span class="octicon octicon-link"></span></a>System requirements</h2>
+<a id="system-requirements" class="anchor" href="#system-requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>System requirements</h2>
 
-<p>Android 2.2+</p>
+<p>Android</p>
 
 <h2>
-<a name="notice" class="anchor" href="#notice"><span class="octicon octicon-link"></span></a>Notice</h2>
+<a id="notice" class="anchor" href="#notice" aria-hidden="true"><span class="octicon octicon-link"></span></a>Notice</h2>
 
 <p>If the lib is no longer being maintained,please do not add it here.</p>
 
 <h2>
-<a name="libs" class="anchor" href="#libs"><span class="octicon octicon-link"></span></a>Libs</h2>
+<a id="libs" class="anchor" href="#libs" aria-hidden="true"><span class="octicon octicon-link"></span></a>Libs</h2>
 
 <h3>
-<a name="table-of-contents" class="anchor" href="#table-of-contents"><span class="octicon octicon-link"></span></a>Table of contents</h3>
+<a id="table-of-contents" class="anchor" href="#table-of-contents" aria-hidden="true"><span class="octicon octicon-link"></span></a>Table of contents</h3>
 
 <ul>
 <li><a href="#Framework">Framework</a></li>
@@ -76,6 +76,7 @@
 <li><a href="#GridView">GridView</a></li>
 <li><a href="#ViewPager">ViewPager</a></li>
 <li><a href="#ActionBar">ActionBar</a></li>
+<li><a href="#Tabs">Tabs</a></li>
 <li><a href="#Toast">Toast</a></li>
 <li><a href="#SeekBar">SeekBar</a></li>
 <li><a href="#Calendar%20View">Calendar View</a></li>
@@ -83,7 +84,10 @@
 <li><a href="#Other">Other</a></li>
 </ul>
 </li>
+<li><a href="#Template">Template</a></li>
 <li><a href="#Adapter">Adapter</a></li>
+<li><a href="#Validation">Validation</a></li>
+<li><a href="#Gesture">Gesture</a></li>
 <li><a href="#Game%20Engine">Game Engine</a></li>
 <li><a href="#Bluetooth">Bluetooth</a></li>
 <li><a href="#SocialNetworks">SocialNetworks</a></li>
@@ -108,7 +112,7 @@
 </ul>
 
 <h3>
-<a name="framework" class="anchor" href="#framework"><span class="octicon octicon-link"></span></a>
+<a id="framework" class="anchor" href="#framework" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Framework"></a>Framework</h3>
 
 <ol>
@@ -192,10 +196,14 @@
 <strong>BeeFramework_Android</strong>  极简化的Android App开发框架和App内调试工具<br>
 <a href="https://github.com/BeeFramework/BeeFramework_Android">https://github.com/BeeFramework/BeeFramework_Android</a>
 </li>
+<li>
+<strong>RoboMVVM</strong>   MVVM framework for Android<br>
+<a href="https://github.com/debdattabasu/RoboMVVM">https://github.com/debdattabasu/RoboMVVM</a>
+</li>
 </ol>
 
 <h3>
-<a name="eventbus" class="anchor" href="#eventbus"><span class="octicon octicon-link"></span></a>
+<a id="eventbus" class="anchor" href="#eventbus" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="EventBus"></a>EventBus</h3>
 
 <ol>
@@ -219,10 +227,14 @@
 <strong>RxAndroid</strong>  RxJava bindings for Android<br>
 <a href="https://github.com/ReactiveX/RxAndroid">https://github.com/ReactiveX/RxAndroid</a>
 </li>
+<li>
+<strong>tinybus</strong> A lightweight and simple event bus optimized for Android<br>
+<a href="https://github.com/beworker/tinybus">https://github.com/beworker/tinybus</a>
+</li>
 </ol>
 
 <h3>
-<a name="orm" class="anchor" href="#orm"><span class="octicon octicon-link"></span></a>
+<a id="orm" class="anchor" href="#orm" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Orm"></a>Orm</h3>
 
 <ol>
@@ -295,7 +307,7 @@
 </ol>
 
 <h3>
-<a name="image-loading" class="anchor" href="#image-loading"><span class="octicon octicon-link"></span></a>
+<a id="image-loading" class="anchor" href="#image-loading" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Image%20Loading"></a>Image Loading</h3>
 
 <ol>
@@ -330,7 +342,7 @@
 </ol>
 
 <h3>
-<a name="animations" class="anchor" href="#animations"><span class="octicon octicon-link"></span></a>
+<a id="animations" class="anchor" href="#animations" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Animations"></a>Animations</h3>
 
 <ol>
@@ -397,7 +409,7 @@
 </ol>
 
 <h3>
-<a name="network" class="anchor" href="#network"><span class="octicon octicon-link"></span></a>
+<a id="network" class="anchor" href="#network" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Network"></a>Network</h3>
 
 <ol>
@@ -440,17 +452,25 @@
 <strong>enhanced-volley</strong>  An enhanced version of the Volley Networking Toolkit for Android<br>
 <a href="https://github.com/vinaysshenoy/enhanced-volley">https://github.com/vinaysshenoy/enhanced-volley</a>
 </li>
+<li>
+<strong>unirest-java</strong>  Unirest in Java: Simplified, lightweight HTTP client library.<br>
+<a href="https://github.com/mashape/unirest-java/">https://github.com/mashape/unirest-java/</a>
+</li>
 </ol>
 
 <h3>
-<a name="widget" class="anchor" href="#widget"><span class="octicon octicon-link"></span></a>
+<a id="widget" class="anchor" href="#widget" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Widget"></a>Widget</h3>
 
 <h4>
-<a name="ui" class="anchor" href="#ui"><span class="octicon octicon-link"></span></a>
+<a id="ui" class="anchor" href="#ui" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="UI"></a>UI</h4>
 
 <ol>
+<li>
+<strong>android-ui</strong>   Android UI library.  Requires API level 14+<br>
+<a href="https://github.com/markushi/android-ui">https://github.com/markushi/android-ui</a>
+</li>
 <li>
 <strong>GreenDroid</strong>   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.<br>
 <a href="https://github.com/cyrilmottier/GreenDroid">https://github.com/cyrilmottier/GreenDroid</a>
@@ -471,10 +491,14 @@
 <strong>MaterialEverywhere</strong>  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.<br>
 <a href="https://github.com/antoniolg/MaterialEverywhere">https://github.com/antoniolg/MaterialEverywhere</a>
 </li>
+<li>
+<strong>MaterialWidget</strong> Android L design widget in Android 4.0 ~ 4.4.<br>
+<a href="https://github.com/keithellis/MaterialWidget">https://github.com/keithellis/MaterialWidget</a>
+</li>
 </ol>
 
 <h4>
-<a name="textviewedittext" class="anchor" href="#textviewedittext"><span class="octicon octicon-link"></span></a>
+<a id="textviewedittext" class="anchor" href="#textviewedittext" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="TextView/EditText"></a>TextView/EditText</h4>
 
 <ol>
@@ -542,10 +566,14 @@
 <strong>TextJustify-Android</strong> Android Text Full Jusiftication / Wrapping / Justify<br>
 <a href="https://github.com/bluejamesbond/TextJustify-Android">https://github.com/bluejamesbond/TextJustify-Android</a>
 </li>
+<li>
+<strong>MaterialEditText</strong>  EditText in Material Design<br>
+<a href="https://github.com/rengwuxian/MaterialEditText">https://github.com/rengwuxian/MaterialEditText</a>
+</li>
 </ol>
 
 <h4>
-<a name="imageview" class="anchor" href="#imageview"><span class="octicon octicon-link"></span></a>
+<a id="imageview" class="anchor" href="#imageview" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="ImageView"></a>ImageView</h4>
 
 <ol>
@@ -627,7 +655,7 @@
 </ol>
 
 <h4>
-<a name="button" class="anchor" href="#button"><span class="octicon octicon-link"></span></a>
+<a id="button" class="anchor" href="#button" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Button"></a>Button</h4>
 
 <ol>
@@ -666,7 +694,7 @@
 </ol>
 
 <h4>
-<a name="progressbarprogress-view" class="anchor" href="#progressbarprogress-view"><span class="octicon octicon-link"></span></a>
+<a id="progressbarprogress-view" class="anchor" href="#progressbarprogress-view" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Progressbar/Progress%20View"></a>Progressbar/Progress View</h4>
 
 <ol>
@@ -705,7 +733,7 @@
 </ol>
 
 <h4>
-<a name="menu" class="anchor" href="#menu"><span class="octicon octicon-link"></span></a>
+<a id="menu" class="anchor" href="#menu" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Menu"></a>Menu</h4>
 
 <ol>
@@ -776,10 +804,14 @@
 <strong>BlurNavigationDrawer</strong> Android - Blur Navigation Drawer like Etsy app.<br>
 <a href="https://github.com/charbgr/BlurNavigationDrawer">https://github.com/charbgr/BlurNavigationDrawer</a>
 </li>
+<li>
+<strong>ActionSheetForAndroid</strong>    IOS UIActionSheet in Android<br>
+<a href="https://github.com/baoyongzhang/ActionSheetForAndroid">https://github.com/baoyongzhang/ActionSheetForAndroid</a>
+</li>
 </ol>
 
 <h4>
-<a name="dialog" class="anchor" href="#dialog"><span class="octicon octicon-link"></span></a>
+<a id="dialog" class="anchor" href="#dialog" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Dialog"></a>Dialog</h4>
 
 <ol>
@@ -819,10 +851,14 @@
 <strong>sweet-alert-dialog</strong>  Android版的SweetAlert，清新文艺，快意灵动的甜心弹框<br>
 <a href="https://github.com/pedant/sweet-alert-dialog">https://github.com/pedant/sweet-alert-dialog</a>
 </li>
+<li>
+<strong>BlurDialogFragment</strong> Library project to display DialogFragment with a blur effect.<br>
+<a href="https://github.com/tvbarthel/BlurDialogFragment">https://github.com/tvbarthel/BlurDialogFragment</a>
+</li>
 </ol>
 
 <h4>
-<a name="listviewscrollview" class="anchor" href="#listviewscrollview"><span class="octicon octicon-link"></span></a>
+<a id="listviewscrollview" class="anchor" href="#listviewscrollview" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="ListView/ScrollView"></a>ListView/ScrollView</h4>
 
 <ol>
@@ -958,10 +994,14 @@
 <strong>Discrollview</strong>  Scroll + discover = DiscrollView<br>
 <a href="https://github.com/flavienlaurent/discrollview">https://github.com/flavienlaurent/discrollview</a>
 </li>
+<li>
+<strong>SwipeMenuListView</strong>   SwipeMenuListView<br>
+<a href="https://github.com/baoyongzhang/SwipeMenuListView">https://github.com/baoyongzhang/SwipeMenuListView</a>
+</li>
 </ol>
 
 <h4>
-<a name="gridview" class="anchor" href="#gridview"><span class="octicon octicon-link"></span></a>
+<a id="gridview" class="anchor" href="#gridview" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="GridView"></a>GridView</h4>
 
 <ol>
@@ -1001,10 +1041,14 @@
 <strong>StaggeredGridView</strong>  A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.<br>
 <a href="https://github.com/maurycyw/StaggeredGridView">https://github.com/maurycyw/StaggeredGridView</a>
 </li>
+<li>
+<strong>android-GridViewWithHeaderAndFooter</strong>  GridView with Header and Footer<br>
+<a href="https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter">https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter</a>
+</li>
 </ol>
 
 <h4>
-<a name="viewpager" class="anchor" href="#viewpager"><span class="octicon octicon-link"></span></a>
+<a id="viewpager" class="anchor" href="#viewpager" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="ViewPager"></a>ViewPager</h4>
 
 <ol>
@@ -1047,7 +1091,7 @@
 </ol>
 
 <h4>
-<a name="actionbar" class="anchor" href="#actionbar"><span class="octicon octicon-link"></span></a>
+<a id="actionbar" class="anchor" href="#actionbar" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="ActionBar"></a>ActionBar</h4>
 
 <ol>
@@ -1073,7 +1117,18 @@
 </ol>
 
 <h4>
-<a name="toast" class="anchor" href="#toast"><span class="octicon octicon-link"></span></a>
+<a id="tabs" class="anchor" href="#tabs" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<a name="Tabs"></a>Tabs</h4>
+
+<ol>
+<li>
+<strong>MaterialTabs</strong> Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)<br>
+<a href="https://github.com/neokree/MaterialTabs">https://github.com/neokree/MaterialTabs</a>
+</li>
+</ol>
+
+<h4>
+<a id="toast" class="anchor" href="#toast" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Toast"></a>Toast</h4>
 
 <ol>
@@ -1099,7 +1154,7 @@
 </ol>
 
 <h4>
-<a name="seekbar" class="anchor" href="#seekbar"><span class="octicon octicon-link"></span></a>
+<a id="seekbar" class="anchor" href="#seekbar" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="SeekBar"></a>SeekBar</h4>
 
 <ol>
@@ -1126,7 +1181,7 @@
 </ol>
 
 <h4>
-<a name="calendar-view" class="anchor" href="#calendar-view"><span class="octicon octicon-link"></span></a>
+<a id="calendar-view" class="anchor" href="#calendar-view" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Calendar%20View"></a>Calendar View</h4>
 
 <ol>
@@ -1168,7 +1223,7 @@
 </ol>
 
 <h4>
-<a name="layout" class="anchor" href="#layout"><span class="octicon octicon-link"></span></a>
+<a id="layout" class="anchor" href="#layout" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Layout"></a>Layout</h4>
 
 <ol>
@@ -1247,10 +1302,14 @@
 <strong>material-ripple</strong>    Android L Ripple effect wrapper for Views<br>
 <a href="https://github.com/balysv/material-ripple">https://github.com/balysv/material-ripple</a>
 </li>
+<li>
+<strong>android-PullRefreshLayout</strong>  This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.<br>
+<a href="https://github.com/baoyongzhang/android-PullRefreshLayout">https://github.com/baoyongzhang/android-PullRefreshLayout</a>
+</li>
 </ol>
 
 <h4>
-<a name="other" class="anchor" href="#other"><span class="octicon octicon-link"></span></a>
+<a id="other" class="anchor" href="#other" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Other"></a>Other</h4>
 
 <ol>
@@ -1556,7 +1615,18 @@
 </ol>
 
 <h3>
-<a name="adapter" class="anchor" href="#adapter"><span class="octicon octicon-link"></span></a>
+<a id="template" class="anchor" href="#template" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<a name="Template"></a>Template</h3>
+
+<ol>
+<li>
+<strong>android-material-drawer-template</strong>  An Android template with navigation drawer for material design<br>
+<a href="https://github.com/kanytu/android-material-drawer-template">https://github.com/kanytu/android-material-drawer-template</a>
+</li>
+</ol>
+
+<h3>
+<a id="adapter" class="anchor" href="#adapter" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Adapter"></a>Adapter</h3>
 
 <ol>
@@ -1588,10 +1658,40 @@
 <strong>EfficientAdapter</strong>  An efficient adapter to make the use of RecyclerView much easier for Android.<br>
 <a href="https://github.com/StanKocken/EfficientAdapter">https://github.com/StanKocken/EfficientAdapter</a>
 </li>
+<li>
+<strong>EasyListViewAdapters</strong>  This library provides Easy Android ListView Adapters(EasyListAdapter &amp; EasyCursorAdapter) which makes designing Multi-Row-Type ListView very simple &amp; cleaner, It also provides many useful features for ListView.<br>
+<a href="https://github.com/birajpatel/EasyListViewAdapters">https://github.com/birajpatel/EasyListViewAdapters</a>
+</li>
+<li>
+<strong>GridListViewAdapters</strong> This library provides GridAdapters(ListGridAdapter &amp; CursorGridAdapter) which enable you to bind your data in grid card fashion within android.widget.ListView, Also provides many other features related to GridListView.<br>
+<a href="https://github.com/birajpatel/GridListViewAdapters">https://github.com/birajpatel/GridListViewAdapters</a>
+</li>
 </ol>
 
 <h3>
-<a name="game-engine" class="anchor" href="#game-engine"><span class="octicon octicon-link"></span></a>
+<a id="validation" class="anchor" href="#validation" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<a name="Validation"></a>Validation</h3>
+
+<ol>
+<li>
+<strong>android-saripaar</strong>  UI Validation Library for Android<br>
+<a href="https://github.com/ragunathjawahar/android-saripaar">https://github.com/ragunathjawahar/android-saripaar</a>
+</li>
+</ol>
+
+<h3>
+<a id="gesture" class="anchor" href="#gesture" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<a name="Gesture"></a>Gesture</h3>
+
+<ol>
+<li>
+<strong>android-gesture-detectors</strong>  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector<br>
+<a href="https://github.com/Almeros/android-gesture-detectors">https://github.com/Almeros/android-gesture-detectors</a>
+</li>
+</ol>
+
+<h3>
+<a id="game-engine" class="anchor" href="#game-engine" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Game%20Engine"></a>Game Engine</h3>
 
 <ol>
@@ -1618,10 +1718,14 @@
 <strong>LiquidFun</strong> LiquidFun is a 2D physics engine for games Developed by GOOGLE<br>
 <a href="https://github.com/google/liquidfun">https://github.com/google/liquidfun</a>
 </li>
+<li>
+<strong>jbox2d</strong>  a 2d Java physics engine, native port of the C++ physics engines Box2D and LiquidFun<br>
+<a href="https://github.com/jbox2d/jbox2d">https://github.com/jbox2d/jbox2d</a>
+</li>
 </ol>
 
 <h3>
-<a name="bluetooth" class="anchor" href="#bluetooth"><span class="octicon octicon-link"></span></a>
+<a id="bluetooth" class="anchor" href="#bluetooth" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Bluetooth"></a>Bluetooth</h3>
 
 <ol>
@@ -1636,7 +1740,7 @@
 </ol>
 
 <h3>
-<a name="socialnetworks" class="anchor" href="#socialnetworks"><span class="octicon octicon-link"></span></a>
+<a id="socialnetworks" class="anchor" href="#socialnetworks" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="SocialNetworks"></a>SocialNetworks</h3>
 
 <ol>
@@ -1647,7 +1751,7 @@
 </ol>
 
 <h3>
-<a name="xmpp" class="anchor" href="#xmpp"><span class="octicon octicon-link"></span></a>
+<a id="xmpp" class="anchor" href="#xmpp" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="XMPP"></a>XMPP</h3>
 
 <ol>
@@ -1678,7 +1782,7 @@
 </ol>
 
 <h3>
-<a name="plugin" class="anchor" href="#plugin"><span class="octicon octicon-link"></span></a>
+<a id="plugin" class="anchor" href="#plugin" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Plugin"></a>Plugin</h3>
 
 <ol>
@@ -1765,7 +1869,7 @@
 </ol>
 
 <h3>
-<a name="code-generation" class="anchor" href="#code-generation"><span class="octicon octicon-link"></span></a>
+<a id="code-generation" class="anchor" href="#code-generation" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Code%20Generation"></a>Code Generation</h3>
 
 <ol>
@@ -1787,10 +1891,18 @@
 <strong>ParcelablePlease</strong>  Annotation Processor for generating Parcelable code<br>
 <a href="https://github.com/sockeqwe/ParcelablePlease">https://github.com/sockeqwe/ParcelablePlease</a>
 </li>
+<li>
+<strong>pojobuilder</strong> A Java Code Generator for Pojo Builders<br>
+<a href="https://github.com/mkarneim/pojobuilder">https://github.com/mkarneim/pojobuilder</a>
+</li>
+<li>
+<strong>javawriter</strong> A utility class which aids in generating Java source files.<br>
+<a href="https://github.com/square/javawriter">https://github.com/square/javawriter</a>
+</li>
 </ol>
 
 <h3>
-<a name="media" class="anchor" href="#media"><span class="octicon octicon-link"></span></a>
+<a id="media" class="anchor" href="#media" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Media"></a>Media</h3>
 
 <ol>
@@ -1837,7 +1949,7 @@
 </ol>
 
 <h3>
-<a name="embedded" class="anchor" href="#embedded"><span class="octicon octicon-link"></span></a>
+<a id="embedded" class="anchor" href="#embedded" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Embedded"></a>Embedded</h3>
 
 <ol>
@@ -1848,7 +1960,7 @@
 </ol>
 
 <h3>
-<a name="utility" class="anchor" href="#utility"><span class="octicon octicon-link"></span></a>
+<a id="utility" class="anchor" href="#utility" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Utility"></a>Utility</h3>
 
 <ol>
@@ -2027,10 +2139,14 @@
 <strong>esperandro</strong>  Easy SharedPreference Engine foR ANDROid<br>
 <a href="https://github.com/dkunzler/esperandro">https://github.com/dkunzler/esperandro</a>
 </li>
+<li>
+<strong>AndroidCommons</strong> Various useful utilities for Android apps development<br>
+<a href="https://github.com/alexvasilkov/AndroidCommons">https://github.com/alexvasilkov/AndroidCommons</a>
+</li>
 </ol>
 
 <h3>
-<a name="sdk" class="anchor" href="#sdk"><span class="octicon octicon-link"></span></a>
+<a id="sdk" class="anchor" href="#sdk" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="SDK"></a>SDK</h3>
 
 <ol>
@@ -2105,7 +2221,7 @@
 </ol>
 
 <h3>
-<a name="test" class="anchor" href="#test"><span class="octicon octicon-link"></span></a>
+<a id="test" class="anchor" href="#test" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Test"></a>Test</h3>
 
 <ol>
@@ -2140,7 +2256,7 @@
 </ol>
 
 <h3>
-<a name="chart" class="anchor" href="#chart"><span class="octicon octicon-link"></span></a>
+<a id="chart" class="anchor" href="#chart" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Chart"></a>Chart</h3>
 
 <ol>
@@ -2183,7 +2299,7 @@
 </ol>
 
 <h3>
-<a name="icons" class="anchor" href="#icons"><span class="octicon octicon-link"></span></a>
+<a id="icons" class="anchor" href="#icons" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Icons"></a>Icons</h3>
 
 <ol>
@@ -2191,10 +2307,14 @@
 <strong>material-design-icons</strong> Material Design icons by Google<br>
 <a href="https://github.com/google/material-design-icons">https://github.com/google/material-design-icons</a>
 </li>
+<li>
+<strong>Skycons</strong> Forecast / DarkSky's Skycons, Animated Weather icons recreated for Android<br>
+<a href="https://github.com/torryharris/Skycons">https://github.com/torryharris/Skycons</a>
+</li>
 </ol>
 
 <h3>
-<a name="font" class="anchor" href="#font"><span class="octicon octicon-link"></span></a>
+<a id="font" class="anchor" href="#font" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Font"></a>Font</h3>
 
 <ol>
@@ -2206,10 +2326,18 @@
 <strong>android-typeface-helper</strong> Typeface helper for Android<br>
 <a href="https://github.com/norbsoft/android-typeface-helper">https://github.com/norbsoft/android-typeface-helper</a>
 </li>
+<li>
+<strong>Android-Icon-Fonts</strong>  Material and Holo iconic fonts.<br>
+<a href="https://github.com/johnkil/Android-Icon-Fonts">https://github.com/johnkil/Android-Icon-Fonts</a>
+</li>
+<li>
+<strong>Print</strong>  A lightweight Android library for use iconic fonts.<br>
+<a href="https://github.com/johnkil/Print/">https://github.com/johnkil/Print/</a>
+</li>
 </ol>
 
 <h3>
-<a name="opengl" class="anchor" href="#opengl"><span class="octicon octicon-link"></span></a>
+<a id="opengl" class="anchor" href="#opengl" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="OpenGL"></a>OpenGL</h3>
 
 <ol>
@@ -2220,7 +2348,7 @@
 </ol>
 
 <h3>
-<a name="debug" class="anchor" href="#debug"><span class="octicon octicon-link"></span></a>
+<a id="debug" class="anchor" href="#debug" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Debug"></a>Debug</h3>
 
 <ol>
@@ -2231,7 +2359,7 @@
 </ol>
 
 <h3>
-<a name="demo" class="anchor" href="#demo"><span class="octicon octicon-link"></span></a>
+<a id="demo" class="anchor" href="#demo" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Demo"></a>Demo</h3>
 
 <ol>
@@ -2353,10 +2481,14 @@
 <strong>android-best-practices</strong>   Do's and Don'ts for Android development, by Futurice developers<br>
 <a href="https://github.com/futurice/android-best-practices">https://github.com/futurice/android-best-practices</a>
 </li>
+<li>
+<strong>ToolbarMenudrawer</strong>  Quick example for the new Toolbar (and Menudrawer) API. Thanks for starring / forking me. :')<br>
+<a href="https://github.com/I-am-Reinvented/ToolbarMenudrawer">https://github.com/I-am-Reinvented/ToolbarMenudrawer</a>
+</li>
 </ol>
 
 <h3>
-<a name="app" class="anchor" href="#app"><span class="octicon octicon-link"></span></a>
+<a id="app" class="anchor" href="#app" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="App"></a>App</h3>
 
 <ol>
@@ -2429,7 +2561,7 @@
 </ol>
 
 <h3>
-<a name="security" class="anchor" href="#security"><span class="octicon octicon-link"></span></a>
+<a id="security" class="anchor" href="#security" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Security"></a>Security</h3>
 
 <ol>
@@ -2448,7 +2580,7 @@
 </ol>
 
 <h3>
-<a name="tools" class="anchor" href="#tools"><span class="octicon octicon-link"></span></a>
+<a id="tools" class="anchor" href="#tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Tools"></a>Tools</h3>
 
 <ol>
@@ -2500,10 +2632,22 @@
 <strong>TaggerString</strong> TaggerString is very light library which allows to build dynamic string resource in much more readable way.<br>
 <a href="https://github.com/polok/TaggerString">https://github.com/polok/TaggerString</a>
 </li>
+<li>
+<strong>svg2android</strong>  SVG to Android VectorDrawable XML resource file<br>
+<a href="https://github.com/inloop/svg2android">https://github.com/inloop/svg2android</a>
+</li>
+<li>
+<strong>gplay.ws</strong> create a badge to promote your own Android application in a single step<br>
+<a href="http://gplay.ws/">http://gplay.ws/</a>
+</li>
+<li>
+<strong>gradle-play-publisher</strong>    Gradle Plugin to upload your APK and metadata to the Google Play Store<br>
+<a href="https://github.com/Triple-T/gradle-play-publisher">https://github.com/Triple-T/gradle-play-publisher</a>
+</li>
 </ol>
 
 <h3>
-<a name="other-1" class="anchor" href="#other-1"><span class="octicon octicon-link"></span></a>
+<a id="other-1" class="anchor" href="#other-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 <a name="Other1"></a>Other</h3>
 
 <ol>
@@ -2522,7 +2666,7 @@
 </ol>
 
 <h2>
-<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
 
 <pre><code>Copyright (C) 2013 Snowdream Mobile &lt;yanghui1986527@gmail.com&gt;
 
