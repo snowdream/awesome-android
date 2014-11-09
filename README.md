@@ -29,6 +29,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [GridView](#GridView)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
+  * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
   * [Calendar View](#Calendar View)
@@ -556,6 +557,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
 1. **GlassActionBar**    Android - a library that adds a glass-like effect to the action bar.    
 [https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) 
+
+
+####<A NAME="Tabs"></A>Tabs
+1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)      
+[https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
+
+
 
 
 ####<A NAME="Toast"></A>Toast
