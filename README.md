@@ -849,6 +849,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cping/LGame](https://github.com/cping/LGame)
 1. **LiquidFun** LiquidFun is a 2D physics engine for games Developed by GOOGLE    
 [https://github.com/google/liquidfun](https://github.com/google/liquidfun)
+1. **jbox2d**  a 2d Java physics engine, native port of the C++ physics engines Box2D and LiquidFun           
+[https://github.com/jbox2d/jbox2d](https://github.com/jbox2d/jbox2d)
+
+
+
 
 ###<A NAME="Bluetooth"></A>Bluetooth
 1. **android-beacon-library** Allows Android apps to interact with BLE beacons  
