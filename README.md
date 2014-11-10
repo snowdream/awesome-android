@@ -498,6 +498,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/flavienlaurent/discrollview](https://github.com/flavienlaurent/discrollview)
 1. **SwipeMenuListView**   SwipeMenuListView            
 [https://github.com/baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)
+1. **Android-ObservableScrollView** Android library to observe scroll events on scrollable views.        
+[https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
 
 
