@@ -812,6 +812,10 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Template"></A>Template
 1. **android-material-drawer-template**  An Android template with navigation drawer for material design         
 [https://github.com/kanytu/android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)
+1. **material-design-icons-adt-template**  Android Studio / Eclipse ADT template for material-design-icons resources         
+[https://github.com/intrications/material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)
+
+
 
 
 ###<A NAME="Adapter"></A>Adapter
