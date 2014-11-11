@@ -206,6 +206,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
 1. **transitions-everywhere** Backport of Transitions API from Android 4.4. Compatible with Android 2.2+            
 [https://github.com/andkulikov/transitions-everywhere](https://github.com/andkulikov/transitions-everywhere)
+1. **android-ripple-background**  A beautiful ripple animation for your app       
+[https://github.com/skyfishjy/android-ripple-background](https://github.com/skyfishjy/android-ripple-background)
+
+
 
 ###<A NAME="Network"></A>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
