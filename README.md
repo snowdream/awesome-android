@@ -812,6 +812,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/briangriffey/slideuppane](https://github.com/briangriffey/slideuppane)
 1. **SwipeBack**  SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture       
 [https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
+1. **ShowTipsView**   Highligth specific points of interest of your app      
+[https://github.com/fredericojssilva/ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)
+
 
 ###<A NAME="Template"></A>Template
 1. **android-material-drawer-template**  An Android template with navigation drawer for material design         
