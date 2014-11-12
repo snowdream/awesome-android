@@ -1336,6 +1336,9 @@ If the lib is no longer being maintained,please do not add it here.
 [http://gplay.ws/](http://gplay.ws/)
 1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+1. **android-lifecycle** A diagram of the Android Activity / Fragment lifecycle     
+[https://github.com/xxv/android-lifecycle][https://github.com/xxv/android-lifecycle]
+
 
 
 
