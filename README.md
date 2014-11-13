@@ -351,6 +351,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/medyo/fancybuttons](https://github.com/medyo/fancybuttons)
 1. **Android-Bootstrap**    Bootstrap style buttons with Font Awesome     
 [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
+1. **SwitchButton**   SwitchButton          
+[https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)
+
 
 
 ####<A NAME="Progressbar/Progress View"></A>Progressbar/Progress View
@@ -370,6 +373,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
 1. **RefreshActionItem** Android - An action bar item which acts both as a refresh button and as a progress indicator    
 [https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
+1. **CircleProgress**  CircleProgress, DonutProgress, ArcProgress     
+[https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
+
 
 ####<A NAME="Menu"></A>Menu
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.     
@@ -408,6 +414,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
 1. **ActionSheetForAndroid**    IOS UIActionSheet in Android         
 [https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
+1. **MaterialNavigationDrawer**    Navigation Drawer Activity with material design style and simplified methods        
+[https://github.com/neokree/MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer)
 
 
 ####<A NAME="Dialog"></A>Dialog
