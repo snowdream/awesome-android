@@ -822,6 +822,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
 1. **ShowTipsView**   Highligth specific points of interest of your app      
 [https://github.com/fredericojssilva/ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)
+1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.            
+[https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
 
 
 ###<A NAME="Template"></A>Template
