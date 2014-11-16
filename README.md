@@ -1265,6 +1265,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/I-am-Reinvented/ToolbarMenudrawer](https://github.com/I-am-Reinvented/ToolbarMenudrawer)
 1. **Android-PullLayout**  仿UC天气下拉和微信下拉眼睛        
 [https://github.com/BlueMor/Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)
+1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.侧滑     
+[https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 
 
 ###<A NAME="App"></A>App
