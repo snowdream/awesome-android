@@ -290,6 +290,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 1. **MaterialEditText**  EditText in Material Design               
 [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+1. **RoundedLetterView**  RoundedLetterView like the one in Android 5.0 Contacts app           
+[https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
 
 
 
