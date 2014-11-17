@@ -18,6 +18,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Animations](#Animations)
 * [Network](#Network)
 * [Widget](#Widget)
+  * [Material](#Material)
   * [UI](#UI)
   * [TextView/EditText](#TextView/EditText)
   * [ImageView](#ImageView)
@@ -237,6 +238,37 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Widget"></A>Widget
+####<A NAME="Material"></A>Material
+1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0     
+[https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
+1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.                          
+[https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
+1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.         
+[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
+1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)      
+[https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
+1. **material-ripple**    Android L Ripple effect wrapper for Views       
+[https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
+1. **RippleEffect**   Implementation of Ripple effect from Material Design for Android API 14+             
+[https://github.com/traex/RippleEffect](https://github.com/traex/RippleEffect)
+1. **LDrawer**   Android drawer icon with material design animation    
+[https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
+1. **material-design-icons** Material Design icons by Google         
+[https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
+1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.          
+[https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
+1. **MaterialEditText**  EditText in Material Design               
+[https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+1. **material-menu**  Morphing Android menu, back, dismiss and check buttons   
+[https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
+1. **material-dialogs** Not even AppCompat uses Material theming for AlertDialogs on pre-Lollipop. This is a beautiful and easy solution.          
+[https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)
+1. **MaterialNavigationDrawer**    Navigation Drawer Activity with material design style and simplified methods        
+[https://github.com/neokree/MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer)
+1. **MaterialDialog** An Android library for conveniently building Material Design Dialog in Android version 2.2 ~ L.       
+[https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
+
+
 ####<A NAME="UI"></A>UI
 1. **android-ui**   Android UI library.  Requires API level 14+         
 [https://github.com/markushi/android-ui](https://github.com/markushi/android-ui)
@@ -246,12 +278,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/eluleci/FlatUI](https://github.com/eluleci/FlatUI)
 1. **EffectiveAndroidUI** Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".           
 [https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
-1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0     
-[https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
-1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.               
-[https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
-1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.         
-[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
+
 
 
 
@@ -288,8 +315,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-1. **MaterialEditText**  EditText in Material Design               
-[https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
 1. **RoundedLetterView**  RoundedLetterView like the one in Android 5.0 Contacts app           
 [https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
 
@@ -392,8 +417,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
 1. **ActionsContentView**  ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu). The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up. 
 [https://github.com/StevenRudenko/ActionsContentView](https://github.com/StevenRudenko/ActionsContentView)
-1. **material-menu**  Morphing Android menu, back, dismiss and check buttons   
-[https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
 1. **Android-NewPopupMenu**  Android-NewPopupMenu is an android library to create popup menu with GoogleMusic app-like style.      
 [https://github.com/u1aryz/Android-NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)
 1. **android-floating-action-menu** Floating Action Menu for Android. Inspired by the Google Plus floating menu.     
@@ -416,8 +439,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
 1. **ActionSheetForAndroid**    IOS UIActionSheet in Android         
 [https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
-1. **MaterialNavigationDrawer**    Navigation Drawer Activity with material design style and simplified methods        
-[https://github.com/neokree/MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer)
+
 
 
 ####<A NAME="Dialog"></A>Dialog
@@ -433,8 +455,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/PSDev/LicensesDialog](https://github.com/PSDev/LicensesDialog)
 1. **android-styled-dialogs**    A simple library for styling Android dialogs in the Holo theme. It also removes boilerplate code for displaying simple dialogs.     
 [https://github.com/inmite/android-styled-dialogs](https://github.com/inmite/android-styled-dialogs)
-1. **MaterialDialog** An Android library for conveniently building Material Design Dialog in Android version 2.2 ~ L.       
-[https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
 1. **PostOffice**    This is a library for easily constructing Holo and Material Design Dialogs.     
 [https://github.com/r0adkll/PostOffice](https://github.com/r0adkll/PostOffice)
 1. **sweet-alert-dialog**  Android版的SweetAlert，清新文艺，快意灵动的甜心弹框     
@@ -576,8 +596,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ####<A NAME="Tabs"></A>Tabs
-1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)      
-[https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
+
 
 
 
@@ -665,17 +684,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 1. **ExpandableLayout**  Implementation of ExpandableListview with custom header and custom content.        
 [https://github.com/traex/ExpandableLayout](https://github.com/traex/ExpandableLayout)
-1. **material-ripple**    Android L Ripple effect wrapper for Views       
-[https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
 1. **android-PullRefreshLayout**  This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.           
 [https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 
 
 ####<A NAME="Other"></A>Other
-1. **RippleEffect**   Implementation of Ripple effect from Material Design for Android API 14+             
-[https://github.com/traex/RippleEffect](https://github.com/traex/RippleEffect)
-1. **LDrawer**   Android drawer icon with material design animation    
-[https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
 [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
 1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
@@ -1178,8 +1191,6 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Icons"></A>Icons
-1. **material-design-icons** Material Design icons by Google         
-[https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
 1. **Skycons** Forecast / DarkSky's Skycons, Animated Weather icons recreated for Android      
 [https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
 
@@ -1271,8 +1282,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)
 1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.侧滑     
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
-1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.          
-[https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
+
 
 
 
