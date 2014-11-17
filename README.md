@@ -1269,6 +1269,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)
 1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.侧滑     
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
+1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.          
+[https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
+
+
 
 
 ###<A NAME="App"></A>App
