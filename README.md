@@ -271,6 +271,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pnikosis/materialish-progress](https://github.com/pnikosis/materialish-progress)
 1. **MaterialList**  An Android library aimed to get the beautiful CardViews that Google shows at its official design specifications               
 [https://github.com/dexafree/MaterialList](https://github.com/dexafree/MaterialList)
+1. **android-floating-action-button**  Floating Action Button for Android based on Material Design specification            
+[https://github.com/futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
 
 
 ####<A NAME="UI"></A>UI
