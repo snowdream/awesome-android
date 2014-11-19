@@ -269,6 +269,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/drakeet/MaterialDialog](https://github.com/drakeet/MaterialDialog)
 1. **materialish-progress**  A material style progress wheel compatible with 2.3            
 [https://github.com/pnikosis/materialish-progress](https://github.com/pnikosis/materialish-progress)
+1. **MaterialList**  An Android library aimed to get the beautiful CardViews that Google shows at its official design specifications               
+[https://github.com/dexafree/MaterialList](https://github.com/dexafree/MaterialList)
 
 
 ####<A NAME="UI"></A>UI
