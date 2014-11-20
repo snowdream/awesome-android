@@ -1204,6 +1204,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Icons"></A>Icons
 1. **Skycons** Forecast / DarkSky's Skycons, Animated Weather icons recreated for Android      
 [https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
+1. **droidicon**  Over 1600 customizable icons for Android including 750+ Google Material Design icons, 25 ready-made social badges, and more!          
+[https://github.com/theDazzler/droidicon](https://github.com/theDazzler/droidicon)
 
 
 ###<A NAME="Font"></A>Font 
