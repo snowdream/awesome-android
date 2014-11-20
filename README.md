@@ -106,6 +106,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
 1. **RoboMVVM**   MVVM framework for Android          
 [https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
+1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.           
+[https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
+
 
 
 
