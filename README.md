@@ -1131,7 +1131,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
 1. **android-checkout**    Library for Android In-App Billing (Version 3)           
 [https://github.com/serso/android-checkout](https://github.com/serso/android-checkout)
-1. **WeatmherLib**   Android Weather Library: android weather lib to develop weather based app fast and easily      
+1. **WeatherLib**   Android Weather Library: android weather lib to develop weather based app fast and easily      
 [https://github.com/survivingwithandroid/WeatherLib](https://github.com/survivingwithandroid/WeatherLib)
 1. **Clusterkraf** A clustering library for the Google Maps Android API v2.   
 [https://github.com/twotoasters/clusterkraf](https://github.com/twotoasters/clusterkraf)
