@@ -1384,7 +1384,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
 1. **android-lifecycle** A diagram of the Android Activity / Fragment lifecycle     
 [https://github.com/xxv/android-lifecycle][https://github.com/xxv/android-lifecycle]
-
+1. **AndroidDevTools**  收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。    
+[https://github.com/inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 
 
 
