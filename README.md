@@ -371,6 +371,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Alexrs95/WaveDrawable](https://github.com/Alexrs95/WaveDrawable)
 1. **DrawerArrowDrawable**  Visual back-port of the rotating drawer-to-arrow drawable from Android L               
 [https://github.com/ChrisRenke/DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable)
+1. **TextDrawable**  This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.            
+[https://github.com/amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable)
+
 
 ####<A NAME="Button"></A>Button
 1. **circular-progress-button**   Android Circular Progress Button     
