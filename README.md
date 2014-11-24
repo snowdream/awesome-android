@@ -1214,6 +1214,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
 1. **droidicon**  Over 1600 customizable icons for Android including 750+ Google Material Design icons, 25 ready-made social badges, and more!          
 [https://github.com/theDazzler/droidicon](https://github.com/theDazzler/droidicon)
+1. **Android-Iconics**  Android-Iconics is a library to use (almost) any alternative iconfont in your projects. It allows you to add any Android-Iconics compatible typeface-library-addon to your project and you are able to start using that font.                 
+[https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+
+
 
 
 ###<A NAME="Font"></A>Font 
