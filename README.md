@@ -331,7 +331,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 1. **RoundedLetterView**  RoundedLetterView like the one in Android 5.0 Contacts app           
 [https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
-
+1. **Android-SingleInputForm**  A single EditText instead of a classical form. Library that implements flavienlaurent's singleinputform           
+[https://github.com/HeinrichReimer/Android-SingleInputForm](https://github.com/HeinrichReimer/Android-SingleInputForm)
 
 
 
