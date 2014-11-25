@@ -161,6 +161,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
 1. **realm-java** Realm is a mobile database: a replacement for SQLite & ORMs     
 [https://github.com/realm/realm-java](https://github.com/realm/realm-java) 
+1. **DBFlow**   A blazing fast, powerful, and very simple ORM android database library that writes database code for you.               
+[https://github.com/agrosner/DBFlow](https://github.com/agrosner/DBFlow)
+
 
 
 ###<A NAME="Image Loading"></A>Image Loading
@@ -280,6 +283,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/glomadrian/Android-Material-circular-button](https://github.com/glomadrian/Android-Material-circular-button)
 1. **material-drawer**  DrawerLayout implementation for Material design apps   
 [https://github.com/HeinrichReimer/material-drawer](https://github.com/HeinrichReimer/material-drawer)             
+1. **snackbar**   Snackbar Android Library                
+[https://github.com/nispok/snackbar](https://github.com/nispok/snackbar)
 
 
 
@@ -1213,6 +1218,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
 1. **droidicon**  Over 1600 customizable icons for Android including 750+ Google Material Design icons, 25 ready-made social badges, and more!          
 [https://github.com/theDazzler/droidicon](https://github.com/theDazzler/droidicon)
+1. **Android-Iconics**  Android-Iconics is a library to use (almost) any alternative iconfont in your projects. It allows you to add any Android-Iconics compatible typeface-library-addon to your project and you are able to start using that font.                 
+[https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+
+
 
 
 ###<A NAME="Font"></A>Font 
