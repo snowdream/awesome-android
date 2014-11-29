@@ -53,6 +53,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Test](#Test)
 * [Chart](#Chart)
 * [Icons](#Icons)
+* [Colors](#Colors)
 * [Font](#Font)
 * [OpenGL](#OpenGL)
 * [Debug](#Debug)
@@ -285,7 +286,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/HeinrichReimer/material-drawer](https://github.com/HeinrichReimer/material-drawer)             
 1. **snackbar**   Snackbar Android Library                
 [https://github.com/nispok/snackbar](https://github.com/nispok/snackbar)
-
+1. **Android-DialogFragments**  Various DialogFragments for Android.     
+[https://github.com/wada811/Android-DialogFragments](https://github.com/wada811/Android-DialogFragments)
 
 
 ####<A NAME="UI"></A>UI
@@ -1229,6 +1231,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 
 
+###<A NAME="Colors"></A>Colors
+1. **Android-Material-Design-Colors**  Android Material Design Colors       
+[https://github.com/wada811/Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors)
 
 
 ###<A NAME="Font"></A>Font 
