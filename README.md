@@ -647,6 +647,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/vashisthg/StartPointSeekBar](https://github.com/vashisthg/StartPointSeekBar)
 1. **SeekArc** Circular SeekBar view for Android             
 [https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
+1. **discreteSeekBar**    DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.           
+[]()
+
 
 
 ####<A NAME="Calendar View"></A>Calendar View
