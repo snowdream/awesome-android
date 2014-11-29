@@ -648,7 +648,7 @@ If the lib is no longer being maintained,please do not add it here.
 1. **SeekArc** Circular SeekBar view for Android             
 [https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
 1. **discreteSeekBar**    DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.           
-[]()
+[https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 
 
 
