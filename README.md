@@ -1175,6 +1175,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/dgmltn/Android-ShareEverywhere](https://github.com/dgmltn/Android-ShareEverywhere)
 1. **android-simpl3r** Amazon S3 multipart file upload for Android, made simple   
 [https://github.com/jgilfelt/android-simpl3r](https://github.com/jgilfelt/android-simpl3r)
+1. **poly-picker**  Android library project for providing multiple image selection from the device.          
+[https://github.com/jaydeepw/poly-picker](https://github.com/jaydeepw/poly-picker)
 
 
 ###<A NAME="Test"></A>Test
