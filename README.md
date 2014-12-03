@@ -1229,6 +1229,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/theDazzler/droidicon](https://github.com/theDazzler/droidicon)
 1. **Android-Iconics**  Android-Iconics is a library to use (almost) any alternative iconfont in your projects. It allows you to add any Android-Iconics compatible typeface-library-addon to your project and you are able to start using that font.                 
 [https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
+1. **android-material-icons**  Easy to use material icons for Android       
+[https://github.com/Malinskiy/android-material-icons](https://github.com/Malinskiy/android-material-icons)
+
 
 
 ###<A NAME="Colors"></A>Colors
