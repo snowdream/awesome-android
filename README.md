@@ -1188,6 +1188,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jgilfelt/android-simpl3r](https://github.com/jgilfelt/android-simpl3r)
 1. **poly-picker**  Android library project for providing multiple image selection from the device.          
 [https://github.com/jaydeepw/poly-picker](https://github.com/jaydeepw/poly-picker)
+1. **Android-ReactiveLocation**  Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.           
+[https://github.com/mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
+
 
 
 ###<A NAME="Test"></A>Test
