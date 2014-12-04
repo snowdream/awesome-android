@@ -653,8 +653,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 1. **discreteSeekBar**    DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.           
 [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
-
-
+1. **android-comboseekbar**  seekbar with distinct values                  
+[https://github.com/karabaralex/android-comboseekbar](https://github.com/karabaralex/android-comboseekbar)
+1. **RangeSeekbar** A seekbar contains two cursor(left and right). Multiple touch supported.          
+[https://github.com/dolphinwang/RangeSeekbar](https://github.com/dolphinwang/RangeSeekbar)
 
 
 
