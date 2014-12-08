@@ -1429,7 +1429,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Decompiler"></A>Decompiler
 1. **jadx**  Dex to Java decompiler                  
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
-
+1. **simplify**  Generic Android Deobfuscator         
+[https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
 
 
 
