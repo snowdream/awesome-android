@@ -341,6 +341,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
 1. **Android-SingleInputForm**  A single EditText instead of a classical form. Library that implements flavienlaurent's singleinputform           
 [https://github.com/HeinrichReimer/Android-SingleInputForm](https://github.com/HeinrichReimer/Android-SingleInputForm)
+1. **BabushkaText**  A simpler way to style your TextViews         
+[https://github.com/quiqueqs/BabushkaText](https://github.com/quiqueqs/BabushkaText)
 
 
 
