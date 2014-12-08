@@ -1338,6 +1338,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)
 1. **DragLayout** An Android Project.ViewDragHelper.QQ.QQ5.0.侧滑     
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
+1. **rx-android-architecture**   An example project of an Android architecture built on RxJava               
+[https://github.com/tehmou/rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
 
 
 
