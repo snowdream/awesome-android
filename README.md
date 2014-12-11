@@ -345,6 +345,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/quiqueqs/BabushkaText](https://github.com/quiqueqs/BabushkaText)
 1. **MatchView** Include MatchTextView and MatchButton..Come..you will like it      
 [https://github.com/Rogero0o/MatchView](https://github.com/Rogero0o/MatchView)
+1. **ExpandableTextView**  Android's TextView that can expand/collapse like the Google Play's app description            
+[https://github.com/Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
 
 
 
