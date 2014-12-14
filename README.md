@@ -30,6 +30,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [GridView](#GridView)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
+  * [Fragment](#Fragment)
   * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
@@ -626,6 +627,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
 1. **GlassActionBar**    Android - a library that adds a glass-like effect to the action bar.    
 [https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) 
+
+
+####<A NAME="Fragment"></A>Fragment
+1. **Android-CircularRevealFragment**  A demo about how to show and hide fragments using the new Android Lollipop circle reveal transitions.   Minimum API level is 21       
+[https://github.com/ferdy182/Android-CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment)
+
 
 
 ####<A NAME="Tabs"></A>Tabs
