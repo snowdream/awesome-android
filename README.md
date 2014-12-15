@@ -1352,7 +1352,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/BlueMor/DragLayout](https://github.com/BlueMor/DragLayout)
 1. **rx-android-architecture**   An example project of an Android architecture built on RxJava               
 [https://github.com/tehmou/rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
-
+1. **AndroidCoolDragAndDropGridView**  An example of a gridview with various column span items and drag and drop support like Google keep has               
+[https://github.com/theredsunrise/AndroidCoolDragAndDropGridView](https://github.com/theredsunrise/AndroidCoolDragAndDropGridView)
 
 
 
