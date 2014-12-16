@@ -1396,6 +1396,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cubei/FlappyCow](https://github.com/cubei/FlappyCow)
 1.**wakao-app** 哇靠百科 － 一款聚合了众多笑话段子、妹子图、微信公众号文章的Android App。     
 [https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
+1. **Twidere-Android** Twidere is a powerful twitter client for Android 1.6+ 1 , which gives you a full Holo experience and nearly full Twitter's feature.    
+[https://github.com/TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
+
+
+
+
 
 ###<A NAME="Security"></A>Security
 1. **gnupg-for-android** A port of gnupg to Android     
