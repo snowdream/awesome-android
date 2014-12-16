@@ -301,7 +301,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/eluleci/FlatUI](https://github.com/eluleci/FlatUI)
 1. **EffectiveAndroidUI** Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".           
 [https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
-
+1. **ParallaxEverywhere**  Parallax everywhere is a library with alternative android widgets with parallax effects.        
+[https://github.com/Narfss/ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere)
 
 
 
@@ -1206,7 +1207,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/jaydeepw/poly-picker](https://github.com/jaydeepw/poly-picker)
 1. **Android-ReactiveLocation**  Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.           
 [https://github.com/mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
-
+1. **LandscapeVideoCamera**   Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only.        
+[https://github.com/jmolsmobile/LandscapeVideoCamera](https://github.com/jmolsmobile/LandscapeVideoCamera)
 
 
 ###<A NAME="Test"></A>Test
