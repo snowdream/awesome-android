@@ -1359,6 +1359,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/theredsunrise/AndroidCoolDragAndDropGridView](https://github.com/theredsunrise/AndroidCoolDragAndDropGridView)
 1. **Demo-GoogleBook-Android**  An android demo about searching and displaying books details using Google book api.         
 [https://github.com/Jungerr/Demo-GoogleBook-Android](https://github.com/Jungerr/Demo-GoogleBook-Android)
+1. **Demo-YouTuBe-Android**  An android demo about searching and playing youtube videos with youtube player or videoview.          
+[https://github.com/Jungerr/Demo-YouTuBe-Android](https://github.com/Jungerr/Demo-YouTuBe-Android)
+
+
 
 
 
