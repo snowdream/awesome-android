@@ -1357,7 +1357,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/tehmou/rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
 1. **AndroidCoolDragAndDropGridView**  An example of a gridview with various column span items and drag and drop support like Google keep has               
 [https://github.com/theredsunrise/AndroidCoolDragAndDropGridView](https://github.com/theredsunrise/AndroidCoolDragAndDropGridView)
-
+1. **Demo-GoogleBook-Android**  An android demo about searching and displaying books details using Google book api.         
+[https://github.com/Jungerr/Demo-GoogleBook-Android](https://github.com/Jungerr/Demo-GoogleBook-Android)
 
 
 
