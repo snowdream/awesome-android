@@ -349,7 +349,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Rogero0o/MatchView](https://github.com/Rogero0o/MatchView)
 1. **ExpandableTextView**  Android's TextView that can expand/collapse like the Google Play's app description            
 [https://github.com/Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
-
+1. **AccountAutoCompleteEditText**  Simple extension for account suggestion and auto completion.           
+[https://github.com/KeithYokoma/AccountAutoCompleteEditText](https://github.com/KeithYokoma/AccountAutoCompleteEditText)
 
 
 
