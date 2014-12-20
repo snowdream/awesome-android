@@ -395,6 +395,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ChrisRenke/DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable)
 1. **TextDrawable**  This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.            
 [https://github.com/amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable)
+1. **SelectableRoundedImageView**  Android ImageView that supports different radiuses on each corner. It also supports oval(and circle) shape and border. This would be especially useful for using inside CardView which should be rounded only top left and top right corners(Don't forget to call setPreventCornerOverlap(false) on your cardview).                   
+[https://github.com/pungrue26/SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)
+
 
 
 ####<A NAME="Button"></A>Button
