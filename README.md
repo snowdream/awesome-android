@@ -478,6 +478,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/charbgr/BlurNavigationDrawer](https://github.com/charbgr/BlurNavigationDrawer)
 1. **ActionSheetForAndroid**    IOS UIActionSheet in Android         
 [https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
+1. **BottomSheet**  One way to present a set of actions to a user is with bottom sheets, a sheet of paper that slides up from the bottom edge of the screen. Bottom sheets offer flexibility in the display of clear and simple actions that do not need explanation.              
+[https://github.com/soarcn/BottomSheet](https://github.com/soarcn/BottomSheet)
+
+
 
 
 
