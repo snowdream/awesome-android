@@ -35,6 +35,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
   * [Calendar View](#Calendar View)
+  * [RecyclerView](#RecyclerView)
   * [Layout](#Layout)
   * [Other](#Other)
 * [Template](#Template)
@@ -704,6 +705,14 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
 1. **Android-Week-View** Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.      
 [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
+
+
+####<A NAME="RecyclerView"></A>RecyclerView
+1. **SuperRecyclerView**  Pumped up RecyclerView             
+[https://github.com/Malinskiy/SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
+
+
+
 
 
 ####<A NAME="Layout"></A>Layout
