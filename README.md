@@ -898,6 +898,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/fredericojssilva/ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)
 1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.            
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
+1. **WheelView**  Android滚动选择控件        
+[https://github.com/wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView)
+
+
 
 
 ###<A NAME="Template"></A>Template
