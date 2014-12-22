@@ -1385,6 +1385,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Jungerr/Demo-GoogleBook-Android](https://github.com/Jungerr/Demo-GoogleBook-Android)
 1. **Demo-YouTuBe-Android**  An android demo about searching and playing youtube videos with youtube player or videoview.          
 [https://github.com/Jungerr/Demo-YouTuBe-Android](https://github.com/Jungerr/Demo-YouTuBe-Android)
+1. **android-proguard-snippets**  Proguard configurations for common Android libraries            
+[https://github.com/krschultz/android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets)
+
 
 
 
