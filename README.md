@@ -1296,6 +1296,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johnkil/Android-Icon-Fonts](https://github.com/johnkil/Android-Icon-Fonts)
 1. **Print**  A lightweight Android library for use iconic fonts.       
 [https://github.com/johnkil/Print/](https://github.com/johnkil/Print/)
+1. **TypefaceHelper**  Helper object for injecting typeface into various text views of android.             
+[https://github.com/Drivemode/TypefaceHelper](https://github.com/Drivemode/TypefaceHelper)
+
 
 
 
