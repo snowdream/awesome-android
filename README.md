@@ -1487,6 +1487,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/xxv/android-lifecycle][https://github.com/xxv/android-lifecycle]
 1. **AndroidDevTools**  收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。    
 [https://github.com/inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
+1. **gradle-packer-plugin**  Android Packer Gradle Plugin          
+[https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
+
 
 
 ###<A NAME="Decompiler"></A>Decompiler
