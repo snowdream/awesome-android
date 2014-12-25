@@ -442,6 +442,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ManuelPeinado/RefreshActionItem](https://github.com/ManuelPeinado/RefreshActionItem)
 1. **CircleProgress**  CircleProgress, DonutProgress, ArcProgress     
 [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
+1. **WaveView**  A wave view of android,can be used as progress bar.     
+[https://github.com/john990/WaveView](https://github.com/john990/WaveView)
+
 
 
 ####<A NAME="Menu"></A>Menu
