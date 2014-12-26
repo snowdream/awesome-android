@@ -1492,7 +1492,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 1. **gradle-packer-plugin**  Android Packer Gradle Plugin          
 [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
-
+1. **AndroidLocalizationer**  This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.   
+ [https://github.com/westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer)
 
 
 ###<A NAME="Decompiler"></A>Decompiler
