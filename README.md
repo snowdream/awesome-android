@@ -398,6 +398,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable)
 1. **SelectableRoundedImageView**  Android ImageView that supports different radiuses on each corner. It also supports oval(and circle) shape and border. This would be especially useful for using inside CardView which should be rounded only top left and top right corners(Don't forget to call setPreventCornerOverlap(false) on your cardview).                   
 [https://github.com/pungrue26/SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)
+1. **avatar-android**    Rounded and Squared Avatar for Android Applications  
+[https://github.com/Pedroafa/avatar-android](https://github.com/Pedroafa/avatar-android)
+
 
 
 
