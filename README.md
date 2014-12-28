@@ -291,6 +291,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/nispok/snackbar](https://github.com/nispok/snackbar)
 1. **Android-DialogFragments**  Various DialogFragments for Android.     
 [https://github.com/wada811/Android-DialogFragments](https://github.com/wada811/Android-DialogFragments)
+1. **material-range-bar**  Android widget for selecting a range of values.           
+[https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
 
 
 ####<A NAME="UI"></A>UI
