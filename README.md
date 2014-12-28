@@ -425,6 +425,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 1. **SwitchButton**   SwitchButton          
 [https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)
+1. **ToggleButton**  ToggleButton Widget For Android Dev           
+[https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
 
 
 
