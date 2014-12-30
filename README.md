@@ -219,6 +219,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/andkulikov/transitions-everywhere](https://github.com/andkulikov/transitions-everywhere)
 1. **android-ripple-background**  A beautiful ripple animation for your app       
 [https://github.com/skyfishjy/android-ripple-background](https://github.com/skyfishjy/android-ripple-background)
+1. **CircleIndicator**  a lightweight viewpager indicator like in nexus 5 launcher          
+[https://github.com/ongakuer/CircleIndicator](https://github.com/ongakuer/CircleIndicator)
 
 
 
