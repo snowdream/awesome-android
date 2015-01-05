@@ -64,6 +64,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Security](#Security)
 * [Tools](#Tools)
 * [Decompiler](#Decompiler)
+* [Gradle plugin](#Gradle plugin)
 * [Other](#Other1)
 
 
@@ -1510,6 +1511,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator         
 [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
+
+
+###<A NAME="Gradle plugin"></A>Gradle plugin
+1. **android-native-dependencies**  Gradle plugin for resolving and downloading Android native dependencies (.so)          
+[https://github.com/nhachicha/android-native-dependencies](https://github.com/nhachicha/android-native-dependencies)
 
 
 
