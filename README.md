@@ -1402,7 +1402,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/krschultz/android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets)
 1. **ViewPagerHeaderScrollDemo**  ViewPagerHeaderScrollDemo      
 [https://github.com/ongakuer/ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)
-
+ 1. **Quality-Tools-for-Android**  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.           
+[https://github.com/stephanenicolas/Quality-Tools-for-Android](https://github.com/stephanenicolas/Quality-Tools-for-Android)
 
 
 
@@ -1443,7 +1444,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
 1. **Twidere-Android** Twidere is a powerful twitter client for Android 1.6+ 1 , which gives you a full Holo experience and nearly full Twitter's feature.    
 [https://github.com/TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
-
 
 
 
@@ -1504,6 +1504,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
 1. **AndroidLocalizationer**  This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.   
  [https://github.com/westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer)
+
+
 
 
 ###<A NAME="Decompiler"></A>Decompiler
