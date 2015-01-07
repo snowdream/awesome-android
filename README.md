@@ -28,6 +28,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Dialog](#Dialog)
   * [ListView/ScrollView](#ListView/ScrollView)
   * [GridView](#GridView)
+  * [Recyclerview](#Recyclerview)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
   * [Fragment](#Fragment)
@@ -617,6 +618,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
 1. **DynamicGrid**  Drag and drop GridView for Android         
 [https://github.com/askerov/DynamicGrid](https://github.com/askerov/DynamicGrid)
+
+
+####<A NAME="Recyclerview"></A>Recyclerview
+1. **recyclerview-animators**  An Android library which easily add itemanimator to RecyclerView items.              
+[https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+
 
 
 ####<A NAME="ViewPager"></A>ViewPager
