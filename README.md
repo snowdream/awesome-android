@@ -36,7 +36,6 @@ If the lib is no longer being maintained,please do not add it here.
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
   * [Calendar View](#Calendar View)
-  * [RecyclerView](#RecyclerView)
   * [Layout](#Layout)
   * [Other](#Other)
 * [Template](#Template)
@@ -623,6 +622,10 @@ If the lib is no longer being maintained,please do not add it here.
 ####<A NAME="Recyclerview"></A>Recyclerview
 1. **recyclerview-animators**  An Android library which easily add itemanimator to RecyclerView items.              
 [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+1. **SuperRecyclerView**  Pumped up RecyclerView             
+[https://github.com/Malinskiy/SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
+1. **DynamicRecyclerView**  Set of plugable extenstions for Android RecyclerView            
+[https://github.com/ismoli/DynamicRecyclerView](https://github.com/ismoli/DynamicRecyclerView)
 
 
 
@@ -725,13 +728,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
 1. **Android-Week-View** Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.      
 [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
-
-####<A NAME="RecyclerView"></A>RecyclerView
-1. **SuperRecyclerView**  Pumped up RecyclerView             
-[https://github.com/Malinskiy/SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
-
-
 
 
 
