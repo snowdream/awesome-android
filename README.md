@@ -65,6 +65,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Tools](#Tools)
 * [Decompiler](#Decompiler)
 * [Gradle plugin](#Gradle plugin)
+* [Android Wear](#Android Wear)
 * [Other](#Other1)
 
 
@@ -1522,6 +1523,10 @@ If the lib is no longer being maintained,please do not add it here.
 1. **android-native-dependencies**  Gradle plugin for resolving and downloading Android native dependencies (.so)          
 [https://github.com/nhachicha/android-native-dependencies](https://github.com/nhachicha/android-native-dependencies)
 
+
+###<A NAME="Android Wear"></A>Android Wear
+1. **BusWear**  EventBus for Android Wear devices.          
+[https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
 
 
 ###<A NAME="Other1"></A>Other
