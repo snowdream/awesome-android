@@ -406,6 +406,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pungrue26/SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)
 1. **avatar-android**    Rounded and Squared Avatar for Android Applications  
 [https://github.com/Pedroafa/avatar-android](https://github.com/Pedroafa/avatar-android)
+1. **ByakuGallery**  ByakuGallery is an open source Android library that allows the visualization of large images with gesture capabilities. This lib is based on AOSP Camera2.            
+[https://github.com/diegocarloslima/ByakuGallery](https://github.com/diegocarloslima/ByakuGallery)
 
 
 
@@ -1448,6 +1450,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/yongbo000/wakao-app](https://github.com/yongbo000/wakao-app)
 1. **Twidere-Android** Twidere is a powerful twitter client for Android 1.6+ 1 , which gives you a full Holo experience and nearly full Twitter's feature.    
 [https://github.com/TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
+1. **Telecine**  Record full-resolution video on your Android devices.         
+[https://github.com/JakeWharton/Telecine](https://github.com/JakeWharton/Telecine)
 
 
 
