@@ -223,7 +223,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/skyfishjy/android-ripple-background](https://github.com/skyfishjy/android-ripple-background)
 1. **CircleIndicator**  a lightweight viewpager indicator like in nexus 5 launcher          
 [https://github.com/ongakuer/CircleIndicator](https://github.com/ongakuer/CircleIndicator)
-
+1. **Interactive-animation**  Collect android animation                   
+[https://github.com/Rano1/Interactive-animation](https://github.com/Rano1/Interactive-animation)
 
 
 ###<A NAME="Network"></A>Network
