@@ -1452,6 +1452,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android)
 1. **Telecine**  Record full-resolution video on your Android devices.         
 [https://github.com/JakeWharton/Telecine](https://github.com/JakeWharton/Telecine)
+1. **TopNews** 高仿“今日头条”客户端，实现它大部分的功能，练习之作，目的了解怎么发开一个新闻类客户端，从涉及的相关知识点中提升自我水平。         
+[https://github.com/Rano1/TopNews](https://github.com/Rano1/TopNews)
 
 
 
