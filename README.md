@@ -930,6 +930,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
 1. **WheelView**  Android滚动选择控件        
 [https://github.com/wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView)
+1. **CurtainView**  An android view,which can layer on any gravity for swiping.  
+[https://github.com/aicaprio/CurtainView](https://github.com/aicaprio/CurtainView)
 
 
 
