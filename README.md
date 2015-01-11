@@ -114,7 +114,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
 1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.           
 [https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
-
+1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations        
+[https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
 
 
 
