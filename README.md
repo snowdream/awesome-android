@@ -1292,6 +1292,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/bradipao/desCharts](https://github.com/bradipao/desCharts)
 1. **HelloCharts**   Charts/graphs library for Android compatible with API 8+    
 [https://github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
+1. **HoloGraphLibrary** Fork of the HoloGraphLibrary by Daniel Nadeau with additionnal features            
+[https://github.com/Androguide/HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary)
 
 
 ###<A NAME="Icons"></A>Icons
