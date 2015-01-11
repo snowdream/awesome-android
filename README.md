@@ -458,7 +458,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
 1. **WaveView**  A wave view of android,can be used as progress bar.     
 [https://github.com/john990/WaveView](https://github.com/john990/WaveView)
-
+1. **water-wave-progress**  水波按进度上升，带环形进度条     
+[https://github.com/Modificator/water-wave-progress](https://github.com/Modificator/water-wave-progress)
 
 
 ####<A NAME="Menu"></A>Menu
