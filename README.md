@@ -461,6 +461,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/john990/WaveView](https://github.com/john990/WaveView)
 1. **water-wave-progress**  水波按进度上升，带环形进度条     
 [https://github.com/Modificator/water-wave-progress](https://github.com/Modificator/water-wave-progress)
+1. **InfiniteIndicator**  This lib can be used for viewpager infinite loop with indicator easily.         
+[https://github.com/lightSky/InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator)
 
 
 ####<A NAME="Menu"></A>Menu
