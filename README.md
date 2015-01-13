@@ -226,6 +226,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ongakuer/CircleIndicator](https://github.com/ongakuer/CircleIndicator)
 1. **Interactive-animation**  Collect android animation                   
 [https://github.com/Rano1/Interactive-animation](https://github.com/Rano1/Interactive-animation)
+1. **Slidr**  Easily add slide to dismiss functionality to an Activity   
+[https://github.com/r0adkll/Slidr](https://github.com/r0adkll/Slidr)
 
 
 ###<A NAME="Network"></A>Network
