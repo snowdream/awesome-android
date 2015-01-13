@@ -463,6 +463,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Modificator/water-wave-progress](https://github.com/Modificator/water-wave-progress)
 1. **InfiniteIndicator**  This lib can be used for viewpager infinite loop with indicator easily.         
 [https://github.com/lightSky/InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator)
+1. **Android-RoundCornerProgressBar**  Round Corner Progress Bar Library for Android        
+[https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
 
 
 ####<A NAME="Menu"></A>Menu
