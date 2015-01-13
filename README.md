@@ -182,12 +182,16 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/koush/ion](https://github.com/koush/ion)
 1. **glide**   An image loading and caching library for Android focused on smooth scrolling     
 [https://github.com/bumptech/glide](https://github.com/bumptech/glide)
+1. **glide-transformations**  An Android transformation library providing a variety of image transformations for Glide.          
+[https://github.com/wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)
 1. **ImageLoader**  Library for async image loading and caching on Android   
 [https://github.com/novoda/ImageLoader](https://github.com/novoda/ImageLoader)
 1. **webimageloader** Library to handle asynchronous image loading on Android.  
 [https://github.com/lexs/webimageloader](https://github.com/lexs/webimageloader)
 1. **AndroidImageLoader** Andorid library that loads images asynchronously into cache using a thread pool      
 [https://github.com/wuman/AndroidImageLoader](https://github.com/wuman/AndroidImageLoader)
+
+
 
 ###<A NAME="Animations"></A>Animations
 1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items     
