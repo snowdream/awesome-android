@@ -178,6 +178,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)   
 1. **picasso**  A powerful image downloading and caching library for Android   
 [https://github.com/square/picasso](https://github.com/square/picasso)
+1. **picasso-transformations** An Android transformation library providing a variety of image transformations for Picasso             
+[https://github.com/wasabeef/picasso-transformations](https://github.com/wasabeef/picasso-transformations)
 1. **ion**   Android Asynchronous Networking and Image Loading    
 [https://github.com/koush/ion](https://github.com/koush/ion)
 1. **glide**   An image loading and caching library for Android focused on smooth scrolling     
