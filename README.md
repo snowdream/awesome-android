@@ -28,6 +28,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Dialog](#Dialog)
   * [ListView/ScrollView](#ListView/ScrollView)
   * [GridView](#GridView)
+  * [RatingView](#RatingView)
   * [Recyclerview](#Recyclerview)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
@@ -635,6 +636,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
 1. **DynamicGrid**  Drag and drop GridView for Android         
 [https://github.com/askerov/DynamicGrid](https://github.com/askerov/DynamicGrid)
+
+
+####<A NAME="[RatingView]"></A>[RatingView]
+1. **SimpleRatingView**  A rating toggle for Android which switches between 3 rating levels: positive, neutral, and negative.           
+[https://github.com/xiprox/SimpleRatingView](https://github.com/xiprox/SimpleRatingView)
 
 
 ####<A NAME="Recyclerview"></A>Recyclerview
