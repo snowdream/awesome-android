@@ -310,6 +310,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/wada811/Android-DialogFragments](https://github.com/wada811/Android-DialogFragments)
 1. **material-range-bar**  Android widget for selecting a range of values.           
 [https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
+1. **CircularProgressView**  A Material style circular progress bar for Android  
+[https://github.com/rahatarmanahmed/CircularProgressView](https://github.com/rahatarmanahmed/CircularProgressView)
+
+
 
 
 ####<A NAME="UI"></A>UI
@@ -476,6 +480,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lightSky/InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator)
 1. **Android-RoundCornerProgressBar**  Round Corner Progress Bar Library for Android        
 [https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
+
+
+
+
 
 
 ####<A NAME="Menu"></A>Menu
