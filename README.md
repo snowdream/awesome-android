@@ -117,6 +117,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
 1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations        
 [https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
+1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践             
+[https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
 
 
 
