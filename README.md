@@ -527,8 +527,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)
 1. **Side-Menu.Android**  Side-Menu.Android     
 [https://github.com/Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)
-1. **Pull-to-Refresh.Rentals-Android**  This project aims to provide a simple and customizable pull to refresh implementation. Made in Yalantis        
-[https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android)
 
 
 
@@ -624,7 +622,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)
 1. **Android-ObservableScrollView** Android library to observe scroll events on scrollable views.        
 [https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
-
+1. **Pull-to-Refresh.Rentals-Android**  This project aims to provide a simple and customizable pull to refresh implementation. Made in Yalantis        
+[https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android)
 
 
 ####<A NAME="GridView"></A>GridView
