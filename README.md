@@ -237,6 +237,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Rano1/Interactive-animation](https://github.com/Rano1/Interactive-animation)
 1. **Slidr**  Easily add slide to dismiss functionality to an Activity   
 [https://github.com/r0adkll/Slidr](https://github.com/r0adkll/Slidr)
+1. **CircularReveal**  Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+          
+[https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
+
 
 
 ###<A NAME="Network"></A>Network
@@ -312,6 +315,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
 1. **CircularProgressView**  A Material style circular progress bar for Android  
 [https://github.com/rahatarmanahmed/CircularProgressView](https://github.com/rahatarmanahmed/CircularProgressView)
+1. **RippleDrawable**  A port of Ripple Effect from Android L to non L devices   
+[https://github.com/ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
+
 
 
 
