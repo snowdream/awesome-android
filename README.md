@@ -1333,6 +1333,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 1. **android-material-icons**  Easy to use material icons for Android       
 [https://github.com/Malinskiy/android-material-icons](https://github.com/Malinskiy/android-material-icons)
+1. **androidicons**       Androidicons is a professional, handcrafted icon set with 250 icons in 14 different colors and 5 sizes, including an icon font and all sources.         
+[https://github.com/opoloo/androidicons](https://github.com/opoloo/androidicons)
 
 
 
