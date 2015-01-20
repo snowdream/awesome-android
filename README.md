@@ -381,7 +381,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
 1. **AccountAutoCompleteEditText**  Simple extension for account suggestion and auto completion.           
 [https://github.com/KeithYokoma/AccountAutoCompleteEditText](https://github.com/KeithYokoma/AccountAutoCompleteEditText)
-
+1. **TokenAutoComplete**  Gmail style MultiAutoCompleteTextView for Android    
+[https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 
 
 ####<A NAME="ImageView"></A>ImageView
