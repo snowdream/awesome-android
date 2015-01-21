@@ -135,6 +135,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
 1. **tinybus** A lightweight and simple event bus optimized for Android     
 [https://github.com/beworker/tinybus](https://github.com/beworker/tinybus)
+1. **NetworkEvents**  Android library listening network connection state and change of the Wifi signal strength                 
+[https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
+
+
+
 
 ###<A NAME="Orm"></A>Orm 
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
