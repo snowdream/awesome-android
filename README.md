@@ -1468,7 +1468,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ongakuer/ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)
  1. **Quality-Tools-for-Android**  This is an Android sample app + tests that will be used to work on various project to increase the quality of the Android platform.           
 [https://github.com/stephanenicolas/Quality-Tools-for-Android](https://github.com/stephanenicolas/Quality-Tools-for-Android)
-
+1. **socket.io-android-chat**  A simple chat demo for socket.io and Android    
+[https://github.com/nkzawa/socket.io-android-chat](https://github.com/nkzawa/socket.io-android-chat)
 
 
 ###<A NAME="App"></A>App
