@@ -270,6 +270,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
 1. **unirest-java**  Unirest in Java: Simplified, lightweight HTTP client library.           
 [https://github.com/mashape/unirest-java/](https://github.com/mashape/unirest-java/)
+1. **wasp**  Android Network Solution              
+[https://github.com/orhanobut/wasp](https://github.com/orhanobut/wasp)
 
 
 ###<A NAME="Widget"></A>Widget
