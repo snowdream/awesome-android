@@ -244,7 +244,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/r0adkll/Slidr](https://github.com/r0adkll/Slidr)
 1. **CircularReveal**  Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+          
 [https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
-
+1. **BaseAnimation**  BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code！ BaseAnimation, if a new version is updated automatically to remind everyone, I hope everyone will contribute their animated XML files or other source, together to create this open source app！          
+[https://github.com/z56402344/BaseAnimation](https://github.com/z56402344/BaseAnimation)
 
 
 ###<A NAME="Network"></A>Network
