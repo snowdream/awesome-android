@@ -985,7 +985,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView)
 1. **CurtainView**  An android view,which can layer on any gravity for swiping.  
 [https://github.com/aicaprio/CurtainView](https://github.com/aicaprio/CurtainView)
-
+1. **android-pathview**  Android view with both path from constructed path or from svg.            
+[https://github.com/geftimov/android-pathview](https://github.com/geftimov/android-pathview)
 
 
 
