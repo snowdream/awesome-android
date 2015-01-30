@@ -1522,6 +1522,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Rano1/TopNews](https://github.com/Rano1/TopNews)
 1. **WaniKani-for-Android**  An Android client application for the awesome kanji learning website wanikani.com           
 [https://github.com/xiprox/WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)
+1. **OpenLibra-Material**  OpenLibra client on Material Design             
+[https://github.com/saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)
 
 
 
