@@ -542,6 +542,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)
 1. **Side-Menu.Android**  Side-Menu.Android     
 [https://github.com/Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)
+1. **Android-CircleMenu**   自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速旋转。    图标请勿商用。
+[https://github.com/hongyangAndroid/Android-CircleMenu](https://github.com/hongyangAndroid/Android-CircleMenu)
+
+
+
 
 
 
