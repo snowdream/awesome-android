@@ -81,6 +81,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils)
 1. **ThinkAndroid** ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发    
 [https://github.com/white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
+1. **KJFrameForAndroid** KJFrameForAndroid 又叫KJLibrary，是一个android的orm 和 ioc 框架。        
+[https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
 1. **dagger** A fast dependency injector for Android and Java.      
 [https://github.com/square/dagger](https://github.com/square/dagger)
 1. **droidparts**    DI, ORM, JSON, ...  
