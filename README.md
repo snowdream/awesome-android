@@ -1487,7 +1487,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/nkzawa/socket.io-android-chat](https://github.com/nkzawa/socket.io-android-chat)
 1. **AndroidTVExplorer**   A sample project which can be used as a base in order to develop Media Library applications for Android TV. Follow the series of blogs starting at http://www.malmstein.com/blog/2014/10/21/building-applications-for-android-tv/ in order to keep up to date with the process    
 [https://github.com/malmstein/AndroidTVExplorer](https://github.com/malmstein/AndroidTVExplorer)
-
+1. **Android-Notification-Example**   A simple sample showing the different types of notifications on Andoid     
+[https://github.com/saulmm/Android-Notification-Example](https://github.com/saulmm/Android-Notification-Example)
 
 
 
