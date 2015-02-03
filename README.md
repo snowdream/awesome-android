@@ -649,7 +649,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android)
 1. **StikkyHeader**   This is a very simple library for Android that allows you to stick an header to a scrollable view and easly apply animation to it         
 [https://github.com/carlonzo/StikkyHeader](https://github.com/carlonzo/StikkyHeader)     
-
+1. **quickscroll**    Bringing extended scrolling features to Android's native ListView and ExpandableListView.       
+[https://github.com/andraskindler/quickscroll](https://github.com/andraskindler/quickscroll)
 
 
 ####<A NAME="GridView"></A>GridView
