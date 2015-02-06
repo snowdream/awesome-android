@@ -139,7 +139,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/beworker/tinybus](https://github.com/beworker/tinybus)
 1. **NetworkEvents**  Android library listening network connection state and change of the Wifi signal strength                 
 [https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
-
+1. **AndroidEventBus**  A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.         
+[https://github.com/bboyfeiyu/AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
 
 
 
