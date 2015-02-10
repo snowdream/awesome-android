@@ -1000,6 +1000,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/aicaprio/CurtainView](https://github.com/aicaprio/CurtainView)
 1. **android-pathview**  Android view with both path from constructed path or from svg.            
 [https://github.com/geftimov/android-pathview](https://github.com/geftimov/android-pathview)
+1. **DrawableView**  A view that allows to paint and saves the result as a bitmap         
+[https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
+
 
 
 
