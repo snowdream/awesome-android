@@ -1494,6 +1494,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/malmstein/AndroidTVExplorer](https://github.com/malmstein/AndroidTVExplorer)
 1. **Android-Notification-Example**   A simple sample showing the different types of notifications on Andoid     
 [https://github.com/saulmm/Android-Notification-Example](https://github.com/saulmm/Android-Notification-Example)
+1. **androidmvp**  MVP Android Example used to explain how to use this pattern in our Android apps. This code was created to support an article explanation.        
+[https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 
 
 
