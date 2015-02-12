@@ -328,7 +328,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/rahatarmanahmed/CircularProgressView](https://github.com/rahatarmanahmed/CircularProgressView)
 1. **RippleDrawable**  A port of Ripple Effect from Android L to non L devices   
 [https://github.com/ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
-
+1. **MaterialDrawer** A simple take on creating a easy to use and fast material drawer implementation          
+[https://github.com/mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 
 
 
