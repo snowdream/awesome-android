@@ -395,6 +395,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/KeithYokoma/AccountAutoCompleteEditText](https://github.com/KeithYokoma/AccountAutoCompleteEditText)
 1. **TokenAutoComplete**  Gmail style MultiAutoCompleteTextView for Android    
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
+1. **AwesomeText**  A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).     
+[https://github.com/JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText)
+
+
 
 
 ####<A NAME="ImageView"></A>ImageView
