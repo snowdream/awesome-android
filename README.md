@@ -377,6 +377,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/weddingparty/AndroidFloatLabel](https://github.com/weddingparty/AndroidFloatLabel)
 1. **AndroidFloatLabel**  Library project with a custom view that implements the Float Label pattern       
 [https://github.com/IanGClifton/AndroidFloatLabel](https://github.com/IanGClifton/AndroidFloatLabel)
+1. **AwesomeText** Library makes it easy to work with spans. You can hashtag and mentions with AwesomeText
+[https://github.com/JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText)
 1. **TokenAutoComplete** Gmail style MultiAutoCompleteTextView for Android   
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 1. **TextJustify-Android** Android Text Full Jusiftication / Wrapping / Justify    
