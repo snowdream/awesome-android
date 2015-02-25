@@ -1330,7 +1330,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation)
 1. **LandscapeVideoCamera**   Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only.        
 [https://github.com/jmolsmobile/LandscapeVideoCamera](https://github.com/jmolsmobile/LandscapeVideoCamera)
-
+1. **Twiiter Helper**   A twitter helper library that makes Twitter integration very easy and painless.<br>
+[https://github.com/krazykira/Twitter-Helper](https://github.com/krazykira/Twitter-Helper)
 
 ###<A NAME="Test"></A>Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -1629,7 +1630,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Android Wear"></A>Android Wear
 1. **BusWear**  EventBus for Android Wear devices.          
 [https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
-
+1. **CuXtom Cam**  An open source camera for google glass. This is a an alternative to the default camera on Glass. CuXtom Cam provides you the default behaviour along with some special features.          
+[https://github.com/krazykira/CuXtomCam](https://github.com/krazykira/CuXtomCam)
 
 ###<A NAME="Other1"></A>Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
