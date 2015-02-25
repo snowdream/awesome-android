@@ -39,6 +39,12 @@ If the lib is no longer being maintained,please do not add it here.
   * [Calendar View](#Calendar View)
   * [Layout](#Layout)
   * [Other](#Other)
+* [Plugin](#Plugin)
+  * [Gradle](#Gradle)
+  * [Maven](#Maven)
+  * [SBT](#SBT)
+  * [Intellij IDEA / Android Studio](#Intellij IDEA / Android Studio)
+  * [Other](#Other-Plugin)
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
@@ -47,7 +53,6 @@ If the lib is no longer being maintained,please do not add it here.
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
 * [XMPP](#XMPP)
-* [Plugin](#Plugin)
 * [Code Generation](#Code Generation)
 * [Media](#Media)
 * [Embedded](#Embedded)
@@ -65,7 +70,6 @@ If the lib is no longer being maintained,please do not add it here.
 * [Security](#Security)
 * [Tools](#Tools)
 * [Decompiler](#Decompiler)
-* [Gradle plugin](#Gradle plugin)
 * [Android Wear](#Android Wear)
 * [Other](#Other1)
 
@@ -105,6 +109,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
 1. **xCombine** Android Plugin Framework       
 [https://github.com/wyouflf/xCombine](https://github.com/wyouflf/xCombine)
+1. **AndroidDynamicLoader**   A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.   
+[https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
+1. **apf**  Android Plugin Framework      
+[https://github.com/umeng/apf](https://github.com/umeng/apf)
 1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。     
 [https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
 1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way     
@@ -1100,48 +1108,53 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Plugin"></A>Plugin
+####<A NAME="Gradle"></A>Gradle
+1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.      
+[https://github.com/JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
+1. **lint-cleaner-plugin**  A Gradle Plugin for removing unused resources in Android projects.      
+[https://github.com/marcoRS/lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
+1. **groovy-android-gradle-plugin**  A Gradle plugin to support the Groovy language for building Android apps        
+[https://github.com/melix/groovy-android-gradle-plugin](https://github.com/melix/groovy-android-gradle-plugin)
+1. **gradle-android-scala-plugin**  gradle-android-scala-plugin adds scala language support to official gradle android plugin            
+[https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
+1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
+[https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
+####<A NAME="Maven"></A>Maven
 1. **maven-android-plugin**  Android Maven Plugin    
 [https://github.com/jayway/maven-android-plugin](https://github.com/jayway/maven-android-plugin)
 1. **android-archetypes**  Maven Archetypes for Android development       
 [https://github.com/akquinet/android-archetypes](https://github.com/akquinet/android-archetypes)
-1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
-[https://github.com/mosabua/maven-android-sdk-deployer](https://github.com/mosabua/maven-android-sdk-deployer)
-1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.      
-[https://github.com/JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
+1. **m2e-android**  Android for Maven Eclipse                
+[https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
+
+####<A NAME="SBT"></A>SBT
+1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
+[https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
+
+####<A NAME="Intellij IDEA / Android Studio"></A>Intellij IDEA / Android Studio
+1. **android-material-design-icon-generator-plugin**  This plugin help you to set material design icon to your project.      
+[https://github.com/konifar/android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
 1. **android-holo-colors-idea-plugin**    IntelliJ / Android Studio plugin for Android Holo Colors     
 [https://github.com/jeromevdl/android-holo-colors-idea-plugin](https://github.com/jeromevdl/android-holo-colors-idea-plugin)
-1. **lein-droid**  A Leiningen plugin for building Clojure/Android projects    
-[https://github.com/clojure-android/lein-droid](https://github.com/clojure-android/lein-droid)
+1. **android-studio-unit-test-plugin** Android Studio IDE support for Android gradle unit tests. Prepared for Robolectric.    
+[https://github.com/evant/android-studio-unit-test-plugin](https://github.com/evant/android-studio-unit-test-plugin)
 1. **android-selector-chapek**  Android Studio plugin which automatically generates drawable selectors from appropriately named resources.       
 [https://github.com/inmite/android-selector-chapek](https://github.com/inmite/android-selector-chapek)
 1. **android-parcelable-intellij-plugin**  IntelliJ Plugin for Android Parcelable boilerplate code generation.      
 [https://github.com/mcharmas/android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
-1. **AndroidDynamicLoader**   A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.   
-[https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
-1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
-[https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
 1. **adb-idea** A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.         
 [https://github.com/pbreault/adb-idea](https://github.com/pbreault/adb-idea)
-1. **groovy-android-gradle-plugin**  A Gradle plugin to support the Groovy language for building Android apps        
-[https://github.com/melix/groovy-android-gradle-plugin](https://github.com/melix/groovy-android-gradle-plugin)
-1. **apf**  Android Plugin Framework      
-[https://github.com/umeng/apf](https://github.com/umeng/apf)
-1. **lint-cleaner-plugin**  A Gradle Plugin for removing unused resources in Android projects.      
-[https://github.com/marcoRS/lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
-1. **vim-android**  Vim plugin to do android development.     
-[https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
-1. **gradle-android-scala-plugin**  gradle-android-scala-plugin adds scala language support to official gradle android plugin            
-[https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
 1. **android-butterknife-zelezny** Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.       
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
-1. **m2e-android**  Android for Maven Eclipse                
-[https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
+
+####<A NAME="Other-Plugin"></A>Other
+1. **lein-droid**  A Leiningen plugin for building Clojure/Android projects    
+[https://github.com/clojure-android/lein-droid](https://github.com/clojure-android/lein-droid)
 1. **AndroidProguardScala** AndroidProguardScala is an Eclipse plugin that speeds up the development process when you're using Scala on Android.     
 [https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
-1. **android-studio-unit-test-plugin** Android Studio IDE support for Android gradle unit tests. Prepared for Robolectric.    
-[https://github.com/evant/android-studio-unit-test-plugin](https://github.com/evant/android-studio-unit-test-plugin)
-
-
+1. **vim-android**  Vim plugin to do android development.     
+[https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
 
 
 ###<A NAME="Code Generation"></A>Code Generation
@@ -1569,6 +1582,8 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Tools"></A>Tools
+1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
+[https://github.com/mosabua/maven-android-sdk-deployer](https://github.com/mosabua/maven-android-sdk-deployer)
 1. **scrollscreenshot**  Make Android screenshots of scrollable screen content    
 [https://github.com/PGSSoft/scrollscreenshot](https://github.com/PGSSoft/scrollscreenshot)
 
@@ -1600,8 +1615,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inloop/svg2android](https://github.com/inloop/svg2android)
 1. **gplay.ws** create a badge to promote your own Android application in a single step         
 [http://gplay.ws/](http://gplay.ws/)
-1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
-[https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
 1. **android-lifecycle** A diagram of the Android Activity / Fragment lifecycle     
 [https://github.com/xxv/android-lifecycle][https://github.com/xxv/android-lifecycle]
 1. **AndroidDevTools**  收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。    
@@ -1619,11 +1632,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator         
 [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
-
-
-###<A NAME="Gradle plugin"></A>Gradle plugin
-1. **android-native-dependencies**  Gradle plugin for resolving and downloading Android native dependencies (.so)          
-[https://github.com/nhachicha/android-native-dependencies](https://github.com/nhachicha/android-native-dependencies)
 
 
 ###<A NAME="Android Wear"></A>Android Wear
