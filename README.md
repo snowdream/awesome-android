@@ -182,7 +182,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/realm/realm-java](https://github.com/realm/realm-java) 
 1. **DBFlow**   A blazing fast, powerful, and very simple ORM android database library that writes database code for you.               
 [https://github.com/agrosner/DBFlow](https://github.com/agrosner/DBFlow)
-
+1. **sqlbrite**  A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.                
+[https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
 
 
 ###<A NAME="Image Loading"></A>Image Loading
