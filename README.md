@@ -1374,6 +1374,8 @@ If the lib is no longer being maintained,please do not add it here.
 ###<A NAME="Chart"></A>Chart
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
 [https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
+1. **achartengine** This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.                   
+[http://www.achartengine.org/](http://www.achartengine.org/)
 1. **MPAndroidChart**  A simple Android chart view / graph view library, supporting line- bar- pie- and candlestick charts as well as scaling, dragging and animations.   
 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 1. **EazeGraph** An Android chart and graph library      
