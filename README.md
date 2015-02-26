@@ -76,10 +76,6 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Framework"></A>Framework
-1. **roboguice** Google Guice on Android, version 2.0     
-[https://github.com/roboguice/roboguice](https://github.com/roboguice/roboguice)
-1. **AndroidAnnotations**  Fast Android Development. Easy maintainance.    
-[https://github.com/excilys/androidannotations](https://github.com/excilys/androidannotations)
 1. **afinal**    Afinal是一个android的ioc，orm框架    
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 1. **xUtils****    android orm, bitmap, http, view inject...     
@@ -88,12 +84,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
 1. **KJFrameForAndroid** KJFrameForAndroid 又叫KJLibrary，是一个android的orm 和 ioc 框架。        
 [https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
-1. **dagger** A fast dependency injector for Android and Java.      
-[https://github.com/square/dagger](https://github.com/square/dagger)
 1. **droidparts**    DI, ORM, JSON, ...  
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
-1. **butterknife** View "injection" library for Android.         
-[https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
 1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.     
@@ -1159,6 +1151,14 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 ###<A NAME="Injector"></A>Injector
+1. **AndroidAnnotations**  Fast Android Development. Easy maintainance.    
+[https://github.com/excilys/androidannotations](https://github.com/excilys/androidannotations)
+1. **roboguice** Google Guice on Android, version 2.0     
+[https://github.com/roboguice/roboguice](https://github.com/roboguice/roboguice)
+1. **butterknife** View "injection" library for Android.         
+[https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
+1. **dagger** A fast dependency injector for Android and Java.      
+[https://github.com/square/dagger](https://github.com/square/dagger)
 1. **PreferenceInjector**  A SharedPreference injection library for Android    
 [https://github.com/denley/PreferenceInjector](https://github.com/denley/PreferenceInjector)
 
