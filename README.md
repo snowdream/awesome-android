@@ -1110,8 +1110,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/melix/groovy-android-gradle-plugin](https://github.com/melix/groovy-android-gradle-plugin)
 1. **gradle-android-scala-plugin**  gradle-android-scala-plugin adds scala language support to official gradle android plugin            
 [https://github.com/saturday06/gradle-android-scala-plugin](https://github.com/saturday06/gradle-android-scala-plugin)
+1. **gradle-protobuf-plugin**  Gradle plugin for Google Protocol Buffers       
+[https://github.com/andrewkroh/gradle-protobuf-plugin](https://github.com/andrewkroh/gradle-protobuf-plugin)
 1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
 
 ####<A NAME="Maven"></A>Maven
 1. **maven-android-plugin**  Android Maven Plugin    
