@@ -45,6 +45,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [SBT](#SBT)
   * [Intellij IDEA / Android Studio](#Intellij IDEA / Android Studio)
   * [Other](#Other-Plugin)
+* [Injector](#Injector)
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
@@ -1155,6 +1156,13 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
 1. **vim-android**  Vim plugin to do android development.     
 [https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
+
+
+###<A NAME="Injector"></A>Injector
+1. **PreferenceInjector**  A SharedPreference injection library for Android    
+[https://github.com/denley/PreferenceInjector](https://github.com/denley/PreferenceInjector)
+
+
 
 
 ###<A NAME="Code Generation"></A>Code Generation
