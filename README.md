@@ -251,6 +251,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
 1. **BaseAnimation**  BaseAnimation network Android animation set, custom controls, nearly 200 kinds of source code！ BaseAnimation, if a new version is updated automatically to remind everyone, I hope everyone will contribute their animated XML files or other source, together to create this open source app！          
 [https://github.com/z56402344/BaseAnimation](https://github.com/z56402344/BaseAnimation)
+1. **ArcAnimator**  ArcAnimator helps to create arc transition animation: 2.3.+       
+[https://github.com/asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
+
 
 
 ###<A NAME="Network"></A>Network
