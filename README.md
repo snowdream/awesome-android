@@ -704,6 +704,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Malinskiy/SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView)
 1. **DynamicRecyclerView**  Set of plugable extenstions for Android RecyclerView            
 [https://github.com/ismoli/DynamicRecyclerView](https://github.com/ismoli/DynamicRecyclerView)
+1. **android-advancedrecyclerview**  RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)                            
+[https://github.com/h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
 
 
 
