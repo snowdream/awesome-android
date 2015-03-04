@@ -339,6 +339,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 1. **android-materialshadowninepatch**  Provides 9-patch based drop shadow for view elements. Works on API level 9 or later.                                 
 [https://github.com/h6ah4i/android-materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch)
+1. **SearchMenuAnim**  SearchMenuAnim              
+[https://github.com/kongnanlive/SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)
 
 
 
