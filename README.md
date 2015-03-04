@@ -1126,6 +1126,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/andrewkroh/gradle-protobuf-plugin](https://github.com/andrewkroh/gradle-protobuf-plugin)
 1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+1. **Barber**  A custom view styling library for Android that generates the obtainStyledAttributes() and TypedArray boilerplate code for you.              
+[https://github.com/hzsweers/barber](https://github.com/hzsweers/barber)
 
 
 ####<A NAME="Maven"></A>Maven
