@@ -1126,8 +1126,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/andrewkroh/gradle-protobuf-plugin](https://github.com/andrewkroh/gradle-protobuf-plugin)
 1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store          
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
-1. **Barber**  A custom view styling library for Android that generates the obtainStyledAttributes() and TypedArray boilerplate code for you.              
-[https://github.com/hzsweers/barber](https://github.com/hzsweers/barber)
+
 
 
 ####<A NAME="Maven"></A>Maven
@@ -1197,7 +1196,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mkarneim/pojobuilder](https://github.com/mkarneim/pojobuilder)
 1. **javawriter** A utility class which aids in generating Java source files.    
 [https://github.com/square/javawriter](https://github.com/square/javawriter)
-
+1. **Barber**  A custom view styling library for Android that generates the obtainStyledAttributes() and TypedArray boilerplate code for you.              
+[https://github.com/hzsweers/barber](https://github.com/hzsweers/barber)
 
 
 
