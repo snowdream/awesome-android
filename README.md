@@ -342,6 +342,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/h6ah4i/android-materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch)
 1. **SearchMenuAnim**  SearchMenuAnim              
 [https://github.com/kongnanlive/SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)
+1. **AdvancedMaterialDrawer**   A Material Drawer implementation (Like gMail App)               
+[https://github.com/madcyph3r/AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)
 
 
 
