@@ -38,6 +38,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [SeekBar](#SeekBar)
   * [Calendar View](#Calendar View)
   * [Layout](#Layout)
+  * [VideoView](#VideoView)
   * [Other](#Other)
 * [Plugin](#Plugin)
   * [Gradle](#Gradle)
@@ -861,6 +862,10 @@ If the lib is no longer being maintained,please do not add it here.
 1. **DragTopLayout** Drag down to show a view on the top.              
 [https://github.com/chenupt/DragTopLayout](https://github.com/chenupt/DragTopLayout)
 
+
+####<A NAME="VideoView"></A>VideoView
+1. **video-crop**  Android Video Crop                
+[https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
 
 
 ####<A NAME="Other"></A>Other
