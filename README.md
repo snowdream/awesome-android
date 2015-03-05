@@ -1330,6 +1330,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/greenrobot/greenrobot-common](https://github.com/greenrobot/greenrobot-common)
 1. **puree-android**  Puree is a log collector for Android.                
 [https://github.com/cookpad/puree-android](https://github.com/cookpad/puree-android)
+1. **hawk**  Secure Simple Key-Value Storage for Android                       
+[https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)
 
 
 ###<A NAME="SDK"></A>SDK 
