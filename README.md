@@ -734,6 +734,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/inovex/ViewPager3D](https://github.com/inovex/ViewPager3D)
 1. **LoopingViewPager** An android ViewPager extension allowing infinite scrolling        
 [https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
+1. **SpringIndicator**  A spring indicator like Morning Routine guide.        
+[https://github.com/chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator)
 
 
 ####<A NAME="ActionBar"></A>ActionBar
