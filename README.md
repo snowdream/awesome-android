@@ -1613,6 +1613,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/xiprox/WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)
 1. **OpenLibra-Material**  OpenLibra client on Material Design             
 [https://github.com/saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)
+1. **superCleanMaster**  一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。          
+[https://github.com/joyoyao/superCleanMaster](https://github.com/joyoyao/superCleanMaster)
 
 
 
