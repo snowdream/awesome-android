@@ -344,6 +344,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/kongnanlive/SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)
 1. **AdvancedMaterialDrawer**   A Material Drawer implementation (Like gMail App)               
 [https://github.com/madcyph3r/AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)
+1. **ZDepthShadowLayout**   Android - draw z-depth shadow of MaterialDesign    
+[https://github.com/ShogoMizumoto/ZDepthShadowLayout](https://github.com/ShogoMizumoto/ZDepthShadowLayout)
+
+
 
 
 
