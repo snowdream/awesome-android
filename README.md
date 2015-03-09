@@ -1215,6 +1215,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/javawriter](https://github.com/square/javawriter)
 1. **Barber**  A custom view styling library for Android that generates the obtainStyledAttributes() and TypedArray boilerplate code for you.              
 [https://github.com/hzsweers/barber](https://github.com/hzsweers/barber)
+1. **ContentProviderCodeGenerator**  A code generator to create Android ContentProvider             
+[https://github.com/foxykeep/ContentProviderCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator)
+
+
 
 
 
