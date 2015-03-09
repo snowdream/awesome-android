@@ -1217,6 +1217,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/hzsweers/barber](https://github.com/hzsweers/barber)
 1. **ContentProviderCodeGenerator**  A code generator to create Android ContentProvider             
 [https://github.com/foxykeep/ContentProviderCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator)
+1. **Android-AnnotatedSQL**  Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes :)           
+[https://github.com/hamsterksu/Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL)
 
 
 
