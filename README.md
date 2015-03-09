@@ -598,6 +598,10 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 1. **BlurDialogFragment** Library project to display DialogFragment with a blur effect.              
 [https://github.com/tvbarthel/BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
+1. **dialogplus** Simple,easy dialog for android                     
+[https://github.com/orhanobut/dialogplus](https://github.com/orhanobut/dialogplus)
+
+
 
 
 ####<A NAME="ListView/ScrollView"></A>ListView/ScrollView
