@@ -254,6 +254,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/z56402344/BaseAnimation](https://github.com/z56402344/BaseAnimation)
 1. **ArcAnimator**  ArcAnimator helps to create arc transition animation: 2.3.+       
 [https://github.com/asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
+1. **shimmer-android**  An easy, flexible way to add a shimmering effect to any view in an Android app.        
+[https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
 
 
 
