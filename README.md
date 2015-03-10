@@ -14,7 +14,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Framework](#Framework)
 * [EventBus](#EventBus)
 * [Orm](#Orm)
-* [Image Loading](#Image Loading)
+* [Image Loading](#Image_Loading)
 * [Animations](#Animations)
 * [Network](#Network)
 * [Widget](#Widget)
@@ -23,7 +23,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [TextView/EditText](#TextView/EditText)
   * [ImageView](#ImageView)
   * [Button](#Button)
-  * [Progressbar/Progress View](#Progressbar/Progress View)
+  * [Progressbar/Progress View](#Progressbar/Progress_View)
   * [Menu](#Menu)
   * [Dialog](#Dialog)
   * [ListView/ScrollView](#ListView/ScrollView)
@@ -36,7 +36,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
-  * [Calendar View](#Calendar View)
+  * [Calendar View](#Calendar_View)
   * [Layout](#Layout)
   * [VideoView](#VideoView)
   * [Other](#Other)
@@ -44,18 +44,18 @@ If the lib is no longer being maintained,please do not add it here.
   * [Gradle](#Gradle)
   * [Maven](#Maven)
   * [SBT](#SBT)
-  * [Intellij IDEA / Android Studio](#Intellij IDEA / Android Studio)
+  * [Intellij IDEA / Android Studio](#Intellij_IDEA_/_Android_Studio)
   * [Other](#Other-Plugin)
 * [Injector](#Injector)
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
 * [Gesture](#Gesture)
-* [Game Engine](#Game Engine)
+* [Game Engine](#Game_Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
 * [XMPP](#XMPP)
-* [Code Generation](#Code Generation)
+* [Code Generation](#Code_Generation)
 * [Media](#Media)
 * [Embedded](#Embedded)
 * [Utility](#Utility)
@@ -72,7 +72,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Security](#Security)
 * [Tools](#Tools)
 * [Decompiler](#Decompiler)
-* [Android Wear](#Android Wear)
+* [Android Wear](#Android_Wear)
 * [Other](#Other1)
 
 
@@ -187,7 +187,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
 
 
-###<A NAME="Image Loading"></A>Image Loading
+###<A NAME="Image_Loading"></A>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
 [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)   
 1. **picasso**  A powerful image downloading and caching library for Android   
@@ -498,7 +498,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-####<A NAME="Progressbar/Progress View"></A>Progressbar/Progress View
+####<A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
 1. **NumberProgressBar**    A beautiful, slim Android ProgressBar.        
@@ -812,7 +812,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-####<A NAME="Calendar View"></A>Calendar View
+####<A NAME="Calendar_View"></A>Calendar View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid) 
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
@@ -1086,7 +1086,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-###<A NAME="Game Engine"></A>Game Engine
+###<A NAME="Game_Engine"></A>Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
 [https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/) 
 1. **libgdx**    Desktop/Android/HTML5/iOS Java game development framework     
@@ -1160,7 +1160,7 @@ If the lib is no longer being maintained,please do not add it here.
 1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
 [https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
 
-####<A NAME="Intellij IDEA / Android Studio"></A>Intellij IDEA / Android Studio
+####<A NAME="Intellij_IDEA_/_Android_Studio"></A>Intellij IDEA / Android Studio
 1. **android-material-design-icon-generator-plugin**  This plugin help you to set material design icon to your project.      
 [https://github.com/konifar/android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
 1. **android-holo-colors-idea-plugin**    IntelliJ / Android Studio plugin for Android Holo Colors     
@@ -1200,7 +1200,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-###<A NAME="Code Generation"></A>Code Generation
+###<A NAME="Code_Generation"></A>Code Generation
 1. **parceler** Android Parcelables made easy through code generation.   
 [https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
 1. auto-parcel  Android Parcelable models made easy     
@@ -1697,7 +1697,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
 
 
-###<A NAME="Android Wear"></A>Android Wear
+###<A NAME="Android_Wear"></A>Android Wear
 1. **BusWear**  EventBus for Android Wear devices.          
 [https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
 1. **CuXtom Cam**  An open source camera for google glass. This is a an alternative to the default camera on Glass. CuXtom Cam provides you the default behaviour along with some special features.          
