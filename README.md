@@ -495,6 +495,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
 1. **FabButton**  Android Floating ActionButton with a progress indicator ring       
 [https://github.com/ckurtm/FabButton](https://github.com/ckurtm/FabButton)
+1. **SlideSwitch**  A button that you can slide on or off                
+[https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
 
 
 
