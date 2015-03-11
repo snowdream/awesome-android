@@ -724,7 +724,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ismoli/DynamicRecyclerView](https://github.com/ismoli/DynamicRecyclerView)
 1. **android-advancedrecyclerview**  RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)                            
 [https://github.com/h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
-
+1. **UltimateRecyclerView** A RecyclerView(advanced and flexible version of ListView) with refreshing,loading more,animation and many other features.    
+[https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
 
 
 ####<A NAME="ViewPager"></A>ViewPager
