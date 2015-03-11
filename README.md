@@ -875,6 +875,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 1. **DragTopLayout** Drag down to show a view on the top.              
 [https://github.com/chenupt/DragTopLayout](https://github.com/chenupt/DragTopLayout)
+1. **shadow-layout**  Android Shadow Layout          
+[https://github.com/dmytrodanylyk/shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
 
 
 ####<A NAME="VideoView"></A>VideoView
