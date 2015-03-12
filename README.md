@@ -256,6 +256,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
 1. **shimmer-android**  An easy, flexible way to add a shimmering effect to any view in an Android app.        
 [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
+1. **Material-Animations**  Android Transition animations explanation with examples.             
+[https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
 
 
 
