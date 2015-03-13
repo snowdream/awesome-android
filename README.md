@@ -1359,6 +1359,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cookpad/puree-android](https://github.com/cookpad/puree-android)
 1. **hawk**  Secure Simple Key-Value Storage for Android                       
 [https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)
+1. **palettehelper**  Utility Android app for generating color palettes of images using the Palette library. Written in Kotlin.              
+[https://github.com/hzsweers/palettehelper](https://github.com/hzsweers/palettehelper)
+
 
 
 ###<A NAME="SDK"></A>SDK 
