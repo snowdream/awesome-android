@@ -123,6 +123,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
 1. **CJFrameForAndroid**  CJFrameForAndroid 是一个实现android插件化开发的框架。使用CJFrameForAndroid，apk动态加载不再是难题，更重要的是可以轻松实现插件与APP项目之间的解耦。           
 [https://github.com/kymjs/CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
+1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.      
+[https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
 
 
 
