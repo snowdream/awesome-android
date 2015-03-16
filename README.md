@@ -1049,6 +1049,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/geftimov/android-pathview](https://github.com/geftimov/android-pathview)
 1. **DrawableView**  A view that allows to paint and saves the result as a bitmap         
 [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
+1. **AndroidNotificationJson**  Convert JSON to Android Notification, useful for push notifications (GCM)  
+[https://github.com/8tory/AndroidNotificationJson](https://github.com/8tory/AndroidNotificationJson)
 
 
 
