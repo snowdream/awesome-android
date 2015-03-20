@@ -1639,6 +1639,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/w446108264/XhsWelcomeAnim](https://github.com/w446108264/XhsWelcomeAnim)
 1. **palettehelper**  Utility Android app for generating color palettes of images using the Palette library. Written in Kotlin.              
 [https://github.com/hzsweers/palettehelper](https://github.com/hzsweers/palettehelper)
+1. **OpenImgur**  Open source Imgur Android App                 
+[https://github.com/Kennyc1012/OpenImgur](https://github.com/Kennyc1012/OpenImgur)
+
 
 
 ###<A NAME="Security"></A>Security
