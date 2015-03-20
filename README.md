@@ -474,6 +474,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/diegocarloslima/ByakuGallery](https://github.com/diegocarloslima/ByakuGallery)
 1. **DexMovingImageView**  DMIV aims to provide a flexible and customizable instrument for automated images moving on display. It provides scroll, gyroscope or time based moving. But you can create your own evaluator.      
 [https://github.com/dexlex/DexMovingImageView](https://github.com/dexlex/DexMovingImageView)
+1. **SimpleTagImageView** ImageView with a tag in android. So it's a ImageView.      
+[https://github.com/wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)
+
 
 
 
