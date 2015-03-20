@@ -352,7 +352,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/madcyph3r/AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)
 1. **ZDepthShadowLayout**   Android - draw z-depth shadow of MaterialDesign    
 [https://github.com/ShogoMizumoto/ZDepthShadowLayout](https://github.com/ShogoMizumoto/ZDepthShadowLayout)
-
+1. **MaterialPowerMenu**  A demo of the power menu with Reveal and other animations            
+[https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 
 
 
