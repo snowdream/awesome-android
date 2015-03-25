@@ -778,6 +778,8 @@ If the lib is no longer being maintained,please do not add it here.
 ####<A NAME="Fragment"></A>Fragment
 1. **Android-CircularRevealFragment**  A demo about how to show and hide fragments using the new Android Lollipop circle reveal transitions.   Minimum API level is 21       
 [https://github.com/ferdy182/Android-CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment)
+1. **StatedFragment**  The library is documented in http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en              
+[https://github.com/nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment)
 
 
 
