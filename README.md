@@ -737,6 +737,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
 1. **UltimateRecyclerView** A RecyclerView(advanced and flexible version of ListView) with refreshing,loading more,animation and many other features.    
 [https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
+1. **RecyclerView-FlexibleDivider**  Android library providing simple way to control divider items of RecyclerView                                      
+[https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+
 
 
 ####<A NAME="ViewPager"></A>ViewPager
