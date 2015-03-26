@@ -451,7 +451,7 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/Pkmmte/CircularImageView](https://github.com/Pkmmte/CircularImageView)
 1. **CircularImageView** Create circular image view in android      
 [https://github.com/lopspower/CircularImageView](https://github.com/lopspower/CircularImageView)
-1. **android-crop** Android library project for cropping images     
+1. **android-crop** Android librdary project for cropping images     
 [https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
 1. **cropimage**  Replacement for deprecated official Android crop image function        
 [https://github.com/biokys/cropimage](https://github.com/biokys/cropimage)
