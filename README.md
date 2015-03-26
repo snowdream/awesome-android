@@ -717,8 +717,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
 1. **android-GridViewWithHeaderAndFooter**  GridView with Header and Footer    
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
-1. **DynamicGrid**  Drag and drop GridView for Android         
-[https://github.com/askerov/DynamicGrid](https://github.com/askerov/DynamicGrid)
 
 
 ####<A NAME="RatingView"></A>RatingView
