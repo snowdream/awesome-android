@@ -195,6 +195,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/agrosner/DBFlow](https://github.com/agrosner/DBFlow)
 1. **sqlbrite**  A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.                
 [https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
+1. **RestorableSQLiteDatabase**    A wrapper to replicate android's SQLiteDatabase with restoring capability.                
+[https://github.com/yaa110/RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase)
 
 
 ###<A NAME="Image_Loading"></A>Image Loading
