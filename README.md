@@ -906,6 +906,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/chenupt/DragTopLayout](https://github.com/chenupt/DragTopLayout)
 1. **shadow-layout**  Android Shadow Layout          
 [https://github.com/dmytrodanylyk/shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
+1. **SmartTabLayout**  A custom ViewPager title strip which gives continuous feedback to the user when scrolling             
+[https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
 
 
 ####<A NAME="VideoView"></A>VideoView
