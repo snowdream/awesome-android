@@ -21,6 +21,7 @@ Step 2. The item should fall under the appropriate category.
 ###Table of contents
 * [Framework](#Framework)
 * [EventBus](#EventBus)
+* [Database](#Database)
 * [Orm](#Orm)
 * [Image Loading](#Image_Loading)
 * [Animations](#Animations)
@@ -153,6 +154,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
 1. **AndroidEventBus**  A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.         
 [https://github.com/bboyfeiyu/AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
+
+
+
+###<A NAME="Database"></A>Database
+1. **RestorableSQLiteDatabase**    A wrapper to replicate android's SQLiteDatabase with restoring capability.     
+[https://github.com/yaa110/RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase)
 
 
 
