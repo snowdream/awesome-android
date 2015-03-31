@@ -517,6 +517,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ckurtm/FabButton](https://github.com/ckurtm/FabButton)
 1. **SlideSwitch**  A button that you can slide on or off                
 [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
+1. **easyloadingbtn** This is a Material Design loading button            
+[https://github.com/DevinShine/easyloadingbtn](https://github.com/DevinShine/easyloadingbtn)
 
 
 
