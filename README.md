@@ -1746,6 +1746,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
 1. **CuXtom Cam**  An open source camera for google glass. This is a an alternative to the default camera on Glass. CuXtom Cam provides you the default behaviour along with some special features.          
 [https://github.com/krazykira/CuXtomCam](https://github.com/krazykira/CuXtomCam)
+1. **DaVinci**  DaVinci is an image downloading and caching library for Android Wear              
+[https://github.com/florent37/DaVinci](https://github.com/florent37/DaVinci)
 
 ###<A NAME="Other1"></A>Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
