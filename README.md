@@ -909,6 +909,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dmytrodanylyk/shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
 1. **SmartTabLayout**  A custom ViewPager title strip which gives continuous feedback to the user when scrolling             
 [https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+1. **ArcLayout**  A very simple arc layout library             
+[https://github.com/ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)
 
 
 ####<A NAME="VideoView"></A>VideoView
