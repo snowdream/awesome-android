@@ -47,6 +47,7 @@ Step 2. The item should fall under the appropriate category.
   * [Calendar View](#Calendar_View)
   * [Layout](#Layout)
   * [VideoView](#VideoView)
+  * [Mapview](#Mapview)
   * [Other](#Other)
 * [Plugin](#Plugin)
   * [Gradle](#Gradle)
@@ -908,6 +909,11 @@ Step 2. The item should fall under the appropriate category.
 ####<A NAME="VideoView"></A>VideoView
 1. **video-crop**  Android Video Crop                
 [https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
+
+
+####<A NAME="Mapview"></A>Mapview
+1. **AirMapView**  A view abstraction to provide a map user interface with various underlying map providers          
+[https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 
 
 ####<A NAME="Other"></A>Other
