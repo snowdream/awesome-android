@@ -433,6 +433,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/splitwise/TokenAutoComplete](https://github.com/splitwise/TokenAutoComplete)
 1. **AwesomeText**  A tool that facilitates working with Spans on TextViews or any extension of them (EditTexts, Buttons...).     
 [https://github.com/JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText)
+1. **WaitingDots**  Small library that provides... bouncing dots. This feature is used in number of messaging apps (such as Hangouts or Messenger), and lately in Android TV (for example when connecting to Wifi).                
+[https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
 
 
 
