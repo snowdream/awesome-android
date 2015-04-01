@@ -9,12 +9,20 @@ Android
 ##Notice
 If the lib is no longer being maintained,please do not add it here.
 
+##How To Contribute
+Step 1. Add a Item as follows:
+**Library Name**[one space]Short Description[at least four space,then press enter]
+[link](link)
+
+Step 2. The item should fall under the appropriate category.
+
+
 ##Libs
 ###Table of contents
 * [Framework](#Framework)
 * [EventBus](#EventBus)
 * [Orm](#Orm)
-* [Image Loading](#Image Loading)
+* [Image Loading](#Image_Loading)
 * [Animations](#Animations)
 * [Network](#Network)
 * [Widget](#Widget)
@@ -23,7 +31,7 @@ If the lib is no longer being maintained,please do not add it here.
   * [TextView/EditText](#TextView/EditText)
   * [ImageView](#ImageView)
   * [Button](#Button)
-  * [Progressbar/Progress View](#Progressbar/Progress View)
+  * [Progressbar/Progress View](#Progressbar/Progress_View)
   * [Menu](#Menu)
   * [Dialog](#Dialog)
   * [ListView/ScrollView](#ListView/ScrollView)
@@ -36,26 +44,27 @@ If the lib is no longer being maintained,please do not add it here.
   * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
-  * [Calendar View](#Calendar View)
+  * [Calendar View](#Calendar_View)
   * [Layout](#Layout)
   * [VideoView](#VideoView)
+  * [Mapview](#Mapview)
   * [Other](#Other)
 * [Plugin](#Plugin)
   * [Gradle](#Gradle)
   * [Maven](#Maven)
   * [SBT](#SBT)
-  * [Intellij IDEA / Android Studio](#Intellij IDEA / Android Studio)
+  * [Intellij IDEA / Android Studio](#Intellij_IDEA_/_Android_Studio)
   * [Other](#Other-Plugin)
 * [Injector](#Injector)
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
 * [Gesture](#Gesture)
-* [Game Engine](#Game Engine)
+* [Game Engine](#Game_Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
 * [XMPP](#XMPP)
-* [Code Generation](#Code Generation)
+* [Code Generation](#Code_Generation)
 * [Media](#Media)
 * [Embedded](#Embedded)
 * [Utility](#Utility)
@@ -72,7 +81,7 @@ If the lib is no longer being maintained,please do not add it here.
 * [Security](#Security)
 * [Tools](#Tools)
 * [Decompiler](#Decompiler)
-* [Android Wear](#Android Wear)
+* [Android Wear](#Android_Wear)
 * [Other](#Other1)
 
 
@@ -187,9 +196,11 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/agrosner/DBFlow](https://github.com/agrosner/DBFlow)
 1. **sqlbrite**  A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.                
 [https://github.com/square/sqlbrite](https://github.com/square/sqlbrite)
+1. **RestorableSQLiteDatabase**    A wrapper to replicate android's SQLiteDatabase with restoring capability.                
+[https://github.com/yaa110/RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase)
 
 
-###<A NAME="Image Loading"></A>Image Loading
+###<A NAME="Image_Loading"></A>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.             
 [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)   
 1. **picasso**  A powerful image downloading and caching library for Android   
@@ -260,7 +271,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
 1. **Material-Animations**  Android Transition animations explanation with examples.             
 [https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
-
+1. **Rebound**  A Java library that models spring dynamics and adds real world physics to your app.
+[https://github.com/facebook/rebound](https://github.com/facebook/rebound)
 
 
 ###<A NAME="Network"></A>Network
@@ -505,10 +517,12 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ckurtm/FabButton](https://github.com/ckurtm/FabButton)
 1. **SlideSwitch**  A button that you can slide on or off                
 [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
+1. **easyloadingbtn** This is a Material Design loading button            
+[https://github.com/DevinShine/easyloadingbtn](https://github.com/DevinShine/easyloadingbtn)
 
 
 
-####<A NAME="Progressbar/Progress View"></A>Progressbar/Progress View
+####<A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
 1. **NumberProgressBar**    A beautiful, slim Android ProgressBar.        
@@ -588,7 +602,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/ShkurtiA/AndroidPullMenu](https://github.com/ShkurtiA/AndroidPullMenu)
 1. **FilterMenu**  An implemention of Filter Menu concept for android          
 [https://github.com/linroid/FilterMenu](https://github.com/linroid/FilterMenu)
-
+1. **OverlayMenu** Android Overlay Menu           
+[https://github.com/sephiroth74/OverlayMenu](https://github.com/sephiroth74/OverlayMenu)
 
 
 
@@ -717,8 +732,6 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
 1. **android-GridViewWithHeaderAndFooter**  GridView with Header and Footer    
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
-1. **DynamicGrid**  Drag and drop GridView for Android         
-[https://github.com/askerov/DynamicGrid](https://github.com/askerov/DynamicGrid)
 
 
 ####<A NAME="RatingView"></A>RatingView
@@ -737,6 +750,9 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
 1. **UltimateRecyclerView** A RecyclerView(advanced and flexible version of ListView) with refreshing,loading more,animation and many other features.    
 [https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
+1. **RecyclerView-FlexibleDivider**  Android library providing simple way to control divider items of RecyclerView                                      
+[https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+
 
 
 ####<A NAME="ViewPager"></A>ViewPager
@@ -826,7 +842,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-####<A NAME="Calendar View"></A>Calendar View
+####<A NAME="Calendar_View"></A>Calendar View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid) 
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
@@ -891,11 +907,20 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/chenupt/DragTopLayout](https://github.com/chenupt/DragTopLayout)
 1. **shadow-layout**  Android Shadow Layout          
 [https://github.com/dmytrodanylyk/shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)
+1. **SmartTabLayout**  A custom ViewPager title strip which gives continuous feedback to the user when scrolling             
+[https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+1. **ArcLayout**  A very simple arc layout library             
+[https://github.com/ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)
 
 
 ####<A NAME="VideoView"></A>VideoView
 1. **video-crop**  Android Video Crop                
 [https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
+
+
+####<A NAME="Mapview"></A>Mapview
+1. **AirMapView**  A view abstraction to provide a map user interface with various underlying map providers          
+[https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 
 
 ####<A NAME="Other"></A>Other
@@ -1057,6 +1082,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/geftimov/android-pathview](https://github.com/geftimov/android-pathview)
 1. **DrawableView**  A view that allows to paint and saves the result as a bitmap         
 [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
+1. **AndroidNotificationJson**  Convert JSON to Android Notification, useful for push notifications (GCM)  
+[https://github.com/8tory/AndroidNotificationJson](https://github.com/8tory/AndroidNotificationJson)
 
 
 
@@ -1102,7 +1129,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-###<A NAME="Game Engine"></A>Game Engine
+###<A NAME="Game_Engine"></A>Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
 [https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/) 
 1. **libgdx**    Desktop/Android/HTML5/iOS Java game development framework     
@@ -1176,7 +1203,7 @@ If the lib is no longer being maintained,please do not add it here.
 1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
 [https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
 
-####<A NAME="Intellij IDEA / Android Studio"></A>Intellij IDEA / Android Studio
+####<A NAME="Intellij_IDEA_/_Android_Studio"></A>Intellij IDEA / Android Studio
 1. **android-material-design-icon-generator-plugin**  This plugin help you to set material design icon to your project.      
 [https://github.com/konifar/android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
 1. **android-holo-colors-idea-plugin**    IntelliJ / Android Studio plugin for Android Holo Colors     
@@ -1216,7 +1243,7 @@ If the lib is no longer being maintained,please do not add it here.
 
 
 
-###<A NAME="Code Generation"></A>Code Generation
+###<A NAME="Code_Generation"></A>Code Generation
 1. **parceler** Android Parcelables made easy through code generation.   
 [https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
 1. auto-parcel  Android Parcelable models made easy     
@@ -1368,7 +1395,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/cookpad/puree-android](https://github.com/cookpad/puree-android)
 1. **hawk**  Secure Simple Key-Value Storage for Android                       
 [https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)
-
+1. **ExpirableDiskLruCache**  Expirable Disk Lru Cache is a wrapper for [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) that allows expiring of key/value pairs by specifying evictionTimeSpan. It has very simple API.          
+[https://github.com/vijayrawatsan/ExpirableDiskLruCache](https://github.com/vijayrawatsan/ExpirableDiskLruCache)
 
 
 
@@ -1716,15 +1744,18 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator         
 [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
-1. **apk2gold**  CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!                      
+1. **apk2gold**  CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy! 
 [https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
+1. **procyon**  Java metaprogramming suite, including Java decompiler.         [https://bitbucket.org/mstrobel/procyon](https://bitbucket.org/mstrobel/procyon)
 
 
-###<A NAME="Android Wear"></A>Android Wear
+###<A NAME="Android_Wear"></A>Android Wear
 1. **BusWear**  EventBus for Android Wear devices.          
 [https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
 1. **CuXtom Cam**  An open source camera for google glass. This is a an alternative to the default camera on Glass. CuXtom Cam provides you the default behaviour along with some special features.          
 [https://github.com/krazykira/CuXtomCam](https://github.com/krazykira/CuXtomCam)
+1. **DaVinci**  DaVinci is an image downloading and caching library for Android Wear              
+[https://github.com/florent37/DaVinci](https://github.com/florent37/DaVinci)
 
 ###<A NAME="Other1"></A>Other
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
