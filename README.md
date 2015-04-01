@@ -1706,7 +1706,8 @@ If the lib is no longer being maintained,please do not add it here.
 [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
 1. **AndroidLocalizationer**  This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.   
  [https://github.com/westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer)
-
+1. **release-android-library**  Remote script to create a maven compatible release of an android library (aar)                 
+[https://github.com/blundell/release-android-library](https://github.com/blundell/release-android-library)
 
 
 
