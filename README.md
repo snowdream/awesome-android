@@ -490,7 +490,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dexlex/DexMovingImageView](https://github.com/dexlex/DexMovingImageView)
 1. **SimpleTagImageView** ImageView with a tag in android. So it's a ImageView.      
 [https://github.com/wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)
-
+1. **CropImageView** Widget allows you crop from whatever side in an ImageView. Currently Android only supports centerCrop type of cropping      
+[https://github.com/cesards/CropImageView](https://github.com/cesards/CropImageView)
 
 
 
