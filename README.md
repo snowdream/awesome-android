@@ -1249,7 +1249,7 @@ Step 2. The item should fall under the appropriate category.
 ###<A NAME="Code_Generation"></A>Code Generation
 1. **parceler** Android Parcelables made easy through code generation.   
 [https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
-1. auto-parcel  Android Parcelable models made easy     
+1. **auto-parcel**  Android Parcelable models made easy     
 [https://github.com/frankiesardo/auto-parcel](https://github.com/frankiesardo/auto-parcel)
 1.  **RoboCoP**  Pure Java code generation tool for generating a fully functional ContentProvider for Android.        
 [https://github.com/mediarain/RoboCoP](https://github.com/mediarain/RoboCoP)
