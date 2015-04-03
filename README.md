@@ -1087,7 +1087,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
 1. **AndroidNotificationJson**  Convert JSON to Android Notification, useful for push notifications (GCM)  
 [https://github.com/8tory/AndroidNotificationJson](https://github.com/8tory/AndroidNotificationJson)
-
+1. **PugNotification**  A powerful library for creating notifications in android platform.              
+[https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
 
 
 
