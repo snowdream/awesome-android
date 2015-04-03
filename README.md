@@ -385,6 +385,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 ####<A NAME="TextView/EditText"></A>TextView/EditText
+1. **richeditor-android**  RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.                     
+[https://github.com/wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android)
 1. **Shimmer-android**  An Android TextView with a shimmering effect    
 [https://github.com/RomainPiel/Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
 1. **Titanic** Android experiment showing a sinking TextView        
