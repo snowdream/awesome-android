@@ -524,6 +524,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
 1. **easyloadingbtn** This is a Material Design loading button            
 [https://github.com/DevinShine/easyloadingbtn](https://github.com/DevinShine/easyloadingbtn)
+1. **hkm-progress-button**  Base on android-process-button this is the advanced version of the android-process-button.             
+[https://github.com/jjhesk/hkm-progress-button](https://github.com/jjhesk/hkm-progress-button)
 
 
 
