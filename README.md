@@ -1093,6 +1093,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/8tory/AndroidNotificationJson](https://github.com/8tory/AndroidNotificationJson)
 1. **PugNotification**  A powerful library for creating notifications in android platform.              
 [https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
+1. **ValueBar**  A beautiful Android custom View that works similar to a range or seekbar. With animations.                
+[https://github.com/PhilJay/ValueBar](https://github.com/PhilJay/ValueBar)
 
 
 
