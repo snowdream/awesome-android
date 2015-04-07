@@ -759,6 +759,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)
 1. **RecyclerView-FlexibleDivider**  Android library providing simple way to control divider items of RecyclerView                                      
 [https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+1. **RecyclerView-MultipleViewTypesAdapter**  Android library defining adapter classes of RecyclerView to manage multiple view types                                      
+[https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter)
 
 
 
