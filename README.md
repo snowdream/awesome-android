@@ -1095,6 +1095,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
 1. **ValueBar**  A beautiful Android custom View that works similar to a range or seekbar. With animations.                
 [https://github.com/PhilJay/ValueBar](https://github.com/PhilJay/ValueBar)
+1. **CircleDisplay** Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.                    
+[https://github.com/PhilJay/CircleDisplay](https://github.com/PhilJay/CircleDisplay)
 
 
 
