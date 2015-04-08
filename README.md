@@ -1099,6 +1099,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/PhilJay/ValueBar](https://github.com/PhilJay/ValueBar)
 1. **CircleDisplay** Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.                    
 [https://github.com/PhilJay/CircleDisplay](https://github.com/PhilJay/CircleDisplay)
+1. **android-shapeLoadingView**  高仿新版58 加载动画                    
+[https://github.com/zzz40500/android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)
 
 
 
