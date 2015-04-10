@@ -761,7 +761,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
 1. **RecyclerView-MultipleViewTypesAdapter**  Android library defining adapter classes of RecyclerView to manage multiple view types                                      
 [https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter)
-
+1. **header-decor**  A couple of sticky header decorations for android's recycler view.                
+[https://github.com/edubarr/header-decor](https://github.com/edubarr/header-decor)
 
 
 ####<A NAME="ViewPager"></A>ViewPager
