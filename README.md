@@ -556,7 +556,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lightSky/InfiniteIndicator](https://github.com/lightSky/InfiniteIndicator)
 1. **Android-RoundCornerProgressBar**  Round Corner Progress Bar Library for Android        
 [https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
-
+1. **CircleProgress**  A circle progress animation view on Android                              
+[https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
 
 
 
