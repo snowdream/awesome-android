@@ -134,7 +134,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/kymjs/CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
 1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.      
 [https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
-
+1. **AndroidQuickUtils**   Android Development Framework               
+[https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
 
 
 ###<A NAME="EventBus"></A>EventBus
@@ -1404,8 +1405,6 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
 1. **svg-android** Fork of svg-android +SVN history +Maven +more           
 [https://github.com/japgolly/svg-android](https://github.com/japgolly/svg-android)
-1. **AndroidQuickUtils**   Android QuickUtils is a development library for the Android platform. It is intended to make application development easier and consistent throughout your applications.             
-[https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
 1. **esperandro**  Easy SharedPreference Engine foR ANDROid      
 [https://github.com/dkunzler/esperandro](https://github.com/dkunzler/esperandro)
 1. **AndroidCommons** Various useful utilities for Android apps development         
