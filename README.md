@@ -1761,6 +1761,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/blundell/release-android-library](https://github.com/blundell/release-android-library)
 1. **android-resource-remover**  A simple utility to remove unused resources in your Android app to lower the size of the APK. It's based on the Android lint tool output.          
 [https://github.com/KeepSafe/android-resource-remover](https://github.com/KeepSafe/android-resource-remover)
+1. **alfi**  Android Library Finder.           
+[https://github.com/cesarferreira/alfi](https://github.com/cesarferreira/alfi)
 
 
 
