@@ -1418,6 +1418,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)
 1. **ExpirableDiskLruCache**  Expirable Disk Lru Cache is a wrapper for [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) that allows expiring of key/value pairs by specifying evictionTimeSpan. It has very simple API.          
 [https://github.com/vijayrawatsan/ExpirableDiskLruCache](https://github.com/vijayrawatsan/ExpirableDiskLruCache)
+1. **Trail** A simple logging library that works in any version of Java and Android and detects the platform automatically.         
+[https://github.com/mauriciotogneri/trail](https://github.com/mauriciotogneri/trail)
 
 
 
