@@ -637,6 +637,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tvbarthel/BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
 1. **dialogplus** Simple,easy dialog for android                     
 [https://github.com/orhanobut/dialogplus](https://github.com/orhanobut/dialogplus)
+1. **spots-dialog**  Android AlertDialog with mowing dots progress indicator    
+[https://github.com/d-max/spots-dialog](https://github.com/d-max/spots-dialog)
 
 
 
