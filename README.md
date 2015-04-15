@@ -382,6 +382,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pedrovgs/EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
 1. **ParallaxEverywhere**  Parallax everywhere is a library with alternative android widgets with parallax effects.        
 [https://github.com/Narfss/ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere)
+1. **ShowcaseView**  Highlight the best bits of your app to users quickly, simply, and cool...ly
+[https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 
 
 
