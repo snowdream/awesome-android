@@ -136,6 +136,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
 1. **AndroidQuickUtils**   Android Development Framework               
 [https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
+1. **Elf Framework** Android Framework to simplify the android development process.             
+[https://github.com/fenli/elf](https://github.com/fenli/elf)
+
 
 
 ###<A NAME="EventBus"></A>EventBus
