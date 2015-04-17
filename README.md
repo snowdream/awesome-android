@@ -520,6 +520,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 1. **SwitchButton**   SwitchButton          
 [https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)
+1. **SwitchButton**  SwitchButton            
+[https://github.com/xiaopansky/SwitchButton](https://github.com/xiaopansky/SwitchButton)
 1. **ToggleButton**  ToggleButton Widget For Android Dev           
 [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
 1. **FabButton**  Android Floating ActionButton with a progress indicator ring       
