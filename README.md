@@ -795,6 +795,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/imbryk/LoopingViewPager](https://github.com/imbryk/LoopingViewPager)
 1. **SpringIndicator**  A spring indicator like Morning Routine guide.        
 [https://github.com/chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator)
+1. **SpinningTabStrip** SpinningTabStrip & SpinningViewPager are android extensions allowing infinite scrolling.             
+[https://github.com/eccyan/SpinningTabStrip](https://github.com/eccyan/SpinningTabStrip)
+
 
 
 ####<A NAME="ActionBar"></A>ActionBar
