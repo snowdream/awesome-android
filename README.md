@@ -138,6 +138,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
 1. **Elf Framework** Android Framework to simplify the android development process.             
 [https://github.com/fenli/elf](https://github.com/fenli/elf)
+1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern
+[https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
 
 
 
@@ -1655,8 +1657,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 1. **PlayPauseDrawable** This is a sample Play & Pause Drawable with morphing animation for Android            
 [https://github.com/tarek360/PlayPauseDrawable](https://github.com/tarek360/PlayPauseDrawable)
-
-
+1. **u2020-mvp** Port of Jake Wharton's U2020 sample app with use of MVP and Dagger 2
+[https://github.com/LiveTyping/u2020-mvp](https://github.com/LiveTyping/u2020-mvp)
 
 ###<A NAME="App"></A>App
 1. **2048-android** The android port of the 2048 game (for offline playing)    
