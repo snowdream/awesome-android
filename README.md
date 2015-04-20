@@ -1117,7 +1117,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/PhilJay/CircleDisplay](https://github.com/PhilJay/CircleDisplay)
 1. **android-shapeLoadingView**  高仿新版58 加载动画                    
 [https://github.com/zzz40500/android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)
-
+1. **Decor** Android layout decorators : Injecting custom attributes in layout files, Using decorators to get rid of  class explosion with multiple custom views.              
+[https://github.com/chemouna/decor](https://github.com/chemouna/decor)
 
 
 ###<A NAME="Template"></A>Template
