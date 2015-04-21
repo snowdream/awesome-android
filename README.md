@@ -1799,6 +1799,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/florent37/DaVinci](https://github.com/florent37/DaVinci)
 1. **WearMenu**  An Android Wear Menu implementation                      
 [https://github.com/florent37/WearMenu](https://github.com/florent37/WearMenu)
+1. **Teleport**  Data Sync & Messaging Library for Android Wear                      
+[https://github.com/Mariuxtheone/Teleport](https://github.com/Mariuxtheone/Teleport)
 
 
 ###<A NAME="Other1"></A>Other
