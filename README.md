@@ -1589,8 +1589,6 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
 1. **android-http-examples** Sample code for HTTP on Android.        
 [https://github.com/swankjesse/android-http-examples](https://github.com/swankjesse/android-http-examples)
-1. **androidmvp**   MVP Android Example      
-[https://github.com/antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 1. **ProgrammingAndroidExamples** This repo contains example code for O'Reilly's "Programming Android" by Zigured Mednieks, Laird Dornin, Blake Meike and Masumi Nakamura      
 [https://github.com/bmeike/ProgrammingAndroidExamples](https://github.com/bmeike/ProgrammingAndroidExamples)
 1. **android-layout-samples** Explorations around Android custom layouts   
