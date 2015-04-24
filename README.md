@@ -803,7 +803,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator)
 1. **SpinningTabStrip** SpinningTabStrip & SpinningViewPager are android extensions allowing infinite scrolling.             
 [https://github.com/eccyan/SpinningTabStrip](https://github.com/eccyan/SpinningTabStrip)
-
+1. **Android-ScreenSlidePager**  Full screen slide pager to display images fetched from Internet by Picasso               
+[https://github.com/LyndonChin/Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 
 
 ####<A NAME="ActionBar"></A>ActionBar
