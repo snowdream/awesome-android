@@ -849,6 +849,9 @@ Step 2. The item should fall under the appropriate category.
 1. **SnackBar**  toast-like alert pattern for Android        
 [https://github.com/MrEngineer13/SnackBar](https://github.com/MrEngineer13/SnackBar)
 
+1. **loadtoast**  Pretty material design toasts with feedback animations     
+[https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
+
 ####<A NAME="SeekBar"></A>SeekBar
 1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.     
 [https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
