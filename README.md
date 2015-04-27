@@ -807,7 +807,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/LyndonChin/Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
 1. **RecyclerViewPager**   A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.            
 [https://github.com/lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
-
+1. **MultiViewPager**  The MultiViewPager is an extension of the support-v4 library's ViewPager that allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered.           
+[https://github.com/Pixplicity/MultiViewPager](https://github.com/Pixplicity/MultiViewPager)
 
 
 
