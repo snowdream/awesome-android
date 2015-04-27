@@ -805,6 +805,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/eccyan/SpinningTabStrip](https://github.com/eccyan/SpinningTabStrip)
 1. **Android-ScreenSlidePager**  Full screen slide pager to display images fetched from Internet by Picasso               
 [https://github.com/LyndonChin/Android-ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+1. **RecyclerViewPager**   A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.            
+[https://github.com/lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
+
+
 
 
 ####<A NAME="ActionBar"></A>ActionBar
