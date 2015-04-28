@@ -314,6 +314,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/mashape/unirest-java/](https://github.com/mashape/unirest-java/)
 1. **wasp**  Android Network Solution              
 [https://github.com/orhanobut/wasp](https://github.com/orhanobut/wasp)
+1. **NetworkEvents** Android library listening network connection state and change of the Wifi signal strength            
+[https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
+
+
 
 
 ###<A NAME="Widget"></A>Widget
