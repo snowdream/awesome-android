@@ -281,6 +281,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)
 1. **Rebound**  A Java library that models spring dynamics and adds real world physics to your app.
 [https://github.com/facebook/rebound](https://github.com/facebook/rebound)
+1. **CircularReveal**  Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+              
+[https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
+
 
 
 ###<A NAME="Network"></A>Network
