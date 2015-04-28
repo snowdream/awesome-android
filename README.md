@@ -1136,6 +1136,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/chemouna/decor](https://github.com/chemouna/decor)
 1. **AndroidTreeView**  AndroidTreeView. TreeView implementation for android        
 [https://github.com/bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)
+1. **SHSegmentControl**  segmentcontrol widget for android                 
+[https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
 
 
 
