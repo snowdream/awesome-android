@@ -1807,6 +1807,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cesarferreira/alfi](https://github.com/cesarferreira/alfi)
 1. **AnUitor**  AnUitor is a result of my rebranding experiences of one android app.             
 [https://github.com/jbruchanov/anuitor](https://github.com/jbruchanov/anuitor)
+1. **SVG2Drawable**  Use a jar executable to create a Drawable class to display a SVG on Android.              
+[https://github.com/StanKocken/SVG2Drawable](https://github.com/StanKocken/SVG2Drawable)
+
 
 
 ###<A NAME="Decompiler"></A>Decompiler
