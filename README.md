@@ -384,7 +384,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ShogoMizumoto/ZDepthShadowLayout](https://github.com/ShogoMizumoto/ZDepthShadowLayout)
 1. **MaterialPowerMenu**  A demo of the power menu with Reveal and other animations            
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
-
+1. **MaterialViewPager** A Material Design ViewPager easy to use library     
+[https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 
 
 
