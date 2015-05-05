@@ -1466,7 +1466,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/mauriciotogneri/trail](https://github.com/mauriciotogneri/trail)
 1. **Caffeine** A collection of utility classes that help make Android development faster (and safer!).         
 [https://github.com/percolate/caffeine](https://github.com/percolate/caffeine)
-
+1. **tray** A SharedPreferences replacement for Android with multiprocess support.
+[https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
 
 
 
