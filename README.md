@@ -59,7 +59,7 @@ Step 2. The item should fall under the appropriate category.
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
-* [Gesture](#Gesture)g
+* [Gesture](#Gesture)
 * [Game Engine](#Game_Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
