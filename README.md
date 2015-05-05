@@ -59,7 +59,7 @@ Step 2. The item should fall under the appropriate category.
 * [Template](#Template)
 * [Adapter](#Adapter)
 * [Validation](#Validation)
-* [Gesture](#Gesture)
+* [Gesture](#Gesture)g
 * [Game Engine](#Game_Engine)
 * [Bluetooth](#Bluetooth)
 * [SocialNetworks](#SocialNetworks)
@@ -1846,8 +1846,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/paddybyers/anode](https://github.com/paddybyers/anode)
 1. **Fragment-Switcher** An instance-state saving fragment switcher, intended for use with navigation drawers or tabs.       
 [https://github.com/jacobtabak/Fragment-Switcher](https://github.com/jacobtabak/Fragment-Switcher)
-1. **AwesomeValidation**  Implement validation for Android within only 3 steps. Developers should focus on their awesome code, and let the library do the boilerplate. And what's more, this could help keep your layout file clean.    
+1. **AwesomeValidation**  Implement validation for Android within only 3 steps. Developers should focus on their awesome code, and let the library do the boilerplate. And what's more, this could help keep your layout file clean.
 [https://github.com/thyrlian/AwesomeValidation](https://github.com/thyrlian/AwesomeValidation)
+1. **WeakHandler** helps to have a clean handler without memmory issues.
+[https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
 
 
 
