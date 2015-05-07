@@ -1515,7 +1515,7 @@ Step 2. The item should fall under the appropriate category.
 1. **Twiiter Helper**   A twitter helper library that makes Twitter integration very easy and painless.<br>
 [https://github.com/krazykira/Twitter-Helper](https://github.com/krazykira/Twitter-Helper)
 1. **Liquid-Android-SDK** Liquid - Identify behaviours through Analytics and react with real-time Personalization.<br>
-[https://github.com/lqd-io/liquid-android-sdk](https://github.com/lqd-io/liquid-android-sdk)
+[https://github.com/lqd-io/liquid-sdk-android](https://github.com/lqd-io/liquid-android-sdk)
 
 ### <A NAME="Test"></A>Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
