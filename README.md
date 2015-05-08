@@ -1744,6 +1744,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/hzsweers/palettehelper](https://github.com/hzsweers/palettehelper)
 1. **OpenImgur**  Open source Imgur Android App                 
 [https://github.com/Kennyc1012/OpenImgur](https://github.com/Kennyc1012/OpenImgur)
+1. **WordPress-Android**  WordPress for Android                 
+[https://github.com/wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android)
+1. **sgtpuzzles**  a port of Simon Tatham's Portable Puzzle Collection, a collection of 36 single-player logic games.             
+[https://github.com/chrisboyle/sgtpuzzles](https://github.com/chrisboyle/sgtpuzzles)
+1. **keepassdroid**  a free, open source, light-weight and easy-to-use password manager app.
+[https://github.com/bpellin/keepassdroid](https://github.com/bpellin/keepassdroid)
 
 
 
