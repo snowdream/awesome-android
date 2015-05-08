@@ -843,6 +843,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ferdy182/Android-CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment)
 1. **StatedFragment**  The library is documented in http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en              
 [https://github.com/nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment)
+1. **EtsyBlur**  EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the Etsy app.               
+[https://github.com/Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)
 
 
 
