@@ -1151,8 +1151,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)
 1. **SHSegmentControl**  segmentcontrol widget for android                 
 [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
-
-
+1. **ElasticDownload**  Download Custom view with animation.                
+[https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
 
 
 ### <A NAME="Template"></A>Template
