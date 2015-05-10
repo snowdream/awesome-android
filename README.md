@@ -1694,6 +1694,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tarek360/PlayPauseDrawable](https://github.com/tarek360/PlayPauseDrawable)
 1. **u2020-mvp** Port of Jake Wharton's U2020 sample app with use of MVP and Dagger 2
 [https://github.com/LiveTyping/u2020-mvp](https://github.com/LiveTyping/u2020-mvp)
+1. **Material-Animation-Samples**  In this repository i will add more of samples in material animation           
+[https://github.com/tarek360/Material-Animation-Samples](https://github.com/tarek360/Material-Animation-Samples)
+
 
 ### <A NAME="App"></A>App
 1. **2048-android** The android port of the 2048 game (for offline playing)    
