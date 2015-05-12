@@ -1757,7 +1757,14 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/chrisboyle/sgtpuzzles](https://github.com/chrisboyle/sgtpuzzles)
 1. **keepassdroid**  a free, open source, light-weight and easy-to-use password manager app.
 [https://github.com/bpellin/keepassdroid](https://github.com/bpellin/keepassdroid)
-
+1. **Banjen** Open source brazilian banjo tunner, example to play local sounds.
+[https://github.com/MakinGiants/android_banjo_tuner](https://github.com/MakinGiants/android_banjo_tuner)
+1. **LiveView Funny** LiveView app that play sounds in the phone from the watch.
+[https://github.com/MakinGiants/LiveView-Funny-Plugin](https://github.com/MakinGiants/LiveView-Funny-Plugin)
+1. **LiveView Answer-it** LiveView app that send sms to call history contacts.
+[https://github.com/MakinGiants/LiveView-Answer-it](https://github.com/MakinGiants/LiveView-Answer-it)
+1. **LiveView Tell-it** LiveView app that send default sms to favorite contacts.
+[https://github.com/MakinGiants/LiveView-Tell-it](https://github.com/MakinGiants/LiveView-Tell-it)
 
 
 ### <A NAME="Security"></A>Security
