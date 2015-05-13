@@ -70,6 +70,7 @@ Step 2. The item should fall under the appropriate category.
 * [Media](#Media)
 * [Embedded](#Embedded)
 * [Utility](#Utility)
+* [Storage](#Storage)
 * [SDK](#SDK)
 * [Test](#Test)
 * [Chart](#Chart)
@@ -1473,6 +1474,10 @@ Step 2. The item should fall under the appropriate category.
 1. **tray** A SharedPreferences replacement for Android with multiprocess support.
 [https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
 
+
+### <A NAME="Storage"></A>Storage 
+1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.                
+[https://github.com/SanDisk-Open-Source/RealStoragePathLibrary](https://github.com/SanDisk-Open-Source/RealStoragePathLibrary)
 
 
 ### <A NAME="SDK"></A>SDK 
