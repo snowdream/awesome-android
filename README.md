@@ -1159,6 +1159,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
 1. **ElasticDownload**  Download Custom view with animation.                
 [https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
+1. **CircularCounter**  Circular Counter is an Android Widget I needed to implement for an application I was developing. As it could be useful to more people, I tried to make it generic enough to share and be used by others.     
+[https://github.com/diogobernardino/CircularCounter](https://github.com/diogobernardino/CircularCounter)
 
 
 ### <A NAME="Template"></A>Template
