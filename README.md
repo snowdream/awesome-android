@@ -1161,6 +1161,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
 1. **CircularCounter**  Circular Counter is an Android Widget I needed to implement for an application I was developing. As it could be useful to more people, I tried to make it generic enough to share and be used by others.     
 [https://github.com/diogobernardino/CircularCounter](https://github.com/diogobernardino/CircularCounter)
+1. **MarkView**  An android custom view that displays a circle with a colored arc given a mark.               
+[https://github.com/xiprox/MarkView](https://github.com/xiprox/MarkView)
+
+
+
 
 
 ### <A NAME="Template"></A>Template
