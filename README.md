@@ -1163,7 +1163,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/diogobernardino/CircularCounter](https://github.com/diogobernardino/CircularCounter)
 1. **MarkView**  An android custom view that displays a circle with a colored arc given a mark.               
 [https://github.com/xiprox/MarkView](https://github.com/xiprox/MarkView)
-
+1. **pugnotification** A powerful library for creating notifications in android platform.                
+[https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
 
 
 
