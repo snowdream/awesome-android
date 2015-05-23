@@ -460,8 +460,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/JMPergar/AwesomeText](https://github.com/JMPergar/AwesomeText)
 1. **WaitingDots**  Small library that provides... bouncing dots. This feature is used in number of messaging apps (such as Hangouts or Messenger), and lately in Android TV (for example when connecting to Wifi).                
 [https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
-
-
+1. **CurrencyEditText** A module designed to provide ease-of-use when using an EditText field for gathering currency information from a user.
+[https://github.com/BlacKCaT27/CurrencyEditText](https://github.com/BlacKCaT27/CurrencyEditText)
 
 
 #### <A NAME="ImageView"></A>ImageView
