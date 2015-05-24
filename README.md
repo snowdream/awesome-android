@@ -583,6 +583,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
 1. **CircleProgress**  A circle progress animation view on Android                              
 [https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
+1. **MaterialLoadingProgressBar**  MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)                              
+[https://github.com/lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
 
 
 
