@@ -517,6 +517,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)
 1. **CropImageView** Widget allows you crop from whatever side in an ImageView. Currently Android only supports centerCrop type of cropping      
 [https://github.com/cesards/CropImageView](https://github.com/cesards/CropImageView)
+1. **MovingImageView**  Custom ImageView for moving image around the screen (Android)                      
+[https://github.com/AlbertGrobas/MovingImageView](https://github.com/AlbertGrobas/MovingImageView)
+1. **PolygonImageView**  Custom ImageView for android with polygon shape (Android)                   
+[https://github.com/AlbertGrobas/PolygonImageView](https://github.com/AlbertGrobas/PolygonImageView)
 
 
 
