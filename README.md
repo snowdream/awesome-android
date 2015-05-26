@@ -1250,8 +1250,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/antonkrasov/AndroidSocialNetworks#license](https://github.com/antonkrasov/AndroidSocialNetworks#license)
 
 ### <A NAME="XMPP"></A>XMPP 
-1. **asmack**    A build environment for the XMPP client library Smack on Android      
-[https://github.com/Flowdalic/asmack](https://github.com/Flowdalic/asmack)
+1. **Smack**    An Open Source XMPP Client Library written in Java for JVMs and Android      
+[https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
 1. **Xabber**    Open source Jabber (XMPP) client with multi-account support, clean and simple interface. Being both free (as in freedom!) and ad-free, Xabber is designed to be the best Jabber client for Android.      
 [https://github.com/redsolution/xabber-android](https://github.com/redsolution/xabber-android)
 1. **Conversations** Conversations is an open source XMPP (formally known as Jabber) client for Android 4.0+ smart phones.     
