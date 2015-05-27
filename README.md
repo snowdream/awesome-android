@@ -562,6 +562,8 @@ Step 2. The item should fall under the appropriate category.
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
+1. **ACProgressLite** A lightweight Android library to display customizable progressbar like iOS MBProgressHUD.       
+[https://github.com/Cloudist/ACProgressLite](https://github.com/Cloudist/ACProgressLite)
 1. **NumberProgressBar**    A beautiful, slim Android ProgressBar.        
 [https://github.com/daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 1. **android-HoloCircularProgressBar**  Holo Circular ProgressBar         
