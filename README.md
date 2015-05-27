@@ -1175,7 +1175,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/vijayrawatsan/android-json-form-wizard](https://github.com/vijayrawatsan/android-json-form-wizard)
 1. **FlippableStackView**  An Android library introducing a stack of Views with the first item being flippable (on dragging down).             
 [https://github.com/blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView)
-
+1. **ShadowViewHelper**  Shadow layout, shadow view for android.              
+[https://github.com/wangjiegulu/ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper)
 
 
 ### <A NAME="Template"></A>Template
