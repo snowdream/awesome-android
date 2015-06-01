@@ -463,7 +463,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
 1. **CurrencyEditText** A module designed to provide ease-of-use when using an EditText field for gathering currency information from a user.
 [https://github.com/BlacKCaT27/CurrencyEditText](https://github.com/BlacKCaT27/CurrencyEditText)
-
+1. **Android-Typeahead** Awesome Android Typeahead library - User mention plugin, UI widget for auto complete user mention using the at sign (@) like Twitter or Facebook..
+[https://github.com/ArabAgile/android-typeahead](https://github.com/ArabAgile/android-typeahead)
 
 #### <A NAME="ImageView"></A>ImageView
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
