@@ -468,6 +468,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/BlacKCaT27/CurrencyEditText](https://github.com/BlacKCaT27/CurrencyEditText)
 1. **Android-Typeahead** Awesome Android Typeahead library - User mention plugin, UI widget for auto complete user mention using the at sign (@) like Twitter or Facebook..
 [https://github.com/ArabAgile/android-typeahead](https://github.com/ArabAgile/android-typeahead)
+1. **CircleTimerView**  Circle timer on Android platform.                     
+[https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
+
+
+
 
 #### <A NAME="ImageView"></A>ImageView
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
