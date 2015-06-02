@@ -601,6 +601,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
 1. **MaterialLoadingProgressBar**  MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)                              
 [https://github.com/lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
+1. **WheelIndicatorView**  A 'Google Fit' like activity indicator for Android      
+[https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
 
 
 
