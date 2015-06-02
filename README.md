@@ -290,7 +290,10 @@ Step 2. The item should fall under the appropriate category.
 1. **CircularReveal**  Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+              
 [https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
 1. **PreLollipopTransition**  Simple tool which help you to implement activity transition for pre-Lollipop devices.                 
-[https://github.com/takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition)
+[https://github.com/takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) 
+1. **WaveCompat**  Wave effect of activity animation              
+[https://github.com/wangjiegulu/WaveCompat](https://github.com/wangjiegulu/WaveCompat)
+
 
 
 ### <A NAME="Network"></A>Network
