@@ -1807,6 +1807,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/MakinGiants/LiveView-Answer-it](https://github.com/MakinGiants/LiveView-Answer-it)
 1. **LiveView Tell-it** LiveView app that send default sms to favorite contacts.
 [https://github.com/MakinGiants/LiveView-Tell-it](https://github.com/MakinGiants/LiveView-Tell-it)
+1. **Piclice** A practical tool which helps users to slice and share their pictures.
+[https://github.com/yaa110/Piclice](https://github.com/yaa110/Piclice)
 
 
 ### <A NAME="Security"></A>Security
