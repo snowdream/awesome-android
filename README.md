@@ -1631,6 +1631,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/johnkil/Print/](https://github.com/johnkil/Print/)
 1. **TypefaceHelper**  Helper object for injecting typeface into various text views of android.             
 [https://github.com/Drivemode/TypefaceHelper](https://github.com/Drivemode/TypefaceHelper)
+1. **AndroidFontsManager**  字体管理器，方便快速的为应用内所有组件更换字体。    
+[https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
 
 
 
