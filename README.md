@@ -1258,6 +1258,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
 1. **Android-BluetoothSPPLibrary** Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth        
 [https://github.com/akexorcist/Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary)
+1. **AndroidSmoothBluetooth**   Smooth communication via bluetooth with other android devices or microcontrollers such as Arduino.             
+[https://github.com/palaima/AndroidSmoothBluetooth](https://github.com/palaima/AndroidSmoothBluetooth)
 
 
 ### <A NAME="SocialNetworks"></A>SocialNetworks
