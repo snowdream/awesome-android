@@ -1195,7 +1195,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/wangjiegulu/ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper)
 1. **velocimeter-view** A velocimeter View for Android             
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
-
+1. **AppIntro**  Make a cool intro for your Android app.              
+[https://github.com/PaoloRotolo/AppIntro](https://github.com/PaoloRotolo/AppIntro)
 
 
 
