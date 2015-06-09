@@ -1193,6 +1193,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView)
 1. **ShadowViewHelper**  Shadow layout, shadow view for android.              
 [https://github.com/wangjiegulu/ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper)
+1. **velocimeter-view** A velocimeter View for Android             
+[https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
+
+
 
 
 ### <A NAME="Template"></A>Template
