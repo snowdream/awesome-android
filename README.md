@@ -938,7 +938,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/bendemboski/DateSlider](https://github.com/bendemboski/DateSlider)
 1. **Android-Week-View** Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.      
 [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
+1. **SilkCal**  Android calendar view inspired by Sunrise calendar and iOS7 stock calendar            
+[https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
 
 
 #### <A NAME="Layout"></A>Layout
