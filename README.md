@@ -1515,6 +1515,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/percolate/caffeine](https://github.com/percolate/caffeine)
 1. **tray** A SharedPreferences replacement for Android with multiprocess support.
 [https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
+1. **colorize** Android quick access to 1000+ preloaded colors!             
+[https://github.com/cesarferreira/colorize](https://github.com/cesarferreira/colorize)
+
 
 
 ### <A NAME="Storage"></A>Storage 
