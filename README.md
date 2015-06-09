@@ -1326,6 +1326,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pbreault/adb-idea](https://github.com/pbreault/adb-idea)
 1. **android-butterknife-zelezny** Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.       
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
+1. **eventbus-intellij-plugin**  Plugin to navigate between events posted by EventBus.           
+[https://github.com/kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
+
+
+
 
 #### <A NAME="Other-Plugin"></A>Other
 1. **lein-droid**  A Leiningen plugin for building Clojure/Android projects    
