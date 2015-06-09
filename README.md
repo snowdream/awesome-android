@@ -603,7 +603,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
 1. **WheelIndicatorView**  A 'Google Fit' like activity indicator for Android      
 [https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
-
+1. **MaterialProgressBar**  Material design ProgressBar with consistent appearance             
+[https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 
 
