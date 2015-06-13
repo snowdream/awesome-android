@@ -394,7 +394,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 1. **MaterialViewPager** A Material Design ViewPager easy to use library     
 [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
-
+1. **MaterialProgressBar** A Material design ProgressBar with consistent appearance on Android 4.0+     
+[https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 
 #### <A NAME="UI"></A>UI
