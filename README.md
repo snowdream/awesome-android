@@ -1198,6 +1198,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
 1. **AppIntro**  Make a cool intro for your Android app.              
 [https://github.com/PaoloRotolo/AppIntro](https://github.com/PaoloRotolo/AppIntro)
+1. **ExpandableSelector**  ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which can be collapsed or expanded.             
+[https://github.com/Karumi/ExpandableSelector](https://github.com/Karumi/ExpandableSelector)
 
 
 
