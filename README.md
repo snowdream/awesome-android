@@ -1527,6 +1527,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
 1. **colorize** Android quick access to 1000+ preloaded colors!             
 [https://github.com/cesarferreira/colorize](https://github.com/cesarferreira/colorize)
+1. **IntentBuilder**  Type safe intent building for services and activities     
+[https://github.com/emilsjolander/IntentBuilder](https://github.com/emilsjolander/IntentBuilder)
 
 
 
