@@ -1018,6 +1018,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
 1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
 [https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
+1. **material-animated-switch**  A material Switch with icon animations and color transitions          
+[https://github.com/glomadrian/material-animated-switch](https://github.com/glomadrian/material-animated-switch)    
 1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.        
 [https://github.com/AndroidBootstrap/android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)  
 1. **cardslib**  Android Library to build a UI Card    
