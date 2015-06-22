@@ -1671,9 +1671,9 @@ Step 2. The item should fall under the appropriate category.
 1. **android-grid-wichterle** This app will show grid overlay over whole system which helps you to verify your excellent app design.          
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 
-1. **leakcanary** A memory leak detection library for Android and Java.
+1. **leakcanary** A memory leak detection library for Android and Java.  
 [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
-1. **Goreinu** Goreinu allows to copy application files on sdcard.
+1. **Goreinu** Goreinu allows to copy application files on sdcard.  
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
