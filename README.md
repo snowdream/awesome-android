@@ -911,8 +911,6 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/TriggerTrap/SeekArc](https://github.com/TriggerTrap/SeekArc)
 1. **discreteSeekBar**    DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.           
 [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
-1. **discreteSeekBar**    DiscreteSeekbar is my poor attempt to develop an android implementation of the Discrete Slider component from the Google Material Design Guidelines.           
-[https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 1. **android-comboseekbar**  seekbar with distinct values                  
 [https://github.com/karabaralex/android-comboseekbar](https://github.com/karabaralex/android-comboseekbar)
 1. **RangeSeekbar** A seekbar contains two cursor(left and right). Multiple touch supported.          
