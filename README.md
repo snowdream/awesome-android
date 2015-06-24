@@ -990,6 +990,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)
 1. **Scrollable**  Android scrollable tabs              
 [https://github.com/noties/Scrollable](https://github.com/noties/Scrollable)
+1. **RearrangeableLayout** An android layout to re-arrange child views via dragging             
+[https://github.com/rajasharan/RearrangeableLayout](https://github.com/rajasharan/RearrangeableLayout)
+
 
 
 
