@@ -606,6 +606,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
 1. **MaterialProgressBar**  Material design ProgressBar with consistent appearance             
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+1. RopeProgressBar   Android ProgressBar that "bends" under its own weight. Inspired by http://drbl.in/nwih       
+[https://github.com/cdeange/RopeProgressBar](https://github.com/cdeange/RopeProgressBar)
+
 
 
 
