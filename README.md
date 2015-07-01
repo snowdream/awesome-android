@@ -995,6 +995,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/noties/Scrollable](https://github.com/noties/Scrollable)
 1. **RearrangeableLayout** An android layout to re-arrange child views via dragging             
 [https://github.com/rajasharan/RearrangeableLayout](https://github.com/rajasharan/RearrangeableLayout)
+1. **BGAFlowLayout** Android流式布局，可配置是否将每一行的空白区域平均分配给子控件。            
+[https://github.com/bingoogolapple/BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android)
 
 
 
