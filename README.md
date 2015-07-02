@@ -942,6 +942,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
 1. **SilkCal**  Android calendar view inspired by Sunrise calendar and iOS7 stock calendar            
 [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
+1. **TimeRangePicker** TimeRangePicker is a library which can be used to select a time range.         
+[https://github.com/tittojose/TimeRangePicker](https://github.com/tittojose/TimeRangePicker)
+
+
 
 
 #### <A NAME="Layout"></A>Layout
