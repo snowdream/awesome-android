@@ -470,8 +470,9 @@ Step 2. The item should fall under the appropriate category.
 1. **Android-Typeahead** Awesome Android Typeahead library - User mention plugin, UI widget for auto complete user mention using the at sign (@) like Twitter or Facebook..
 [https://github.com/ArabAgile/android-typeahead](https://github.com/ArabAgile/android-typeahead)
 1. **CircleTimerView**  Circle timer on Android platform.                     
-[https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
-
+[https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView) 
+1. **AlignTextView**  字体对齐的textview           
+[https://github.com/androiddevelop/AlignTextView](https://github.com/androiddevelop/AlignTextView)
 
 
 
