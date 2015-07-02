@@ -46,7 +46,7 @@ Step 2. The item should fall under the appropriate category.
   * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
-  * [Calendar View](#Calendar_View)
+  * [Time View](#Time_View)
   * [Layout](#Layout)
   * [VideoView](#VideoView)
   * [Mapview](#Mapview)
@@ -921,7 +921,7 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-#### <A NAME="Calendar_View"></A>Calendar View
+#### <A NAME="Time_View"></A>Time View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid) 
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
