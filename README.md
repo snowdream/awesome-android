@@ -919,7 +919,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/karabaralex/android-comboseekbar](https://github.com/karabaralex/android-comboseekbar)
 1. **RangeSeekbar** A seekbar contains two cursor(left and right). Multiple touch supported.          
 [https://github.com/dolphinwang/RangeSeekbar](https://github.com/dolphinwang/RangeSeekbar)
-
+1. **SeekBarCompat** A material based support library to bring consistent SeekBars in Android for API 16 and above.         
+[https://github.com/ahmedrizwan/SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat)
 
 
 #### <A NAME="Time_View"></A>Time View
