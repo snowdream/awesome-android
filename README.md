@@ -1009,6 +1009,8 @@ Step 2. The item should fall under the appropriate category.
 #### <A NAME="VideoView"></A>VideoView
 1. **video-crop**  Android Video Crop                
 [https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
+1. **Android-ScalableVideoView** Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more           
+[https://github.com/yqritc/Android-ScalableVideoView](https://github.com/yqritc/Android-ScalableVideoView)
 
 
 #### <A NAME="Mapview"></A>Mapview
