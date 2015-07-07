@@ -533,7 +533,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/AlbertGrobas/MovingImageView](https://github.com/AlbertGrobas/MovingImageView)
 1. **PolygonImageView**  Custom ImageView for android with polygon shape (Android)                   
 [https://github.com/AlbertGrobas/PolygonImageView](https://github.com/AlbertGrobas/PolygonImageView)
-
+1. **BitmapMerger** Play with bitmaps           
+[https://github.com/cooltechworks/BitmapMerger](https://github.com/cooltechworks/BitmapMerger)
 
 
 #### <A NAME="Button"></A>Button
