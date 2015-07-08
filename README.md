@@ -610,6 +610,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 1. RopeProgressBar   Android ProgressBar that "bends" under its own weight. Inspired by http://drbl.in/nwih       
 [https://github.com/cdeange/RopeProgressBar](https://github.com/cdeange/RopeProgressBar)
+1. **DownloadProgressBar** Android progress bar with cool animation, inspired by : https://dribbble.com/shots/2012292-Download-Animation                 
+[https://github.com/panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar)
 
 
 
