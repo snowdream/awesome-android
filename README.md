@@ -535,6 +535,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/AlbertGrobas/PolygonImageView](https://github.com/AlbertGrobas/PolygonImageView)
 1. **BitmapMerger** Play with bitmaps           
 [https://github.com/cooltechworks/BitmapMerger](https://github.com/cooltechworks/BitmapMerger)
+1. **FlickableView**  Flickable ImageView for Android. It's like a view of twitter's detail image.         
+[https://github.com/gotokatsuya/FlickableView](https://github.com/gotokatsuya/FlickableView)
+
 
 
 #### <A NAME="Button"></A>Button
