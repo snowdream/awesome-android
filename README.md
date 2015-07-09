@@ -615,7 +615,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cdeange/RopeProgressBar](https://github.com/cdeange/RopeProgressBar)
 1. **DownloadProgressBar** Android progress bar with cool animation, inspired by : https://dribbble.com/shots/2012292-Download-Animation                 
 [https://github.com/panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar)
-
+1. **AnimatedCircleLoadingView**  An animated circle loading view             
+[https://github.com/jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView)
 
 
 
