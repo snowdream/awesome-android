@@ -1608,11 +1608,14 @@ Step 2. The item should fall under the appropriate category.
 1. **MultipleImageSelect** An android library that allows selection of multiple images from gallery.     
 [https://github.com/darsh2/MultipleImageSelect](https://github.com/darsh2/MultipleImageSelect)
 
+
 ### <A NAME="Test"></A>Test
 1. **Junit**   A programmer-oriented testing framework for Java.    
 [https://github.com/junit-team/junit](https://github.com/junit-team/junit)
 1. **robotium**  Like Selenium, but for Android      
 [https://github.com/RobotiumTech/robotium](https://github.com/RobotiumTech/robotium)
+1. **stf**  Control and manage Android devices from your browser.             
+[https://github.com/openstf/stf](https://github.com/openstf/stf)
 1. **assertj-android** A set of AssertJ helpers geared toward testing Android.    
 [https://github.com/square/assertj-android](https://github.com/square/assertj-android)
 1. **selendroid** "Selenium for Android" (Test automate native or hybrid Android apps and the mobile web with Selendroid.)         
