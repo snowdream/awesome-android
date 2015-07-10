@@ -293,7 +293,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) 
 1. **WaveCompat**  Wave effect of activity animation              
 [https://github.com/wangjiegulu/WaveCompat](https://github.com/wangjiegulu/WaveCompat)
-
+1. **MultiStateAnimation**  Android library to create complex multi-state animations.        
+[https://github.com/KeepSafe/MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation)
 
 
 ### <A NAME="Network"></A>Network
