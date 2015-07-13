@@ -1227,6 +1227,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Karumi/ExpandableSelector](https://github.com/Karumi/ExpandableSelector)
 1. **voice-recording-visualizer**  Simple Visualizer from mic input for Android.             
 [https://github.com/tyorikan/voice-recording-visualizer](https://github.com/tyorikan/voice-recording-visualizer)
+1. **TourGuide**  TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View           
+[https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
 
 
 
