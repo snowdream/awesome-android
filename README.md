@@ -1012,7 +1012,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/rajasharan/RearrangeableLayout](https://github.com/rajasharan/RearrangeableLayout)
 1. **BGAFlowLayout** Android流式布局，可配置是否将每一行的空白区域平均分配给子控件。            
 [https://github.com/bingoogolapple/BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android)
-
+1. **JellyRefreshLayout** A pull-down-to-refresh layout inspired by Lollipop overscrolled effects                   
+[https://github.com/allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout)
 
 
 
