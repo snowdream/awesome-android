@@ -1241,6 +1241,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/rebus007/Header-View](https://github.com/rebus007/Header-View)
 1. **CreditCardView** CreditCardView is an Android library that allows developers to create the UI which replicates an actual Credit Card.        
 [https://github.com/vinaygaba/CreditCardView](https://github.com/vinaygaba/CreditCardView)
+1. **AndroidGlitterView**  A view to show bling bling stars when you touch it.     
+[https://github.com/LyndonChin/AndroidGlitterView](https://github.com/LyndonChin/AndroidGlitterView)
+
 
 
 
