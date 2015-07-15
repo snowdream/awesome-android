@@ -89,6 +89,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 ### <A NAME="Framework"></A>Framework
+1. **dexposed** dexposed enable 'god' mode for single android application.     
+[https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
 1. **afinal**    Afinal是一个android的ioc，orm框架    
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 1. **xUtils****    android orm, bitmap, http, view inject...     
