@@ -1239,6 +1239,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
 1. **Header-View**  Create an header for android.support.design.widget.NavigationView              
 [https://github.com/rebus007/Header-View](https://github.com/rebus007/Header-View)
+1. **CreditCardView** CreditCardView is an Android library that allows developers to create the UI which replicates an actual Credit Card.        
+[https://github.com/vinaygaba/CreditCardView](https://github.com/vinaygaba/CreditCardView)
+
 
 
 ### <A NAME="Template"></A>Template
