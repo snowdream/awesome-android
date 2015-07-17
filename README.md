@@ -1888,6 +1888,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/MakinGiants/LiveView-Tell-it](https://github.com/MakinGiants/LiveView-Tell-it)
 1. **Piclice** A practical tool which helps users to slice and share their pictures.
 [https://github.com/yaa110/Piclice](https://github.com/yaa110/Piclice)
+1. **FlyRefresh** The Android implementation of Replace, designed by Zee Youn. I implement this as a FlyRefresh layout. The content of the layout can be any view, such as a ListView, RecyclerView, ScrollView, etc.                 
+[https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
+
+
+
 
 
 ### <A NAME="Security"></A>Security
