@@ -1892,7 +1892,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
 1. **InstaMaterial** Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)                
 [https://github.com/frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial)
-
+1. **wechat** A High Copy WeChat ,SNS APP (高仿微信)               
+[https://github.com/motianhuo/wechat](https://github.com/motianhuo/wechat)
 
 
 
