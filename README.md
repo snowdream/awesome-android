@@ -478,6 +478,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView) 
 1. **AlignTextView**  字体对齐的textview           
 [https://github.com/androiddevelop/AlignTextView](https://github.com/androiddevelop/AlignTextView)
+1. **advanced-textview**  Advanced Android TextView          
+[https://github.com/chiuki/advanced-textview](https://github.com/chiuki/advanced-textview)
+
 
 
 
