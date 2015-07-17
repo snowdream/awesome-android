@@ -1890,7 +1890,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yaa110/Piclice](https://github.com/yaa110/Piclice)
 1. **FlyRefresh** The Android implementation of Replace, designed by Zee Youn. I implement this as a FlyRefresh layout. The content of the layout can be any view, such as a ListView, RecyclerView, ScrollView, etc.                 
 [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
-
+1. **InstaMaterial** Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)                
+[https://github.com/frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial)
 
 
 
