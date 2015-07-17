@@ -57,6 +57,7 @@ Step 2. The item should fall under the appropriate category.
   * [SBT](#SBT)
   * [Intellij IDEA / Android Studio](#Intellij_IDEA_/_Android_Studio)
   * [Other](#Other-Plugin)
+* [Intent](#Intent)
 * [Injector](#Injector)
 * [Template](#Template)
 * [Adapter](#Adapter)
@@ -1395,6 +1396,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/banshee/AndroidProguardScala](https://github.com/banshee/AndroidProguardScala)
 1. **vim-android**  Vim plugin to do android development.     
 [https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
+
+
+### <A NAME="Intent"></A>Intent
+1. **PhotoPicker** 图片选择 & 图片预览                                
+[https://github.com/donglua/PhotoPicker](https://github.com/donglua/PhotoPicker)
+
 
 
 ### <A NAME="Injector"></A>Injector
