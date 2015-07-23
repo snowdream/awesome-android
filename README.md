@@ -1,4 +1,4 @@
-# awesome-android
+﻿# awesome-android
 
 ## Introduction
 android libs from github
@@ -1025,7 +1025,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/bingoogolapple/BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android)
 1. **JellyRefreshLayout** A pull-down-to-refresh layout inspired by Lollipop overscrolled effects                   
 [https://github.com/allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout)
-
+1. **Dragger** The library was created in order to provide new animations for activities on Android. 
+[https://github.com/ppamorim/Dragger](https://github.com/ppamorim/Dragger)
+1. **PrismView** PrismView provides animations for your views, similar to Dragger, but with fragments! You can change the fragment of the PrismView any time.                
+[https://github.com/ppamorim/PrismView](https://github.com/ppamorim/PrismView)
 
 
 #### <A NAME="VideoView"></A>VideoView
