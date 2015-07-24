@@ -43,6 +43,7 @@ Step 2. The item should fall under the appropriate category.
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
   * [Fragment](#Fragment)
+  * [Activity](#Activity)
   * [Tabs](#Tabs)
   * [Toast](#Toast)
   * [SeekBar](#SeekBar)
@@ -892,6 +893,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment)
 1. **EtsyBlur**  EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the Etsy app.               
 [https://github.com/Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)
+
+
+
+#### <A NAME="Activity"></A>Activity
+1. **CustomActivityOnCrash** Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.          
+[https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
 
 
 
