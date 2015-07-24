@@ -840,6 +840,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter)
 1. **header-decor**  A couple of sticky header decorations for android's recycler view.                
 [https://github.com/edubarr/header-decor](https://github.com/edubarr/header-decor)
+1. **SectionedRecyclerView** An adapter to create Android RecyclerViews with sections, providing headers and footers.               
+[https://github.com/truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView)
 
 
 #### <A NAME="ViewPager"></A>ViewPager
