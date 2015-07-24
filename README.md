@@ -1593,6 +1593,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cesarferreira/colorize](https://github.com/cesarferreira/colorize)
 1. **IntentBuilder**  Type safe intent building for services and activities     
 [https://github.com/emilsjolander/IntentBuilder](https://github.com/emilsjolander/IntentBuilder)
+1. **RoboGif**  A small utility to record Android device screen to a GIF      
+[https://github.com/izacus/RoboGif](https://github.com/izacus/RoboGif)
+
 
 
 
