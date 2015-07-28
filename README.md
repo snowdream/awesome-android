@@ -149,7 +149,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/fenli/elf](https://github.com/fenli/elf)
 1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
-
+1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.            
+[https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 
 
 ### <A NAME="EventBus"></A>EventBus
