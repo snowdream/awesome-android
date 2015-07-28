@@ -484,7 +484,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/androiddevelop/AlignTextView](https://github.com/androiddevelop/AlignTextView)
 1. **advanced-textview**  Advanced Android TextView          
 [https://github.com/chiuki/advanced-textview](https://github.com/chiuki/advanced-textview)
-
+1. **ParkedTextView** A editable text with a constant text/placeholder for Android.           
+[https://github.com/gotokatsuya/ParkedTextView](https://github.com/gotokatsuya/ParkedTextView)
 
 
 
