@@ -304,6 +304,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/KeepSafe/MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation)
 1. **Android-Transition**  Allows the easy creation of view transitions that react to user inputs.        
 [https://github.com/kaichunlin/android-transition](https://github.com/kaichunlin/android-transition)
+1. **CircularTools** Material reveal and readial reaction animation library. Min. API 11    
+[https://github.com/AutSoft/CircularTools](https://github.com/AutSoft/CircularTools)
 
 ### <A NAME="Network"></A>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
