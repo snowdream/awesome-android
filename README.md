@@ -687,7 +687,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/wujingchao/MultiCardMenu](https://github.com/wujingchao/MultiCardMenu)
 1. **DropDownMenu**  DropDownMenu for Android,Filter the list based on multiple condition.                
 [https://github.com/JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu)
-
+1. **Folder-ResideMenu**  An extension of ResideMenu            
+[https://github.com/dkmeteor/Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu)
 
 
 #### <A NAME="Dialog"></A>Dialog
