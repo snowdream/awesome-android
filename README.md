@@ -1605,7 +1605,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/emilsjolander/IntentBuilder](https://github.com/emilsjolander/IntentBuilder)
 1. **RoboGif**  A small utility to record Android device screen to a GIF      
 [https://github.com/izacus/RoboGif](https://github.com/izacus/RoboGif)
-
+1. **Foredroid**  Utility for detecting and notifying when your Android app goes background / becomes foreground           
+[https://github.com/steveliles/Foredroid](https://github.com/steveliles/Foredroid)
 
 
 
