@@ -847,6 +847,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/edubarr/header-decor](https://github.com/edubarr/header-decor)
 1. **SectionedRecyclerView** An adapter to create Android RecyclerViews with sections, providing headers and footers.               
 [https://github.com/truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView)
+1. **RecyclerViewHeader** Super fast and easy way to create header for Android RecyclerView                 
+[https://github.com/blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
 
 
 #### <A NAME="ViewPager"></A>ViewPager
