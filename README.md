@@ -85,6 +85,7 @@ Step 2. The item should fall under the appropriate category.
 * [App](#App)
 * [Security](#Security)
 * [Tools](#Tools)
+* [QRCode](#QRCode)
 * [Decompiler](#Decompiler)
 * [Android Wear](#Android_Wear)
 * [Other](#Other1)
@@ -2001,6 +2002,13 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/StanKocken/SVG2Drawable](https://github.com/StanKocken/SVG2Drawable)
 1. **Layout-to-Image** Android Layout (Relative Layout, Linear Layout etc) to Image               
 [https://github.com/vipulasri/Layout-to-Image](https://github.com/vipulasri/Layout-to-Image)
+
+
+### <A NAME="QRCode"></A>QRCode
+1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/              
+[https://github.com/kenglxn/QRGen](https://github.com/kenglxn/QRGen)
+1. **barcodescanner** Barcode Scanner Libraries for Android            
+[https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
 
 
 ### <A NAME="Decompiler"></A>Decompiler
