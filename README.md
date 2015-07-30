@@ -1850,6 +1850,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/LiveTyping/u2020-mvp](https://github.com/LiveTyping/u2020-mvp)
 1. **Material-Animation-Samples**  In this repository i will add more of samples in material animation           
 [https://github.com/tarek360/Material-Animation-Samples](https://github.com/tarek360/Material-Animation-Samples)
+1. **MaterialTransitions**   Sample material transition animations for Android       
+[https://github.com/toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions)
 
 
 ### <A NAME="App"></A>App
