@@ -1271,6 +1271,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/LyndonChin/AndroidGlitterView](https://github.com/LyndonChin/AndroidGlitterView)
 1. **SortableTableView** An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.              
 [https://github.com/ISchwarz23/SortableTableView](https://github.com/ISchwarz23/SortableTableView)
+1. **hsv-alpha-color-picker-android**   This library implements a color picker and a color preference for use in Android applications.             
+[https://github.com/martin-stone/hsv-alpha-color-picker-android](https://github.com/martin-stone/hsv-alpha-color-picker-android)
 
 
 
