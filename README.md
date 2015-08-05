@@ -489,8 +489,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/chiuki/advanced-textview](https://github.com/chiuki/advanced-textview)
 1. **ParkedTextView** A editable text with a constant text/placeholder for Android.           
 [https://github.com/gotokatsuya/ParkedTextView](https://github.com/gotokatsuya/ParkedTextView)
+1. **SimpleLinkableText** Simple way to create linked text, such as @username or #hashtag, in Android TextView and EditText.           
+[https://github.com/apradanas/simple-linkable-text](https://github.com/apradanas/simple-linkable-text)
 1. **material-code-input**  A material style input for codes                  
 [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
+
 
 
 #### <A NAME="ImageView"></A>ImageView
