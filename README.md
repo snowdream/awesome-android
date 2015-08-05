@@ -493,7 +493,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/apradanas/simple-linkable-text](https://github.com/apradanas/simple-linkable-text)
 1. **material-code-input**  A material style input for codes                  
 [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
-
+1. **BubbleTextView**  Android Bubble View              
+[https://github.com/dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView)
 
 
 #### <A NAME="ImageView"></A>ImageView
