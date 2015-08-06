@@ -309,7 +309,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/AutSoft/CircularTools](https://github.com/AutSoft/CircularTools)
 1. **fab-transformation**  Support Floating Action Button transformation for Android                
 [https://github.com/konifar/fab-transformation](https://github.com/konifar/fab-transformation)
-
+1. **AppIntroAnimation**  AppIntroAnimation is a set of code snippets to make cool intro screen for your app with special Image Translation and Transformation animation effects. It is very easy to use and customize without adding third party library integrations.            
+[https://github.com/TakeoffAndroid/AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)
 
 
 
