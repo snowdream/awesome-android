@@ -604,6 +604,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jjhesk/hkm-progress-button](https://github.com/jjhesk/hkm-progress-button)
 1. **SubmitDemo**  comtomize view submit button which you use for submit operation or download operation and so on.             
 [https://github.com/tuesda/SubmitDemo](https://github.com/tuesda/SubmitDemo)
+1. **PlayPauseButton**  PlayPauseButton         
+[https://github.com/recruit-lifestyle/PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
+
+
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
