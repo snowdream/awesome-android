@@ -1875,6 +1875,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tarek360/Material-Animation-Samples](https://github.com/tarek360/Material-Animation-Samples)
 1. **MaterialTransitions**   Sample material transition animations for Android       
 [https://github.com/toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions)
+1. **Watch**   A project which demonstrate how to develop a custom client on android for drbbble.com              
+[https://github.com/tuesda/Watch](https://github.com/tuesda/Watch)
 
 
 ### <A NAME="App"></A>App
