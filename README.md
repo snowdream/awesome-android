@@ -2071,7 +2071,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yoojia/FireEye](https://github.com/yoojia/FireEye)
 1. **WeakHandler** helps to have a clean handler without memmory issues.
 [https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
-
+1. **JsonToJava**  I was fed up with writing Java classes to mirror json models. So I wrote this Java app to automate the process.            
+[https://github.com/jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava)
 
 
 
