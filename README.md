@@ -1065,7 +1065,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ppamorim/PrismView](https://github.com/ppamorim/PrismView)
 1. **BeerSwipeRefresh**  This project aims to provide a reusable Swipe to Refresh widget for Android.              
 [https://github.com/recruit-lifestyle/BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh)
-
+1. **SuperSwipeRefreshLayout** A Custom SwipeRefreshLayout          
+[https://github.com/nuptboyzhb/SuperSwipeRefreshLayout](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)
 
 
 
