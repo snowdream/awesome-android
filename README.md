@@ -2067,6 +2067,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jacobtabak/Fragment-Switcher](https://github.com/jacobtabak/Fragment-Switcher)
 1. **AwesomeValidation**  Implement validation for Android within only 3 steps. Developers should focus on their awesome code, and let the library do the boilerplate. And what's more, this could help keep your layout file clean.
 [https://github.com/thyrlian/AwesomeValidation](https://github.com/thyrlian/AwesomeValidation)
+1. **validation**   Fire eye - Android 输入校验库 - A validation library for android              
+[https://github.com/yoojia/FireEye](https://github.com/yoojia/FireEye)
 1. **WeakHandler** helps to have a clean handler without memmory issues.
 [https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
 
