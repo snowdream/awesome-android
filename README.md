@@ -1,4 +1,4 @@
-﻿# awesome-android
+# awesome-android
 
 ## Introduction
 android libs from github
@@ -1085,7 +1085,8 @@ Step 2. The item should fall under the appropriate category.
 #### <A NAME="Mapview"></A>Mapview
 1. **AirMapView**  A view abstraction to provide a map user interface with various underlying map providers          
 [https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
-
+2. **Google Maps Android API utility library** This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.    
+[https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
 
 #### <A NAME="Other"></A>Other
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
