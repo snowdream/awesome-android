@@ -818,6 +818,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/carlonzo/StikkyHeader](https://github.com/carlonzo/StikkyHeader)     
 1. **quickscroll**    Bringing extended scrolling features to Android's native ListView and ExpandableListView.       
 [https://github.com/andraskindler/quickscroll](https://github.com/andraskindler/quickscroll)
+1. **FilterSelectorListView**   FilterSelectorListView is useful for making multiple selection with see selection on the top of ListView.           
+[https://github.com/pchauhan/FilterSelectorListView](https://github.com/pchauhan/FilterSelectorListView)
+
+
+
+
 
 
 #### <A NAME="GridView"></A>GridView
