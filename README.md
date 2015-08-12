@@ -875,6 +875,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/truizlop/SectionedRecyclerView](https://github.com/truizlop/SectionedRecyclerView)
 1. **RecyclerViewHeader** Super fast and easy way to create header for Android RecyclerView                 
 [https://github.com/blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
+1.  **sticky-headers-recyclerview** This decorator allows you to easily create section headers for RecyclerViews using a LinearLayoutManager in either vertical or horizontal orientation.     
+[https://github.com/timehop/sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
+
 
 
 #### <A NAME="ViewPager"></A>ViewPager
