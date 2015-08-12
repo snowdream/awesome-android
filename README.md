@@ -1312,6 +1312,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/ISchwarz23/SortableTableView](https://github.com/ISchwarz23/SortableTableView)
 1. **hsv-alpha-color-picker-android**   This library implements a color picker and a color preference for use in Android applications.             
 [https://github.com/martin-stone/hsv-alpha-color-picker-android](https://github.com/martin-stone/hsv-alpha-color-picker-android)
+1. **Android-SpeedyViewSelector**  This is a change Background Or TextColor Selector support library, with which you can directly specify the Background to be displayed in different states or TextColor Layout xml, such as clicking the button effect, the conventional practice is to create Selector xml file in drawable directory but when the project becomes larger when the file bac…     
+[https://github.com/devsoulwolf/Android-SpeedyViewSelector](https://github.com/devsoulwolf/Android-SpeedyViewSelector)
+
+
 
 
 
