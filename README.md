@@ -712,6 +712,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/JayFang1993/DropDownMenu](https://github.com/JayFang1993/DropDownMenu)
 1. **Folder-ResideMenu**  An extension of ResideMenu            
 [https://github.com/dkmeteor/Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu)
+1. **SlideBottomPanel**   底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView              
+[https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)
 
 
 #### <A NAME="Dialog"></A>Dialog
