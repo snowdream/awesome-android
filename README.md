@@ -1084,6 +1084,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/nuptboyzhb/SuperSwipeRefreshLayout](https://github.com/nuptboyzhb/SuperSwipeRefreshLayout)
 1. **Android-RatioLayout**  This is a specified proportion to the size of the Layout or View support library, with which you can easily set a fixed ratio of the size of the Layout or View, internal adaptive size calculation, completely abandon the code to calculate the size! If you have any questions in the course or suggestions, please send an e-mail to the following e-mail, thank you!           
 [https://github.com/devsoulwolf/Android-RatioLayout](https://github.com/devsoulwolf/Android-RatioLayout)
+1. **AndroidAutoHideHeader**  A layout that hide the header when the body is scrolled down and reveal it when the header is scrolled up                     
+[https://github.com/vcaen/AndroidAutoHideHeader](https://github.com/vcaen/AndroidAutoHideHeader)
 
 
 
