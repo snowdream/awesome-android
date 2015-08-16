@@ -1980,7 +1980,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jariz/MaterialUp](https://github.com/jariz/MaterialUp)
 1. **Android-Jigsaw-Puzzle**    This is an Android app where a user draws something and use it to generate and solve jigsaw puzzles of various difficulties (easy, medium, hard). I have been slowly adding features and plan to complete it at some point.          
 [https://github.com/julesbond007/Android-Jigsaw-Puzzle](https://github.com/julesbond007/Android-Jigsaw-Puzzle)
-
+1. **AmazeFileManager**  Amaze File Manager source code           
+[https://github.com/arpitkh96/AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)
 
 
 
