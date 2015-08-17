@@ -1905,6 +1905,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tuesda/Watch](https://github.com/tuesda/Watch)
 1. **MaterialDesignExample**  本APP用来演示Material Design控件的使用。 http://www.aswifter.com/2015/07/02/Material-Design-Example-5/                 
 [https://github.com/chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample)
+1. **MaterialPowerMenu**   A demo of the power menu with Reveal and other animations        
+[https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 
 
 ### <A NAME="App"></A>App
