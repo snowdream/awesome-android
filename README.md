@@ -606,7 +606,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tuesda/SubmitDemo](https://github.com/tuesda/SubmitDemo)
 1. **PlayPauseButton**  PlayPauseButton         
 [https://github.com/recruit-lifestyle/PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
-
+1. **ArrowDownloadButton**  A download button with pretty cool animation                            
+[https://github.com/fenjuly/ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton)
 
 
 
@@ -1902,6 +1903,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions)
 1. **Watch**   A project which demonstrate how to develop a custom client on android for drbbble.com              
 [https://github.com/tuesda/Watch](https://github.com/tuesda/Watch)
+1. **MaterialDesignExample**  本APP用来演示Material Design控件的使用。 http://www.aswifter.com/2015/07/02/Material-Design-Example-5/                 
+[https://github.com/chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample)
 
 
 ### <A NAME="App"></A>App
@@ -1983,7 +1986,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jariz/MaterialUp](https://github.com/jariz/MaterialUp)
 1. **Android-Jigsaw-Puzzle**    This is an Android app where a user draws something and use it to generate and solve jigsaw puzzles of various difficulties (easy, medium, hard). I have been slowly adding features and plan to complete it at some point.          
 [https://github.com/julesbond007/Android-Jigsaw-Puzzle](https://github.com/julesbond007/Android-Jigsaw-Puzzle)
-
+1. **AmazeFileManager**  Amaze File Manager source code           
+[https://github.com/arpitkh96/AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)
 
 
 
