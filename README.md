@@ -1317,6 +1317,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/martin-stone/hsv-alpha-color-picker-android](https://github.com/martin-stone/hsv-alpha-color-picker-android)
 1. **Android-SpeedyViewSelector**  This is a change Background Or TextColor Selector support library, with which you can directly specify the Background to be displayed in different states or TextColor Layout xml, such as clicking the button effect, the conventional practice is to create Selector xml file in drawable directory but when the project becomes larger when the file bac…     
 [https://github.com/devsoulwolf/Android-SpeedyViewSelector](https://github.com/devsoulwolf/Android-SpeedyViewSelector)
+1. **InteractivePlayerView**  Custom android music player view.              
+[https://github.com/iammert/InteractivePlayerView](https://github.com/iammert/InteractivePlayerView)
 
 
 
