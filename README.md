@@ -654,7 +654,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar)
 1. **AnimatedCircleLoadingView**  An animated circle loading view             
 [https://github.com/jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView)
-
+1. **SpinnerLoader**  A loader that measures up Material Design          
+[https://github.com/fenjuly/SpinnerLoader](https://github.com/fenjuly/SpinnerLoader)
 
 
 
