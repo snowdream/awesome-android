@@ -608,7 +608,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/recruit-lifestyle/PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
 1. **ArrowDownloadButton**  A download button with pretty cool animation                            
 [https://github.com/fenjuly/ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton)
-
+1. **FABProgressCircle**  Material progress circle around any FloatingActionButton. 100% Guidelines.               
+[https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
@@ -656,6 +657,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView)
 1. **SpinnerLoader**  A loader that measures up Material Design          
 [https://github.com/fenjuly/SpinnerLoader](https://github.com/fenjuly/SpinnerLoader)
+1. **AndroidFillableLoaders**  Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. Based on the iOS project: https://github.com/poolqf/FillableLoaders             
+[https://github.com/JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
+1. **WhorlView**   Progressbar with whorl style                  
+[https://github.com/Kyson/WhorlView](https://github.com/Kyson/WhorlView)
+
 
 
 
@@ -1993,7 +1999,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/julesbond007/Android-Jigsaw-Puzzle](https://github.com/julesbond007/Android-Jigsaw-Puzzle)
 1. **AmazeFileManager**  Amaze File Manager source code           
 [https://github.com/arpitkh96/AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)
-
+1. **SimplifyReader**  一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。                    
+[https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 
 
 
