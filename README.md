@@ -505,6 +505,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
 1. **BubbleTextView**  Android Bubble View              
 [https://github.com/dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView)
+1. **PathEffectTextView**  PathEffectTextView              
+[https://github.com/dkmeteor/PathEffectTextView](https://github.com/dkmeteor/PathEffectTextView)
+
+
 
 
 #### <A NAME="ImageView"></A>ImageView
@@ -1465,7 +1469,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
 1. **eventbus-intellij-plugin**  Plugin to navigate between events posted by EventBus.           
 [https://github.com/kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
-
+1. **GsonFormat**  根据Gson库使用的要求,将JSONObject格式的String 解析成实体    
+[https://github.com/zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat)
 
 
 
@@ -2001,7 +2006,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/arpitkh96/AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager)
 1. **SimplifyReader**  一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。                    
 [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
-
+1. **clean-status-bar**  Tidy up your Android status bar before taking screenshots for the Play Store               
+[https://github.com/emmaguy/clean-status-bar](https://github.com/emmaguy/clean-status-bar)
 
 
 ### <A NAME="Security"></A>Security
