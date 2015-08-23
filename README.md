@@ -665,8 +665,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
 1. **WhorlView**   Progressbar with whorl style                  
 [https://github.com/Kyson/WhorlView](https://github.com/Kyson/WhorlView)
-
-
+1. **ColoringLoading**  This project provide Coloring Loading View for Android.
+And this project is not using the image file!               
+[https://github.com/recruit-lifestyle/ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading)
 
 
 #### <A NAME="Menu"></A>Menu
