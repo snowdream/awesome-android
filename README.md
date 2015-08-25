@@ -925,7 +925,8 @@ And this project is not using the image file!
 [https://github.com/lsjwzh/RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
 1. **MultiViewPager**  The MultiViewPager is an extension of the support-v4 library's ViewPager that allows the pages to be wider or narrower than the ViewPager itself. It takes care of aligning the pages next to each other, and always keeping the selected page centered.           
 [https://github.com/Pixplicity/MultiViewPager](https://github.com/Pixplicity/MultiViewPager)
-
+1. **HollyViewPager**   HollyViewPager             
+[https://github.com/florent37/HollyViewPager](https://github.com/florent37/HollyViewPager)
 
 
 #### <A NAME="ActionBar"></A>ActionBar
