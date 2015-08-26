@@ -669,6 +669,11 @@ Step 2. The item should fall under the appropriate category.
 1. **ColoringLoading**  This project provide Coloring Loading View for Android.
 And this project is not using the image file!               
 [https://github.com/recruit-lifestyle/ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading)
+1. **RubberIndicator**       A rubber indicator for ViewPager              
+[https://github.com/LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator)
+
+
+
 
 
 #### <A NAME="Menu"></A>Menu
