@@ -927,6 +927,9 @@ And this project is not using the image file!
 [https://github.com/Pixplicity/MultiViewPager](https://github.com/Pixplicity/MultiViewPager)
 1. **HollyViewPager**   HollyViewPager             
 [https://github.com/florent37/HollyViewPager](https://github.com/florent37/HollyViewPager)
+1. **SCViewPager**    A simple ViewPager extends that provide scroll based animation like Jazz Hands for iOS. Jazz Hands library provided by IFTTT : https://github.com/IFTTT/JazzHands               
+[https://github.com/sacot41/SCViewPager](https://github.com/sacot41/SCViewPager)
+
 
 
 #### <A NAME="ActionBar"></A>ActionBar
