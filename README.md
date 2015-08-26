@@ -2081,7 +2081,8 @@ And this project is not using the image file!
 [https://github.com/StanKocken/SVG2Drawable](https://github.com/StanKocken/SVG2Drawable)
 1. **Layout-to-Image** Android Layout (Relative Layout, Linear Layout etc) to Image               
 [https://github.com/vipulasri/Layout-to-Image](https://github.com/vipulasri/Layout-to-Image)
-
+1. **shareloginlib** android 第三方分享和登录组件(支持微信,QQ,微博)               
+[https://github.com/lingochamp/ShareLoginLib](https://github.com/lingochamp/ShareLoginLib)
 
 ### <A NAME="QRCode"></A>QRCode
 1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/              
