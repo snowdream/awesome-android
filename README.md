@@ -238,10 +238,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lexs/webimageloader](https://github.com/lexs/webimageloader)
 1. **AndroidImageLoader** Andorid library that loads images asynchronously into cache using a thread pool      
 [https://github.com/wuman/AndroidImageLoader](https://github.com/wuman/AndroidImageLoader)
-1. **SoBitmap** Bitmap decoder, handle resize & quality & compress stuff following user's configurations.                       
-[https://github.com/airk000/SoBitmap](https://github.com/airk000/SoBitmap)
-
-
+1. **SoBitmap** Bitmap decoder, handle resize & quality & compress stuff following user's configurations.     [https://github.com/airk000/SoBitmap](https://github.com/airk000/SoBitmap)
+1. **Fresco**   An image management library by FaceBook     [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 
 
 ### <A NAME="Animations"></A>Animations
