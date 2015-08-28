@@ -907,6 +907,8 @@ And this project is not using the image file!
 [https://github.com/blipinsk/RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
 1.  **sticky-headers-recyclerview** This decorator allows you to easily create section headers for RecyclerViews using a LinearLayoutManager in either vertical or horizontal orientation.     
 [https://github.com/timehop/sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
+1. **RecyclerItemDecoration**  ItemDecoration for RecyclerView using LinearLayoutManager
+[https://github.com/magiepooh/RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration)
 
 
 
