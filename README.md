@@ -736,6 +736,10 @@ And this project is not using the image file!
 [https://github.com/dkmeteor/Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu)
 1. **SlideBottomPanel**   底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView              
 [https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)
+1. **CustomMenu**    CustomMenu quickly realize about the menu                 
+[https://github.com/flyfei/CustomMenu](https://github.com/flyfei/CustomMenu)
+
+
 
 
 #### <A NAME="Dialog"></A>Dialog
