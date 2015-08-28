@@ -871,6 +871,10 @@ And this project is not using the image file!
 [https://github.com/maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)
 1. **android-GridViewWithHeaderAndFooter**  GridView with Header and Footer    
 [https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter](https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter)
+1. **DragExpandGrid**   可展开，可拖动，可排序，可删除，固定更多的GridView     
+[https://github.com/wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid)
+
+
 
 
 #### <A NAME="RatingView"></A>RatingView
