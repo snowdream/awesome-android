@@ -152,6 +152,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.            
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
+1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。              
+[https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+
 
 
 ### <A NAME="EventBus"></A>EventBus
