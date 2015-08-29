@@ -975,7 +975,8 @@ And this project is not using the image file!
 #### <A NAME="Activity"></A>Activity
 1. **CustomActivityOnCrash** Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.          
 [https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
-
+1. **android-slidingactivity**      Android library which allows you to swipe down from an activity to close it.         
+[https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
 
 
 #### <A NAME="Tabs"></A>Tabs
