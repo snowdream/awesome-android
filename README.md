@@ -1355,6 +1355,8 @@ And this project is not using the image file!
 [https://github.com/iammert/InteractivePlayerView](https://github.com/iammert/InteractivePlayerView)
 1. **tooltip-view**  Dead simple Android Tooltip Views             
 [https://github.com/venmo/tooltip-view](https://github.com/venmo/tooltip-view)
+1. **Android-TrackingRingWidget**  It's a tracking activity ring widget like in Apple watch for Android.          
+
 
 
 
