@@ -1368,7 +1368,8 @@ And this project is not using the image file!
 1. **Android-TrackingRingWidget**  It's a tracking activity ring widget like in Apple watch for Android.          
 1. **PinView**  A Pin view widget for Android            
 [https://github.com/DavidPizarro/PinView](https://github.com/DavidPizarro/PinView)
-
+1. **CamView**  Android component to display live preview from the device camera and provide preview data for any external decoding processes       
+[https://github.com/LivotovLabs/CamView](https://github.com/LivotovLabs/CamView)
 
 
 
