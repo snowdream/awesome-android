@@ -49,6 +49,7 @@ Step 2. The item should fall under the appropriate category.
   * [SeekBar](#SeekBar)
   * [Time View](#Time_View)
   * [Layout](#Layout)
+  * [Toolbar](#Toolbar)
   * [VideoView](#VideoView)
   * [Mapview](#Mapview)
   * [Other](#Other)
@@ -1123,6 +1124,10 @@ And this project is not using the image file!
 1. **PhysicsLayout**  Android layout that simulates physics using JBox2D       
 [https://github.com/Jawnnypoo/PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout)
 
+
+#### <A NAME="Toolbar"></A>Toolbar
+1. **CollapsingAvatarToolbar**  Collapsing Toolbar with a moving avatar for Android.             
+[https://github.com/Sloy/CollapsingAvatarToolbar](https://github.com/Sloy/CollapsingAvatarToolbar)
 
 
 #### <A NAME="VideoView"></A>VideoView
