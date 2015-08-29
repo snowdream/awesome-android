@@ -155,7 +155,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。              
 [https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
-
+1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki        
+[https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
 
 
 ### <A NAME="EventBus"></A>EventBus
