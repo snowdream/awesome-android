@@ -575,6 +575,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/cooltechworks/BitmapMerger](https://github.com/cooltechworks/BitmapMerger)
 1. **FlickableView**  Flickable ImageView for Android. It's like a view of twitter's detail image.         
 [https://github.com/gotokatsuya/FlickableView](https://github.com/gotokatsuya/FlickableView)
+1. **ImageGallery**  A gallery used to host an array of images
+[https://github.com/lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery)
+
 
 
 
