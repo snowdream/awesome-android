@@ -2164,7 +2164,8 @@ And this project is not using the image file!
 [https://github.com/badoo/android-weak-handler](https://github.com/badoo/android-weak-handler)
 1. **JsonToJava**  I was fed up with writing Java classes to mirror json models. So I wrote this Java app to automate the process.            
 [https://github.com/jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava)
-
+1. **sixpack-java** A/B testing client for Android and Java applications        
+[https://github.com/seatgeek/sixpack-java](https://github.com/seatgeek/sixpack-java)
 
 
 ## License
