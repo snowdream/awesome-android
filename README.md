@@ -2125,6 +2125,11 @@ And this project is not using the image file!
 [https://github.com/vipulasri/Layout-to-Image](https://github.com/vipulasri/Layout-to-Image)
 1. **shareloginlib** android 第三方分享和登录组件(支持微信,QQ,微博)               
 [https://github.com/lingochamp/ShareLoginLib](https://github.com/lingochamp/ShareLoginLib)
+1. **vectalign**   Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)              
+[https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
+
+
+
 
 ### <A NAME="QRCode"></A>QRCode
 1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/              
