@@ -1374,6 +1374,10 @@ And this project is not using the image file!
 [https://github.com/LivotovLabs/CamView](https://github.com/LivotovLabs/CamView)
 1. **AndroidSweetSheet**  一个富有动感的Sheet(选择器)                     
 [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
+1. **SlidingCard** Sliding cards with pretty gallery effects. http://android-arsenal.com/details/1/2355            
+[https://github.com/mxn21/SlidingCard](https://github.com/mxn21/SlidingCard)
+
+
 
 
 ### <A NAME="Template"></A>Template
