@@ -1370,7 +1370,8 @@ And this project is not using the image file!
 [https://github.com/DavidPizarro/PinView](https://github.com/DavidPizarro/PinView)
 1. **CamView**  Android component to display live preview from the device camera and provide preview data for any external decoding processes       
 [https://github.com/LivotovLabs/CamView](https://github.com/LivotovLabs/CamView)
-
+1. **AndroidSweetSheet**  一个富有动感的Sheet(选择器)                     
+[https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
 
 
 ### <A NAME="Template"></A>Template
