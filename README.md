@@ -1715,6 +1715,8 @@ And this project is not using the image file!
 [https://github.com/izacus/RoboGif](https://github.com/izacus/RoboGif)
 1. **Foredroid**  Utility for detecting and notifying when your Android app goes background / becomes foreground           
 [https://github.com/steveliles/Foredroid](https://github.com/steveliles/Foredroid)
+1. **Slinger** Deep linking library for Android
+[https://github.com/allegro/slinger](https://github.com/allegro/slinger)
 
 
 
