@@ -2055,6 +2055,9 @@ And this project is not using the image file!
 [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 1. **clean-status-bar**  Tidy up your Android status bar before taking screenshots for the Play Store               
 [https://github.com/emmaguy/clean-status-bar](https://github.com/emmaguy/clean-status-bar)
+1. **Etar Calendar**  OpenSource calendar with Material Design               
+[https://github.com/xsoh/Etar-Calendar](https://github.com/xsoh/Etar-Calendar)
+
 
 
 ### <A NAME="Security"></A>Security
