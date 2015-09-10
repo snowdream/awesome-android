@@ -52,6 +52,7 @@ Step 2. The item should fall under the appropriate category.
   * [Toolbar](#Toolbar)
   * [VideoView](#VideoView)
   * [Mapview](#Mapview)
+  * [Choreographer](#Choreographer)
   * [Other](#Other)
 * [Plugin](#Plugin)
   * [Gradle](#Gradle)
@@ -1150,6 +1151,14 @@ And this project is not using the image file!
 [https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 2. **Google Maps Android API utility library** This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.    
 [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+
+
+#### <A NAME="Choreographer"></A>Choreographer
+1. **Takt**  Takt is Android library for measuring the FPS using Choreographer.      
+[https://github.com/wasabeef/Takt](https://github.com/wasabeef/Takt)
+
+
+
 
 #### <A NAME="Other"></A>Other
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
