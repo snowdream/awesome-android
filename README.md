@@ -916,7 +916,8 @@ And this project is not using the image file!
 [https://github.com/timehop/sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
 1. **RecyclerItemDecoration**  ItemDecoration for RecyclerView using LinearLayoutManager
 [https://github.com/magiepooh/RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration)
-
+1. **Dividers**   Dividers is a simple Android library to create easy separators for your RecyclerViews           
+[https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
 
 
 #### <A NAME="ViewPager"></A>ViewPager
