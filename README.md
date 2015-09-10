@@ -1376,6 +1376,9 @@ And this project is not using the image file!
 [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
 1. **SlidingCard** Sliding cards with pretty gallery effects. http://android-arsenal.com/details/1/2355            
 [https://github.com/mxn21/SlidingCard](https://github.com/mxn21/SlidingCard)
+1. **DraggableView** Draggable views with rotation and skew/scale effects.      
+[https://github.com/elevenetc/DraggableView](https://github.com/elevenetc/DraggableView)
+
 
 
 
