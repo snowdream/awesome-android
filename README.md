@@ -2072,6 +2072,8 @@ And this project is not using the image file!
 [https://github.com/emmaguy/clean-status-bar](https://github.com/emmaguy/clean-status-bar)
 1. **Etar Calendar**  OpenSource calendar with Material Design               
 [https://github.com/xsoh/Etar-Calendar](https://github.com/xsoh/Etar-Calendar)
+1. **HomeMirror**  Android application powering the mirror in my house         
+[https://github.com/HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)
 
 
 
