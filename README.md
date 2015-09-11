@@ -2184,6 +2184,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Other1"></A>Other
+1. **Colorful**  基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。                          
+[https://github.com/bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful)
 1. **DiskLruCache**   Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.      
 [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 1. **anode**  Android framework for node.js applications        
