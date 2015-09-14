@@ -1789,6 +1789,9 @@ And this project is not using the image file!
 [https://github.com/lqd-io/liquid-sdk-android](https://github.com/lqd-io/liquid-sdk-android)
 1. **MultipleImageSelect** An android library that allows selection of multiple images from gallery.     
 [https://github.com/darsh2/MultipleImageSelect](https://github.com/darsh2/MultipleImageSelect)
+1. **KSYMediaPlayer-Android-SDK**  MediaPlayer for android           
+[https://github.com/ks3sdk/KSYMediaPlayer-Android-SDK](https://github.com/ks3sdk/KSYMediaPlayer-Android-SDK)
+
 
 
 ### <A NAME="Test"></A>Test
