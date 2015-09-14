@@ -2074,7 +2074,8 @@ And this project is not using the image file!
 [https://github.com/xsoh/Etar-Calendar](https://github.com/xsoh/Etar-Calendar)
 1. **HomeMirror**  Android application powering the mirror in my house         
 [https://github.com/HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)
-
+1. **JNote** 一款支持部分Markdown语法的轻量级便签软件。                      
+[https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
 
 
 ### <A NAME="Security"></A>Security
