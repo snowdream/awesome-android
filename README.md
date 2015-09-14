@@ -1732,6 +1732,8 @@ And this project is not using the image file!
 [https://github.com/steveliles/Foredroid](https://github.com/steveliles/Foredroid)
 1. **Slinger** Deep linking library for Android
 [https://github.com/allegro/slinger](https://github.com/allegro/slinger)
+1. **CacheUtilsLibrary**  A simple Android utils library to write any type of data into cache files and read them later. http://lifeofcoding.com/CacheUtilsLibrary/           
+[https://github.com/westlinkin/CacheUtilsLibrary](https://github.com/westlinkin/CacheUtilsLibrary)
 
 
 
