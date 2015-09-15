@@ -158,6 +158,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
 1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki        
 [https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
+1. **ACDD** ACDD，Android Component Dynamic Deployment(plugin) Solution,if any question,send me e-mail Solution http://bunnyblue.github.io/ACDD/            
+[https://github.com/bunnyblue/ACDD](https://github.com/bunnyblue/ACDD)
 
 
 ### <A NAME="EventBus"></A>EventBus
