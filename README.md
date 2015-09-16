@@ -323,7 +323,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tumblr/Backboard](https://github.com/tumblr/Backboard)
 1. **ActivityOptionsICS**    The lib can make the ActivityOptions animations use in Android api3.1+ http://www.cnblogs.com/tianzhijiexian/p/4128045.html     
 [https://github.com/tianzhijiexian/ActivityOptionsICS](https://github.com/tianzhijiexian/ActivityOptionsICS)
-
+1. **AndroidAnimationsActions**  Actions for android animations. Inspired by libgdx scene2d actions.                   
+[https://github.com/dtx12/AndroidAnimationsActions](https://github.com/dtx12/AndroidAnimationsActions)
 
 
 
