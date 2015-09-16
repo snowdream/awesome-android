@@ -1395,6 +1395,11 @@ And this project is not using the image file!
 [https://github.com/elevenetc/DraggableView](https://github.com/elevenetc/DraggableView)
 1. **ChatMessageView**  ChatMessageView helps you to create chat message view quickly like a typical chatting application.               
 [https://github.com/himanshu-soni/ChatMessageView](https://github.com/himanshu-soni/ChatMessageView)
+1. **SnailBar**  A lovely  ,you can use it as a seekbar or progressbar.       
+[https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
+
+
+
 
 
 
