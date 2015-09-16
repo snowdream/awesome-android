@@ -1064,7 +1064,8 @@ And this project is not using the image file!
 [https://github.com/wdullaer/MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
 1. **TimerView** an android open source timer           
 [https://github.com/pheynix/TimerView](https://github.com/pheynix/TimerView)
-
+1. **MaterialDateRangePicker**  A material Date Range Picker based on wdullaers MaterialDateTimePicker                
+[https://github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
 
 
 
