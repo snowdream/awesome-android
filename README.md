@@ -40,6 +40,7 @@ Step 2. The item should fall under the appropriate category.
   * [GridView](#GridView)
   * [RatingView](#RatingView)
   * [Recyclerview](#Recyclerview)
+  * [SearchView](#SearchView)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
   * [Fragment](#Fragment)
@@ -925,6 +926,10 @@ And this project is not using the image file!
 1. **Dividers**   Dividers is a simple Android library to create easy separators for your RecyclerViews           
 [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
 
+
+#### <A NAME="SearchView"></A>SearchView
+1. **MaterialSearchView** Cute library to implement SearchView in a Material Design Approach http://miguelcatalan.info/2015/09/23/MaterialSearchView/            
+[https://github.com/MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 
 #### <A NAME="ViewPager"></A>ViewPager
 1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.      
