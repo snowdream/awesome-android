@@ -1145,6 +1145,8 @@ And this project is not using the image file!
 [https://github.com/Jawnnypoo/PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout)
 1. **FabTransitionLayout**  Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.            
 [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
+1. **Android-MaterialDeleteLayout**  Maetrial Design Delete Concept Implement             
+[https://github.com/android-cjj/Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout)
 
 
 #### <A NAME="Toolbar"></A>Toolbar
