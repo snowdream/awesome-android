@@ -927,6 +927,8 @@ And this project is not using the image file!
 [https://github.com/magiepooh/RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration)
 1. **Dividers**   Dividers is a simple Android library to create easy separators for your RecyclerViews           
 [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
+1. **recyclerview-binder**   Android Library for RecyclerView to manage order of items and multiple view types.          
+[https://github.com/satorufujiwara/recyclerview-binder)
 
 
 #### <A NAME="SearchView"></A>SearchView
