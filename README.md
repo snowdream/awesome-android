@@ -1143,6 +1143,8 @@ And this project is not using the image file!
 [https://github.com/vcaen/AndroidAutoHideHeader](https://github.com/vcaen/AndroidAutoHideHeader)
 1. **PhysicsLayout**  Android layout that simulates physics using JBox2D       
 [https://github.com/Jawnnypoo/PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout)
+1. **FabTransitionLayout**  Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.            
+[https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
 
 
 #### <A NAME="Toolbar"></A>Toolbar
