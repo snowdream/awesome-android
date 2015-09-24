@@ -1409,6 +1409,8 @@ And this project is not using the image file!
 [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
 1. **PickerUI**  Android library to display a list of items for pick one      
 [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
+1. **StickerView**  单手操作图片控件 镜像、置顶、缩放、移动           
+[https://github.com/nimengbo/StickerView](https://github.com/nimengbo/StickerView)
 
 
 
