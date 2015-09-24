@@ -2229,6 +2229,8 @@ And this project is not using the image file!
 [https://github.com/jonfhancock/JsonToJava](https://github.com/jonfhancock/JsonToJava)
 1. **sixpack-java** A/B testing client for Android and Java applications        
 [https://github.com/seatgeek/sixpack-java](https://github.com/seatgeek/sixpack-java)
+1. **Android-Skin-Loader**  一个通过动态加载本地皮肤包进行换肤的皮肤框架             
+[https://github.com/fengjundev/Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader)
 
 
 ## License
