@@ -2096,6 +2096,8 @@ And this project is not using the image file!
 [https://github.com/HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror)
 1. **JNote** 一款支持部分Markdown语法的轻量级便签软件。                      
 [https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
+1. **TextSecure**   TextSecure is a messaging app for simple private communication with friends.              
+[https://github.com/WhisperSystems/TextSecure](https://github.com/WhisperSystems/TextSecure)
 
 
 ### <A NAME="Security"></A>Security
