@@ -331,6 +331,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dtx12/AndroidAnimationsActions](https://github.com/dtx12/AndroidAnimationsActions)
 1. **material-scrolling**  Android library for material scrolling techniques.                             
 [https://github.com/satorufujiwara/material-scrolling](https://github.com/satorufujiwara/material-scrolling)
+1. **ExplosionField**  explosive dust effect for views                          
+[https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 
 
 
