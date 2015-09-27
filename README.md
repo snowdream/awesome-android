@@ -1420,7 +1420,8 @@ And this project is not using the image file!
 [https://github.com/nimengbo/StickerView](https://github.com/nimengbo/StickerView)
 1. **DraggableFlipView**  An Android View library that flips while dragging.         
 [https://github.com/sasakicks/DraggableFlipView](https://github.com/sasakicks/DraggableFlipView)
-
+1. **WindowView**  Android ImageView you pan by tilting your device.                     
+[https://github.com/justasm/WindowView](https://github.com/justasm/WindowView)
 
 
 
