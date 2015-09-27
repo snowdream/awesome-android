@@ -1422,8 +1422,8 @@ And this project is not using the image file!
 [https://github.com/sasakicks/DraggableFlipView](https://github.com/sasakicks/DraggableFlipView)
 1. **WindowView**  Android ImageView you pan by tilting your device.                     
 [https://github.com/justasm/WindowView](https://github.com/justasm/WindowView)
-
-
+1. **RadarScanView**   android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……                  
+[https://github.com/gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView)
 
 
 
