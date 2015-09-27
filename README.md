@@ -161,6 +161,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
 1. **ACDD** ACDD，Android Component Dynamic Deployment(plugin) Solution,if any question,send me e-mail Solution http://bunnyblue.github.io/ACDD/            
 [https://github.com/bunnyblue/ACDD](https://github.com/bunnyblue/ACDD)
+1. **powermock**  PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.              
+[https://github.com/jayway/powermock](https://github.com/jayway/powermock)
+
 
 
 ### <A NAME="EventBus"></A>EventBus
@@ -1415,6 +1418,9 @@ And this project is not using the image file!
 [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
 1. **StickerView**  单手操作图片控件 镜像、置顶、缩放、移动           
 [https://github.com/nimengbo/StickerView](https://github.com/nimengbo/StickerView)
+1. **DraggableFlipView**  An Android View library that flips while dragging.         
+[https://github.com/sasakicks/DraggableFlipView](https://github.com/sasakicks/DraggableFlipView)
+
 
 
 
