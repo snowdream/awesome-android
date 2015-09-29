@@ -1156,6 +1156,9 @@ And this project is not using the image file!
 [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
 1. **Android-MaterialDeleteLayout**  Maetrial Design Delete Concept Implement             
 [https://github.com/android-cjj/Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout)
+1. **smooth-app-bar-layout**   Smooth version of Google Support Design AppBarLayout               
+[https://github.com/henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)
+
 
 
 #### <A NAME="Toolbar"></A>Toolbar
