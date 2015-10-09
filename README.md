@@ -1011,6 +1011,9 @@ And this project is not using the image file!
 [https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
 1. **android-slidingactivity**      Android library which allows you to swipe down from an activity to close it.         
 [https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
+1. **AwesomeSplash**   Awesome-looking customizable splash screen            
+[https://github.com/ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash)
+
 
 
 #### <A NAME="Tabs"></A>Tabs
