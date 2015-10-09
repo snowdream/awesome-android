@@ -764,7 +764,8 @@ And this project is not using the image file!
 [https://github.com/kingideayou/SlideBottomPanel](https://github.com/kingideayou/SlideBottomPanel)
 1. **CustomMenu**    CustomMenu quickly realize about the menu                 
 [https://github.com/flyfei/CustomMenu](https://github.com/flyfei/CustomMenu)
-
+1. **BottomSheet**    BottomSheet style dialogs for Android         
+[https://github.com/Kennyc1012/BottomSheet](https://github.com/Kennyc1012/BottomSheet)
 
 
 
