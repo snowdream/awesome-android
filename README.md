@@ -1429,6 +1429,9 @@ And this project is not using the image file!
 [https://github.com/justasm/WindowView](https://github.com/justasm/WindowView)
 1. **RadarScanView**   android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……                  
 [https://github.com/gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView)
+1. **SegmentedBarView**  Custom UI control for android which is showing data as a segments and a value inside them.            
+[https://github.com/gspd-mobi/SegmentedBarView](https://github.com/gspd-mobi/SegmentedBarView)
+
 
 
 
