@@ -33,6 +33,7 @@ Step 2. The item should fall under the appropriate category.
   * [TextView/EditText](#TextView/EditText)
   * [ImageView](#ImageView)
   * [Button](#Button)
+  * [CheckBox](#CheckBox)
   * [Progressbar/Progress View](#Progressbar/Progress_View)
   * [Menu](#Menu)
   * [Dialog](#Dialog)
@@ -637,6 +638,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/fenjuly/ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton)
 1. **FABProgressCircle**  Material progress circle around any FloatingActionButton. 100% Guidelines.               
 [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+
+
+#### <A NAME="CheckBox"></A>CheckBox
+1. **AnimCheckBox**  AnimCheckBox            
+[https://github.com/lguipeng/AnimCheckBox](https://github.com/lguipeng/AnimCheckBox)
+
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
