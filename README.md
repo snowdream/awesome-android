@@ -1431,7 +1431,8 @@ And this project is not using the image file!
 [https://github.com/gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView)
 1. **SegmentedBarView**  Custom UI control for android which is showing data as a segments and a value inside them.            
 [https://github.com/gspd-mobi/SegmentedBarView](https://github.com/gspd-mobi/SegmentedBarView)
-
+1. **PinterestView**  Pinterest like awesome menu control for Android         
+[https://github.com/brucetoo/PinterestView](https://github.com/brucetoo/PinterestView)
 
 
 
