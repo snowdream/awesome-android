@@ -1004,6 +1004,8 @@ And this project is not using the image file!
 [https://github.com/nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment)
 1. **EtsyBlur**  EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the Etsy app.               
 [https://github.com/Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)
+1. **UIBlock**  代替fragment的轻量级解耦UI的类            
+[https://github.com/tianzhijiexian/UIBlock](https://github.com/tianzhijiexian/UIBlock)
 
 
 
