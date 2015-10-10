@@ -2135,6 +2135,8 @@ And this project is not using the image file!
 [https://github.com/Jhuster/JNote](https://github.com/Jhuster/JNote)
 1. **TextSecure**   TextSecure is a messaging app for simple private communication with friends.              
 [https://github.com/WhisperSystems/TextSecure](https://github.com/WhisperSystems/TextSecure)
+1. **jianshi**  A beautiful app 简诗 for recording anything in your life with traditional Chinese style.              
+[https://github.com/wingjay/jianshi](https://github.com/wingjay/jianshi)
 
 
 ### <A NAME="Security"></A>Security
