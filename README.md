@@ -1447,7 +1447,8 @@ And this project is not using the image file!
 [https://github.com/gspd-mobi/SegmentedBarView](https://github.com/gspd-mobi/SegmentedBarView)
 1. **PinterestView**  Pinterest like awesome menu control for Android         
 [https://github.com/brucetoo/PinterestView](https://github.com/brucetoo/PinterestView)
-
+1. **FabricView**  A new canvas drawing library for Android             
+[https://github.com/antwankakki/FabricView](https://github.com/antwankakki/FabricView)
 
 
 ### <A NAME="Template"></A>Template
