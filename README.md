@@ -1175,6 +1175,9 @@ And this project is not using the image file!
 #### <A NAME="Toolbar"></A>Toolbar
 1. **CollapsingAvatarToolbar**  Collapsing Toolbar with a moving avatar for Android.             
 [https://github.com/Sloy/CollapsingAvatarToolbar](https://github.com/Sloy/CollapsingAvatarToolbar)
+1. **FABToolbar**  An implementation of Google design, with Floating Action Button transforming into toolbar.             
+[https://github.com/fafaldo/FABToolbar](https://github.com/fafaldo/FABToolbar)
+
 
 
 #### <A NAME="VideoView"></A>VideoView
