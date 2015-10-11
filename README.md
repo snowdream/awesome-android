@@ -1795,7 +1795,8 @@ And this project is not using the image file!
 [https://github.com/allegro/slinger](https://github.com/allegro/slinger)
 1. **CacheUtilsLibrary**  A simple Android utils library to write any type of data into cache files and read them later. http://lifeofcoding.com/CacheUtilsLibrary/           
 [https://github.com/westlinkin/CacheUtilsLibrary](https://github.com/westlinkin/CacheUtilsLibrary)
-
+1. **Foam**  A library to quickly and easily enable multiple monitoring & support platforms for your mobile apps.           
+[https://github.com/percolate/foam](https://github.com/percolate/foam)
 
 
 ### <A NAME="Storage"></A>Storage 
