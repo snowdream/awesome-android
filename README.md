@@ -961,6 +961,8 @@ And this project is not using the image file!
 [https://github.com/ManuelPeinado/NumericPageIndicator](https://github.com/ManuelPeinado/NumericPageIndicator)
 1. **VerticalViewPager** Vertical implementation of Android ViewPager     
 [https://github.com/LambergaR/VerticalViewPager](https://github.com/LambergaR/VerticalViewPager)
+1. **FlycoPageIndicator**  A Page Indicator Lib is realized in a different way. Support for Android 2.2 and up.         
+[https://github.com/H07000223/FlycoPageIndicator](https://github.com/H07000223/FlycoPageIndicator)
 1. **InfiniteViewPager** Augment Android's ViewPager with wrap-around functionality.        
 [https://github.com/antonyt/InfiniteViewPager](https://github.com/antonyt/InfiniteViewPager)
 1. **ViewPager3D** Extension of Android ViewPager with a 3D swipe effect      
