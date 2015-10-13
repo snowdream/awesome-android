@@ -2231,7 +2231,8 @@ And this project is not using the image file!
 [https://github.com/lingochamp/ShareLoginLib](https://github.com/lingochamp/ShareLoginLib)
 1. **vectalign**   Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image)              
 [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
-
+1. **AndResGuard** proguard resource for Android        
+[https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
 
 
 
