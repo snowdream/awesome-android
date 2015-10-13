@@ -2241,6 +2241,9 @@ And this project is not using the image file!
 [https://github.com/kenglxn/QRGen](https://github.com/kenglxn/QRGen)
 1. **barcodescanner** Barcode Scanner Libraries for Android            
 [https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
+1. **ZBar** Barcode & QRCode Scanner Libraries for Android            
+[http://zbar.sourceforge.net/](http://zbar.sourceforge.net/)  
+[https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 
 ### <A NAME="Decompiler"></A>Decompiler
