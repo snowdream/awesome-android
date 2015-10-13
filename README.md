@@ -1592,6 +1592,10 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
 1. **GsonFormat**  根据Gson库使用的要求,将JSONObject格式的String 解析成实体    
 [https://github.com/zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat)
+1. **Android-DPI-Calculator**  Android Studio plugin allowing to calculate sizes in different densities like xxxhdpi, xxhdpi, xhdpi, hdpi, mdpi, ldpi and tvdpi.              
+[https://github.com/JerzyPuchalski/Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+
+
 
 
 
