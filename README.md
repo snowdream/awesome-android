@@ -1173,6 +1173,8 @@ And this project is not using the image file!
 [https://github.com/android-cjj/Android-MaterialDeleteLayout](https://github.com/android-cjj/Android-MaterialDeleteLayout)
 1. **smooth-app-bar-layout**   Smooth version of Google Support Design AppBarLayout               
 [https://github.com/henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)
+1. **BlurZoomGallery**  Extended CoordinatorLayout, that helps creating background galleries.          
+[https://github.com/fafaldo/BlurZoomGallery](https://github.com/fafaldo/BlurZoomGallery)
 
 
 
