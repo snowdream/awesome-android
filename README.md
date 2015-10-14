@@ -1459,7 +1459,8 @@ And this project is not using the image file!
 [https://github.com/kmshack/Android-TopScrollHelper](https://github.com/kmshack/Android-TopScrollHelper)
 1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!                    
 [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
-
+1. **snake**   Snake View is a simple and animated linear chart for Android.     
+[https://github.com/txusballesteros/snake](https://github.com/txusballesteros/snake)
 
 
 ### <A NAME="Template"></A>Template
