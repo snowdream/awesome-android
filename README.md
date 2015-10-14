@@ -1457,6 +1457,8 @@ And this project is not using the image file!
 [https://github.com/antwankakki/FabricView](https://github.com/antwankakki/FabricView)
 1. **Android-TopScrollHelper** Android-TopScrollHelper http://www.kmshack.kr            
 [https://github.com/kmshack/Android-TopScrollHelper](https://github.com/kmshack/Android-TopScrollHelper)
+1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!                    
+[https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
 
 
 
