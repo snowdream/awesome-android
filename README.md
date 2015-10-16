@@ -528,6 +528,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView)
 1. **PathEffectTextView**  PathEffectTextView              
 [https://github.com/dkmeteor/PathEffectTextView](https://github.com/dkmeteor/PathEffectTextView)
+1. **AutosizeEditText** AutosizeEditText for Android is an extension of native EditText that offer a smooth auto scale text size.                
+[https://github.com/txusballesteros/AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)
 
 
 
