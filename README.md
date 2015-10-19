@@ -530,6 +530,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dkmeteor/PathEffectTextView](https://github.com/dkmeteor/PathEffectTextView)
 1. **AutosizeEditText** AutosizeEditText for Android is an extension of native EditText that offer a smooth auto scale text size.                
 [https://github.com/txusballesteros/AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)
+1. **TextSurface** A little animation framework which could help you to show message in a nice looking way.    
+[https://github.com/elevenetc/TextSurface](https://github.com/elevenetc/TextSurface)
 
 
 
