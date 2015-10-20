@@ -1467,6 +1467,8 @@ And this project is not using the image file!
 [https://github.com/txusballesteros/snake](https://github.com/txusballesteros/snake)
 1. **CountdownView** Android 倒计时控件              
 [https://github.com/iwgang/CountdownView](https://github.com/iwgang/CountdownView)
+1. **HighlightTextEditor**  HighlightTextEditor An android HighlightTextEditor                   
+[https://github.com/evilbinary/HighlightTextEditor](https://github.com/evilbinary/HighlightTextEditor)
 
 
 
