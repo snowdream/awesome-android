@@ -1179,6 +1179,8 @@ And this project is not using the image file!
 [https://github.com/henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)
 1. **BlurZoomGallery**  Extended CoordinatorLayout, that helps creating background galleries.          
 [https://github.com/fafaldo/BlurZoomGallery](https://github.com/fafaldo/BlurZoomGallery)
+1. **android-linear-layout-manager**  Implementation of LinearLayoutManager which wraps its contents.             
+[https://github.com/serso/android-linear-layout-manager](https://github.com/serso/android-linear-layout-manager)
 
 
 
