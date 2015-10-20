@@ -946,6 +946,8 @@ And this project is not using the image file!
 [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
 1. **recyclerview-binder**   Android Library for RecyclerView to manage order of items and multiple view types.          
 [https://github.com/satorufujiwara/recyclerview-binder)
+1. **SwipeMenuViewHolder**    一个可以滑出条目操作菜单的RecycleView.ViewHolder 。                 
+[https://github.com/liangzhitao/SwipeMenuViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)
 
 
 #### <A NAME="SearchView"></A>SearchView
