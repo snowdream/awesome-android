@@ -1183,7 +1183,8 @@ And this project is not using the image file!
 [https://github.com/fafaldo/BlurZoomGallery](https://github.com/fafaldo/BlurZoomGallery)
 1. **android-linear-layout-manager**  Implementation of LinearLayoutManager which wraps its contents.             
 [https://github.com/serso/android-linear-layout-manager](https://github.com/serso/android-linear-layout-manager)
-
+1. **ScrollDownLayout**  A custom Android Widget，support u use ViewPager in a ScrollView or ListView。                
+[https://github.com/xiongwei-git/ScrollDownLayout](https://github.com/xiongwei-git/ScrollDownLayout)
 
 
 #### <A NAME="Toolbar"></A>Toolbar
