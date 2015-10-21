@@ -770,6 +770,8 @@ And this project is not using the image file!
 [https://github.com/flyfei/CustomMenu](https://github.com/flyfei/CustomMenu)
 1. **BottomSheet**    BottomSheet style dialogs for Android         
 [https://github.com/Kennyc1012/BottomSheet](https://github.com/Kennyc1012/BottomSheet)
+1. **FlowingDrawer**   swipe right to display drawer with flowing effects.            
+[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 
 
 
