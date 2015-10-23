@@ -336,7 +336,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 1. **ViewPropertyObjectAnimator**  Wrapper of the ObjectAnimator that can be used similarly to ViewPropertyAnimator      
 [https://github.com/blipinsk/ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator)
-
+1. **AnimatorCompat**  AnimatorCompat: 一个快速创建动画帮助库            
+[https://github.com/zzz40500/AnimatorCompat](https://github.com/zzz40500/AnimatorCompat)
 
 
 
