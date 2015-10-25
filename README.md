@@ -2203,6 +2203,10 @@ And this project is not using the image file!
 ### <A NAME="Tools"></A>Tools
 1. **ViewInspector**  View Inspection Toolbar for Android Development                                        
 [https://github.com/xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector)
+1. **scalpel**  A surgical debugging tool to uncover the layers under your app.                     
+[https://github.com/JakeWharton/scalpel](https://github.com/JakeWharton/scalpel) 
+1. **probe**    Dissect layout traversals on Android               
+[https://github.com/lucasr/probe](https://github.com/lucasr/probe)
 1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
 [https://github.com/mosabua/maven-android-sdk-deployer](https://github.com/mosabua/maven-android-sdk-deployer)
 1. **scrollscreenshot**  Make Android screenshots of scrollable screen content    
