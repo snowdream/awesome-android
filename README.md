@@ -952,6 +952,9 @@ And this project is not using the image file!
 [https://github.com/satorufujiwara/recyclerview-binder)
 1. **SwipeMenuViewHolder**    一个可以滑出条目操作菜单的RecycleView.ViewHolder 。                 
 [https://github.com/liangzhitao/SwipeMenuViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)
+1. **RecyclerViewSwipeDismiss**  A very easy-to-use and non-intrusive implement of Swipe to dismiss for RecyclerView.                          
+[https://github.com/CodeFalling/RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss)
+
 
 
 #### <A NAME="SearchView"></A>SearchView
