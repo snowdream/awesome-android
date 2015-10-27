@@ -706,7 +706,10 @@ And this project is not using the image file!
 [https://github.com/recruit-lifestyle/ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading)
 1. **RubberIndicator**       A rubber indicator for ViewPager              
 [https://github.com/LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator)
-
+1. **TaoBaoProgressBar**  一个模仿淘宝秒杀商品页面的进度条                
+[https://github.com/liuhuibin/TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)
+1. **AVLoadingIndicatorView**  AVLoadingIndicatorView is a collection of nice loading animations for Android.          
+[https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 
 
 
@@ -2182,6 +2185,8 @@ And this project is not using the image file!
 [https://github.com/WhisperSystems/TextSecure](https://github.com/WhisperSystems/TextSecure)
 1. **jianshi**  A beautiful app 简诗 for recording anything in your life with traditional Chinese style.              
 [https://github.com/wingjay/jianshi](https://github.com/wingjay/jianshi)
+1. **shuba**  Find the best novel for users.                        
+[https://github.com/liuguangqiang/shuba](https://github.com/liuguangqiang/shuba)
 
 
 ### <A NAME="Security"></A>Security
