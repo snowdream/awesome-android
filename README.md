@@ -1273,6 +1273,8 @@ And this project is not using the image file!
 [https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
 1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz     
 [https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
+1. **Lobsterpicker** The library is offering a dialog with all shades of material design colors     
+[https://github.com/LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker)
 1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.         
 [https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
 1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.      
@@ -1970,7 +1972,8 @@ And this project is not using the image file!
 [https://github.com/Drivemode/TypefaceHelper](https://github.com/Drivemode/TypefaceHelper)
 1. **AndroidFontsManager**  字体管理器，方便快速的为应用内所有组件更换字体。    
 [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
-
+1. **fontbinding**  Easy custom fonts in XML using data binding.             
+[https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
 
 
 
