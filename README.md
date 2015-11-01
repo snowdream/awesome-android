@@ -710,6 +710,8 @@ And this project is not using the image file!
 [https://github.com/liuhuibin/TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)
 1. **AVLoadingIndicatorView**  AVLoadingIndicatorView is a collection of nice loading animations for Android.          
 [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+1. **MaskProgressView** Yet another android custom progress view for your music player                  
+[https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
 
 
 
