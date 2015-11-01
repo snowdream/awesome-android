@@ -601,6 +601,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/gotokatsuya/FlickableView](https://github.com/gotokatsuya/FlickableView)
 1. **ImageGallery**  A gallery used to host an array of images
 [https://github.com/lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery)
+1. **GestureViews**  ImageView and FrameLayout with gestures control and position animation.              
+[https://github.com/alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)
 
 
 
