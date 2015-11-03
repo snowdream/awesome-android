@@ -338,7 +338,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/blipinsk/ViewPropertyObjectAnimator](https://github.com/blipinsk/ViewPropertyObjectAnimator)
 1. **AnimatorCompat**  AnimatorCompat: 一个快速创建动画帮助库            
 [https://github.com/zzz40500/AnimatorCompat](https://github.com/zzz40500/AnimatorCompat)
-
+1. **QuickSand**  Automatically manipulates the duration of animations dependent on view count. Quicksand .. the more you struggle.              
+[https://github.com/blundell/QuickSand](https://github.com/blundell/QuickSand)
 
 
 ### <A NAME="Network"></A>Network
