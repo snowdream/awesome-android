@@ -715,7 +715,8 @@ And this project is not using the image file!
 [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 1. **MaskProgressView** Yet another android custom progress view for your music player                  
 [https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
-
+1. **DelayedProgress**  ProgressDialog that waits a minimum time to be dismissed before showing. Once visible, the ProgressDialog will be visible for a minimum amount of time to avoid "flashes" in the UI.                 
+[https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
 
 
 
