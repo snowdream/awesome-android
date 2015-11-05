@@ -1510,6 +1510,8 @@ And this project is not using the image file!
 [https://github.com/sockeqwe/debugoverlay](https://github.com/sockeqwe/debugoverlay)
 1. **AndroidSwipeableCardStack**  A tinder like swipeable card stack component                
 [https://github.com/wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack)
+1. **IntegrationPreference**  Preference widget that automatically detects dependency applications and installs them by openning Play Store.                 
+[https://github.com/tasomaniac/IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference)
 
 
 
