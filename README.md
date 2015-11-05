@@ -48,6 +48,7 @@ Step 2. The item should fall under the appropriate category.
   * [Activity](#Activity)
   * [Tabs](#Tabs)
   * [Toast](#Toast)
+  * [LockView](#LockView)
   * [SeekBar](#SeekBar)
   * [Time View](#Time_View)
   * [Layout](#Layout)
@@ -1066,6 +1067,16 @@ And this project is not using the image file!
 
 1. **loadtoast**  Pretty material design toasts with feedback animations     
 [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
+
+
+
+#### <A NAME="LockView"></A>LockView
+1.  **MaterialPatternllockView**   Material Pattern Lockview is a View which inspired from Lollipop+ Pattern lock. This Project is still in work, More Options will be added as soon as possible. Some KeyFeature of this Library.     
+[https://github.com/AmniX/MaterialPatternllockView](https://github.com/AmniX/MaterialPatternllockView)
+
+
+
+
 
 #### <A NAME="SeekBar"></A>SeekBar
 1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.     
