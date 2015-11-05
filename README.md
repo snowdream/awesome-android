@@ -1117,6 +1117,8 @@ And this project is not using the image file!
 [https://github.com/pheynix/TimerView](https://github.com/pheynix/TimerView)
 1. **MaterialDateRangePicker**  A material Date Range Picker based on wdullaers MaterialDateTimePicker                
 [https://github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
+1. **material-calendarview**   A Material design back port of Android's CalendarView https://prolificinteractive.github.io/material-calendarview/       
+[https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 
 
 
