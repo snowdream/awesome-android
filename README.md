@@ -1507,7 +1507,8 @@ And this project is not using the image file!
 [https://github.com/evilbinary/HighlightTextEditor](https://github.com/evilbinary/HighlightTextEditor)
 1. **debugoverlay**  A tiny window overlay to log app internal on top of your android app http://hannesdorfmann.com/android/debug-overlay/                     
 [https://github.com/sockeqwe/debugoverlay](https://github.com/sockeqwe/debugoverlay)
-
+1. **AndroidSwipeableCardStack**  A tinder like swipeable card stack component                
+[https://github.com/wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack)
 
 
 
