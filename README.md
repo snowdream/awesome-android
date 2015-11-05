@@ -536,6 +536,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/txusballesteros/AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)
 1. **TextSurface** A little animation framework which could help you to show message in a nice looking way.    
 [https://github.com/elevenetc/TextSurface](https://github.com/elevenetc/TextSurface)
+1. **EmailAutoCompleteTextView** An AutoCompleteTextView with builtin Adapter with the emails in the device. It handles Android Marshmallow Runtime Permissions automatically.  [https://github.com/tasomaniac/EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView)
 
 
 
