@@ -231,6 +231,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yaa110/RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase)
 +1. **Cupboard**   Simple persistence that gets out of your way and is easy to add to your existing code base
 +[https://bitbucket.org/qbusict/cupboard](https://bitbucket.org/qbusict/cupboard)
+1. **SquiDB** is a simple SQLite database layer for Android    
+[https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
 
 
 ### <A NAME="Image_Loading"></A>Image Loading
