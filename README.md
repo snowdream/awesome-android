@@ -1517,6 +1517,14 @@ And this project is not using the image file!
 [https://github.com/wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack)
 1. **IntegrationPreference**  Preference widget that automatically detects dependency applications and installs them by openning Play Store.                 
 [https://github.com/tasomaniac/IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference)
+1. **TinderView**  Created A Simple and Beautiful Tinder like card deck & Captain Train like toolbar.                     
+[https://github.com/GadgetCheck/TinderView](https://github.com/GadgetCheck/TinderView)
+
+
+
+
+
+
 
 
 
