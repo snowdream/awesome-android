@@ -2375,6 +2375,8 @@ And this project is not using the image file!
 
 1. **logback-android**  The reliable, generic, fast and flexible logging framework for Java on Android. http://tony19.github.io/logback-android/index.html           
 [https://github.com/tony19/logback-android](https://github.com/tony19/logback-android)
+1. **AndroidPermissions**  Android M was added to check Permission. but Permission check processing is so dirty.                    
+[https://github.com/ZeroBrain/AndroidPermissions](https://github.com/ZeroBrain/AndroidPermissions)
 
 
 
