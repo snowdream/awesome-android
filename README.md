@@ -1220,6 +1220,9 @@ And this project is not using the image file!
 [https://github.com/serso/android-linear-layout-manager](https://github.com/serso/android-linear-layout-manager)
 1. **ScrollDownLayout**  A custom Android Widget，support u use ViewPager in a ScrollView or ListView。                
 [https://github.com/xiongwei-git/ScrollDownLayout](https://github.com/xiongwei-git/ScrollDownLayout)
+1. **Search-View-Layout**   [BETA] Search View Layout like Lollipop Dialler             
+[https://github.com/sahildave/Search-View-Layout](https://github.com/sahildave/Search-View-Layout)
+
 
 
 #### <A NAME="Toolbar"></A>Toolbar
