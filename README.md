@@ -970,7 +970,8 @@ And this project is not using the image file!
 [https://github.com/liangzhitao/SwipeMenuViewHolder](https://github.com/liangzhitao/SwipeMenuViewHolder)
 1. **RecyclerViewSwipeDismiss**  A very easy-to-use and non-intrusive implement of Swipe to dismiss for RecyclerView.                          
 [https://github.com/CodeFalling/RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss)
-
+1. **HeaderAndFooterRecyclerView**  支持addHeaderView、 addFooterView、以及分页加载数据的RecyclerView                  
+[https://github.com/cundong/HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView)
 
 
 #### <A NAME="SearchView"></A>SearchView
@@ -2379,7 +2380,8 @@ And this project is not using the image file!
 [https://github.com/tony19/logback-android](https://github.com/tony19/logback-android)
 1. **AndroidPermissions**  Android M was added to check Permission. but Permission check processing is so dirty.                    
 [https://github.com/ZeroBrain/AndroidPermissions](https://github.com/ZeroBrain/AndroidPermissions)
-
+1. **DanmakuFlameMaster**  大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧! http://app.bilibili.com/                     
+[https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 
 
 ## License
