@@ -1888,6 +1888,11 @@ And this project is not using the image file!
 [https://github.com/westlinkin/CacheUtilsLibrary](https://github.com/westlinkin/CacheUtilsLibrary)
 1. **Foam**  A library to quickly and easily enable multiple monitoring & support platforms for your mobile apps.           
 [https://github.com/percolate/foam](https://github.com/percolate/foam)
+1. **Treasure**   Very easy to use wrapper library for Android SharePreferences                          
+[https://github.com/baoyongzhang/Treasure](https://github.com/baoyongzhang/Treasure)
+
+
+
 
 
 ### <A NAME="Storage"></A>Storage 
