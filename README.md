@@ -1143,6 +1143,9 @@ And this project is not using the image file!
 [https://github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
 1. **material-calendarview**   A Material design back port of Android's CalendarView https://prolificinteractive.github.io/material-calendarview/       
 [https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
+1. **CharacterPickerView**  可实现三级联动的选择器，高仿iOS的滚轮控件         
+[https://github.com/alafighting/CharacterPickerView](https://github.com/alafighting/CharacterPickerView)
+
 
 
 
