@@ -44,6 +44,7 @@ Step 2. The item should fall under the appropriate category.
   * [SearchView](#SearchView)
   * [ViewPager](#ViewPager)
   * [ActionBar](#ActionBar)
+  * [Snackbar ](#Snackbar )
   * [Fragment](#Fragment)
   * [Activity](#Activity)
   * [Tabs](#Tabs)
@@ -1027,6 +1028,11 @@ And this project is not using the image file!
 [https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
 1. **GlassActionBar**    Android - a library that adds a glass-like effect to the action bar.    
 [https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) 
+
+
+#### <A NAME="Snackbar"></A>Snackbar
+1. **TSnackBar**  Android Snackbar from the Top (similar to Crouton)          
+[https://github.com/AndreiD/TSnackBar](https://github.com/AndreiD/TSnackBar)
 
 
 #### <A NAME="Fragment"></A>Fragment
