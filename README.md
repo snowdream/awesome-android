@@ -2391,6 +2391,10 @@ And this project is not using the image file!
 [https://github.com/ZeroBrain/AndroidPermissions](https://github.com/ZeroBrain/AndroidPermissions)
 1. **DanmakuFlameMaster**  大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧! http://app.bilibili.com/                     
 [https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
+1. **WheelView-Android**  Selector with wheel view, applicable to selecting money or other short length values.               
+[https://github.com/lantouzi/WheelView-Android](https://github.com/lantouzi/WheelView-Android)
+
+
 
 
 ## License
