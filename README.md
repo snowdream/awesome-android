@@ -1267,6 +1267,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **AudioWaves**  Shows a graphic representation of the sounds captured by the microphone on Android                         
+[https://github.com/FireZenk/AudioWaves](https://github.com/FireZenk/AudioWaves)
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
 [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
 1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.       
