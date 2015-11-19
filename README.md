@@ -342,6 +342,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/zzz40500/AnimatorCompat](https://github.com/zzz40500/AnimatorCompat)
 1. **QuickSand**  Automatically manipulates the duration of animations dependent on view count. Quicksand .. the more you struggle.              
 [https://github.com/blundell/QuickSand](https://github.com/blundell/QuickSand)
+1. **animate**  An application demoing meaningful motion on Android https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d             
+[https://github.com/hitherejoe/animate](https://github.com/hitherejoe/animate)
+
+
+
+
 
 
 ### <A NAME="Network"></A>Network
