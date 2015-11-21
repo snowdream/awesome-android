@@ -2406,7 +2406,8 @@ And this project is not using the image file!
 [https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 1. **WheelView-Android**  Selector with wheel view, applicable to selecting money or other short length values.               
 [https://github.com/lantouzi/WheelView-Android](https://github.com/lantouzi/WheelView-Android)
-
+1. **PermissionHelper** Android Library to help you with your runtime Permissions                   
+[https://github.com/k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
 
 
 
