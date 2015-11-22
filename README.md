@@ -189,11 +189,11 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-### <A NAME="Orm"></A>Orm 
+### <A NAME="Orm"></A>Orm
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.       
 [https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 1. **ormlite**    ORMLite Android functionality used in conjunction with ormlite-core     
-[https://github.com/j256/ormlite-android](https://github.com/j256/ormlite-android) 
+[https://github.com/j256/ormlite-android](https://github.com/j256/ormlite-android)
 1. **ActiveAndroid**    Active record style SQLite persistence for Android    
 [https://github.com/pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 1. **sugar**     Insanely easy way to work with Android Database.     
@@ -223,7 +223,7 @@ Step 2. The item should fall under the appropriate category.
 1. **LitePal** An Android library that allows developers to use SQLite database extremely easy.            
 [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
 1. **realm-java** Realm is a mobile database: a replacement for SQLite & ORMs     
-[https://github.com/realm/realm-java](https://github.com/realm/realm-java) 
+[https://github.com/realm/realm-java](https://github.com/realm/realm-java)
 1. **DBFlow**   A blazing fast, powerful, and very simple ORM android database library that writes database code for you.               
 [https://github.com/agrosner/DBFlow](https://github.com/agrosner/DBFlow)
 1. **sqlbrite**  A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.                
@@ -313,7 +313,7 @@ Step 2. The item should fall under the appropriate category.
 1. **CircularReveal**  Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+              
 [https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
 1. **PreLollipopTransition**  Simple tool which help you to implement activity transition for pre-Lollipop devices.                 
-[https://github.com/takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) 
+[https://github.com/takahirom/PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition)
 1. **WaveCompat**  Wave effect of activity animation              
 [https://github.com/wangjiegulu/WaveCompat](https://github.com/wangjiegulu/WaveCompat)
 1. **MultiStateAnimation**  Android library to create complex multi-state animations.        
@@ -368,10 +368,10 @@ Step 2. The item should fall under the appropriate category.
 1. **node-android**    Run Node.js on Android    
 [https://github.com/InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android)
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.     
-[https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) 
+[https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
 1. **robospice**      Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.         
 [https://github.com/stephanenicolas/robospice](https://github.com/stephanenicolas/robospice)
-1. **volley**  volley 
+1. **volley**  volley
 [https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
 1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android     
 [https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
@@ -526,7 +526,7 @@ Step 2. The item should fall under the appropriate category.
 1. **Android-Typeahead** Awesome Android Typeahead library - User mention plugin, UI widget for auto complete user mention using the at sign (@) like Twitter or Facebook..
 [https://github.com/ArabAgile/android-typeahead](https://github.com/ArabAgile/android-typeahead)
 1. **CircleTimerView**  Circle timer on Android platform.                     
-[https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView) 
+[https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
 1. **AlignTextView**  字体对齐的textview           
 [https://github.com/androiddevelop/AlignTextView](https://github.com/androiddevelop/AlignTextView)
 1. **advanced-textview**  Advanced Android TextView          
@@ -548,7 +548,8 @@ Step 2. The item should fall under the appropriate category.
 1. **EmailAutoCompleteTextView** An AutoCompleteTextView with builtin Adapter with the emails in the device. It handles Android Marshmallow Runtime Permissions automatically.  [https://github.com/tasomaniac/EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView)
 1. **TextViewForFullHtml**  TextViewForFullHtml是对原生TextView解析Html格式文本的增强。            
 [https://github.com/xuyisheng/TextViewForFullHtml](https://github.com/xuyisheng/TextViewForFullHtml)
-
+1. **PlacesAutocompleteTextView**  A TextView for autocompleting addresses using the Google Maps Places API        
+[https://github.com/seatgeek/android-PlacesAutocompleteTextView](https://github.com/seatgeek/android-PlacesAutocompleteTextView)
 
 
 
@@ -744,7 +745,7 @@ And this project is not using the image file!
 [https://github.com/darvds/RibbonMenu](https://github.com/darvds/RibbonMenu)
 1. **CircularFloatingActionMenu** an animated circular menu for Android     
 [https://github.com/oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
-1. **ActionsContentView**  ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu). The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up. 
+1. **ActionsContentView**  ActionsContentView is an standalone library implements actions/content swiping view (AKA Side Navigation UI Pattern, AKA Facebook side menu). The library doesn't use any specific code introduced in new Android SDK versions. This allows develop an application with an action/content swiping view for every version of Android from 2.2 and up.
 [https://github.com/StevenRudenko/ActionsContentView](https://github.com/StevenRudenko/ActionsContentView)
 1. **Android-NewPopupMenu**  Android-NewPopupMenu is an android library to create popup menu with GoogleMusic app-like style.      
 [https://github.com/u1aryz/Android-NewPopupMenu](https://github.com/u1aryz/Android-NewPopupMenu)
@@ -759,7 +760,7 @@ And this project is not using the image file!
 1. **SideNavigation** Implementation of "SIde Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app)    
 [https://github.com/johnkil/SideNavigation](https://github.com/johnkil/SideNavigation)
 1. **AndroidResideMenu** The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.     
-[https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) 
+[https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
 1. **GoogleNavigationDrawerMenu**   Android Library for a DrawerLayout similar to the one in Google Apps       
 [https://github.com/Arasthel/GoogleNavigationDrawerMenu](https://github.com/Arasthel/GoogleNavigationDrawerMenu)
 1. **simple-side-drawer** Simple library which enable you to add a drawer(slide-out) navigation to your android application         
@@ -1035,7 +1036,7 @@ And this project is not using the image file!
 1. **FadingActionBar**    Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app      
 [https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
 1. **GlassActionBar**    Android - a library that adds a glass-like effect to the action bar.    
-[https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) 
+[https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar)
 
 
 #### <A NAME="Snackbar"></A>Snackbar
@@ -1078,7 +1079,7 @@ And this project is not using the image file!
 1. **Crouton**      Context sensitive notifications for Android      
 [https://github.com/keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)  
 1. **SuperToasts** A library that extends the Android toast framework.    
-[https://github.com/JohnPersano/SuperToasts](https://github.com/JohnPersano/SuperToasts) 
+[https://github.com/JohnPersano/SuperToasts](https://github.com/JohnPersano/SuperToasts)
 1. **Android-AppMsg**   In-layout notifications. Based on Toast notifications and article by Cyril Mottier      
 [https://github.com/johnkil/Android-AppMsg](https://github.com/johnkil/Android-AppMsg)
 1. **MessageBar** An Android Toast replacement, similar to the one seen in the GMail app.      
@@ -1122,7 +1123,7 @@ And this project is not using the image file!
 
 #### <A NAME="Time_View"></A>Time View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
-[https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid) 
+[https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.       
 [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 1. **calendar-widget**      The Android calendar widget is home screen widget for your Android device. It displays a list of upcoming calendar events so that you can easily have a glimpse at your upcoming appointments.       
@@ -1165,7 +1166,7 @@ And this project is not using the image file!
 1. **FlipLayout** Android Flip 3D Animation like web Google+       
 [https://github.com/stormzhang/FlipLayout](https://github.com/stormzhang/FlipLayout)
 1. **FlowLayout** Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.      
-[https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout) 
+[https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout)
 1. **CircleLayout** Circular layout for android          
 [https://github.com/dmitry-zaitsev/CircleLayout](https://github.com/dmitry-zaitsev/CircleLayout)
 1. **ResideLayout** An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu         
@@ -1212,7 +1213,7 @@ And this project is not using the image file!
 [https://github.com/bingoogolapple/BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android)
 1. **JellyRefreshLayout** A pull-down-to-refresh layout inspired by Lollipop overscrolled effects                   
 [https://github.com/allan1st/JellyRefreshLayout](https://github.com/allan1st/JellyRefreshLayout)
-1. **Dragger** The library was created in order to provide new animations for activities on Android. 
+1. **Dragger** The library was created in order to provide new animations for activities on Android.
 [https://github.com/ppamorim/Dragger](https://github.com/ppamorim/Dragger)
 1. **PrismView** PrismView provides animations for your views, similar to Dragger, but with fragments! You can change the fragment of the PrismView any time.                
 [https://github.com/ppamorim/PrismView](https://github.com/ppamorim/PrismView)
@@ -1288,7 +1289,7 @@ And this project is not using the image file!
 1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.       
 [https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
 1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.      
-[https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport) 
+[https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport)
 1. **material-animated-switch**  A material Switch with icon animations and color transitions          
 [https://github.com/glomadrian/material-animated-switch](https://github.com/glomadrian/material-animated-switch)    
 1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.        
@@ -1596,7 +1597,7 @@ And this project is not using the image file!
 
 ### <A NAME="Game_Engine"></A>Game Engine
 1. **cocos2d-x** cocos2d-x for C++            
-[https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/) 
+[https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/)
 1. **libgdx**    Desktop/Android/HTML5/iOS Java game development framework     
 [https://github.com/libgdx/libgdx](https://github.com/libgdx/libgdx)
 1. **AndEngine**   Free Android 2D OpenGL Game Engine       
@@ -1626,7 +1627,7 @@ And this project is not using the image file!
 1. **AndroidSocialNetworks** Library for easy work with Facebook, Twitter, LinkedIn and Google on Android    
 [https://github.com/antonkrasov/AndroidSocialNetworks#license](https://github.com/antonkrasov/AndroidSocialNetworks#license)
 
-### <A NAME="XMPP"></A>XMPP 
+### <A NAME="XMPP"></A>XMPP
 1. **Smack**    An Open Source XMPP Client Library written in Java for JVMs and Android      
 [https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
 1. **Xabber**    Open source Jabber (XMPP) client with multi-account support, clean and simple interface. Being both free (as in freedom!) and ad-free, Xabber is designed to be the best Jabber client for Android.      
@@ -1806,7 +1807,7 @@ And this project is not using the image file!
 [https://github.com/pents90/svg-android](https://github.com/pents90/svg-android)
 1. **davdroid**  DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices    
 [https://github.com/rfc2822/davdroid](https://github.com/rfc2822/davdroid)
-1. **phrase** 
+1. **phrase**
 [https://github.com/square/phrase](https://github.com/square/phrase)
 1. **seismic**  Android device shake detection.      
 [https://github.com/square/seismic](https://github.com/square/seismic)
@@ -1905,12 +1906,12 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Storage"></A>Storage 
+### <A NAME="Storage"></A>Storage
 1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.                
 [https://github.com/SanDisk-Open-Source/RealStoragePathLibrary](https://github.com/SanDisk-Open-Source/RealStoragePathLibrary)
 
 
-### <A NAME="SDK"></A>SDK 
+### <A NAME="SDK"></A>SDK
 1. **mapbox-android-sdk**    Open Source Maps SDK for Android    
 [https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
 1. **android-checkout**    Library for Android In-App Billing (Version 3)           
@@ -2025,7 +2026,7 @@ And this project is not using the image file!
 [https://github.com/wada811/Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors)
 
 
-### <A NAME="Font"></A>Font 
+### <A NAME="Font"></A>Font
 1. **Calligraphy**    Custom fonts in Android the easy way...        
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
 1. **android-typeface-helper** Typeface helper for Android        
@@ -2076,7 +2077,7 @@ And this project is not using the image file!
 1. **android-demo** Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description         
 [https://github.com/Trinea/android-demo](https://github.com/Trinea/android-demo)
 1. **android-movies-demo** Sample application demonstrating Android design and animation          
-[https://github.com/dlew/android-movies-demo](https://github.com/dlew/android-movies-demo) 
+[https://github.com/dlew/android-movies-demo](https://github.com/dlew/android-movies-demo)
 1. **maven-android-plugin-samples** Usage examples for Android Maven Plugin   
 [https://github.com/jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples)
 1. **android-http-examples** Sample code for HTTP on Android.        
@@ -2092,7 +2093,7 @@ And this project is not using the image file!
 1. **ProgrammingAndroid2Examples** This repo contains example code for O'Reilly's "Programming Android" by Zigured Mednieks, Laird Dornin, Blake Meike and Masumi Nakamura      
 [https://github.com/bmeike/ProgrammingAndroid2Examples](https://github.com/bmeike/ProgrammingAndroid2Examples)
 1. **hellomap-android**  Quick start with the Google Maps Android API     
-[https://github.com/googlemaps/hellomap-android](https://github.com/googlemaps/hellomap-android) 
+[https://github.com/googlemaps/hellomap-android](https://github.com/googlemaps/hellomap-android)
 1. **GraphView-Demos**  Examples for my Android GraphView library        
 [https://github.com/jjoe64/GraphView-Demos](https://github.com/jjoe64/GraphView-Demos)
 1. **Android-Volley-Example**  Android volley library examples         
@@ -2103,7 +2104,7 @@ And this project is not using the image file!
 [https://github.com/PaulTR/AndroidDemoProjects](https://github.com/PaulTR/AndroidDemoProjects)
 1. **android-ActivitySceneTransition** Demonstrates how to the use Activity scene transitions when transitions from one Activity to another. Uses a combination of moveImage and changeBounds to nicely transition a grid of images to an Activity with a large image and detail text.     
 [https://github.com/googlesamples/android-ActivitySceneTransition](https://github.com/googlesamples/android-ActivitySceneTransition)
-1. **android_L_preview_example** This project is focused on the sample using the API's new preview version of Android-L, use of transitions, shadows etc... 
+1. **android_L_preview_example** This project is focused on the sample using the API's new preview version of Android-L, use of transitions, shadows etc...
 [https://github.com/saulmm/android_L_preview_example](https://github.com/saulmm/android_L_preview_example)
 1. **googletv-android-samples** Source for many GoogleTV Example applications.   
 [https://github.com/google/googletv-android-samples](https://github.com/google/googletv-android-samples)
@@ -2278,7 +2279,7 @@ And this project is not using the image file!
 1. **ViewInspector**  View Inspection Toolbar for Android Development                                        
 [https://github.com/xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector)
 1. **scalpel**  A surgical debugging tool to uncover the layers under your app.                     
-[https://github.com/JakeWharton/scalpel](https://github.com/JakeWharton/scalpel) 
+[https://github.com/JakeWharton/scalpel](https://github.com/JakeWharton/scalpel)
 1. **probe**    Dissect layout traversals on Android               
 [https://github.com/lucasr/probe](https://github.com/lucasr/probe)
 1. **maven-android-sdk-deployer**  A tool to install components of the Android SDK to use with the Maven Android Plugin.      
@@ -2358,7 +2359,7 @@ And this project is not using the image file!
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator         
 [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
-1. **apk2gold**  CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy! 
+1. **apk2gold**  CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 [https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
 1. **procyon**  Java metaprogramming suite, including Java decompiler.         [https://bitbucket.org/mstrobel/procyon](https://bitbucket.org/mstrobel/procyon)
 
