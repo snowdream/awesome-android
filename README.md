@@ -1748,7 +1748,8 @@ And this project is not using the image file!
 [https://github.com/foxykeep/ContentProviderCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator)
 1. **Android-AnnotatedSQL**  Android library for auto generating SQL schema and Content Provider by annotations. You will get a full-featured content provider in 5 minutes :)           
 [https://github.com/hamsterksu/Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL)
-
+1. **Favor** A easy way to use android sharepreference http://cocosw.com/Favor/   
+[https://github.com/soarcn/Favor](https://github.com/soarcn/Favor)
 
 
 
