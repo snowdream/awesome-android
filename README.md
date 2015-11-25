@@ -2414,7 +2414,8 @@ And this project is not using the image file!
 [https://github.com/lantouzi/WheelView-Android](https://github.com/lantouzi/WheelView-Android)
 1. **PermissionHelper** Android Library to help you with your runtime Permissions                   
 [https://github.com/k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
-
+1. **material-camera**  One of the most difficult APIs on Android, made easy. http://aidanfollestad.com               
+[https://github.com/afollestad/material-camera](https://github.com/afollestad/material-camera)
 
 
 ## License
