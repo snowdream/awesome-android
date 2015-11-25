@@ -554,6 +554,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="ImageView"></A>ImageView
+1. **BadgedImageview** BadgedImageview allow you show a badge into a Imageview.                     
+[https://github.com/yesidlazaro/BadgedImageview](https://github.com/yesidlazaro/BadgedImageview)
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.      
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
 1. **android-smart-image-view**    Android ImageView replacement which allows image loading from URLs or contact address book, with caching         
