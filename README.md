@@ -2418,6 +2418,8 @@ And this project is not using the image file!
 [https://github.com/afollestad/material-camera](https://github.com/afollestad/material-camera)
 1. **Tiny Dancer**  An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped                              
 [https://github.com/brianPlummer/TinyDancer](https://github.com/brianPlummer/TinyDancer)
+1. **android-ocr** An experimental app for Android that performs optical character recognition (OCR) on images captured using the device camera.             
+[https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
 
 
 
