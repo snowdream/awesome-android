@@ -2416,6 +2416,9 @@ And this project is not using the image file!
 [https://github.com/k0shk0sh/PermissionHelper](https://github.com/k0shk0sh/PermissionHelper)
 1. **material-camera**  One of the most difficult APIs on Android, made easy. http://aidanfollestad.com               
 [https://github.com/afollestad/material-camera](https://github.com/afollestad/material-camera)
+1. **Tiny Dancer**  An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped                              
+[https://github.com/brianPlummer/TinyDancer](https://github.com/brianPlummer/TinyDancer)
+
 
 
 ## License
