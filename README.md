@@ -2420,7 +2420,8 @@ And this project is not using the image file!
 [https://github.com/brianPlummer/TinyDancer](https://github.com/brianPlummer/TinyDancer)
 1. **android-ocr** An experimental app for Android that performs optical character recognition (OCR) on images captured using the device camera.             
 [https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
-
+1. **MasteringAndroidDataBinding**  A comprehensive tutorial for Android Data Binding                    
+[https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 
 ## License
