@@ -550,7 +550,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/xuyisheng/TextViewForFullHtml](https://github.com/xuyisheng/TextViewForFullHtml)
 1. **PlacesAutocompleteTextView**  A TextView for autocompleting addresses using the Google Maps Places API        
 [https://github.com/seatgeek/android-PlacesAutocompleteTextView](https://github.com/seatgeek/android-PlacesAutocompleteTextView)
-
+1. **BiuEditText**  biu，biu，一个有趣的EditText                            
+[https://github.com/xujinyang/BiuEditText](https://github.com/xujinyang/BiuEditText)
 
 
 #### <A NAME="ImageView"></A>ImageView
