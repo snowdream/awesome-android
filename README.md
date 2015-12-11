@@ -802,6 +802,8 @@ And this project is not using the image file!
 [https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 1. **Metaball-Menu**  A menu consisting of icons (ImageViews) and metaball bouncing selection to give a blob effect. Inspired by Material design      
 [https://github.com/melvinjlobo/MetaballMenu](https://github.com/melvinjlobo/MetaballMenu)
+1. **TapBarMenu**  Simple library that helps creating a "Tap Bar" menu layout.               
+[https://github.com/michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
 
 
 
