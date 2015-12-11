@@ -985,8 +985,7 @@ And this project is not using the image file!
 [https://github.com/CodeFalling/RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss)
 1. **HeaderAndFooterRecyclerView**  支持addHeaderView、 addFooterView、以及分页加载数据的RecyclerView                  
 [https://github.com/cundong/HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView)
-1. **RxRecyclerAdapter** Rx based generic RecyclerView Adapter Library with support for sections.                 
-[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
+
 
 #### <A NAME="SearchView"></A>SearchView
 1. **MaterialSearchView** Cute library to implement SearchView in a Material Design Approach http://miguelcatalan.info/2015/09/23/MaterialSearchView/            
@@ -1588,7 +1587,8 @@ And this project is not using the image file!
 [https://github.com/birajpatel/EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters)
 1. **GridListViewAdapters** This library provides GridAdapters(ListGridAdapter & CursorGridAdapter) which enable you to bind your data in grid card fashion within android.widget.ListView, Also provides many other features related to GridListView.            
 [https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
-
+1. **RxRecyclerAdapter** Rx based generic RecyclerView Adapter Library with support for sections.                 
+[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
 
 ### <A NAME="Validation"></A>Validation
 1. **android-saripaar**  UI Validation Library for Android          
