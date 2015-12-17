@@ -552,6 +552,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/seatgeek/android-PlacesAutocompleteTextView](https://github.com/seatgeek/android-PlacesAutocompleteTextView)
 1. **BiuEditText**  biu，biu，一个有趣的EditText                            
 [https://github.com/xujinyang/BiuEditText](https://github.com/xujinyang/BiuEditText)
+1. **AnimTextView** AnimTextView               
+[https://github.com/z56402344/AnimTextView](https://github.com/z56402344/AnimTextView)
+
 
 
 #### <A NAME="ImageView"></A>ImageView
