@@ -1555,6 +1555,8 @@ And this project is not using the image file!
 [https://github.com/tasomaniac/IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference)
 1. **TinderView**  Created A Simple and Beautiful Tinder like card deck & Captain Train like toolbar.                     
 [https://github.com/GadgetCheck/TinderView](https://github.com/GadgetCheck/TinderView)
+1. **FlycoLabelView**  A Simple Android LabelView.               
+[https://github.com/H07000223/FlycoLabelView](https://github.com/H07000223/FlycoLabelView)
 
 
 
