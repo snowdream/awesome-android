@@ -737,7 +737,8 @@ And this project is not using the image file!
 [https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
 1. **DelayedProgress**  ProgressDialog that waits a minimum time to be dismissed before showing. Once visible, the ProgressDialog will be visible for a minimum amount of time to avoid "flashes" in the UI.                 
 [https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
-
+1. **Loading Progress** A highly configurable library to do loading progress with animated balls
+[https://github.com/glomadrian/loading-balls](https://github.com/glomadrian/loading-balls)
 
 
 #### <A NAME="Menu"></A>Menu
