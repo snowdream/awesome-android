@@ -1597,7 +1597,8 @@ And this project is not using the image file!
 [https://github.com/birajpatel/EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters)
 1. **GridListViewAdapters** This library provides GridAdapters(ListGridAdapter & CursorGridAdapter) which enable you to bind your data in grid card fashion within android.widget.ListView, Also provides many other features related to GridListView.            
 [https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
-
+1. **RxRecyclerAdapter** Rx based generic RecyclerView Adapter Library with support for sections.                 
+[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
 
 ### <A NAME="Validation"></A>Validation
 1. **android-saripaar**  UI Validation Library for Android          
