@@ -2358,7 +2358,8 @@ And this project is not using the image file!
 [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
 1. **AndResGuard** proguard resource for Android        
 [https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
-
+1. **Let** Annotation based simple API flavoured with AOP to handle new Android runtime permission model
+[https://github.com/canelmas/let](https://github.com/canelmas/let)
 
 
 ### <A NAME="QRCode"></A>QRCode
