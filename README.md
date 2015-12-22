@@ -2073,6 +2073,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **CardSlidePanel**  Based on https://github.com/xmuSistone/android-card-slide-panel.git               
+[https://github.com/taoliuh/CardSlidePanel](https://github.com/taoliuh/CardSlidePanel)
 1. **android-demos**  Examples of Android applications           
 [https://github.com/novoda/android-demos](https://github.com/novoda/android-demos)
 1. **u2020** A sample Android app which showcases advanced usage of Dagger among other open source libraries.     
