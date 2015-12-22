@@ -737,6 +737,8 @@ And this project is not using the image file!
 [https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
 1. **DelayedProgress**  ProgressDialog that waits a minimum time to be dismissed before showing. Once visible, the ProgressDialog will be visible for a minimum amount of time to avoid "flashes" in the UI.                 
 [https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
+1. **circular-slider-android**  Circular Slider is a custom-built Android View used for choosing numbers. It works similarly to the regular slider control (SeekBar), just goes around in a circular fashion - simple enough. Note that the thumb scroller (the thing you drag around) can be either a solid-color circle or a custom drawable (like a PNG image).             
+[https://github.com/milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android)
 
 
 
