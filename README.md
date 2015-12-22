@@ -122,6 +122,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
 1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.     
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
+1. **Anvil** Tiny library for building reactive UI components (with data binding and event listeners binding), inspired by React.js.     
+[https://github.com/zserge/anvil](https://github.com/zserge/anvil)
 1. **androidkit** android开发框架，可以帮助你大量提高android应用开发效率。    
 [https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
 1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android      
@@ -739,7 +741,8 @@ And this project is not using the image file!
 [https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
 1. **circular-slider-android**  Circular Slider is a custom-built Android View used for choosing numbers. It works similarly to the regular slider control (SeekBar), just goes around in a circular fashion - simple enough. Note that the thumb scroller (the thing you drag around) can be either a solid-color circle or a custom drawable (like a PNG image).             
 [https://github.com/milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android)
-
+1. **Loading Progress** A highly configurable library to do loading progress with animated balls
+[https://github.com/glomadrian/loading-balls](https://github.com/glomadrian/loading-balls)
 
 
 #### <A NAME="Menu"></A>Menu
@@ -1596,7 +1599,8 @@ And this project is not using the image file!
 [https://github.com/birajpatel/EasyListViewAdapters](https://github.com/birajpatel/EasyListViewAdapters)
 1. **GridListViewAdapters** This library provides GridAdapters(ListGridAdapter & CursorGridAdapter) which enable you to bind your data in grid card fashion within android.widget.ListView, Also provides many other features related to GridListView.            
 [https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
-
+1. **RxRecyclerAdapter** Rx based generic RecyclerView Adapter Library with support for sections.                 
+[https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
 
 ### <A NAME="Validation"></A>Validation
 1. **android-saripaar**  UI Validation Library for Android          
@@ -2358,7 +2362,8 @@ And this project is not using the image file!
 [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
 1. **AndResGuard** proguard resource for Android        
 [https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
-
+1. **Let** Annotation based simple API flavoured with AOP to handle new Android runtime permission model
+[https://github.com/canelmas/let](https://github.com/canelmas/let)
 
 
 ### <A NAME="QRCode"></A>QRCode
