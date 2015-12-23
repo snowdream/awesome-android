@@ -473,6 +473,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="TextView/EditText"></A>TextView/EditText
+1. **HTextView** Animation effects to TextView               
+[https://github.com/hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView)
 1. **richeditor-android**  RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.                     
 [https://github.com/wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android)
 1. **Shimmer-android**  An Android TextView with a shimmering effect    
