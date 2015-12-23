@@ -1295,6 +1295,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **DragGooView**  A wonderful feature to clear the unread reminder         
+[https://github.com/PoplarTang/DragGooView](https://github.com/PoplarTang/DragGooView)
 1. **AudioWaves**  Shows a graphic representation of the sounds captured by the microphone on Android                         
 [https://github.com/FireZenk/AudioWaves](https://github.com/FireZenk/AudioWaves)
 1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.       
