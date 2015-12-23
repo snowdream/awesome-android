@@ -1174,6 +1174,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **DragLinearLayout**  Android LinearLayout with drag and drop to reorder.              
+[https://github.com/justasm/DragLinearLayout](https://github.com/justasm/DragLinearLayout)
 1. **Android-MosaicLayout-v0.1**  Mosaiclayout is android layout to display group of views in more that 92 different patterns.                    
 [https://github.com/adhamenaya/Android-MosaicLayout-v0.1](https://github.com/adhamenaya/Android-MosaicLayout-v0.1)
 1. **FoldableLayout**      Android widgets to implement folding animation      
