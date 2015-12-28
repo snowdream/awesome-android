@@ -1926,6 +1926,8 @@ And this project is not using the image file!
 [https://github.com/percolate/foam](https://github.com/percolate/foam)
 1. **Treasure**   Very easy to use wrapper library for Android SharePreferences                          
 [https://github.com/baoyongzhang/Treasure](https://github.com/baoyongzhang/Treasure)
+1. **TinyPinyin**   Very fast lib to convert Chinese character to Pinyin. 适用于Java和Android的快速、低内存占用的汉字转拼音库。
+[https://github.com/promeG/TinyPinyin](https://github.com/promeG/TinyPinyin)
 
 
 
@@ -2284,6 +2286,10 @@ And this project is not using the image file!
 [https://github.com/wingjay/jianshi](https://github.com/wingjay/jianshi)
 1. **shuba**  Find the best novel for users.                        
 [https://github.com/liuguangqiang/shuba](https://github.com/liuguangqiang/shuba)
+1. **MousePaint**  MousePaint client (not official release). 鼠绘漫画客户端（非官方）
+[https://github.com/android-cjj/MousePaint](https://github.com/android-cjj/MousePaint)
+1. **Lightning Browser**  A speedy, lightweight browser with modern navigation.
+[https://github.com/anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 
 
 ### <A NAME="Security"></A>Security
