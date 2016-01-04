@@ -2290,7 +2290,8 @@ And this project is not using the image file!
 [https://github.com/android-cjj/MousePaint](https://github.com/android-cjj/MousePaint)
 1. **Lightning Browser**  A speedy, lightweight browser with modern navigation.                       
 [https://github.com/anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
-
+1. **Leisure** Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books     
+[https://github.com/MummyDing/Leisure](https://github.com/MummyDing/Leisure)
 
 ### <A NAME="Security"></A>Security
 1. **gnupg-for-android** A port of gnupg to Android     
