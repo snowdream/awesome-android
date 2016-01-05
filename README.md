@@ -95,7 +95,7 @@ Step 2. The item should fall under the appropriate category.
 * [Decompiler](#Decompiler)
 * [Android Wear](#Android_Wear)
 * [Other](#Other1)
-
+* [Books](#Books)
 
 ### <A NAME="Framework"></A>Framework
 1. **dexposed** dexposed enable 'god' mode for single android application.     
@@ -2454,6 +2454,11 @@ And this project is not using the image file!
 [https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
 1. **MasteringAndroidDataBinding**  A comprehensive tutorial for Android Data Binding                    
 [https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
+
+
+### <A NAME="Books"></A>Books
+1. **RxJava Essentials 中文翻译版**   RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途 http://rxjava.yuxingxin.com             
+[https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 
 ## License
