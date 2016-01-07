@@ -1297,6 +1297,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **GalleryFinal**  Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。           
+[https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 1. **DragGooView**  A wonderful feature to clear the unread reminder         
 [https://github.com/PoplarTang/DragGooView](https://github.com/PoplarTang/DragGooView)
 1. **AudioWaves**  Shows a graphic representation of the sounds captured by the microphone on Android                         
