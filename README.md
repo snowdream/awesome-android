@@ -2462,9 +2462,9 @@ And this project is not using the image file!
 
 
 ### About
-Email：yanghui1986527#gmail.com
-QQ Group: 529327615
-Welcome to talk about Android.
+* Email：yanghui1986527#gmail.com
+* QQ Group: 529327615    
+**Welcome to talk about Android.**
 
 
 ## License
