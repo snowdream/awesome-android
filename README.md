@@ -680,6 +680,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
+1. **KProgressHUD** An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.             
+[https://github.com/Kaopiz/KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar        
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
 1. **ACProgressLite** A lightweight Android library to display customizable progressbar like iOS MBProgressHUD.       
