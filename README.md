@@ -2461,6 +2461,12 @@ And this project is not using the image file!
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 
+### About
+Email：yanghui1986527#gmail.com
+QQ Group: 529327615
+Welcome to talk about Android.
+
+
 ## License
 ```
 Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
