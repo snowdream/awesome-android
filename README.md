@@ -2040,6 +2040,8 @@ And this project is not using the image file!
 [https://github.com/lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)
 1. **HoloGraphLibrary** Fork of the HoloGraphLibrary by Daniel Nadeau with additionnal features            
 [https://github.com/Androguide/HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary)
+1. **NumAndroidCharts** A powerful opensource android charting library            
+[https://github.com/numetriclabz/numAndroidCharts](https://github.com/numetriclabz/numAndroidCharts)
 
 
 ### <A NAME="Icons"></A>Icons
