@@ -558,6 +558,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/xujinyang/BiuEditText](https://github.com/xujinyang/BiuEditText)
 1. **AnimTextView** AnimTextView               
 [https://github.com/z56402344/AnimTextView](https://github.com/z56402344/AnimTextView)
+1. **Masked-Edittext** Android library contain custom realisation of EditText component for masking and formatting input text               
+[https://github.com/pinball83/Masked-Edittext](https://github.com/pinball83/Masked-Edittext)
 
 
 
