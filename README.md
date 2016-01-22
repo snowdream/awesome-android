@@ -1192,6 +1192,8 @@ And this project is not using the image file!
 [https://github.com/blazsolar/FlowLayout](https://github.com/blazsolar/FlowLayout)
 1. **CircleLayout** Circular layout for android          
 [https://github.com/dmitry-zaitsev/CircleLayout](https://github.com/dmitry-zaitsev/CircleLayout)
+1. **CircleLayout** An Android layout for arranging children along a circle                    
+[https://github.com/francoiscampbell/CircleLayout](https://github.com/francoiscampbell/CircleLayout)
 1. **ResideLayout** An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu         
 [https://github.com/kyze8439690/ResideLayout](https://github.com/kyze8439690/ResideLayout)
 1. **GooglePlusLayout**  GoolgePlusLayout is a custom layout that plays animation on the children views while scrolling as the layout in the Google Plus (android) main page        
