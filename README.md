@@ -58,6 +58,10 @@ Step 2. The item should fall under the appropriate category.
   * [Mapview](#Mapview)
   * [Choreographer](#Choreographer)
   * [Other](#Other)
+* [Performance](#Performance)
+  * [Analysis](#Performance_Analysis_Tools)
+  * [Tools](#Performance_Tools)
+  * [Website](#Performance_Website_Tools)
 * [Plugin](#Plugin)
   * [Gradle](#Gradle)
   * [Maven](#Maven)
@@ -1677,6 +1681,32 @@ And this project is not using the image file!
 1. **Android-Paho-Mqtt-Service** A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.  
 [https://github.com/JesseFarebro/Android-Mqtt](https://github.com/JesseFarebro/Android-Mqtt)
 
+### <A NAME="Performance"></A>Performance
+#### <A NAME="Analysis"></A>Performance_Analysis_Tools
+1. **MAT** The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.               
+[https://www.eclipse.org/mat/](https://www.eclipse.org/mat/)
+
+#### <A NAME="Tools"></A>Performance_Tools
+1. **leakcanary** A memory leak detection library for Android and Java.  
+[https://github.com/square/leakcanary](https://github.com/square/leakcanary)
+1. **blockcanary** A transparent ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/                
+[https://github.com/moduth/blockcanary](https://github.com/moduth/blockcanary)
+1. **ANR-WatchDog** A simple watchdog that detects Android ANR (Application Not Responding) error and throws a meaningful exception                              
+[https://github.com/SalomonBrys/ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)
+1. **Emmagee**  网易Android性能测试工具            
+[https://github.com/NetEase/Emmagee](https://github.com/NetEase/Emmagee)
+
+
+#### <A NAME="Website"></A>Performance_Website_Tools
+1. **阿里云测**   阿里移动质量中心（MQC）是为广大移动开发者提供真机测试服务的云平台，拥有大量热门机型，提供7x24全天候服务。         
+[http://mqc.aliyun.com/](http://mqc.aliyun.com/)
+1. **优测**  腾讯移动测试平台
+[http://utest.qq.com/](http://utest.qq.com/)
+1. **mtc**  百度移动测试平台
+[http://mtc.baidu.com/](http://mtc.baidu.com/)
+1. **testin**  Testin为开发者提供随叫随到的一站式测试服务，和您一起打造更高品质的App                  
+[http://www.testin.cn/](http://www.testin.cn/)
+
 
 ### <A NAME="Plugin"></A>Plugin
 #### <A NAME="Gradle"></A>Gradle
@@ -2092,9 +2122,6 @@ And this project is not using the image file!
 ### <A NAME="Debug"></A>Debug
 1. **android-grid-wichterle** This app will show grid overlay over whole system which helps you to verify your excellent app design.          
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
-
-1. **leakcanary** A memory leak detection library for Android and Java.  
-[https://github.com/square/leakcanary](https://github.com/square/leakcanary)
 1. **Goreinu** Goreinu allows to copy application files on sdcard.  
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
