@@ -1303,6 +1303,24 @@ And this project is not using the image file!
 [https://github.com/wasabeef/Takt](https://github.com/wasabeef/Takt)
 
 
+#### <A NAME="Tag"></A>Tag
+1. **AndroidTagGroup**  :four_leaf_clover:A beautiful android tag group widget.                     
+[https://github.com/2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+1. **AndroidTagView**  A TagView library for Android. Customize your own & Drag effect.           
+[https://github.com/whilu/AndroidTagView](https://github.com/whilu/AndroidTagView)
+1. **HashTagHelper**  This is a library designed for highlighting hashtags ("#example") and catching click on them.            
+[https://github.com/danylovolokh/HashTagHelper](https://github.com/danylovolokh/HashTagHelper)
+1. **Android TagView** Android TagView-HashTagView            
+[https://github.com/Cutta/TagView](https://github.com/Cutta/TagView)
+1. **TagCloudView** 支持 SingleLine 模式的标签云效果，轻松实现知乎问题话题列表          
+[https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)
+1. **Android-Cloud-TagView-Plus** An Android Cloud Tag Widget. You can edit the tag's style, and set listener of selecting or deleting tag.        
+[https://github.com/kaedea/Android-Cloud-TagView-Plus](https://github.com/kaedea/Android-Cloud-TagView-Plus)
+1. **android-tagview** Simple android view to display list of colorful tags efficiently.          
+[https://github.com/mcharmas/android-tagview](https://github.com/mcharmas/android-tagview)
+1. **3dTagCloudAndroid** A tagcloud component implemenation to android          
+[https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
+
 
 
 #### <A NAME="Other"></A>Other
