@@ -1677,6 +1677,8 @@ And this project is not using the image file!
 [https://github.com/pbreault/adb-idea](https://github.com/pbreault/adb-idea)
 1. **android-butterknife-zelezny** Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.       
 [https://github.com/inmite/android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)
+1. **DroidLane**  Plugin help you to upload apk to Google Play.
+[https://github.com/Jintin/DroidLane](https://github.com/Jintin/DroidLane)
 1. **eventbus-intellij-plugin**  Plugin to navigate between events posted by EventBus.           
 [https://github.com/kgmyshin/eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
 1. **GsonFormat**  根据Gson库使用的要求,将JSONObject格式的String 解析成实体    
