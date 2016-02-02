@@ -194,7 +194,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
 1. **AndroidEventBus**  A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.         
 [https://github.com/bboyfeiyu/AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
-
+1. **Drekkar**  An Android event bus for WebView and JS. [https://github.com/coshx/drekkar](https://github.com/coshx/drekkar)
 
 
 ### <A NAME="Orm"></A>Orm
