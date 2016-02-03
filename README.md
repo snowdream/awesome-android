@@ -756,6 +756,8 @@ And this project is not using the image file!
 [https://github.com/milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android)
 1. **Loading Progress** A highly configurable library to do loading progress with animated balls
 [https://github.com/glomadrian/loading-balls](https://github.com/glomadrian/loading-balls)
+1. **Dilating Dots Progress Bar** An animated progress indicator
+[https://github.com/JustZak/DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar)
 
 
 #### <A NAME="Menu"></A>Menu
