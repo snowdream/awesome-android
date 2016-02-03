@@ -1328,6 +1328,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **SwipeStack**   A simple, customizable and easy to use swipeable view stack for Android.            
+[https://github.com/flschweiger/SwipeStack](https://github.com/flschweiger/SwipeStack)
 1. **BrokenView** Glass-break effect for views.               
 [https://github.com/zhanyongsheng/BrokenView](https://github.com/zhanyongsheng/BrokenView)  
 1. **AndroidTagView**  An Android TagView library. You can customize awesome TagView by using this library.                             
