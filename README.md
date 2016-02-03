@@ -1293,6 +1293,8 @@ And this project is not using the image file!
 [https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
 1. **Android-ScalableVideoView** Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more           
 [https://github.com/yqritc/Android-ScalableVideoView](https://github.com/yqritc/Android-ScalableVideoView)
+1. **UniversalVideoView**   UniversalVideoView is a Android widget helps playing video easier, which is similar with the Android system native VideoView, but with more Media Controller customization.(https://github.com/linsea/UniversalVideoView)         
+[https://github.com/linsea/UniversalVideoView](https://github.com/linsea/UniversalVideoView)
 
 
 #### <A NAME="Mapview"></A>Mapview
