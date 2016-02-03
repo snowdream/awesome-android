@@ -2149,6 +2149,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **PhotoEditDemo**  图片处理sdk(just for eclipse)         
+[https://github.com/jarlen/PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo)
 1. **CardSlidePanel**  Based on https://github.com/xmuSistone/android-card-slide-panel.git               
 [https://github.com/taoliuh/CardSlidePanel](https://github.com/taoliuh/CardSlidePanel)
 1. **android-demos**  Examples of Android applications           
