@@ -2485,6 +2485,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Other1"></A>Other
+1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process        
+[https://github.com/lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader)
 1. **PasswordLoadingView** Provide an animation when finished the password          
 [https://github.com/Rogero0o/PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)
 1. **Colorful**  基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。                          
