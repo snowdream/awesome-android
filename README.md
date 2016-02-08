@@ -1131,6 +1131,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="SeekBar"></A>SeekBar
+1. **ColorSeekBar** A colorful SeekBar for picking color
+[https://github.com/rtugeek/ColorSeekBar](https://github.com/rtugeek/ColorSeekBar)
 1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.
 [https://github.com/JesusM/HoloCircleSeekBar](https://github.com/JesusM/HoloCircleSeekBar)
 1. **AndroidCircularSeekBar** A circular seek bar for Android
