@@ -1615,6 +1615,8 @@ And this project is not using the image file!
 [https://github.com/GadgetCheck/TinderView](https://github.com/GadgetCheck/TinderView)
 1. **FlycoLabelView**  A Simple Android LabelView.
 [https://github.com/H07000223/FlycoLabelView](https://github.com/H07000223/FlycoLabelView)
+1. **EntryScreenManager**  Intro/Walkthrough/Starting/Entry Screens.
+[https://github.com/kunall17/EntryScreenManager](https://github.com/kunall17/EntryScreenManager)
 
 
 
