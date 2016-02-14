@@ -355,7 +355,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/blundell/QuickSand](https://github.com/blundell/QuickSand)
 1. **animate**  An application demoing meaningful motion on Android https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d
 [https://github.com/hitherejoe/animate](https://github.com/hitherejoe/animate)
-
+1. **FPSAnimator**  FPSAnimator is very easy animation library for Android TextureView and SurfaceView.
+[https://github.com/MasayukiSuda/FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator)
 
 
 
