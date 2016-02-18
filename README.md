@@ -22,7 +22,11 @@ Step 2. The item should fall under the appropriate category.
 ## Libs
 ### Table of contents
 * [Framework](#Framework)
-* [EventBus](#EventBus)
+  * [Common](#Framework_Common)
+  * [Plugin](#Framework_Plugin)
+  * [MVC/MVVM/MVP](#Framework_MVC_MVVM_MVP)
+  * [Theme](#Framework_Theme)
+  * [Hook](#Framework_Hook)
 * [Orm](#Orm)
 * [Image Loading](#Image_Loading)
 * [Animations](#Animations)
@@ -104,10 +108,7 @@ Step 2. The item should fall under the appropriate category.
 * [Books](#Books)
 
 ### <A NAME="Framework"></A>Framework
-1. **dexposed** dexposed enable 'god' mode for single android application.
-[https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
-1. **Xposed** The native part of the Xposed framework (mainly the modified app_process binary).
-[https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
+#### <A NAME="Framework_Common"></A>Common
 1. **afinal**    Afinal是一个android的ioc，orm框架
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 1. **xUtils****    android orm, bitmap, http, view inject...
@@ -120,61 +121,70 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
 1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
-1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
-[https://github.com/path/android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)
+1. **Elf Framework** Android Framework to simplify the android development process.
+[https://github.com/fenli/elf](https://github.com/fenli/elf)
+1. **RoboMVVM**   MVVM framework for Android
+[https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
 1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。
 [https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
-1. **AndroidBinding**  MVVM for Android
-[https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
-1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.
-[https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
+1. **AndroidQuickUtils**   Android Development Framework
+[https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
+1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具
+[https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
+1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.
+[https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
+1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki
+[https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
+1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way
+[https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
+1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。
+[https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
+1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践
+[https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
+1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.
+[https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
+1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.            
+[https://github.com/yigit/android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
 1. **Anvil** Tiny library for building reactive UI components (with data binding and event listeners binding), inspired by React.js.
 [https://github.com/zserge/anvil](https://github.com/zserge/anvil)
-1. **androidkit** android开发框架，可以帮助你大量提高android应用开发效率。
-[https://github.com/msdx/androidkit](https://github.com/msdx/androidkit)
-1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android
-[https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
+
+
+#### <A NAME="Framework_Plugin"></A>Plugin
+1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
+[https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+1. **apf**  Android Plugin Framework
+[https://github.com/umeng/apf](https://github.com/umeng/apf)
+1. **CJFrameForAndroid**  CJFrameForAndroid 是一个实现android插件化开发的框架。使用CJFrameForAndroid，apk动态加载不再是难题，更重要的是可以轻松实现插件与APP项目之间的解耦。
+[https://github.com/kymjs/CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
+1. **ACDD** ACDD，Android Component Dynamic Deployment(plugin) Solution,if any question,send me e-mail Solution http://bunnyblue.github.io/ACDD/
+[https://github.com/bunnyblue/ACDD](https://github.com/bunnyblue/ACDD)
 1. **xCombine** Android Plugin Framework
 [https://github.com/wyouflf/xCombine](https://github.com/wyouflf/xCombine)
 1. **AndroidDynamicLoader**   A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.
 [https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
-1. **apf**  Android Plugin Framework
-[https://github.com/umeng/apf](https://github.com/umeng/apf)
-1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。
-[https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
-1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way
-[https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
-1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具
-[https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
-1. **RoboMVVM**   MVVM framework for Android
-[https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
-1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.
-[https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
-1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations
-[https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
-1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践
-[https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
-1. **CJFrameForAndroid**  CJFrameForAndroid 是一个实现android插件化开发的框架。使用CJFrameForAndroid，apk动态加载不再是难题，更重要的是可以轻松实现插件与APP项目之间的解耦。
-[https://github.com/kymjs/CJFrameForAndroid](https://github.com/kymjs/CJFrameForAndroid)
-1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.
-[https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
-1. **AndroidQuickUtils**   Android Development Framework
-[https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
-1. **Elf Framework** Android Framework to simplify the android development process.
-[https://github.com/fenli/elf](https://github.com/fenli/elf)
+
+
+#### <A NAME="Framework_MVC_MVVM_MVP"></A>MVC/MVVM/MVP
+1. **AndroidBinding**  MVVM for Android
+[https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
+1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.
+[https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
 1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
+
+
+#### <A NAME="Framework_Theme"></A>Theme
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
-1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
-[https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
-1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki
-[https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
-1. **ACDD** ACDD，Android Component Dynamic Deployment(plugin) Solution,if any question,send me e-mail Solution http://bunnyblue.github.io/ACDD/
-[https://github.com/bunnyblue/ACDD](https://github.com/bunnyblue/ACDD)
-1. **powermock**  PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
-[https://github.com/jayway/powermock](https://github.com/jayway/powermock)
 
+
+#### <A NAME="Framework_Hook"></A>Hook
+1. **legend**  Legend is a Hook framework for Android Development, it allows you to Hook Java methods without ROOT. Even more exciting is that it supports both Dalvik and Art environment!           
+[https://github.com/asLody/legend](https://github.com/asLody/legend)
+1. **dexposed** dexposed enable 'god' mode for single android application.
+[https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
+1. **Xposed** The native part of the Xposed framework (mainly the modified app_process binary).
+[https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
 
 
 ### <A NAME="EventBus"></A>EventBus
@@ -1727,6 +1737,11 @@ And this project is not using the image file!
 [https://github.com/square/dagger](https://github.com/square/dagger)
 1. **PreferenceInjector**  A SharedPreference injection library for Android
 [https://github.com/denley/PreferenceInjector](https://github.com/denley/PreferenceInjector)
+1. **transfuse** Transfuse - A Dependency Injection and Integration framework for Google Android
+[https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
+1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations
+[https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
+
 
 
 ### <A NAME="Template"></A>Template
@@ -2085,6 +2100,8 @@ And this project is not using the image file!
 [https://github.com/jsankey/android-junit-report](https://github.com/jsankey/android-junit-report)
 1. **robolectric**  Android Unit Testing Framework
 [https://github.com/xtremelabs/robolectric](https://github.com/xtremelabs/robolectric)
+1. **powermock**  PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
+[https://github.com/jayway/powermock](https://github.com/jayway/powermock)
 
 
 ### <A NAME="Chart"></A>Chart
