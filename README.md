@@ -1895,6 +1895,10 @@ And this project is not using the image file!
 
 
 ### <A NAME="Utility"></A>Utility
+1. **apk-parser** Apk parser lib with java            
+[https://github.com/caoqianli/apk-parser](https://github.com/caoqianli/apk-parser)
+1. **APKParser**  APK parser for Android          
+[https://github.com/jaredrummler/APKParser](https://github.com/jaredrummler/APKParser)
 1. **JustWeTools**   JustWeTools - Some useful tools        
 [https://github.com/lfkdsk/JustWeTools](https://github.com/lfkdsk/JustWeTools)
 1. **AndroidProcesses**  Get running processes on Android http://jaredrummler.github.io/AndroidProcesses
