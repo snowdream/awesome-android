@@ -2394,6 +2394,9 @@ And this project is not using the image file!
 [https://github.com/anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser)
 1. **Leisure** Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
 [https://github.com/MummyDing/Leisure](https://github.com/MummyDing/Leisure)
+1. **ZhihuDaily** 壁上观，A material design android app to show zhihu daily
+[https://github.com/Tneciv/ZhihuDaily](https://github.com/Tneciv/ZhihuDaily)
+
 
 ### <A NAME="Security"></A>Security
 1. **gnupg-for-android** A port of gnupg to Android
