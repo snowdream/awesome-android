@@ -771,7 +771,8 @@ And this project is not using the image file!
 [https://github.com/glomadrian/loading-balls](https://github.com/glomadrian/loading-balls)
 1. **Dilating Dots Progress Bar** An animated progress indicator
 [https://github.com/JustZak/DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar)
-
+1. **ColorArcProgressBar**  A customizable circular progressbar, which can achieve the effect of the QQ health's arc progress and dashboard.
+[https://github.com/Shinelw/ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar)
 
 #### <A NAME="Menu"></A>Menu
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.
