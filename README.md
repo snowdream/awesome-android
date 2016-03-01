@@ -2028,6 +2028,8 @@ And this project is not using the image file!
 [https://github.com/promeG/TinyPinyin](https://github.com/promeG/TinyPinyin)
 1. **Ok2Curl**   Convert OkHttp requests into curl logs.
 [https://github.com/mrmike/Ok2Curl](https://github.com/mrmike/Ok2Curl)
++1. **Thrifty** Thrift for Android that saves you methods    
++[https://github.com/microsoft/thrifty](https://github.com/microsoft/thrifty)
 
 
 
