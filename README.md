@@ -2186,6 +2186,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **android-support-23.2-sample**  Sample Project for Android Support Library 23.2 http://android-developers.blogspot.com/2016/02/android-support-library-232.html            
+[https://github.com/liaohuqiu/android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample)
 1. **PhotoEditDemo**  图片处理sdk(just for eclipse)
 [https://github.com/jarlen/PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo)
 1. **CardSlidePanel**  Based on https://github.com/xmuSistone/android-card-slide-panel.git
