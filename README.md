@@ -2408,6 +2408,9 @@ And this project is not using the image file!
 [https://github.com/MummyDing/Leisure](https://github.com/MummyDing/Leisure)
 1. **ZhihuDaily** 壁上观，A material design android app to show zhihu daily
 [https://github.com/Tneciv/ZhihuDaily](https://github.com/Tneciv/ZhihuDaily)
+1. **OuNews**  简单的新闻客户端      
+[https://github.com/oubowu/OuNews](https://github.com/oubowu/OuNews)
+
 
 
 ### <A NAME="Security"></A>Security
