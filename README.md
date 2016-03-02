@@ -62,6 +62,7 @@ Step 2. The item should fall under the appropriate category.
   * [Mapview](#Mapview)
   * [Choreographer](#Choreographer)
   * [Tag](#Tag)
+  * [WebView](#WebView)
   * [Other](#Other)
 * [Performance](#Performance)
   * [Analysis](#Performance_Analysis_Tools)
@@ -1343,6 +1344,10 @@ And this project is not using the image file!
 1. **3dTagCloudAndroid** A tagcloud component implemenation to android
 [https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
 
+
+#### <A NAME="WebView"></A>WebView
+1. **safe-java-js-webview-bridge** 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/               
+[https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
 
 
 #### <A NAME="Other"></A>Other
