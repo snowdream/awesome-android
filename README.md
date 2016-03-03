@@ -991,6 +991,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Recyclerview"></A>Recyclerview
+1. **twoway-view**  RecyclerView made simple              
+[https://github.com/lucasr/twoway-view](https://github.com/lucasr/twoway-view)
 1. **recyclerview-animators**  An Android library which easily add itemanimator to RecyclerView items.
 [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 1. **SuperRecyclerView**  Pumped up RecyclerView
