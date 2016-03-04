@@ -1068,6 +1068,8 @@ And this project is not using the image file!
 [https://github.com/florent37/HollyViewPager](https://github.com/florent37/HollyViewPager)
 1. **SCViewPager**    A simple ViewPager extends that provide scroll based animation like Jazz Hands for iOS. Jazz Hands library provided by IFTTT : https://github.com/IFTTT/JazzHands
 [https://github.com/sacot41/SCViewPager](https://github.com/sacot41/SCViewPager)
+1. **ExpandablePager**    ViewPager that slides vertically between 2 states (expanded and collapsed).    
+[https://github.com/Telenav/ExpandablePager](https://github.com/Telenav/ExpandablePager)
 
 
 
@@ -1296,6 +1298,8 @@ And this project is not using the image file!
 [https://github.com/sahildave/Search-View-Layout](https://github.com/sahildave/Search-View-Layout)
 1. **FlycoTabLayout**  An Android TabLayout Lib has two kinds of TabLayout at present.
 [https://github.com/H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+1. **NodeFlow**    NodeFlow is an Android library that provides a simple way to visualize hierarchical content.    
+[https://github.com/Telenav/NodeFlow](https://github.com/Telenav/NodeFlow)
 
 
 
