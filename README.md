@@ -2437,6 +2437,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Tools"></A>Tools
+1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
+[https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development
 [https://github.com/xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector)
 1. **scalpel**  A surgical debugging tool to uncover the layers under your app.
