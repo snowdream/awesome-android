@@ -18,6 +18,8 @@ Step 1. Add a Item as follows:
 
 Step 2. The item should fall under the appropriate category.
 
+##Android Community
+[Check out this blogs and video collections](https://github.com/tonilopezmr/android-community)
 
 ## Libs
 ### Table of contents
