@@ -163,7 +163,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/wyouflf/xCombine](https://github.com/wyouflf/xCombine)
 1. **AndroidDynamicLoader**   A plugin system that runs like a browser, but instead of load web pages, it load plugins which runs natively on Android system.
 [https://github.com/mmin18/AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
-
+1. **Small** A small framework to split app into small parts               
+[https://github.com/wequick/Small](https://github.com/wequick/Small)
 
 #### <A NAME="Framework_MVC_MVVM_MVP"></A>MVC/MVVM/MVP
 1. **AndroidBinding**  MVVM for Android
