@@ -31,6 +31,7 @@ Step 2. The item should fall under the appropriate category.
 * [Image Loading](#Image_Loading)
 * [Animations](#Animations)
 * [Network](#Network)
+* [Task/Job](#Task/Job)
 * [Widget](#Widget)
   * [Material](#Material)
   * [UI](#UI)
@@ -122,6 +123,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
 1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
+1. **LiteCommon**   Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Uti… http://litesuits.com?form=gcom              
+[https://github.com/litesuits/android-common](https://github.com/litesuits/android-common)
 1. **Elf Framework** Android Framework to simplify the android development process.
 [https://github.com/fenli/elf](https://github.com/fenli/elf)
 1. **RoboMVVM**   MVVM framework for Android
@@ -217,6 +220,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/j256/ormlite-android](https://github.com/j256/ormlite-android)
 1. **requery** requery - compile time ORM and SQL query library for Java & Android             
 [https://github.com/requery/requery](https://github.com/requery/requery)
+1. **LiteOrm** LiteOrm is a fast, small, powerful ORM framework for Android. LiteOrm makes you do CRUD operarions on SQLite database with a sigle line of code efficiently. http://litesuits.com?form=gorm                
+[https://github.com/litesuits/android-lite-orm](https://github.com/litesuits/android-lite-orm)
 1. **ActiveAndroid**    Active record style SQLite persistence for Android
 [https://github.com/pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 1. **sugar**     Insanely easy way to work with Android Database.
@@ -405,6 +410,13 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/orhanobut/wasp](https://github.com/orhanobut/wasp)
 1. **NetworkEvents** Android library listening network connection state and change of the Wifi signal strength
 [https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
+1. **LiteHttp**  LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently. http://litesuits.com?form=ghttp                               
+[https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
+
+
+### <A NAME="Task/Job"></A>Task/Job
+1. **LiteAsync**  An ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExecutor which can executes ordered, cyclicbarrier, delayed and timer Task.        
+[https://github.com/litesuits/android-lite-async](https://github.com/litesuits/android-lite-async)
 
 
 
@@ -491,7 +503,6 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Narfss/ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere)
 1. **ShowcaseView**  Highlight the best bits of your app to users quickly, simply, and cool...ly
 [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
-
 
 
 #### <A NAME="TextView/EditText"></A>TextView/EditText
@@ -1756,7 +1767,8 @@ And this project is not using the image file!
 [https://github.com/johncarl81/transfuse](https://github.com/johncarl81/transfuse)
 1. **SwissKnife** A multi-purpose library containing view injection and threading for Android using annotations
 [https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
-
+1. **LiteAuto** lite your android ! the code is on the way~ http://lihttp//litesuits.com?from=auto              
+[https://github.com/litesuits/android-lite-auto](https://github.com/litesuits/android-lite-auto)
 
 
 ### <A NAME="Template"></A>Template
@@ -1833,6 +1845,8 @@ And this project is not using the image file!
 [https://github.com/akexorcist/Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary)
 1. **AndroidSmoothBluetooth**   Smooth communication via bluetooth with other android devices or microcontrollers such as Arduino.
 [https://github.com/palaima/AndroidSmoothBluetooth](https://github.com/palaima/AndroidSmoothBluetooth)
+1. **LiteBle**  BLE Framework. Based on Bluetooth 4.0. Based on callback. Extremely simple! Communication with BluetoothLE(BLE) device as easy as HTTP communication. Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单。 http://litesuits.com?form=gble           
+[https://github.com/litesuits/android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE)
 
 
 ### <A NAME="SocialNetworks"></A>SocialNetworks
