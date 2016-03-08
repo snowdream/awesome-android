@@ -2417,6 +2417,8 @@ And this project is not using the image file!
 [https://github.com/Tneciv/ZhihuDaily](https://github.com/Tneciv/ZhihuDaily)
 1. **OuNews**  简单的新闻客户端      
 [https://github.com/oubowu/OuNews](https://github.com/oubowu/OuNews)
+1. **TranslateApp**  一个实现『划词翻译』功能的 Android 应用 ，可能是目前 Android 市场上翻译效率最高的一款应用。                         
+[https://github.com/maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp)
 
 
 
