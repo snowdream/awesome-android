@@ -2435,6 +2435,8 @@ And this project is not using the image file!
 [https://github.com/oubowu/OuNews](https://github.com/oubowu/OuNews)
 1. **TranslateApp**  一个实现『划词翻译』功能的 Android 应用 ，可能是目前 Android 市场上翻译效率最高的一款应用。                         
 [https://github.com/maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp)
+1. **uhabits**   Android app that helps you create and maintain good habits            
+[https://github.com/iSoron/uhabits](https://github.com/iSoron/uhabits)
 
 
 
