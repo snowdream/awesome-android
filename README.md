@@ -151,6 +151,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yigit/android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
 1. **Anvil** Tiny library for building reactive UI components (with data binding and event listeners binding), inspired by React.js.
 [https://github.com/zserge/anvil](https://github.com/zserge/anvil)
+1. **Rosie** Rosie is an Android framework to create applications following the principles of Clean Architecture.            
+[https://github.com/Karumi/Rosie](https://github.com/Karumi/Rosie)
+
+
 
 
 #### <A NAME="Framework_Plugin"></A>Plugin
