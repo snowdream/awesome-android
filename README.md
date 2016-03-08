@@ -215,6 +215,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 1. **ormlite**    ORMLite Android functionality used in conjunction with ormlite-core
 [https://github.com/j256/ormlite-android](https://github.com/j256/ormlite-android)
+1. **requery** requery - compile time ORM and SQL query library for Java & Android             
+[https://github.com/requery/requery](https://github.com/requery/requery)
 1. **ActiveAndroid**    Active record style SQLite persistence for Android
 [https://github.com/pardom/ActiveAndroid](https://github.com/pardom/ActiveAndroid)
 1. **sugar**     Insanely easy way to work with Android Database.
