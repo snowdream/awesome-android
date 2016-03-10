@@ -2624,6 +2624,8 @@ And this project is not using the image file!
 ### <A NAME="Books"></A>Books
 1. **RxJava Essentials 中文翻译版**   RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途 http://rxjava.yuxingxin.com
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
+1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           
+[https://github.com/codepath/android_guides](https://github.com/codepath/android_guides)
 
 
 ### About
