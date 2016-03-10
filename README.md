@@ -1052,6 +1052,8 @@ And this project is not using the image file!
 [https://github.com/MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 
 #### <A NAME="ViewPager"></A>ViewPager
+1. **WoWoViewPager** Optimized for scrolling app intros or making your CV app. Free and open source.             
+[https://github.com/Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
 1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.
 [https://github.com/JakeWharton/Android-ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 1. **ViewPagerExtensions** A set of custom views for the ViewPager from the Android Support Package
