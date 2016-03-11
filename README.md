@@ -2336,6 +2336,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **PoiShuhui-Kotlin**  一个用Kotlin写的简单漫画APP         
+[https://github.com/wuapnjie/PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin)
 1. **AndroidReview** AndroidReview (Android面试复习)             
 [https://github.com/envyfan/AndroidReview](https://github.com/envyfan/AndroidReview)
 1. **2048-android** The android port of the 2048 game (for offline playing)
