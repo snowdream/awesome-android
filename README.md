@@ -2336,6 +2336,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **MaterialDesignColorPalette**  This is a dev tool to visualize the colours of Material design defined on http://www.google.com/design/spec/style/color.html#color-ui-color-palette             
+[https://github.com/HozakaN/MaterialDesignColorPalette](https://github.com/HozakaN/MaterialDesignColorPalette)
 1. **PoiShuhui-Kotlin**  一个用Kotlin写的简单漫画APP         
 [https://github.com/wuapnjie/PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin)
 1. **AndroidReview** AndroidReview (Android面试复习)             
