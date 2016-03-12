@@ -1664,7 +1664,8 @@ And this project is not using the image file!
 [https://github.com/H07000223/FlycoLabelView](https://github.com/H07000223/FlycoLabelView)
 1. **EntryScreenManager**  Intro/Walkthrough/Starting/Entry Screens.
 [https://github.com/kunall17/EntryScreenManager](https://github.com/kunall17/EntryScreenManager)
-
+1. **SearchableSpinner**  Spinner with searchable items.          
+[https://github.com/miteshpithadiya/SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)
 
 
 ### <A NAME="Performance"></A>Performance
