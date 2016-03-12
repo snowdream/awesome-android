@@ -2132,6 +2132,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Test"></A>Test
+1. **macaca-android**  macaca-android          
+[https://github.com/macacajs/macaca-android](https://github.com/macacajs/macaca-android)
 1. **Junit**   A programmer-oriented testing framework for Java.
 [https://github.com/junit-team/junit](https://github.com/junit-team/junit)
 1. **robotium**  Like Selenium, but for Android
