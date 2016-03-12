@@ -153,7 +153,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/zserge/anvil](https://github.com/zserge/anvil)
 1. **Rosie** Rosie is an Android framework to create applications following the principles of Clean Architecture.            
 [https://github.com/Karumi/Rosie](https://github.com/Karumi/Rosie)
-
+1. **volley**  volley
+[https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
+1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android
+[https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
 
 
 
@@ -404,10 +407,6 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
 1. **robospice**      Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.
 [https://github.com/stephanenicolas/robospice](https://github.com/stephanenicolas/robospice)
-1. **volley**  volley
-[https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
-1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android
-[https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
 1. **unirest-java**  Unirest in Java: Simplified, lightweight HTTP client library.
 [https://github.com/mashape/unirest-java/](https://github.com/mashape/unirest-java/)
 1. **wasp**  Android Network Solution
