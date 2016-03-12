@@ -1666,6 +1666,8 @@ And this project is not using the image file!
 [https://github.com/kunall17/EntryScreenManager](https://github.com/kunall17/EntryScreenManager)
 1. **SearchableSpinner**  Spinner with searchable items.          
 [https://github.com/miteshpithadiya/SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)
+1. **velocimeter-view**  A velocimeter View for Android           
+[https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
 
 
 ### <A NAME="Performance"></A>Performance
