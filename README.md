@@ -415,6 +415,11 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pwittchen/NetworkEvents](https://github.com/pwittchen/NetworkEvents)
 1. **LiteHttp**  LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently. http://litesuits.com?form=ghttp                               
 [https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
+1. **AndNet**  AndNet是一个Android开中中二次封装的网络框架 http://blog.csdn.net/qibin0506/article/details/50127223           
+[https://github.com/qibin0506/AndNet](https://github.com/qibin0506/AndNet)
+
+
+
 
 
 ### <A NAME="Task/Job"></A>Task/Job
