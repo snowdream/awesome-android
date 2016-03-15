@@ -1753,6 +1753,8 @@ And this project is not using the image file!
 [https://github.com/zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat)
 1. **Android-DPI-Calculator**  Android Studio plugin allowing to calculate sizes in different densities like xxxhdpi, xxhdpi, xhdpi, hdpi, mdpi, ldpi and tvdpi.
 [https://github.com/JerzyPuchalski/Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+1. **android-xml-sorter**    Android Studio & IntelliJ Plugin for sort xml by name="xxx".    
+[https://github.com/roana0229/android-xml-sorter](https://github.com/roana0229/android-xml-sorter)
 
 
 #### <A NAME="Other-Plugin"></A>Other
