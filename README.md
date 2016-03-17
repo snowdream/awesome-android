@@ -1386,6 +1386,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **BottomBar** A custom view component that mimicks the new Material Design Bottom Navigation pattern.             
+[https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)
 1. **CubeGrid**  Cube grid animation about the android.            
 [https://github.com/david-wei/CubeGrid](https://github.com/david-wei/CubeGrid)
 1. **SwipeStack**   A simple, customizable and easy to use swipeable view stack for Android.
