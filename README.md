@@ -383,6 +383,9 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/hitherejoe/animate](https://github.com/hitherejoe/animate)
 1. **FPSAnimator**  FPSAnimator is very easy animation library for Android TextureView and SurfaceView.
 [https://github.com/MasayukiSuda/FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator)
+1. **EasingInterpolator**  Twenty-eight different easing animation interpolators for Android.
+[https://github.com/MasayukiSuda/EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator)
+
 
 
 
