@@ -2247,6 +2247,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **Android-ItemTouchHelper-Demo** Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.            
+[https://github.com/iPaulPro/Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 1. **Android-Material-Examples**  Little bites of Material Design             
 [https://github.com/saulmm/Android-Material-Examples](https://github.com/saulmm/Android-Material-Examples)
 1. **android-support-23.2-sample**  Sample Project for Android Support Library 23.2 http://android-developers.blogspot.com/2016/02/android-support-library-232.html            
