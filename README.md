@@ -2249,6 +2249,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **MovieGuide** An Android app that showcases the MVP pattern, Clean Architecture and RxJava           
+[https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide)
 1. **Android-ItemTouchHelper-Demo** Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.            
 [https://github.com/iPaulPro/Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 1. **Android-Material-Examples**  Little bites of Material Design             
@@ -2688,5 +2690,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
