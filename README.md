@@ -803,6 +803,7 @@ And this project is not using the image file!
 [https://github.com/Shinelw/ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar)
 1. **SunBaby**  萌萌哒太阳宝宝主题的LoadingView           
 [https://github.com/Hitomis/SunBaby](https://github.com/Hitomis/SunBaby)
+1. **AndroidSpinKit**  android 加载动画合集 [https://github.com/ybq/AndroidSpinKit](https://github.com/ybq/AndroidSpinKit)
 
 
 #### <A NAME="Menu"></A>Menu
@@ -1102,6 +1103,7 @@ And this project is not using the image file!
 [https://github.com/sacot41/SCViewPager](https://github.com/sacot41/SCViewPager)
 1. **ExpandablePager**    ViewPager that slides vertically between 2 states (expanded and collapsed).    
 [https://github.com/Telenav/ExpandablePager](https://github.com/Telenav/ExpandablePager)
+1. **ParallaxViewPager**  ViewPager页面切换视差效果[https://github.com/ybq/ParallaxViewPager](https://github.com/ybq/ParallaxViewPager)
 
 
 
@@ -2686,3 +2688,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
