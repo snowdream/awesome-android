@@ -517,6 +517,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="TextView/EditText"></A>TextView/EditText
+1. **AnimatedEditText**  Androids EditText that animates the typed text.             
+[https://github.com/alphamu/AnimatedEditText](https://github.com/alphamu/AnimatedEditText)
 1. **passwordview**  A Material Android password view that toggles password visibility via an eye icon.            
 [https://github.com/lisawray/passwordview](https://github.com/lisawray/passwordview)
 1. **PasswordEditText** A simple extension to the standard Android EditText which shows an icon on the right side of the field and lets the user toggle the visibility of the password he puts in.
@@ -792,6 +794,7 @@ And this project is not using the image file!
 1. **MaskProgressView** Yet another android custom progress view for your music player
 [https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
 1. **DelayedProgress**  ProgressDialog that waits a minimum time to be dismissed before showing. Once visible, the ProgressDialog will be visible for a minimum amount of time to avoid "flashes" in the UI.
+[https://github.com/tavoid "flashes" in the UI.
 [https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
 1. **circular-slider-android**  Circular Slider is a custom-built Android View used for choosing numbers. It works similarly to the regular slider control (SeekBar), just goes around in a circular fashion - simple enough. Note that the thumb scroller (the thing you drag around) can be either a solid-color circle or a custom drawable (like a PNG image).
 [https://github.com/milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android)
