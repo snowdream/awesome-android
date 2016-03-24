@@ -111,51 +111,51 @@ Step 2. The item should fall under the appropriate category.
 
 ### <A NAME="Framework"></A>Framework
 #### <A NAME="Framework_Common"></A>Common
-1. **afinal**    Afinal是一个android的ioc，orm框架
+1. **afinal**    Afinal是一个android的ioc，orm框架    
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
-1. **xUtils****    android orm, bitmap, http, view inject...
+1. **xUtils****    android orm, bitmap, http, view inject...    
 [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils)
-1. **ThinkAndroid** ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发
+1. **ThinkAndroid** ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发    
 [https://github.com/white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
-1. **KJFrameForAndroid** KJFrameForAndroid 又叫KJLibrary，是一个android的orm 和 ioc 框架。
+1. **KJFrameForAndroid** KJFrameForAndroid 又叫KJLibrary，是一个android的orm 和 ioc 框架。    
 [https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
-1. **droidparts**    DI, ORM, JSON, ...  
+1. **droidparts**    DI, ORM, JSON, ...      
 [https://github.com/yanchenko/droidparts](https://github.com/yanchenko/droidparts)
-1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
+1. **android-common**      Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on      
 [https://github.com/Trinea/android-common](https://github.com/Trinea/android-common)
 1. **LiteCommon**   Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Uti… http://litesuits.com?form=gcom              
 [https://github.com/litesuits/android-common](https://github.com/litesuits/android-common)
-1. **Elf Framework** Android Framework to simplify the android development process.
+1. **Elf Framework** Android Framework to simplify the android development process.    
 [https://github.com/fenli/elf](https://github.com/fenli/elf)
-1. **RoboMVVM**   MVVM framework for Android
+1. **RoboMVVM**   MVVM framework for Android    
 [https://github.com/debdattabasu/RoboMVVM](https://github.com/debdattabasu/RoboMVVM)
-1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。
+1. **SAF**   SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。    
 [https://github.com/fengzhizi715/SAF](https://github.com/fengzhizi715/SAF)
-1. **AndroidQuickUtils**   Android Development Framework
+1. **AndroidQuickUtils**   Android Development Framework    
 [https://github.com/cesarferreira/AndroidQuickUtils](https://github.com/cesarferreira/AndroidQuickUtils)
-1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具
+1. **BeeFramework_Android**  极简化的Android App开发框架和App内调试工具    
 [https://github.com/BeeFramework/BeeFramework_Android](https://github.com/BeeFramework/BeeFramework_Android)
-1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.
+1. **Android-Next**  A Android Commons Library, include task, cache, http, custom views, utils, and so on.    
 [https://github.com/mcxiaoke/Android-Next](https://github.com/mcxiaoke/Android-Next)
-1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki
+1. **Carpaccio**   Data Mapping & Smarter Views framework for android https://github.com/florent37/Carpaccio/wiki    
 [https://github.com/florent37/Carpaccio](https://github.com/florent37/Carpaccio)
-1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way
+1. **UltimateAndroid** UltimateAndroid is a framework to help developing Android apps in a fast way    
 [https://github.com/cymcsg/UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)
-1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。
+1. **LoonAndroid** 整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。    
 [https://github.com/gdpancheng/LoonAndroid](https://github.com/gdpancheng/LoonAndroid)
-1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践
+1. **QuickAndroid** 一个快速、完善的Android开发框架整合实践    
 [https://github.com/alafighting/QuickAndroid](https://github.com/alafighting/QuickAndroid)
-1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.
+1. **ignition** Ignition helps you getting your Android applications off the ground quickly, by offering ready-to-use components and utility classes that wrap a lot of the boilerplate that's involved when writing Android apps.    
 [https://github.com/mttkay/ignition](https://github.com/mttkay/ignition)
 1. **android-priority-jobqueue**  A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.            
 [https://github.com/yigit/android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
-1. **Anvil** Tiny library for building reactive UI components (with data binding and event listeners binding), inspired by React.js.
+1. **Anvil** Tiny library for building reactive UI components (with data binding and event listeners binding), inspired by React.js.    
 [https://github.com/zserge/anvil](https://github.com/zserge/anvil)
-1. **Rosie** Rosie is an Android framework to create applications following the principles of Clean Architecture.            
+1. **Rosie** Rosie is an Android framework to create applications following the principles of Clean Architecture.                
 [https://github.com/Karumi/Rosie](https://github.com/Karumi/Rosie)
-1. **volley**  volley
+1. **volley**  volley    
 [https://github.com/mcxiaoke/android-volley](https://github.com/mcxiaoke/android-volley)
-1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android
+1. **enhanced-volley**  An enhanced version of the Volley Networking Toolkit for Android    
 [https://github.com/vinaysshenoy/enhanced-volley](https://github.com/vinaysshenoy/enhanced-volley)
 
 
