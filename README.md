@@ -1677,7 +1677,7 @@ And this project is not using the image file!
 [https://github.com/iwgang/CountdownView](https://github.com/iwgang/CountdownView)
 1. **HighlightTextEditor**  HighlightTextEditor An android HighlightTextEditor    
 [https://github.com/evilbinary/HighlightTextEditor](https://github.com/evilbinary/HighlightTextEditor)
-1. **debugoverlay**  A tiny window overlay to log app internal on top of your android app     http://hannesdorfmann.com/android/debug-overlay/
+1. **debugoverlay**  A tiny window overlay to log app internal on top of your android app  http://hannesdorfmann.com/android/debug-overlay/       
 [https://github.com/sockeqwe/debugoverlay](https://github.com/sockeqwe/debugoverlay)
 1. **AndroidSwipeableCardStack**  A tinder like swipeable card stack component    
 [https://github.com/wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack)
@@ -1696,8 +1696,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Performance"></A>Performance
-#### <A NAME="Analysis"></A>Performance_Analysis_Tools    
-1. **MAT** The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.
+#### <A NAME="Analysis"></A>Performance_Analysis_Tools
+1. **MAT** The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.    
 [https://www.eclipse.org/mat/](https://www.eclipse.org/mat/)
 
 #### <A NAME="Tools"></A>Performance_Tools
