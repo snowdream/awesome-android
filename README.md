@@ -291,7 +291,8 @@ Step 2. The item should fall under the appropriate category.
 1. **AndroidImageLoader** Andorid library that loads images asynchronously into cache using a thread pool    
 [https://github.com/wuman/AndroidImageLoader](https://github.com/wuman/AndroidImageLoader)
 1. **SoBitmap** Bitmap decoder, handle resize & quality & compress stuff following user's configurations.     [https://github.com/airk000/SoBitmap](https://github.com/airk000/SoBitmap)
-1. **Fresco**   An image management library by FaceBook     [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
+1. **Fresco**   An image management library by FaceBook    
+[https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 
 
 ### <A NAME="Animations"></A>Animations
@@ -669,7 +670,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/dexlex/DexMovingImageView](https://github.com/dexlex/DexMovingImageView)
 1. **SimpleTagImageView** ImageView with a tag in android. So it's a ImageView.    
 [https://github.com/wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView)
-1. **CropImageView** Widget allows you crop from whatever side in an ImageView. Currently Android only supports centerCrop type of cropping
+1. **CropImageView** Widget allows you crop from whatever side in an ImageView. Currently Android only supports centerCrop type of cropping    
 [https://github.com/cesards/CropImageView](https://github.com/cesards/CropImageView)
 1. **MovingImageView**  Custom ImageView for moving image around the screen (Android)    
 [https://github.com/AlbertGrobas/MovingImageView](https://github.com/AlbertGrobas/MovingImageView)
@@ -702,7 +703,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lemonlabs/ExpandableButtonMenu](https://github.com/lemonlabs/ExpandableButtonMenu)
 1. **fancybuttons** An Android library to easily create fancy buttons without the need of drawable files.    
 [https://github.com/medyo/fancybuttons](https://github.com/medyo/fancybuttons)
-1. **Android-Bootstrap**    Bootstrap style buttons with Font Awesome
+1. **Android-Bootstrap**    Bootstrap style buttons with Font Awesome    
 [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 1. **SwitchButton**   SwitchButton    
 [https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)
@@ -788,7 +789,7 @@ Step 2. The item should fall under the appropriate category.
 1. **ColoringLoading**  This project provide Coloring Loading View for Android.
 And this project is not using the image file!    
 [https://github.com/recruit-lifestyle/ColoringLoading](https://github.com/recruit-lifestyle/ColoringLoading)
-1. **RubberIndicator**       A rubber indicator for ViewPager
+1. **RubberIndicator**       A rubber indicator for ViewPager    
 [https://github.com/LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator)
 1. **TaoBaoProgressBar**  一个模仿淘宝秒杀商品页面的进度条    
 [https://github.com/liuhuibin/TaoBaoProgressBar](https://github.com/liuhuibin/TaoBaoProgressBar)
@@ -797,7 +798,6 @@ And this project is not using the image file!
 1. **MaskProgressView** Yet another android custom progress view for your music player    
 [https://github.com/iammert/MaskProgressView](https://github.com/iammert/MaskProgressView)
 1. **DelayedProgress**  ProgressDialog that waits a minimum time to be dismissed before showing. Once visible, the ProgressDialog will be visible for a minimum amount of time to avoid "flashes" in the UI.
-[https://github.com/tavoid "flashes" in the UI.    
 [https://github.com/tasomaniac/DelayedProgress](https://github.com/tasomaniac/DelayedProgress)
 1. **circular-slider-android**  Circular Slider is a custom-built Android View used for choosing numbers. It works similarly to the regular slider control (SeekBar), just goes around in a circular fashion - simple enough. Note that the thumb scroller (the thing you drag around) can be either a solid-color circle or a custom drawable (like a PNG image).    
 [https://github.com/milosmns/circular-slider-android](https://github.com/milosmns/circular-slider-android)
@@ -1406,288 +1406,288 @@ And this project is not using the image file!
 [https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)
 1. **CubeGrid**  Cube grid animation about the android.            
 [https://github.com/david-wei/CubeGrid](https://github.com/david-wei/CubeGrid)
-1. **SwipeStack**   A simple, customizable and easy to use swipeable view stack for Android.
+1. **SwipeStack**   A simple, customizable and easy to use swipeable view stack for Android.    
 [https://github.com/flschweiger/SwipeStack](https://github.com/flschweiger/SwipeStack)
-1. **BrokenView** Glass-break effect for views.
+1. **BrokenView** Glass-break effect for views.    
 [https://github.com/zhanyongsheng/BrokenView](https://github.com/zhanyongsheng/BrokenView)  
-1. **AndroidTagView**  An Android TagView library. You can customize awesome TagView by using this library.
+1. **AndroidTagView**  An Android TagView library. You can customize awesome TagView by using this library.    
 [https://github.com/whilu/AndroidTagView](https://github.com/whilu/AndroidTagView)
-1. **GalleryFinal**  Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。
+1. **GalleryFinal**  Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。    
 [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
-1. **DragGooView**  A wonderful feature to clear the unread reminder
+1. **DragGooView**  A wonderful feature to clear the unread reminder    
 [https://github.com/PoplarTang/DragGooView](https://github.com/PoplarTang/DragGooView)
-1. **AudioWaves**  Shows a graphic representation of the sounds captured by the microphone on Android
+1. **AudioWaves**  Shows a graphic representation of the sounds captured by the microphone on Android    
 [https://github.com/FireZenk/AudioWaves](https://github.com/FireZenk/AudioWaves)
-1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.
+1. **Swipecards** A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.    
 [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
-1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.
+1. **Android SlideShow Widget**  A set of widgets to create smooth slide shows with ease.    
 [https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
-1. **AndroidWheel**   Custom wheel widget for android
+1. **AndroidWheel**   Custom wheel widget for android    
 [https://github.com/sephiroth74/AndroidWheel](https://github.com/sephiroth74/AndroidWheel)
-1. **range-bar**     Android widget for selecting a range of values.
+1. **range-bar**     Android widget for selecting a range of values.    
 [https://github.com/edmodo/range-bar](https://github.com/edmodo/range-bar)
-1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.
+1. **TileView** The TileView widget is a subclass of ViewGroup that provides a mechanism to asynchronously display tile-based images, with additional functionality for 2D dragging, flinging, pinch or double-tap to zoom, adding overlaying Views (markers), built-in Hot Spot support, dynamic path drawing, multiple levels of detail, and support for any relative positioning or coordinate system.    
 [https://github.com/moagrius/TileView](https://github.com/moagrius/TileView)
-1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.
+1. **android-switch-backport**     A backport of the Switch widget (http://developer.android.com/reference/android/widget/Switch.html) that was introduced on Android 4. This port works on Android 2.1+.    
 [https://github.com/BoD/android-switch-backport](https://github.com/BoD/android-switch-backport)
-1. **material-animated-switch**  A material Switch with icon animations and color transitions
+1. **material-animated-switch**  A material Switch with icon animations and color transitions    
 [https://github.com/glomadrian/material-animated-switch](https://github.com/glomadrian/material-animated-switch)
-1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+1. **android-bootstrap**    A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.    
 [https://github.com/AndroidBootstrap/android-bootstrap](https://github.com/AndroidBootstrap/android-bootstrap)  
-1. **cardslib**  Android Library to build a UI Card
+1. **cardslib**  Android Library to build a UI Card    
 [https://github.com/gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)  
-1. **AndroidSlidingUpPanel**  Android Sliding Up Panel Demo
+1. **AndroidSlidingUpPanel**  Android Sliding Up Panel Demo    
 [https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
-1. **android-viewflow** A horizontal view scroller library for Android
+1. **android-viewflow** A horizontal view scroller library for Android    
 [https://github.com/pakerfeldt/android-viewflow](https://github.com/pakerfeldt/android-viewflow)  
-1. **android-viewbadger**  A simple way to "badge" any given Android view at runtime without having to cater for it in layout
+1. **android-viewbadger**  A simple way to "badge" any given Android view at runtime without having to cater for it in layout    
 [https://github.com/jgilfelt/android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
-1. **DraggablePanel**  Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.
+1. **DraggablePanel**  Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.    
 [https://github.com/pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
-1. **android-stackblur** Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
+1. **android-stackblur** Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.    
 [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
-1. **StickyGridHeaders** An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.
+1. **StickyGridHeaders** An Android Library that makes it easy to make grid views with sectioned data and headers that stick to the top.    
 [https://github.com/TonicArtos/StickyGridHeaders](https://github.com/TonicArtos/StickyGridHeaders)  
-1. **AndroidViewHover** An elegant way to show your menu or messages.
+1. **AndroidViewHover** An elegant way to show your menu or messages.    
 [https://github.com/daimajia/AndroidViewHover](https://github.com/daimajia/AndroidViewHover)
-1. **SystemBarTint** Apply background tinting to the Android system UI when using KitKat translucent modes
+1. **SystemBarTint** Apply background tinting to the Android system UI when using KitKat translucent modes    
 [https://github.com/jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
-1. **chromeview**  Android WebView implementation that uses the latest Chromium code
+1. **chromeview**  Android WebView implementation that uses the latest Chromium code    
 [https://github.com/pwnall/chromeview](https://github.com/pwnall/chromeview)
-1. **android-iconify** Integration of FontAwesome for Android
+1. **android-iconify** Integration of FontAwesome for Android    
 [https://github.com/JoanZapata/android-iconify](https://github.com/JoanZapata/android-iconify)
-1. **StandOut**  StandOut lets you easily create floating windows in your Android app.
+1. **StandOut**  StandOut lets you easily create floating windows in your Android app.    
 [https://github.com/pingpongboss/StandOut](https://github.com/pingpongboss/StandOut)
-1. **android-sliding-layer-lib**  This repository host a library that provides an easy way to include an autonomous layer/view that slides from the side of your screen and which is fully gesture ready, the same way as our detail view in Wunderlist 2 does. This pattern can also be seen in Google+’s notification center or in Basecamp’s detail view.
+1. **android-sliding-layer-lib**  This repository host a library that provides an easy way to include an autonomous layer/view that slides from the side of your screen and which is fully gesture ready, the same way as our detail view in Wunderlist 2 does. This pattern can also be seen in Google+’s notification center or in Basecamp’s detail view.    
 [https://github.com/6wunderkinder/android-sliding-layer-lib](https://github.com/6wunderkinder/android-sliding-layer-lib)
-1. **Android-SwipeToDismiss** Android swipe-to-dismiss mini-library and sample code
+1. **Android-SwipeToDismiss** Android swipe-to-dismiss mini-library and sample code    
 [https://github.com/romannurik/Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
-1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz
+1. **HoloColorPicker** An Android Holo themed colorpicker designed by Marie Schweiz    
 [https://github.com/LarsWerkman/HoloColorPicker](https://github.com/LarsWerkman/HoloColorPicker)
-1. **Lobsterpicker** The library is offering a dialog with all shades of material design colors
+1. **Lobsterpicker** The library is offering a dialog with all shades of material design colors    
 [https://github.com/LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker)
-1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.
+1. **UnifiedPreference** UnifiedPreference is a library for working with all versions of the Android Preference package from API v4 and up.    
 [https://github.com/saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference)
-1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.
+1. **aFileChooser** Android library that provides a file explorer to let users select files on external storage.    
 [https://github.com/iPaulPro/aFileChooser](https://github.com/iPaulPro/aFileChooser)
-1. **NewQuickAction**   Android QuickAction
+1. **NewQuickAction**   Android QuickAction    
 [https://github.com/lorensiuswlt/NewQuickAction](https://github.com/lorensiuswlt/NewQuickAction)
-1. **android-uitableview** Library and example project on how to use the UITableView component
+1. **android-uitableview** Library and example project on how to use the UITableView component    
 [https://github.com/thiagolocatelli/android-uitableview](https://github.com/thiagolocatelli/android-uitableview)
-1. **Android-ProgressFragment**   Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.
+1. **Android-ProgressFragment**   Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.    
 [https://github.com/johnkil/Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)
-1. **android-pdfview** A fast PDF reader component for Android development
+1. **android-pdfview** A fast PDF reader component for Android development    
 [https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
-1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android
+1. **Android-Pdf-Viewer-Library**  Pdf Viewer library for Android    
 [https://github.com/jblough/Android-Pdf-Viewer-Library](https://github.com/jblough/Android-Pdf-Viewer-Library)
-1. **QuiltViewLibrary**   Android Quilt View Library
+1. **QuiltViewLibrary**   Android Quilt View Library    
 [https://github.com/jacobmoncur/QuiltViewLibrary](https://github.com/jacobmoncur/QuiltViewLibrary)
-1. **Android-UndoBar** An implementation of Android's Undo Bar as seen in Google's Gmail app.
+1. **Android-UndoBar** An implementation of Android's Undo Bar as seen in Google's Gmail app.    
 [https://github.com/jenzz/Android-UndoBar](https://github.com/jenzz/Android-UndoBar)
-1. **Android-ScrollBarPanel**  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0
+1. **Android-ScrollBarPanel**  Android-ScrollBarPanel allows to attach a View to a scroll indicator like it's done in Path 2.0    
 [https://github.com/rno/Android-ScrollBarPanel](https://github.com/rno/Android-ScrollBarPanel)
-1. **ScrollBarPanelWithClock** Path like scrollbar panel with clock.
+1. **ScrollBarPanelWithClock** Path like scrollbar panel with clock.    
 [https://github.com/learnNcode/ScrollBarPanelWithClock](https://github.com/learnNcode/ScrollBarPanelWithClock)
-1. **changeloglib**  Android Library to display your changelog
+1. **changeloglib**  Android Library to display your changelog    
 [https://github.com/gabrielemariotti/changeloglib](https://github.com/gabrielemariotti/changeloglib)
-1. **android-FlipView**   A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application
+1. **android-FlipView**   A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application    
 [https://github.com/emilsjolander/android-FlipView](https://github.com/emilsjolander/android-FlipView)
-1. **discreet-app-rate**  A lightweight non intrusive app rate reminder for Android
+1. **discreet-app-rate**  A lightweight non intrusive app rate reminder for Android    
 [https://github.com/PomepuyN/discreet-app-rate](https://github.com/PomepuyN/discreet-app-rate)
-1. **KenBurnsView**  Android ImageViews animated by Ken Burns Effect
+1. **KenBurnsView**  Android ImageViews animated by Ken Burns Effect    
 [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
-1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik
+1. **UndoBar**  The UI component for Android advanced UI pattern undo-bar, used in Gmail app, create by roman nurik    
 [https://github.com/soarcn/UndoBar](https://github.com/soarcn/UndoBar)
-1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.
+1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
-1. **AppRater**   AppRater Library for Android
+1. **AppRater**   AppRater Library for Android    
 [https://github.com/codechimp-org/AppRater](https://github.com/codechimp-org/AppRater)
-1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem
+1. **Android-ActionItemBadge** This library offers a simple method to add a small badge icon to your ActionBar-MenuItem    
 [https://github.com/mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
-1. **poppyview** Android library implementing a poppy view on scroll, similar to the one found in the Google Plus app
+1. **poppyview** Android library implementing a poppy view on scroll, similar to the one found in the Google Plus app    
 [https://github.com/flavienlaurent/poppyview](https://github.com/flavienlaurent/poppyview)
-1. **android-segmented-control** ios7 UISegmentedControl for android
+1. **android-segmented-control** ios7 UISegmentedControl for android    
 [https://github.com/hoang8f/android-segmented-control](https://github.com/hoang8f/android-segmented-control)
-1. **IconicDroid**  IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.
+1. **IconicDroid**  IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.    
 [https://github.com/atermenji/IconicDroid](https://github.com/atermenji/IconicDroid)
-1. **ParallaxPager** Add some depth to your Android scrolling.
+1. **ParallaxPager** Add some depth to your Android scrolling.    
 [https://github.com/prolificinteractive/ParallaxPager](https://github.com/prolificinteractive/ParallaxPager)
-1. **AndroidPinning**  A standalone library project for certificate pinning on Android.
+1. **AndroidPinning**  A standalone library project for certificate pinning on Android.    
 [https://github.com/moxie0/AndroidPinning](https://github.com/moxie0/AndroidPinning)
-1. **WizardPager** Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager
+1. **WizardPager** Wizard Pager is a library that provides an example implementation of a Wizard UI on Android, it's based of Roman Nurik's wizard pager    
 [https://github.com/TechFreak/WizardPager](https://github.com/TechFreak/WizardPager)
-1. **android-visualizer**    Takes the input from the Android MediaPlayer and displays visualizations, like in iTunes or WinAmp
+1. **android-visualizer**    Takes the input from the Android MediaPlayer and displays visualizations, like in iTunes or WinAmp    
 [https://github.com/felixpalmer/android-visualizer](https://github.com/felixpalmer/android-visualizer)
-1. **ExpandablePanel** Android library for creating an expandable to full screen view inside a viewgroup composition.
+1. **ExpandablePanel** Android library for creating an expandable to full screen view inside a viewgroup composition.    
 [https://github.com/JorgeCastilloPrz/ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
-1. **NiftyNotification**  effects for android notifications.base on (Crouton)  
+1. **NiftyNotification**  effects for android notifications.base on (Crouton)      
 [https://github.com/sd6352051/NiftyNotification](https://github.com/sd6352051/NiftyNotification)
-1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+
+1. **GlowPadBackport** A backport of the Android 4.2 GlowPadView that works on the SDK on API levels 4+    
 [https://github.com/frakbot/GlowPadBackport](https://github.com/frakbot/GlowPadBackport)
-1. **CustomLoading**  custom loading for android
+1. **CustomLoading**  custom loading for android    
 [https://github.com/stormzhang/CustomLoading](https://github.com/stormzhang/CustomLoading)
-1. **chromium_webview** Android WebView wrapper based on chromium
+1. **chromium_webview** Android WebView wrapper based on chromium    
 [https://github.com/mogoweb/chromium_webview](https://github.com/mogoweb/chromium_webview)
-1. **MagicViews** Set custom font in Android application
+1. **MagicViews** Set custom font in Android application    
 [https://github.com/ikocijan/MagicViews](https://github.com/ikocijan/MagicViews)
-1. **TableFixHeaders** Android library that implements a table with fixed headers.
+1. **TableFixHeaders** Android library that implements a table with fixed headers.    
 [https://github.com/InQBarna/TableFixHeaders](https://github.com/InQBarna/TableFixHeaders)
-1. **FloatingNotification** Floating Notification for Android app - Facebook ChatHeads Notification system
+1. **FloatingNotification** Floating Notification for Android app - Facebook ChatHeads Notification system    
 [https://github.com/marshallino16/FloatingNotification](https://github.com/marshallino16/FloatingNotification)
-1. **android-slideshow-widget**  A set of widgets to create smooth slideshows with ease.
+1. **android-slideshow-widget**  A set of widgets to create smooth slideshows with ease.    
 [https://github.com/marvinlabs/android-slideshow-widget](https://github.com/marvinlabs/android-slideshow-widget)
-1. **HanselAndGretel**  Android library providing bread crumbs to the support library fragments.
+1. **HanselAndGretel**  Android library providing bread crumbs to the support library fragments.    
 [https://github.com/JakeWharton/HanselAndGretel](https://github.com/JakeWharton/HanselAndGretel)
-1. **ChromaHashView** A classic password visualization concept, ported to Android
+1. **ChromaHashView** A classic password visualization concept, ported to Android    
 [https://github.com/MichaelEvans/ChromaHashView](https://github.com/MichaelEvans/ChromaHashView)
-1. **Android-DirectoryChooser** A directory chooser library for Android.
+1. **Android-DirectoryChooser** A directory chooser library for Android.    
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
-1. **WheelView** An Android Widget for selecting items that rotate on a wheel.
+1. **WheelView** An Android Widget for selecting items that rotate on a wheel.    
 [https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
-1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)
+1. **RippleView** View that imitates Ripple Effect on click which was introduced in Android L (for Android 2.3+)    
 [https://github.com/siriscac/RippleView](https://github.com/siriscac/RippleView)
-1. **GaugeView** An Android library for drawing gauges on Canvas.
+1. **GaugeView** An Android library for drawing gauges on Canvas.    
 [https://github.com/CodeAndMagic/GaugeView](https://github.com/CodeAndMagic/GaugeView)
-1. **ATableView** Create iOS-like tables (UITableView) for Android, using UIKit object model.
+1. **ATableView** Create iOS-like tables (UITableView) for Android, using UIKit object model.    
 [https://github.com/dmacosta/ATableView](https://github.com/dmacosta/ATableView)
-1. **Android-RecurrencePicker** Google Calendar Recurrence picker
+1. **Android-RecurrencePicker** Google Calendar Recurrence picker    
 [https://github.com/Shusshu/Android-RecurrencePicker](https://github.com/Shusshu/Android-RecurrencePicker)
-1. **ActionSheetForAndroid** IOS UIActionSheet in Android
+1. **ActionSheetForAndroid** IOS UIActionSheet in Android    
 [https://github.com/baoyongzhang/ActionSheetForAndroid](https://github.com/baoyongzhang/ActionSheetForAndroid)
-1. **ckChangeLog** ckChangeLog - An Android Library to display a Change Log
+1. **ckChangeLog** ckChangeLog - An Android Library to display a Change Log    
 [https://github.com/cketti/ckChangeLog](https://github.com/cketti/ckChangeLog)
-1. **android-floatinglabel-widgets** Floating label input widgets
+1. **android-floatinglabel-widgets** Floating label input widgets    
 [https://github.com/marvinlabs/android-floatinglabel-widgets](https://github.com/marvinlabs/android-floatinglabel-widgets)
-1. **MarkdownView** MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.
+1. **MarkdownView** MarkdownView is an Android webview with the capablity of loading Markdown text or file and display it as HTML, it uses MarkdownJ and extends Android webview.    
 [https://github.com/falnatsheh/MarkdownView](https://github.com/falnatsheh/MarkdownView)
-1. **NoNonsense-FilePicker** A file/directory-picker for android. Implemented as a library project.
+1. **NoNonsense-FilePicker** A file/directory-picker for android. Implemented as a library project.    
 [https://github.com/spacecowboy/NoNonsense-FilePicker](https://github.com/spacecowboy/NoNonsense-FilePicker)
-1. **PopoverView** A Popover Controller for Android Tablets. It's an easy solution to simulate an iOS UIPopoverController
+1. **PopoverView** A Popover Controller for Android Tablets. It's an easy solution to simulate an iOS UIPopoverController    
 [https://github.com/lupidan/PopoverView](https://github.com/lupidan/PopoverView)
-1. **slideuppane** A pane that slide up from the bottom of an android view
+1. **slideuppane** A pane that slide up from the bottom of an android view    
 [https://github.com/briangriffey/slideuppane](https://github.com/briangriffey/slideuppane)
-1. **SwipeBack**  SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture
+1. **SwipeBack**  SwipeBack for Android Activities to do pretty the same as the android "back-button" will do, but in a really intuitive way by using a swipe gesture    
 [https://github.com/sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)
-1. **ShowTipsView**   Highligth specific points of interest of your app
+1. **ShowTipsView**   Highligth specific points of interest of your app    
 [https://github.com/fredericojssilva/ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)
-1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.
+1. **FancyCoverFlow**  A cool Open Source CoverFlow view for Android with several fancy effects.    
 [https://github.com/davidschreiber/FancyCoverFlow](https://github.com/davidschreiber/FancyCoverFlow)
-1. **WheelView**  Android滚动选择控件
+1. **WheelView**  Android滚动选择控件    
 [https://github.com/wangjiegulu/WheelView](https://github.com/wangjiegulu/WheelView)
-1. **CurtainView**  An android view,which can layer on any gravity for swiping.  
+1. **CurtainView**  An android view,which can layer on any gravity for swiping.    
 [https://github.com/aicaprio/CurtainView](https://github.com/aicaprio/CurtainView)
-1. **android-pathview**  Android view with both path from constructed path or from svg.
+1. **android-pathview**  Android view with both path from constructed path or from svg.    
 [https://github.com/geftimov/android-pathview](https://github.com/geftimov/android-pathview)
-1. **DrawableView**  A view that allows to paint and saves the result as a bitmap
+1. **DrawableView**  A view that allows to paint and saves the result as a bitmap    
 [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
-1. **AndroidNotificationJson**  Convert JSON to Android Notification, useful for push notifications (GCM)  
+1. **AndroidNotificationJson**  Convert JSON to Android Notification, useful for push notifications (GCM)      
 [https://github.com/8tory/AndroidNotificationJson](https://github.com/8tory/AndroidNotificationJson)
-1. **PugNotification**  A powerful library for creating notifications in android platform.
+1. **PugNotification**  A powerful library for creating notifications in android platform.    
 [https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
-1. **ValueBar**  A beautiful Android custom View that works similar to a range or seekbar. With animations.
+1. **ValueBar**  A beautiful Android custom View that works similar to a range or seekbar. With animations.    
 [https://github.com/PhilJay/ValueBar](https://github.com/PhilJay/ValueBar)
-1. **CircleDisplay** Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.
+1. **CircleDisplay** Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.    
 [https://github.com/PhilJay/CircleDisplay](https://github.com/PhilJay/CircleDisplay)
-1. **android-shapeLoadingView**  高仿新版58 加载动画
+1. **android-shapeLoadingView**  高仿新版58 加载动画    
 [https://github.com/zzz40500/android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)
-1. **Decor** Android layout decorators : Injecting custom attributes in layout files, Using decorators to get rid of  class explosion with multiple custom views.
+1. **Decor** Android layout decorators : Injecting custom attributes in layout files, Using decorators to get rid of  class explosion with multiple custom views.    
 [https://github.com/chemouna/decor](https://github.com/chemouna/decor)
-1. **AndroidTreeView**  AndroidTreeView. TreeView implementation for android
+1. **AndroidTreeView**  AndroidTreeView. TreeView implementation for android    
 [https://github.com/bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)
-1. **SHSegmentControl**  segmentcontrol widget for android
+1. **SHSegmentControl**  segmentcontrol widget for android    
 [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
-1. **ElasticDownload**  Download Custom view with animation.
+1. **ElasticDownload**  Download Custom view with animation.    
 [https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
-1. **CircularCounter**  Circular Counter is an Android Widget I needed to implement for an application I was developing. As it could be useful to more people, I tried to make it generic enough to share and be used by others.
+1. **CircularCounter**  Circular Counter is an Android Widget I needed to implement for an application I was developing. As it could be useful to more people, I tried to make it generic enough to share and be used by others.    
 [https://github.com/diogobernardino/CircularCounter](https://github.com/diogobernardino/CircularCounter)
-1. **MarkView**  An android custom view that displays a circle with a colored arc given a mark.
+1. **MarkView**  An android custom view that displays a circle with a colored arc given a mark.    
 [https://github.com/xiprox/MarkView](https://github.com/xiprox/MarkView)
-1. **pugnotification** A powerful library for creating notifications in android platform.
+1. **pugnotification** A powerful library for creating notifications in android platform.    
 [https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
-1. **android-json-form-wizard**     Android Material Json Form Wizard is a library for creating beautiful form based wizards within your app just by defining json in a particular format.
+1. **android-json-form-wizard**     Android Material Json Form Wizard is a library for creating beautiful form based wizards within your app just by defining json in a particular format.    
 [https://github.com/vijayrawatsan/android-json-form-wizard](https://github.com/vijayrawatsan/android-json-form-wizard)
-1. **FlippableStackView**  An Android library introducing a stack of Views with the first item being flippable (on dragging down).
+1. **FlippableStackView**  An Android library introducing a stack of Views with the first item being flippable (on dragging down).    
 [https://github.com/blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView)
-1. **ShadowViewHelper**  Shadow layout, shadow view for android.
+1. **ShadowViewHelper**  Shadow layout, shadow view for android.    
 [https://github.com/wangjiegulu/ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper)
-1. **velocimeter-view** A velocimeter View for Android
+1. **velocimeter-view** A velocimeter View for Android    
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
-1. **AppIntro**  Make a cool intro for your Android app.
+1. **AppIntro**  Make a cool intro for your Android app.    
 [https://github.com/PaoloRotolo/AppIntro](https://github.com/PaoloRotolo/AppIntro)
-1. **ExpandableSelector**  ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which can be collapsed or expanded.
+1. **ExpandableSelector**  ExpandableSelector is an Android library created to show a list of Button/ImageButton widgets inside a animated container which can be collapsed or expanded.    
 [https://github.com/Karumi/ExpandableSelector](https://github.com/Karumi/ExpandableSelector)
-1. **voice-recording-visualizer**  Simple Visualizer from mic input for Android.
+1. **voice-recording-visualizer**  Simple Visualizer from mic input for Android.    
 [https://github.com/tyorikan/voice-recording-visualizer](https://github.com/tyorikan/voice-recording-visualizer)
-1. **TourGuide**  TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
+1. **TourGuide**  TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View    
 [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
-1. **Header-View**  Create an header for android.support.design.widget.NavigationView
+1. **Header-View**  Create an header for android.support.design.widget.NavigationView    
 [https://github.com/rebus007/Header-View](https://github.com/rebus007/Header-View)
-1. **CreditCardView** CreditCardView is an Android library that allows developers to create the UI which replicates an actual Credit Card.
+1. **CreditCardView** CreditCardView is an Android library that allows developers to create the UI which replicates an actual Credit Card.    
 [https://github.com/vinaygaba/CreditCardView](https://github.com/vinaygaba/CreditCardView)
-1. **AndroidGlitterView**  A view to show bling bling stars when you touch it.
+1. **AndroidGlitterView**  A view to show bling bling stars when you touch it.    
 [https://github.com/LyndonChin/AndroidGlitterView](https://github.com/LyndonChin/AndroidGlitterView)
-1. **SortableTableView** An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
+1. **SortableTableView** An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.    
 [https://github.com/ISchwarz23/SortableTableView](https://github.com/ISchwarz23/SortableTableView)
-1. **hsv-alpha-color-picker-android**   This library implements a color picker and a color preference for use in Android applications.
+1. **hsv-alpha-color-picker-android**   This library implements a color picker and a color preference for use in Android applications.    
 [https://github.com/martin-stone/hsv-alpha-color-picker-android](https://github.com/martin-stone/hsv-alpha-color-picker-android)
-1. **Android-SpeedyViewSelector**  This is a change Background Or TextColor Selector support library, with which you can directly specify the Background to be displayed in different states or TextColor Layout xml, such as clicking the button effect, the conventional practice is to create Selector xml file in drawable directory but when the project becomes larger when the file bac…
+1. **Android-SpeedyViewSelector**  This is a change Background Or TextColor Selector support library, with which you can directly specify the Background to be displayed in different states or TextColor Layout xml, such as clicking the button effect, the conventional practice is to create Selector xml file in drawable directory but when the project becomes larger when the file bac…    
 [https://github.com/devsoulwolf/Android-SpeedyViewSelector](https://github.com/devsoulwolf/Android-SpeedyViewSelector)
-1. **InteractivePlayerView**  Custom android music player view.
+1. **InteractivePlayerView**  Custom android music player view.    
 [https://github.com/iammert/InteractivePlayerView](https://github.com/iammert/InteractivePlayerView)
-1. **tooltip-view**  Dead simple Android Tooltip Views
+1. **tooltip-view**  Dead simple Android Tooltip Views    
 [https://github.com/venmo/tooltip-view](https://github.com/venmo/tooltip-view)
 1. **Android-TrackingRingWidget**  It's a tracking activity ring widget like in Apple watch for Android.
-1. **PinView**  A Pin view widget for Android
+1. **PinView**  A Pin view widget for Android    
 [https://github.com/DavidPizarro/PinView](https://github.com/DavidPizarro/PinView)
-1. **CamView**  Android component to display live preview from the device camera and provide preview data for any external decoding processes
+1. **CamView**  Android component to display live preview from the device camera and provide preview data for any external decoding processes    
 [https://github.com/LivotovLabs/CamView](https://github.com/LivotovLabs/CamView)
-1. **AndroidSweetSheet**  一个富有动感的Sheet(选择器)
+1. **AndroidSweetSheet**  一个富有动感的Sheet(选择器)    
 [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
-1. **SlidingCard** Sliding cards with pretty gallery effects. http://android-arsenal.com/details/1/2355
+1. **SlidingCard** Sliding cards with pretty gallery effects. http://android-arsenal.com/details/1/2355    
 [https://github.com/mxn21/SlidingCard](https://github.com/mxn21/SlidingCard)
-1. **DraggableView** Draggable views with rotation and skew/scale effects.
+1. **DraggableView** Draggable views with rotation and skew/scale effects.    
 [https://github.com/elevenetc/DraggableView](https://github.com/elevenetc/DraggableView)
-1. **ChatMessageView**  ChatMessageView helps you to create chat message view quickly like a typical chatting application.
+1. **ChatMessageView**  ChatMessageView helps you to create chat message view quickly like a typical chatting application.    
 [https://github.com/himanshu-soni/ChatMessageView](https://github.com/himanshu-soni/ChatMessageView)
-1. **SnailBar**  A lovely  ,you can use it as a seekbar or progressbar.
+1. **SnailBar**  A lovely  ,you can use it as a seekbar or progressbar.    
 [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
-1. **PickerUI**  Android library to display a list of items for pick one
+1. **PickerUI**  Android library to display a list of items for pick one    
 [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
-1. **StickerView**  单手操作图片控件 镜像、置顶、缩放、移动
+1. **StickerView**  单手操作图片控件 镜像、置顶、缩放、移动    
 [https://github.com/nimengbo/StickerView](https://github.com/nimengbo/StickerView)
-1. **DraggableFlipView**  An Android View library that flips while dragging.
+1. **DraggableFlipView**  An Android View library that flips while dragging.    
 [https://github.com/sasakicks/DraggableFlipView](https://github.com/sasakicks/DraggableFlipView)
-1. **WindowView**  Android ImageView you pan by tilting your device.
+1. **WindowView**  Android ImageView you pan by tilting your device.    
 [https://github.com/justasm/WindowView](https://github.com/justasm/WindowView)
-1. **RadarScanView**   android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……
+1. **RadarScanView**   android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当扫描到对象的时候，通过水波纹的方式显示扫描到的对象，可以动态的随机添加，并且扫描到的对象是可以点击的……    
 [https://github.com/gpfduoduo/RadarScanView](https://github.com/gpfduoduo/RadarScanView)
-1. **SegmentedBarView**  Custom UI control for android which is showing data as a segments and a value inside them.
+1. **SegmentedBarView**  Custom UI control for android which is showing data as a segments and a value inside them.    
 [https://github.com/gspd-mobi/SegmentedBarView](https://github.com/gspd-mobi/SegmentedBarView)
-1. **PinterestView**  Pinterest like awesome menu control for Android
+1. **PinterestView**  Pinterest like awesome menu control for Android    
 [https://github.com/brucetoo/PinterestView](https://github.com/brucetoo/PinterestView)
-1. **FabricView**  A new canvas drawing library for Android
+1. **FabricView**  A new canvas drawing library for Android    
 [https://github.com/antwankakki/FabricView](https://github.com/antwankakki/FabricView)
-1. **Android-TopScrollHelper** Android-TopScrollHelper http://www.kmshack.kr
+1. **Android-TopScrollHelper** Android-TopScrollHelper http://www.kmshack.kr    
 [https://github.com/kmshack/Android-TopScrollHelper](https://github.com/kmshack/Android-TopScrollHelper)
-1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!
+1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!    
 [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
-1. **snake**   Snake View is a simple and animated linear chart for Android.
+1. **snake**   Snake View is a simple and animated linear chart for Android.    
 [https://github.com/txusballesteros/snake](https://github.com/txusballesteros/snake)
-1. **CountdownView** Android 倒计时控件
+1. **CountdownView** Android 倒计时控件    
 [https://github.com/iwgang/CountdownView](https://github.com/iwgang/CountdownView)
-1. **HighlightTextEditor**  HighlightTextEditor An android HighlightTextEditor
+1. **HighlightTextEditor**  HighlightTextEditor An android HighlightTextEditor    
 [https://github.com/evilbinary/HighlightTextEditor](https://github.com/evilbinary/HighlightTextEditor)
-1. **debugoverlay**  A tiny window overlay to log app internal on top of your android app http://hannesdorfmann.com/android/debug-overlay/
+1. **debugoverlay**  A tiny window overlay to log app internal on top of your android app     http://hannesdorfmann.com/android/debug-overlay/
 [https://github.com/sockeqwe/debugoverlay](https://github.com/sockeqwe/debugoverlay)
-1. **AndroidSwipeableCardStack**  A tinder like swipeable card stack component
+1. **AndroidSwipeableCardStack**  A tinder like swipeable card stack component    
 [https://github.com/wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack)
-1. **IntegrationPreference**  Preference widget that automatically detects dependency applications and installs them by openning Play Store.
+1. **IntegrationPreference**  Preference widget that automatically detects dependency applications and installs them by openning Play Store.    
 [https://github.com/tasomaniac/IntegrationPreference](https://github.com/tasomaniac/IntegrationPreference)
-1. **TinderView**  Created A Simple and Beautiful Tinder like card deck & Captain Train like toolbar.
+1. **TinderView**  Created A Simple and Beautiful Tinder like card deck & Captain Train like toolbar.    
 [https://github.com/GadgetCheck/TinderView](https://github.com/GadgetCheck/TinderView)
-1. **FlycoLabelView**  A Simple Android LabelView.
+1. **FlycoLabelView**  A Simple Android LabelView.    
 [https://github.com/H07000223/FlycoLabelView](https://github.com/H07000223/FlycoLabelView)
-1. **EntryScreenManager**  Intro/Walkthrough/Starting/Entry Screens.
+1. **EntryScreenManager**  Intro/Walkthrough/Starting/Entry Screens.    
 [https://github.com/kunall17/EntryScreenManager](https://github.com/kunall17/EntryScreenManager)
 1. **SearchableSpinner**  Spinner with searchable items.          
 [https://github.com/miteshpithadiya/SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)
@@ -2223,7 +2223,7 @@ And this project is not using the image file!
 
 
 ### <A NAME="Colors"></A>Colors
-1. **Android-Material-Design-Colors**  Android Material Design Colors
+1. **Android-Material-Design-Colors**  Android Material Design Colors    
 [https://github.com/wada811/Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors)    
 
 
