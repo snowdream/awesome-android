@@ -517,6 +517,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="TextView/EditText"></A>TextView/EditText
+1. **MaskFormatter**  MaskFormatter adds mask functionality to your EditText. It will prevent user from inserting not allowed signs, and format input as well.         
+[https://github.com/AzimoLabs/MaskFormatter](https://github.com/AzimoLabs/MaskFormatter)
 1. **AnimatedEditText**  Androids EditText that animates the typed text.             
 [https://github.com/alphamu/AnimatedEditText](https://github.com/alphamu/AnimatedEditText)
 1. **passwordview**  A Material Android password view that toggles password visibility via an eye icon.            
