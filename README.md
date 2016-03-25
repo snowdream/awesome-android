@@ -736,6 +736,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
+1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
+[https://github.com/GIGAMOLE/ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView)
 1. **KProgressHUD** An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.    
 [https://github.com/Kaopiz/KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar    
