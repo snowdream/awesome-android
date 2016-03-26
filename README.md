@@ -63,6 +63,7 @@ Step 2. The item should fall under the appropriate category.
   * [Mapview](#Mapview)
   * [Choreographer](#Choreographer)
   * [Tag](#Tag)
+  * [Keyboard](#Keyboard)
   * [WebView](#WebView)
   * [Other](#Other)
 * [Performance](#Performance)
@@ -1392,6 +1393,12 @@ And this project is not using the image file!
 [https://github.com/mcharmas/android-tagview](https://github.com/mcharmas/android-tagview)
 1. **3dTagCloudAndroid** A tagcloud component implemenation to android    
 [https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
+
+#### <A NAME="Keyboard"></A>Keyboard
+1. **XhsEmoticonsKeyboard**  也许是最良心的开源表情键盘解决方案。    
+[https://github.com/w446108264/XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
+
+
 
 
 #### <A NAME="WebView"></A>WebView
