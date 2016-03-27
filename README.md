@@ -1971,6 +1971,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Utility"></A>Utility
+1. **StatusBarUtil** A util for setting status bar style on Android App. It can work above API 19(KitKat 4.4).    
+[https://github.com/laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
 1. **apk-parser** Apk parser lib with java            
 [https://github.com/caoqianli/apk-parser](https://github.com/caoqianli/apk-parser)
 1. **APKParser**  APK parser for Android          
