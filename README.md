@@ -1410,6 +1410,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **TriangleLabelView**   Show triangle view.         
+[https://github.com/shts/TriangleLabelView](https://github.com/shts/TriangleLabelView)
 1. **SwipeSelector**  A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.           
 [https://github.com/roughike/SwipeSelector](https://github.com/roughike/SwipeSelector)
 1. **Emoji**  A simple library to add Emoji support to your Android Application. In a PopupWindow Emojis can be chosen. In order to edit and display text with Emojis this library provides public APIs: EmojiEditText & EmojiTextView.          
