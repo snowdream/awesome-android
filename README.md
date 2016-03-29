@@ -250,6 +250,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/couchbase/couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
 1. **SimpleNoSQL** A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.    
 [https://github.com/Jearil/SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
+1. **RxSimpleNoSQL** Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.
+[https://github.com/xmartlabs/RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL)
 1. **SQLiteProvider** Extended SQLite functionality for Android    
 [https://github.com/novoda/SQLiteProvider](https://github.com/novoda/SQLiteProvider)
 1. **Android-AnnotatedSQL**  Android library for auto generating SQL schema and Content provider    
