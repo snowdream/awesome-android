@@ -1034,6 +1034,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Recyclerview"></A>Recyclerview
+1. **XRecyclerView**  a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView        
+[https://github.com/jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)
 1. **twoway-view**  RecyclerView made simple              
 [https://github.com/lucasr/twoway-view](https://github.com/lucasr/twoway-view)
 1. **recyclerview-animators**  An Android library which easily add itemanimator to RecyclerView items.    
