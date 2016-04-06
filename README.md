@@ -1976,6 +1976,8 @@ And this project is not using the image file!
 [https://github.com/sannies/mp4parser](https://github.com/sannies/mp4parser)
 1. **jcodec** jcodec - a pure java implementation of video/audio codecs.    
 [https://github.com/jcodec/jcodec](https://github.com/jcodec/jcodec)
+1. **ipcam-view** MJPEG video streaming on Android    
+[https://github.com/niqdev/ipcam-view](https://github.com/niqdev/ipcam-view)
 
 
 
