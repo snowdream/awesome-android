@@ -2283,6 +2283,8 @@ And this project is not using the image file!
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
 ### <A NAME="Demo"></A>Demo
+1. **AndroidStudyDemo**  AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。       
+[https://github.com/DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo)
 1. **MovieGuide** An Android app that showcases the MVP pattern, Clean Architecture and RxJava           
 [https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide)
 1. **Android-ItemTouchHelper-Demo** Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.            
