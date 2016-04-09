@@ -300,6 +300,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 ### <A NAME="Animations"></A>Animations
+1. **Road Runner** Road Runner is a library for android which allow you to make your own loading animation using a SVG image           
+[https://github.com/glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner)
 1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items    
 [https://github.com/nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)
 1. **NineOldAndroids** Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!    
