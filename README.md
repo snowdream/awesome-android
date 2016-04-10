@@ -1724,11 +1724,11 @@ And this project is not using the image file!
 
 
 ### <A NAME="Component"></A>Component
-#### <A NAME="Update"></A>Component_Update
+#### <A NAME="Component_Update"></A>Update
 1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
 
-#### <A NAME="QRCode"></A>Component_QRCode
+#### <A NAME="Component_QRCode"></A>QRCode
 1. **BGAQRCode-Android**  Android QRCode Library
 [https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 
