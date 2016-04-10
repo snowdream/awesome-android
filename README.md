@@ -66,6 +66,8 @@ Step 2. The item should fall under the appropriate category.
   * [Keyboard](#Keyboard)
   * [WebView](#WebView)
   * [Other](#Other)
+* [Component](#Component)
+  * [Update](#Component_Update)
 * [Performance](#Performance)
   * [Analysis](#Performance_Analysis_Tools)
   * [Tools](#Performance_Tools)
@@ -1718,6 +1720,12 @@ And this project is not using the image file!
 [https://github.com/miteshpithadiya/SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)
 1. **velocimeter-view**  A velocimeter View for Android           
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
+
+
+### <A NAME="Component"></A>Component
+#### <A NAME="Update"></A>Component_Update
+1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
+[https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
 
 
 ### <A NAME="Performance"></A>Performance
