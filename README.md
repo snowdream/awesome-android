@@ -1861,6 +1861,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Adapter"></A>Adapter
+1. **BGAAdapter-Android** 在AdapterView和RecyclerView中通用的Adapter和ViewHolder         
+[https://github.com/bingoogolapple/BGAAdapter-Android](https://github.com/bingoogolapple/BGAAdapter-Android)
 1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection    
 [https://github.com/ManuelPeinado/MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)
 1. **easy-adapter** Easy Adapters library for Android    
