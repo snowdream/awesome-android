@@ -1428,6 +1428,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **BGABanner-Android**  Splash界面滑动导航+各种切换动画自动轮播效果         
+[https://github.com/bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)
 1. **TriangleLabelView**   Show triangle view.         
 [https://github.com/shts/TriangleLabelView](https://github.com/shts/TriangleLabelView)
 1. **SwipeSelector**  A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.           
