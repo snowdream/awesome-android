@@ -1729,7 +1729,7 @@ And this project is not using the image file!
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
 
 #### <A NAME="Component_QRCode"></A>QRCode
-1. **BGAQRCode-Android**  Android QRCode Library
+1. **BGAQRCode-Android**  Android QRCode Library       
 [https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 
 
