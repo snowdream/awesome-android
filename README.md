@@ -1268,6 +1268,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **BGARefreshLayout-Android** 开发者使用BGARefreshLayout-Android可以对各种控件实现多种下拉刷新效果、上拉加载更多以及配置自定义头部广告位         
+[https://github.com/bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 1. **DragLinearLayout**  Android LinearLayout with drag and drop to reorder.    
 [https://github.com/justasm/DragLinearLayout](https://github.com/justasm/DragLinearLayout)
 1. **Android-MosaicLayout-v0.1**  Mosaiclayout is android layout to display group of views in more that 92 different patterns.    
