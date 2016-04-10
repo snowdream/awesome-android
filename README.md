@@ -68,6 +68,7 @@ Step 2. The item should fall under the appropriate category.
   * [Other](#Other)
 * [Component](#Component)
   * [Update](#Component_Update)
+  * [QRCode](#Component_QRCode)
 * [Performance](#Performance)
   * [Analysis](#Performance_Analysis_Tools)
   * [Tools](#Performance_Tools)
@@ -1726,6 +1727,10 @@ And this project is not using the image file!
 #### <A NAME="Update"></A>Component_Update
 1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+
+#### <A NAME="QRCode"></A>Component_QRCode
+1. **BGAQRCode-Android**  Android QRCode Library
+[https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 
 
 ### <A NAME="Performance"></A>Performance
