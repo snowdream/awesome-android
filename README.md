@@ -1421,6 +1421,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **SwipeableCard** A simple implementation of swipe card like StreetView            
+[https://github.com/michelelacorte/SwipeableCard](https://github.com/michelelacorte/SwipeableCard)
 1. **TriangleLabelView**   Show triangle view.         
 [https://github.com/shts/TriangleLabelView](https://github.com/shts/TriangleLabelView)
 1. **SwipeSelector**  A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.           
