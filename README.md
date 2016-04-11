@@ -66,6 +66,9 @@ Step 2. The item should fall under the appropriate category.
   * [Keyboard](#Keyboard)
   * [WebView](#WebView)
   * [Other](#Other)
+* [Component](#Component)
+  * [Update](#Component_Update)
+  * [QRCode](#Component_QRCode)
 * [Performance](#Performance)
   * [Analysis](#Performance_Analysis_Tools)
   * [Tools](#Performance_Tools)
@@ -1265,6 +1268,10 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **BGARefreshLayout-Android** 开发者使用BGARefreshLayout-Android可以对各种控件实现多种下拉刷新效果、上拉加载更多以及配置自定义头部广告位      
+1. **BGASwipeItemLayout-Android** 类似iOS带弹簧效果的左右滑动控件，可作为AbsListView和RecyclerView的item（作为AbsListView的item时的点击事件参考代码家的 https://github.com/daimajia/AndroidSwipeLayout )              
+[https://github.com/bingoogolapple/BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)  
+[https://github.com/bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 1. **DragLinearLayout**  Android LinearLayout with drag and drop to reorder.    
 [https://github.com/justasm/DragLinearLayout](https://github.com/justasm/DragLinearLayout)
 1. **Android-MosaicLayout-v0.1**  Mosaiclayout is android layout to display group of views in more that 92 different patterns.    
@@ -1421,8 +1428,12 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
-1. **SwipeableCard** A simple implementation of swipe card like StreetView            
+1. **SwipeableCard** A simple implementation of swipe card like StreetView              
 [https://github.com/michelelacorte/SwipeableCard](https://github.com/michelelacorte/SwipeableCard)
+1. **BGABanner-Android**  Splash界面滑动导航+各种切换动画自动轮播效果         
+[https://github.com/bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)
+1. **BGABadgeView-Android**    Android徽章控件     
+[https://github.com/bingoogolapple/BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android)
 1. **TriangleLabelView**   Show triangle view.         
 [https://github.com/shts/TriangleLabelView](https://github.com/shts/TriangleLabelView)
 1. **SwipeSelector**  A nicer-looking, more intuitive and highly customizable alternative for radio buttons and dropdowns for Android.           
@@ -1722,6 +1733,16 @@ And this project is not using the image file!
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
 
 
+### <A NAME="Component"></A>Component
+#### <A NAME="Component_Update"></A>Update
+1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
+[https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+
+#### <A NAME="Component_QRCode"></A>QRCode
+1. **BGAQRCode-Android**  Android QRCode Library       
+[https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
+
+
 ### <A NAME="Performance"></A>Performance
 #### <A NAME="Analysis"></A>Performance_Analysis_Tools
 1. **MAT** The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.    
@@ -1846,6 +1867,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Adapter"></A>Adapter
+1. **BGAAdapter-Android** 在AdapterView和RecyclerView中通用的Adapter和ViewHolder         
+[https://github.com/bingoogolapple/BGAAdapter-Android](https://github.com/bingoogolapple/BGAAdapter-Android)
 1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection    
 [https://github.com/ManuelPeinado/MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)
 1. **easy-adapter** Easy Adapters library for Android    
@@ -2405,6 +2428,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **ForkHub**  Fork of the GitHub Android App https://play.google.com/store/apps/details?id=jp.forkhub     
+[https://github.com/jonan/ForkHub](https://github.com/jonan/ForkHub)
 1. **MaterialAudiobookPlayer**  Audiobook Player for Android        
 [https://github.com/PaulWoitaschek/MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)
 1. **Bandhook-Kotlin**  A showcase music app for Android entirely written using Kotlin language            
