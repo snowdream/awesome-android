@@ -827,6 +827,8 @@ And this project is not using the image file!
 #### <A NAME="Menu"></A>Menu
 1. **LuseenBottomNavigation**  BottomNavigationView    Designed according Google guideLine
 [https://github.com/armcha/LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation)
+1. **Material-BottomNavigation**  BottomNavigation component inspired by the Google Material Design Guidelines
+[https://github.com/sephiroth74/Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)
 1. **BoomMenu**  A menu which can ... BOOM!         
 [https://github.com/Nightonke/BoomMenu](https://github.com/Nightonke/BoomMenu)
 1. **SlidingMenu**     SlidingMenu is an Open Source Android library that allows developers to easily create applications with sliding menus like those made popular in the Google+, YouTube, and Facebook apps. Feel free to use it all you want in your Android apps provided that you cite this project and include the license in your app.    
