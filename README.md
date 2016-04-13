@@ -2430,6 +2430,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **DMPlayer**  DMPLayer is an Android music player prototype         
+[https://github.com/dibakarece/DMPlayer](https://github.com/dibakarece/DMPlayer)
 1. **ForkHub**  Fork of the GitHub Android App https://play.google.com/store/apps/details?id=jp.forkhub     
 [https://github.com/jonan/ForkHub](https://github.com/jonan/ForkHub)
 1. **MaterialAudiobookPlayer**  Audiobook Player for Android        
@@ -2736,7 +2738,7 @@ And this project is not using the image file!
 
 ### About
 * Email：yanghui1986527#gmail.com
-* QQ Group: 529327615
+* QQ Group: 529327615      
 **Welcome to talk about Android.**
 
 
