@@ -1366,7 +1366,8 @@ And this project is not using the image file!
 [https://github.com/H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
 1. **NodeFlow**    NodeFlow is an Android library that provides a simple way to visualize hierarchical content.    
 [https://github.com/Telenav/NodeFlow](https://github.com/Telenav/NodeFlow)
-
+1. **FoldingCell**  FoldingCell is an expanding content cell inspired by folding paper material http://ramotion.com       
+[https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android)
 
 
 #### <A NAME="Toolbar"></A>Toolbar
