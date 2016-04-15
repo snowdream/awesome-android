@@ -2736,6 +2736,7 @@ And this project is not using the image file!
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           
 [https://github.com/codepath/android_guides](https://github.com/codepath/android_guides)
+1. **Android-Dev-Favorites** The repository is Android development favorites, It used to collect the knowledge of Android Development.          [https://github.com/ruijun/Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
 
 
 ### About
