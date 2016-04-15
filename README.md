@@ -1265,8 +1265,8 @@ And this project is not using the image file!
 [https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 1. **CharacterPickerView**  可实现三级联动的选择器，高仿iOS的滚轮控件    
 [https://github.com/alafighting/CharacterPickerView](https://github.com/alafighting/CharacterPickerView)
-
-
+1. **CompactCalendarView**  An android library which provides a compact calendar view much like the one used in google calenders, following material design.           
+[https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
 
 
 #### <A NAME="Layout"></A>Layout
