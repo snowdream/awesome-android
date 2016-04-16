@@ -2432,6 +2432,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **gitbook-android**  An android app to read gitbook in the offline mode.       
+[https://github.com/snowdream/gitbook-android](https://github.com/snowdream/gitbook-android)
 1. **DMPlayer**  DMPLayer is an Android music player prototype         
 [https://github.com/dibakarece/DMPlayer](https://github.com/dibakarece/DMPlayer)
 1. **ForkHub**  Fork of the GitHub Android App https://play.google.com/store/apps/details?id=jp.forkhub     
