@@ -67,6 +67,7 @@ Step 2. The item should fall under the appropriate category.
   * [WebView](#WebView)
   * [Other](#Other)
 * [Component](#Component)
+  * [Media](#Component_Media)
   * [Update](#Component_Update)
   * [QRCode](#Component_QRCode)
 * [Performance](#Performance)
@@ -1742,6 +1743,14 @@ And this project is not using the image file!
 
 
 ### <A NAME="Component"></A>Component
+#### <A NAME="Component_Media"></A>Media
+1. **ijkplayer**  Video player based on ffplay           
+[https://github.com/Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
+1. **GiraffePlayer**  out of the box android video player base on ijkplayer        
+[https://github.com/tcking/GiraffePlayer](https://github.com/tcking/GiraffePlayer)
+
+
+
 #### <A NAME="Component_Update"></A>Update
 1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
