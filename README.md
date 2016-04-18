@@ -1084,6 +1084,11 @@ And this project is not using the image file!
 [https://github.com/CodeFalling/RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss)
 1. **HeaderAndFooterRecyclerView**  支持addHeaderView、 addFooterView、以及分页加载数据的RecyclerView    
 [https://github.com/cundong/HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView)
+1. **PowerfulRecyclerViewAdapter**     A Common RecyclerView.Adapter implementation which supports any kind of items and has useful data operating APIs such as remove,add,etc.           
+[https://github.com/simplify20/PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter)
+
+
+
 
 
 #### <A NAME="SearchView"></A>SearchView
