@@ -109,7 +109,7 @@ Step 2. The item should fall under the appropriate category.
 * [Security](#Security)
 * [Tools](#Tools)
 * [QRCode](#QRCode)
-* [Decompiler](#Decompiler)
+* [Security & Decompiler](#Decompiler)
 * [Android Wear](#Android_Wear)
 * [Other](#Other1)
 * [Books](#Books)
@@ -2674,7 +2674,7 @@ And this project is not using the image file!
 [https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 
-### <A NAME="Decompiler"></A>Decompiler
+### <A NAME="Decompiler"></A>Security & Decompiler
 1. **jadx**  Dex to Java decompiler    
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator    
@@ -2685,6 +2685,9 @@ And this project is not using the image file!
 [https://bitbucket.org/mstrobel/procyon](https://bitbucket.org/mstrobel/procyon)
 1. **android-classyshark**  ClassyShark a handy Android and Java executables viewer                           
 [http://www.classyshark.com/](http://www.classyshark.com/)
+1. **backdoor-apk**  backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.       
+[https://github.com/dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk)
+
 
 
 ### <A NAME="Android_Wear"></A>Android Wear
