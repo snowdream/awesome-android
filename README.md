@@ -2165,8 +2165,10 @@ And this project is not using the image file!
 [https://github.com/promeG/TinyPinyin](https://github.com/promeG/TinyPinyin)
 1. **Ok2Curl**   Convert OkHttp requests into curl logs.    
 [https://github.com/mrmike/Ok2Curl](https://github.com/mrmike/Ok2Curl)
-+1. **Thrifty** Thrift for Android that saves you methods    
-+[https://github.com/microsoft/thrifty](https://github.com/microsoft/thrifty)
+1. **Thrifty** Thrift for Android that saves you methods    
+[https://github.com/microsoft/thrifty](https://github.com/microsoft/thrifty)
+1. **Android-ConfigIO**   A library for creating, accessing, and modifying configuration file with Xml / Json format.    
+[https://github.com/tzutalin/Android-ConfigIO](https://github.com/tzutalin/Android-ConfigIO)
 
 
 
