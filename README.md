@@ -1273,6 +1273,8 @@ And this project is not using the image file!
 [https://github.com/alafighting/CharacterPickerView](https://github.com/alafighting/CharacterPickerView)
 1. **CompactCalendarView**  An android library which provides a compact calendar view much like the one used in google calenders, following material design.           
 [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
+1. **material-calendar-view** A calendar with pretty Material look, that runs on Android API 8+
+[https://github.com/JonatanSalas/material-calendar-view](https://github.com/JonatanSalas/material-calendar-view)
 
 
 #### <A NAME="Layout"></A>Layout
