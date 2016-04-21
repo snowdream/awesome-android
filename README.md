@@ -1818,6 +1818,8 @@ And this project is not using the image file!
 [https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
 
 #### <A NAME="Intellij_IDEA_/_Android_Studio"></A>Intellij IDEA / Android Studio
+1. **android-xml-sorter** Android Studio & IntelliJ Plugin for sort xml by name="xxx".           
+[https://github.com/roana0229/android-xml-sorter](https://github.com/roana0229/android-xml-sorter)
 1. **android-material-design-icon-generator-plugin**  This plugin help you to set material design icon to your project.    
 [https://github.com/konifar/android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
 1. **android-holo-colors-idea-plugin**    IntelliJ / Android Studio plugin for Android Holo Colors    
