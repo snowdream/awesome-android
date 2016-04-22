@@ -109,7 +109,6 @@ Step 2. The item should fall under the appropriate category.
 * [App](#App)
 * [Security](#Security)
 * [Tools](#Tools)
-* [QRCode](#QRCode)
 * [Security & Decompiler](#Decompiler)
 * [Android Wear](#Android_Wear)
 * [Other](#Other1)
@@ -1764,6 +1763,13 @@ And this project is not using the image file!
 #### <A NAME="Component_QRCode"></A>QRCode
 1. **BGAQRCode-Android**  Android QRCode Library       
 [https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
+1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/    
+[https://github.com/kenglxn/QRGen](https://github.com/kenglxn/QRGen)
+1. **barcodescanner** Barcode Scanner Libraries for Android    
+[https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
+1. **ZBar** Barcode & QRCode Scanner Libraries for Android
+[http://zbar.sourceforge.net/](http://zbar.sourceforge.net/)      
+[https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 
 ### <A NAME="Performance"></A>Performance
@@ -2604,6 +2610,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Tools"></A>Tools
+1. **enjarify**  Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.         
+[https://github.com/google/enjarify](https://github.com/google/enjarify)
 1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
 [https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development    
@@ -2672,16 +2680,6 @@ And this project is not using the image file!
 [https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
 1. **Let** Annotation based simple API flavoured with AOP to handle new Android runtime permission model    
 [https://github.com/canelmas/let](https://github.com/canelmas/let)
-
-
-### <A NAME="QRCode"></A>QRCode
-1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/    
-[https://github.com/kenglxn/QRGen](https://github.com/kenglxn/QRGen)
-1. **barcodescanner** Barcode Scanner Libraries for Android    
-[https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
-1. **ZBar** Barcode & QRCode Scanner Libraries for Android
-[http://zbar.sourceforge.net/](http://zbar.sourceforge.net/)      
-[https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 
 ### <A NAME="Decompiler"></A>Security & Decompiler
