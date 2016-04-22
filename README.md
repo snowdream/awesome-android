@@ -2712,6 +2712,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Other1"></A>Other
+1. **AndroidVideoCache** Cache support for any video player with help of single line         
+[https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process    
 [https://github.com/lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader)
 1. **PasswordLoadingView** Provide an animation when finished the password    
