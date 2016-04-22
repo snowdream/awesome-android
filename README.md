@@ -2610,8 +2610,6 @@ And this project is not using the image file!
 
 
 ### <A NAME="Tools"></A>Tools
-1. **enjarify**  Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.         
-[https://github.com/google/enjarify](https://github.com/google/enjarify)
 1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
 [https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development    
@@ -2695,6 +2693,10 @@ And this project is not using the image file!
 [http://www.classyshark.com/](http://www.classyshark.com/)
 1. **backdoor-apk**  backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.       
 [https://github.com/dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk)
+1. **enjarify**  Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.           
+[https://github.com/google/enjarify](https://github.com/google/enjarify)
+1. **dexterity**  dexterity is a C library intended for manipulation and analysis of DEX files. It has python bindings for all basic DEX structures and most of the manipulation functions.         
+[https://github.com/rchiossi/dexterity](https://github.com/rchiossi/dexterity)  
 
 
 
