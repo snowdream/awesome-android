@@ -67,6 +67,7 @@ Step 2. The item should fall under the appropriate category.
   * [WebView](#WebView)
   * [Other](#Other)
 * [Component](#Component)
+  * [Page](#Component_Page)
   * [Media](#Component_Media)
   * [Image](#Component_Image)
   * [Update](#Component_Update)
@@ -1745,6 +1746,10 @@ And this project is not using the image file!
 
 
 ### <A NAME="Component"></A>Component
+#### <A NAME="Component_Page"></A>Page
+1. **android-about-page**  Create an awesome About Page for your Android App in 2 minutes               
+[https://github.com/medyo/android-about-page](https://github.com/medyo/android-about-page)
+
 #### <A NAME="Component_Media"></A>Media
 1. **ijkplayer**  Video player based on ffplay           
 [https://github.com/Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
