@@ -1281,6 +1281,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **SwipeRevealLayout**      A layout that you can swipe/slide to show another layout.          
+[https://github.com/chthai64/SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
 1. **BGARefreshLayout-Android** 开发者使用BGARefreshLayout-Android可以对各种控件实现多种下拉刷新效果、上拉加载更多以及配置自定义头部广告位      
 1. **BGASwipeItemLayout-Android** 类似iOS带弹簧效果的左右滑动控件，可作为AbsListView和RecyclerView的item（作为AbsListView的item时的点击事件参考代码家的 https://github.com/daimajia/AndroidSwipeLayout )              
 [https://github.com/bingoogolapple/BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)  
