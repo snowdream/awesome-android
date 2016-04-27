@@ -2601,7 +2601,8 @@ And this project is not using the image file!
 [https://github.com/maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp)
 1. **uhabits**   Android app that helps you create and maintain good habits            
 [https://github.com/iSoron/uhabits](https://github.com/iSoron/uhabits)
-
+1. **AisenWeiBo** 新浪微博第三方Android客户端         
+[https://github.com/wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo)
 
 
 ### <A NAME="Security"></A>Security
