@@ -305,6 +305,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 ### <A NAME="Animations"></A>Animations
+1. **FragmentAnimations**  3D animations for support-v4 Fragment transition.      
+[https://github.com/kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations)
 1. **Road Runner** Road Runner is a library for android which allow you to make your own loading animation using a SVG image           
 [https://github.com/glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner)
 1. **ListViewAnimations**   An Android library which allows developers to easily add animations to ListView items    
