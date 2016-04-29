@@ -1283,6 +1283,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **CursorWheelLayout**  An Android Widget for selecting items that rotate on a wheel.           
+[https://github.com/BCsl/CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout)
 1. **SwipeRevealLayout**      A layout that you can swipe/slide to show another layout.          
 [https://github.com/chthai64/SwipeRevealLayout](https://github.com/chthai64/SwipeRevealLayout)
 1. **BGARefreshLayout-Android** 开发者使用BGARefreshLayout-Android可以对各种控件实现多种下拉刷新效果、上拉加载更多以及配置自定义头部广告位      
