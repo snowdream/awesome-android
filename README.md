@@ -830,6 +830,11 @@ And this project is not using the image file!
 [https://github.com/ybq/AndroidSpinKit](https://github.com/ybq/AndroidSpinKit)
 1. **GifLoadingView** GifLoadingView      
 [https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
+1. **LoadingDrawable**  some android loading drawable, can be combined with any View as the loading View and Progressbar, and is especially suitable for the loading animation of the RecyclerRefreshLayout.         
+[https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+
+
+
 
 
 #### <A NAME="Menu"></A>Menu
