@@ -2792,6 +2792,9 @@ And this project is not using the image file!
 1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           
 [https://github.com/codepath/android_guides](https://github.com/codepath/android_guides)
 1. **Android-Dev-Favorites** The repository is Android development favorites, It used to collect the knowledge of Android Development.          [https://github.com/ruijun/Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
+1. **AndroidNote**  安卓学习笔记     
+[https://github.com/GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)
+
 
 
 ### About
