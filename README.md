@@ -828,6 +828,8 @@ And this project is not using the image file!
 [https://github.com/Hitomis/SunBaby](https://github.com/Hitomis/SunBaby)
 1. **AndroidSpinKit**  android 加载动画合集     
 [https://github.com/ybq/AndroidSpinKit](https://github.com/ybq/AndroidSpinKit)
+1. **GifLoadingView** GifLoadingView      
+[https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 
 
 #### <A NAME="Menu"></A>Menu
