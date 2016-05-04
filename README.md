@@ -2616,6 +2616,9 @@ And this project is not using the image file!
 [https://github.com/wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo)
 1. **Awesome Campus** Awesome Campus is Jiangxi Normal University's Android App    
 [https://github.com/MummyDing/Awesome-Campus](https://github.com/MummyDing/Awesome-Campus)
+1. **MicroReader**  一个小而美的阅读客户端           
+[https://github.com/YiuChoi/MicroReader](https://github.com/YiuChoi/MicroReader)
+
 
 ### <A NAME="Security"></A>Security
 1. **gnupg-for-android** A port of gnupg to Android    
