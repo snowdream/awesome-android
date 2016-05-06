@@ -2484,6 +2484,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="App"></A>App
+1. **BlackLight**   A light Sina Weibo client for Android https://black.lighting          
+[https://github.com/PaperAirplane-Dev-Team/BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight)
 1. **gitbook-android**  An android app to read gitbook in the offline mode.       
 [https://github.com/snowdream/gitbook-android](https://github.com/snowdream/gitbook-android)
 1. **DMPlayer**  DMPLayer is an Android music player prototype         
