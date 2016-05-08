@@ -1455,6 +1455,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **MiladBadgeView** simple and useful BadgeView for android         
+[https://github.com/miladheydari/MiladBadgeView](https://github.com/miladheydari/MiladBadgeView)
 1. **SwipeableCard** A simple implementation of swipe card like StreetView              
 [https://github.com/michelelacorte/SwipeableCard](https://github.com/michelelacorte/SwipeableCard)
 1. **BGABanner-Android**  Splash界面滑动导航+各种切换动画自动轮播效果         
