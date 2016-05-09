@@ -1398,6 +1398,8 @@ And this project is not using the image file!
 [https://github.com/Telenav/NodeFlow](https://github.com/Telenav/NodeFlow)
 1. **FoldingCell**  FoldingCell is an expanding content cell inspired by folding paper material http://ramotion.com       
 [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android)
+1. **BubbleLayout**  Bubble View for Android.    
+[https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
 
 
 #### <A NAME="Toolbar"></A>Toolbar
