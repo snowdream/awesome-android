@@ -1459,6 +1459,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **MaryPopup**  Expand your view with no problem ;)          
+[https://github.com/Meetic/MaryPopup](https://github.com/Meetic/MaryPopup)
 1. **MiladBadgeView** simple and useful BadgeView for android         
 [https://github.com/miladheydari/MiladBadgeView](https://github.com/miladheydari/MiladBadgeView)
 1. **SwipeableCard** A simple implementation of swipe card like StreetView              
