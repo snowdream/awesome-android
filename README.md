@@ -1294,6 +1294,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Layout"></A>Layout
+1. **flexbox-layout**  Flexbox for Android              
+[https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)
 1. **CursorWheelLayout**  An Android Widget for selecting items that rotate on a wheel.           
 [https://github.com/BCsl/CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout)
 1. **SwipeRevealLayout**      A layout that you can swipe/slide to show another layout.          
