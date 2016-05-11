@@ -2079,6 +2079,8 @@ And this project is not using the image file!
 
 
 ### <A NAME="Utility"></A>Utility
+1. **easydeviceinfo**  Android library to get device information in a super easy way. http://nisrulz.github.io/easydeviceinfo                
+[https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
 1. **StatusBarUtil** A util for setting status bar style on Android App. It can work above API 19(KitKat 4.4).    
 [https://github.com/laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
 1. **apk-parser** Apk parser lib with java            
