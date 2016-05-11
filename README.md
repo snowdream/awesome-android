@@ -635,6 +635,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="ImageView"></A>ImageView
+1. **subsampling-scale-image-view**  Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.                  
+ [https://github.com/davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
 1. **BadgedImageview** BadgedImageview allow you show a badge into a Imageview.    
 [https://github.com/yesidlazaro/BadgedImageview](https://github.com/yesidlazaro/BadgedImageview)
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.    
