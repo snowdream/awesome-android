@@ -192,6 +192,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
 1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern    
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
+1. **Moxy**  Moxy is Android library based on MVP pattern  
+[https://github.com/Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)
+1. **Mosby**  A Model-View-Presenter library for modern Android apps.    
+[https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
 
 
 #### <A NAME="Framework_Theme"></A>Theme
