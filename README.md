@@ -1465,6 +1465,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **ScratchView**  ScratchView repo is UX Design involving scratch cards like views which are scratched to reveal the information they conceal.         
+[https://github.com/cooltechworks/ScratchView](https://github.com/cooltechworks/ScratchView)
 1. **MaryPopup**  Expand your view with no problem ;)          
 [https://github.com/Meetic/MaryPopup](https://github.com/Meetic/MaryPopup)
 1. **MiladBadgeView** simple and useful BadgeView for android         
