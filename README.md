@@ -192,6 +192,10 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/RoboBinding/RoboBinding](https://github.com/RoboBinding/RoboBinding)
 1. **nucleus**  Nucleus is an Android library which helps to use the MVP (Model-View-Presenter) pattern    
 [https://github.com/konmik/nucleus/](https://github.com/konmik/nucleus/)
+1. **Moxy**  Moxy is Android library based on MVP pattern  
+[https://github.com/Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)
+1. **Mosby**  A Model-View-Presenter library for modern Android apps.    
+[https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
 
 
 #### <A NAME="Framework_Theme"></A>Theme
@@ -2256,6 +2260,8 @@ And this project is not using the image file!
 [https://github.com/3pillarlabs/socialauth-android](https://github.com/3pillarlabs/socialauth-android)
 1. **PayPal-Android-SDK** Accept PayPal and credit cards in your Android app    
 [https://github.com/paypal/PayPal-Android-SDK](https://github.com/paypal/PayPal-Android-SDK)
+1. **Applozic-Android-Chat-Messaging-SDK** Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application    
+[https://github.com/AppLozic/Applozic-Android-SDK](https://github.com/AppLozic/Applozic-Android-SDK)
 1. **barcodescanner**  Barcode Scanner Libraries for Android    
 [https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
 1. **android-donations-lib** Donations Library for Android. Supports Google Play Store, Flattr, PayPal, and Bitcoin    
