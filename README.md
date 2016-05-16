@@ -2256,6 +2256,8 @@ And this project is not using the image file!
 [https://github.com/3pillarlabs/socialauth-android](https://github.com/3pillarlabs/socialauth-android)
 1. **PayPal-Android-SDK** Accept PayPal and credit cards in your Android app    
 [https://github.com/paypal/PayPal-Android-SDK](https://github.com/paypal/PayPal-Android-SDK)
+1. **Applozic-Android-Chat-Messaging-SDK** Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application    
+[https://github.com/AppLozic/Applozic-Android-SDK](https://github.com/AppLozic/Applozic-Android-SDK)
 1. **barcodescanner**  Barcode Scanner Libraries for Android    
 [https://github.com/dm77/barcodescanner](https://github.com/dm77/barcodescanner)
 1. **android-donations-lib** Donations Library for Android. Supports Google Play Store, Flattr, PayPal, and Bitcoin    
