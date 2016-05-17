@@ -1469,6 +1469,8 @@ And this project is not using the image file!
 
 
 #### <A NAME="Other"></A>Other
+1. **MaterialScrollBar**  An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.        
+[https://github.com/krimin-killr21/MaterialScrollBar](https://github.com/krimin-killr21/MaterialScrollBar)
 1. **ScratchView**  ScratchView repo is UX Design involving scratch cards like views which are scratched to reveal the information they conceal.         
 [https://github.com/cooltechworks/ScratchView](https://github.com/cooltechworks/ScratchView)
 1. **MaryPopup**  Expand your view with no problem ;)          
