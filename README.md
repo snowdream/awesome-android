@@ -1781,6 +1781,7 @@ And this project is not using the image file!
 [https://github.com/miteshpithadiya/SearchableSpinner](https://github.com/miteshpithadiya/SearchableSpinner)
 1. **velocimeter-view**  A velocimeter View for Android           
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
+1. **Popup-Dismiss-Catchable-Spinner**  A custom Spinner to which you could set listener for popup dismissal event.      [https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner](https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner)
 
 
 ### <A NAME="Component"></A>Component
