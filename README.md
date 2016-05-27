@@ -646,6 +646,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yesidlazaro/BadgedImageview](https://github.com/yesidlazaro/BadgedImageview)
 1. **PhotoView**     Implementation of ImageView for Android that supports zooming, by various touch gestures.    
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
+1. **PhotoView**图片浏览缩放控件             
+[https://github.com/bm-x/PhotoView](https://github.com/bm-x/PhotoView)
 1. **android-smart-image-view**    Android ImageView replacement which allows image loading from URLs or contact address book, with caching    
 [https://github.com/loopj/android-smart-image-view](https://github.com/loopj/android-smart-image-view)
 1. **TouchImageView**  Adds touch functionality to Android ImageView.    
