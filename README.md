@@ -1790,6 +1790,8 @@ And this project is not using the image file!
 #### <A NAME="Component_Page"></A>Page
 1. **android-about-page**  Create an awesome About Page for your Android App in 2 minutes               
 [https://github.com/medyo/android-about-page](https://github.com/medyo/android-about-page)
+1. **welcome-android**  A customizable welcome screen http://stephentuso.github.io/welcome-android/ 
+[https://github.com/stephentuso/welcome-android](https://github.com/stephentuso/welcome-android)
 
 #### <A NAME="Component_Media"></A>Media
 1. **ijkplayer**  Video player based on ffplay           
