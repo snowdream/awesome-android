@@ -72,6 +72,7 @@ Step 2. The item should fall under the appropriate category.
   * [Page](#Component_Page)
   * [Media](#Component_Media)
   * [Image](#Component_Image)
+  * [ScreenShot](#Component_ScreenShot)
   * [Update](#Component_Update)
   * [QRCode](#Component_QRCode)
 * [Performance](#Performance)
@@ -1802,6 +1803,11 @@ And this project is not using the image file!
 #### <A NAME="Component_Image"></A>Image
 1. **ImageEditor-Android** AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作         
 [https://github.com/siwangqishiq/ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android)
+
+#### <A NAME="Component_ScreenShot"></A>ScreenShot
+1. **InstaCapture**  Android library to capture screenshot from your app                                 
+[https://github.com/tarek360/InstaCapture](https://github.com/tarek360/InstaCapture)
+
 
 
 #### <A NAME="Component_Update"></A>Update
