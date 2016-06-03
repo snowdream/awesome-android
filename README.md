@@ -441,7 +441,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/litesuits/android-lite-http](https://github.com/litesuits/android-lite-http)
 1. **AndNet**  AndNet是一个Android开中中二次封装的网络框架 http://blog.csdn.net/qibin0506/article/details/50127223           
 [https://github.com/qibin0506/AndNet](https://github.com/qibin0506/AndNet)
-
+1. **AndroidNetworking**    Android Networking is a powerful library for doing any type of networking in Android applications.    
+[https://github.com/amitshekhariitbhu/AndroidNetworking](https://github.com/amitshekhariitbhu/AndroidNetworking)
 
 
 
