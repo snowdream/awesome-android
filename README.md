@@ -845,6 +845,8 @@ And this project is not using the image file!
 [https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 1. **LoadingDrawable**  some android loading drawable, can be combined with any View as the loading View and Progressbar, and is especially suitable for the loading animation of the RecyclerRefreshLayout.         
 [https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+1. **HorizontalWheelView**  Custom view for user input that models horizontal wheel controller.       
+[https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
 
 
 
