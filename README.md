@@ -845,8 +845,6 @@ And this project is not using the image file!
 [https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 1. **LoadingDrawable**  some android loading drawable, can be combined with any View as the loading View and Progressbar, and is especially suitable for the loading animation of the RecyclerRefreshLayout.         
 [https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
-1. **HorizontalWheelView**  Custom view for user input that models horizontal wheel controller.       
-[https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
 
 
 
@@ -1265,6 +1263,8 @@ And this project is not using the image file!
 [https://github.com/dolphinwang/RangeSeekbar](https://github.com/dolphinwang/RangeSeekbar)
 1. **SeekBarCompat** A material based support library to bring consistent SeekBars in Android for API 16 and above.    
 [https://github.com/ahmedrizwan/SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat)
+1. **HorizontalWheelView**  Custom view for user input that models horizontal wheel controller.       
+[https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
 
 
 #### <A NAME="Time_View"></A>Time View
