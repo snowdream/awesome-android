@@ -790,6 +790,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
 1. **WaveView**  A wave view of android,can be used as progress bar.    
 [https://github.com/john990/WaveView](https://github.com/john990/WaveView)
+1. **WaveView** waveview for android           
+[https://github.com/gelitenight/WaveView](https://github.com/gelitenight/WaveView)
 1. **water-wave-progress**  水波按进度上升，带环形进度条    
 [https://github.com/Modificator/water-wave-progress](https://github.com/Modificator/water-wave-progress)
 1. **InfiniteIndicator**  This lib can be used for viewpager infinite loop with indicator easily.    
