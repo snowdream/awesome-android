@@ -1872,6 +1872,8 @@ And this project is not using the image file!
 [https://github.com/andrewkroh/gradle-protobuf-plugin](https://github.com/andrewkroh/gradle-protobuf-plugin)
 1. **gradle-play-publisher**    Gradle Plugin to upload your APK and metadata to the Google Play Store    
 [https://github.com/Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+1. **dexcount-gradle-plugin**  A Gradle plugin that reports how many DEX methods are in your APK on each build
+[https://github.com/KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin)
 
 
 #### <A NAME="Maven"></A>Maven
