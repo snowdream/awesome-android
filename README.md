@@ -638,7 +638,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/z56402344/AnimTextView](https://github.com/z56402344/AnimTextView)
 1. **Masked-Edittext** Android library contain custom realisation of EditText component for masking and formatting input text    
 [https://github.com/pinball83/Masked-Edittext](https://github.com/pinball83/Masked-Edittext)
-
+1. **KerningViews** Provides a set of views which allows to adjust the spacing between the characters in the text of that view, also known as Kerning effect.
+[https://github.com/aritraroy/KerningViews](https://github.com/aritraroy/KerningViews)
 
 
 #### <A NAME="ImageView"></A>ImageView
@@ -1239,7 +1240,8 @@ And this project is not using the image file!
 #### <A NAME="LockView"></A>LockView
 1.  **MaterialPatternllockView**   Material Pattern Lockview is a View which inspired from Lollipop+ Pattern lock. This Project is still in work, More Options will be added as soon as possible. Some KeyFeature of this Library.    
 [https://github.com/AmniX/MaterialPatternllockView](https://github.com/AmniX/MaterialPatternllockView)
-
+1.  **PinLockView**   A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android
+[https://github.com/aritraroy/PinLockView](https://github.com/aritraroy/PinLockView)
 
 
 
