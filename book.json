@@ -1,6 +1,6 @@
 {
   "gitbook": "3.1.1",
-  "plugins": ["editlink", "anchors", "github-buttons"],
+  "plugins": ["editlink", "github-buttons"],
   "pluginsConfig": {
     "editlink": {
       "base": "https://github.com/snowdream/awesome-android/edit/master/",
