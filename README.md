@@ -1790,6 +1790,8 @@ And this project is not using the image file!
 1. **velocimeter-view**  A velocimeter View for Android           
 [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
 1. **Popup-Dismiss-Catchable-Spinner**  A custom Spinner to which you could set listener for popup dismissal event.      [https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner](https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner)
+1. **AnimatedSvgView**  Animated SVG Drawing for Android                 
+[https://github.com/jaredrummler/AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView)
 
 
 ### <A NAME="Component"></A>Component
