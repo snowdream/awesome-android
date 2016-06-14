@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo -e "\n build book"
+gitbook pdf ./ ./books/awesome-android.pdf
+gitbook epub ./ ./books/awesome-android.epub
+gitbook mobi ./ ./books/awesome-android.mobi

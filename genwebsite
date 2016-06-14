@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo -e "Delete old website"
+rm -rfv  ./website
+
+echo -e "\n build website"
+gitbook build ./ ./website

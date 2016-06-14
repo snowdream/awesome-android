@@ -1,0 +1,9 @@
+# build
+.git
+node_modules
+build
+genbook
+genwebsite
+books
+website
+_book

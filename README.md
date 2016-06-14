@@ -1,7 +1,5 @@
 # awesome-android
 
-## Should i build the project with gitbook?  [https://github.com/snowdream/awesome-android/issues/102](https://github.com/snowdream/awesome-android/issues/102)
-
 ## Introduction
 android libs from github
 
