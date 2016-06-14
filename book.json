@@ -1,11 +1,20 @@
 {
   "gitbook": "3.1.1",
-  "plugins": ["editlink"],
+  "plugins": ["editlink", "anchors", "github-buttons"],
   "pluginsConfig": {
     "editlink": {
       "base": "https://github.com/snowdream/awesome-android/edit/master/",
       "label": "Edit This Page",
       "multilingual": false
+    }, 
+    "github-buttons": {
+      "repo": "snowdream/awesome-android",
+      "types": [
+        "star",
+        "watch",
+        "fork",
+        "follow"
+      ]
     }
   }
 }
