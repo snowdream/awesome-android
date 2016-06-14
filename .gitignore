@@ -8,6 +8,11 @@
 node_modules
 
 # Book build output
+build
+genbook
+genwebsite
+books
+website
 _book
 
 # eBook build output
