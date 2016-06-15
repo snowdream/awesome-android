@@ -1989,6 +1989,8 @@ And this project is not using the image file!
 [https://github.com/birajpatel/GridListViewAdapters](https://github.com/birajpatel/GridListViewAdapters)
 1. **RxRecyclerAdapter** Rx based generic RecyclerView Adapter Library with support for sections.    
 [https://github.com/ahmedrizwan/RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
+1. **SectionedRecyclerViewAdapter** An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state(Loading/Loaded/Failed) controlled individually.    
+[https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
 
 ### <A NAME="Validation"></A>Validation
 1. **android-saripaar**  UI Validation Library for Android    
