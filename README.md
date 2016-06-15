@@ -1794,6 +1794,10 @@ And this project is not using the image file!
 1. **Popup-Dismiss-Catchable-Spinner**  A custom Spinner to which you could set listener for popup dismissal event.      [https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner](https://github.com/duchuyctlk/Popup-Dismiss-Catchable-Spinner)
 1. **AnimatedSvgView**  Animated SVG Drawing for Android                 
 [https://github.com/jaredrummler/AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView)
+1. **MultipleStatusView**  一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。                
+[https://github.com/qyxxjd/MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
+
+
 
 
 ### <A NAME="Component"></A>Component
