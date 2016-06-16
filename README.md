@@ -116,8 +116,8 @@ Step 2. The item should fall under the appropriate category.
 * [Other](#Other1)
 * [Books](#Books)
 
-### <A NAME="Framework"></A>Framework
-#### <A NAME="Framework_Common"></A>Common
+### <a name="Framework" id="Framework"></a>Framework
+#### <a name="Framework_Common" id="Framework_Common"></a>Common
 1. **afinal**    Afinal是一个android的ioc，orm框架    
 [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
 1. **xUtils****    android orm, bitmap, http, view inject...    
@@ -168,7 +168,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 1. **Android-ZBLibrary**  Android快速开发框架，Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。      
 [https://github.com/TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)
-#### <A NAME="Framework_Plugin"></A>Plugin
+
+#### <a name="Framework_Plugin" id="Framework_Plugin"></a>Plugin
 1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。    
 [https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
 1. **apf**  Android Plugin Framework    
@@ -184,7 +185,7 @@ Step 2. The item should fall under the appropriate category.
 1. **Small** A small framework to split app into small parts               
 [https://github.com/wequick/Small](https://github.com/wequick/Small)
 
-#### <A NAME="Framework_MVC_MVVM_MVP"></A>MVC/MVVM/MVP
+#### <a name="Framework_MVC_MVVM_MVP" id="Framework_MVC_MVVM_MVP"></a>MVC/MVVM/MVP
 1. **AndroidBinding**  MVVM for Android    
 [https://github.com/gueei/AndroidBinding](https://github.com/gueei/AndroidBinding)
 1. **RoboBinding** A data-binding Presentation Model(MVVM) framework for the Android platform.    
@@ -197,12 +198,12 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
 
 
-#### <A NAME="Framework_Theme"></A>Theme
+#### <a name="Framework_Theme" id="Framework_Theme"></a>Theme
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.    
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 
 
-#### <A NAME="Framework_Hook"></A>Hook
+#### <a name="Framework_Hook" id="Framework_Hook"></a>Hook
 1. **legend**  Legend is a Hook framework for Android Development, it allows you to Hook Java methods without ROOT. Even more exciting is that it supports both Dalvik and Art environment!           
 [https://github.com/asLody/legend](https://github.com/asLody/legend)
 1. **dexposed** dexposed enable 'god' mode for single android application.    
@@ -211,7 +212,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
 
 
-### <A NAME="EventBus"></A>EventBus
+### <a name="EventBus" id="EventBus"></a>EventBus
 1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.    
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.    
@@ -232,7 +233,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/coshx/drekkar](https://github.com/coshx/drekkar)
 
 
-### <A NAME="Orm"></A>Orm
+### <a name="Orm" id="Orm"></a>Orm
 1. **greenDAO**    greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.    
 [https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
 1. **ormlite**    ORMLite Android functionality used in conjunction with ormlite-core    
@@ -285,7 +286,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
 
 
-### <A NAME="Image_Loading"></A>Image Loading
+### <a name="Image_Loading" id="Image_Loading"></a>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.    
 [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 1. **picasso**  A powerful image downloading and caching library for Android    
@@ -309,7 +310,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 
 
-### <A NAME="Animations"></A>Animations
+### <a name="Animations" id="Animations"></a>Animations
 1. **FragmentAnimations**  3D animations for support-v4 Fragment transition.      
 [https://github.com/kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations)
 1. **Road Runner** Road Runner is a library for android which allow you to make your own loading animation using a SVG image           
@@ -410,7 +411,7 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-### <A NAME="Network"></A>Network
+### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
 [https://github.com/loopj/android-async-http](https://github.com/loopj/android-async-http)
 1. **okhttp**    An HTTP+SPDY client for Android and Java applications.    
@@ -445,14 +446,14 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-### <A NAME="Task/Job"></A>Task/Job
+### <a name="Task/Job" id="Task/Job"></a>Task/Job
 1. **LiteAsync**  An ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExecutor which can executes ordered, cyclicbarrier, delayed and timer Task.        
 [https://github.com/litesuits/android-lite-async](https://github.com/litesuits/android-lite-async)
 
 
 
-### <A NAME="Widget"></A>Widget
-#### <A NAME="Material"></A>Material
+### <a name="Widget" id="Widget"></a>Widget
+#### <a name="Material" id="Material"></a>Material
 1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0    
 [https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
 1. **Carbon** Material Design implementation for Android 2.1+. Realtime shadows, ripples, animations, SVGs and more.    
@@ -521,7 +522,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 
-#### <A NAME="UI"></A>UI
+#### <a name="UI" id="UI"></a>UI
 1. **android-ui**   Android UI library.  Requires API level 14+    
 [https://github.com/markushi/android-ui](https://github.com/markushi/android-ui)
 1. **GreenDroid**   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.    
@@ -536,7 +537,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 
 
-#### <A NAME="TextView/EditText"></A>TextView/EditText
+#### <a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText
 1. **ReadMoreTextView**  A Custom TextView with trim text         
 [https://github.com/borjabravo10/ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView)
 1. **MaskFormatter**  MaskFormatter adds mask functionality to your EditText. It will prevent user from inserting not allowed signs, and format input as well.         
@@ -640,7 +641,7 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/aritraroy/KerningViews](https://github.com/aritraroy/KerningViews)
 
 
-#### <A NAME="ImageView"></A>ImageView
+#### <a name="ImageView" id="ImageView"></a>ImageView
 1. **subsampling-scale-image-view**  Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.                  
  [https://github.com/davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
 1. **BadgedImageview** BadgedImageview allow you show a badge into a Imageview.    
@@ -715,7 +716,7 @@ Step 2. The item should fall under the appropriate category.
 
 
 
-#### <A NAME="Button"></A>Button
+#### <a name="Button" id="Button"></a>Button
 1. **circular-progress-button**   Android Circular Progress Button    
 [https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
 1. **android-process-button** Android Buttons With Built-in Progress Meters.    
@@ -756,13 +757,13 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
 
 
-#### <A NAME="CheckBox"></A>CheckBox
+#### <a name="CheckBox" id="CheckBox"></a>CheckBox
 1. **AnimCheckBox**  AnimCheckBox    
 [https://github.com/lguipeng/AnimCheckBox](https://github.com/lguipeng/AnimCheckBox)
 
 
 
-#### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
+#### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
 1. **CircleProgressBar**  A circular android ProgressBar library which extends ProgressBar, It has both solid and line two styles. Besides, progress value can be freely customized.      
 [https://github.com/dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
 1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
@@ -853,7 +854,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="Menu"></A>Menu
+#### <a name="Menu" id="Menu"></a>Menu
 1. **LuseenBottomNavigation**  BottomNavigationView    Designed according Google guideLine
 [https://github.com/armcha/LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation)
 1. **Material-BottomNavigation**  BottomNavigation component inspired by the Google Material Design Guidelines
@@ -930,7 +931,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="Dialog"></A>Dialog
+#### <a name="Dialog" id="Dialog"></a>Dialog
 1. **QustomDialog** a quick custom android dialog project    
 [https://github.com/danoz73/QustomDialog](https://github.com/danoz73/QustomDialog)
 1. **Android-RateThisApp** Android library to show "Rate this app" dialog    
@@ -957,7 +958,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="ListView/ScrollView"></A>ListView/ScrollView
+#### <a name="ListView/ScrollView" id="ListView/ScrollView"></a>ListView/ScrollView
 1. **CommonPullToRefresh**   Android widget with pull to refresh for all the views,and support loadMore for ListView , RecyclerView, GridView and SwipeRefreshLayout.       
 [https://github.com/Chanven/CommonPullToRefresh](https://github.com/Chanven/CommonPullToRefresh)
 1. **pinned-section-listview** Easy to use ListView with pinned sections for Android.    
@@ -1044,7 +1045,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="GridView"></A>GridView
+#### <a name="GridView" id="GridView"></a>GridView
 1. **two-way-gridview** An Android GridView that can be configured to scroll horizontally or vertically    
 [https://github.com/jess-anders/two-way-gridview](https://github.com/jess-anders/two-way-gridview)
 1. **AsymmetricGridView** Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span    
@@ -1071,12 +1072,12 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="RatingView"></A>RatingView
+#### <a name="RatingView" id="RatingView"></a>RatingView
 1. **SimpleRatingView**  A rating toggle for Android which switches between 3 rating levels: positive, neutral, and negative.    
 [https://github.com/xiprox/SimpleRatingView](https://github.com/xiprox/SimpleRatingView)
 
 
-#### <A NAME="Recyclerview"></A>Recyclerview
+#### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
 1. **XRecyclerView**  a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView        
 [https://github.com/jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)
 1. **twoway-view**  RecyclerView made simple              
@@ -1122,11 +1123,11 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="SearchView"></A>SearchView
+#### <a name="SearchView" id="SearchView"></a>SearchView
 1. **MaterialSearchView** Cute library to implement SearchView in a Material Design Approach http://miguelcatalan.info/2015/09/23/MaterialSearchView/    
 [https://github.com/MiguelCatalan/MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
 
-#### <A NAME="ViewPager"></A>ViewPager
+#### <a name="ViewPager" id="ViewPager"></a>ViewPager
 1. **WoWoViewPager** Optimized for scrolling app intros or making your CV app. Free and open source.             
 [https://github.com/Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
 1. **Android-ViewPagerIndicator**  Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.    
@@ -1170,7 +1171,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="ActionBar"></A>ActionBar
+#### <a name="ActionBar" id="ActionBar"></a>ActionBar
 1. **ActionBarSherlock**   Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.    
 [https://github.com/JakeWharton/ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
 1. **TabBarView**  An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier    
@@ -1183,12 +1184,12 @@ And this project is not using the image file!
 [https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar)
 
 
-#### <A NAME="Snackbar"></A>Snackbar
+#### <a name="Snackbar" id="Snackbar"></a>Snackbar
 1. **TSnackBar**  Android Snackbar from the Top (similar to Crouton)    
 [https://github.com/AndreiD/TSnackBar](https://github.com/AndreiD/TSnackBar)
 
 
-#### <A NAME="Fragment"></A>Fragment
+#### <a name="Fragment" id="Fragment"></a>Fragment
 1. **Android-CircularRevealFragment**  A demo about how to show and hide fragments using the new Android Lollipop circle reveal transitions.   Minimum API level is 21    
 [https://github.com/ferdy182/Android-CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment)
 1. **StatedFragment**  The library is documented in http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en    
@@ -1200,7 +1201,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="Activity"></A>Activity
+#### <a name="Activity" id="Activity"></a>Activity
 1. **CustomActivityOnCrash** Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.    
 [https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
 1. **android-slidingactivity**      Android library which allows you to swipe down from an activity to close it.    
@@ -1210,7 +1211,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="Tabs"></A>Tabs
+#### <a name="Tabs" id="Tabs"></a>Tabs
 1. **NavigationTabBar** Navigation tab bar with colorful interactions.          
 [https://github.com/DevLight-Mobile-Agency/NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar)
 
@@ -1221,7 +1222,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="Toast"></A>Toast
+#### <a name="Toast" id="Toast"></a>Toast
 1. **Crouton**      Context sensitive notifications for Android    
 [https://github.com/keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)  
 1. **SuperToasts** A library that extends the Android toast framework.    
@@ -1239,7 +1240,7 @@ And this project is not using the image file!
 [https://github.com/CROSP/pretty-toast](https://github.com/CROSP/pretty-toast)
 
 
-#### <A NAME="LockView"></A>LockView
+#### <a name="LockView" id="LockView"></a>LockView
 1.  **MaterialPatternllockView**   Material Pattern Lockview is a View which inspired from Lollipop+ Pattern lock. This Project is still in work, More Options will be added as soon as possible. Some KeyFeature of this Library.    
 [https://github.com/AmniX/MaterialPatternllockView](https://github.com/AmniX/MaterialPatternllockView)
 1.  **PinLockView**   A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android
@@ -1248,7 +1249,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="SeekBar"></A>SeekBar
+#### <a name="SeekBar" id="SeekBar"></a>SeekBar
 1. **ColorSeekBar** A colorful SeekBar for picking color    
 [https://github.com/rtugeek/ColorSeekBar](https://github.com/rtugeek/ColorSeekBar)
 1. **HoloCircleSeekBar**     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.    
@@ -1273,7 +1274,7 @@ And this project is not using the image file!
 [https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
 
 
-#### <A NAME="Time_View"></A>Time View
+#### <a name="Time_View" id="Time_View"></a>Time View
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.    
@@ -1312,7 +1313,7 @@ And this project is not using the image file!
 [https://github.com/JonatanSalas/material-calendar-view](https://github.com/JonatanSalas/material-calendar-view)
 
 
-#### <A NAME="Layout"></A>Layout
+#### <a name="Layout" id="Layout"></a>Layout
 1. **flexbox-layout**  Flexbox for Android              
 [https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)
 1. **CursorWheelLayout**  An Android Widget for selecting items that rotate on a wheel.           
@@ -1421,7 +1422,7 @@ And this project is not using the image file!
 [https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
 
 
-#### <A NAME="Toolbar"></A>Toolbar
+#### <a name="Toolbar" id="Toolbar"></a>Toolbar
 1. **CollapsingAvatarToolbar**  Collapsing Toolbar with a moving avatar for Android.    
 [https://github.com/Sloy/CollapsingAvatarToolbar](https://github.com/Sloy/CollapsingAvatarToolbar)
 1. **FABToolbar**  An implementation of Google design, with Floating Action Button transforming into toolbar.    
@@ -1429,7 +1430,7 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="VideoView"></A>VideoView
+#### <a name="VideoView" id="VideoView"></a>VideoView
 1. **video-crop**  Android Video Crop    
 [https://github.com/dmytrodanylyk/video-crop](https://github.com/dmytrodanylyk/video-crop)
 1. **Android-ScalableVideoView** Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more    
@@ -1438,19 +1439,19 @@ And this project is not using the image file!
 [https://github.com/linsea/UniversalVideoView](https://github.com/linsea/UniversalVideoView)
 
 
-#### <A NAME="Mapview"></A>Mapview
+#### <a name="Mapview" id="Mapview"></a>Mapview
 1. **AirMapView**  A view abstraction to provide a map user interface with various underlying map providers    
 [https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 2. **Google Maps Android API utility library** This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.    
 [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
 
 
-#### <A NAME="Choreographer"></A>Choreographer
+#### <a name="Choreographer" id="Choreographer"></a>Choreographer
 1. **Takt**  Takt is Android library for measuring the FPS using Choreographer.    
 [https://github.com/wasabeef/Takt](https://github.com/wasabeef/Takt)
 
 
-#### <A NAME="Tag"></A>Tag
+#### <a name="Tag" id="Tag"></a>Tag
 1. **AndroidTagGroup**  :four_leaf_clover:A beautiful android tag group widget.    
 [https://github.com/2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 1. **AndroidTagView**  A TagView library for Android. Customize your own & Drag effect.    
@@ -1468,7 +1469,7 @@ And this project is not using the image file!
 1. **3dTagCloudAndroid** A tagcloud component implemenation to android    
 [https://github.com/misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
 
-#### <A NAME="Keyboard"></A>Keyboard
+#### <a name="Keyboard" id="Keyboard"></a>Keyboard
 1. **XhsEmoticonsKeyboard**  也许是最良心的开源表情键盘解决方案。    
 [https://github.com/w446108264/XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
 1. **AndroidKeyboardWatcher**  Software keyboard open/close watcher for Android.          
@@ -1476,12 +1477,12 @@ And this project is not using the image file!
 
 
 
-#### <A NAME="WebView"></A>WebView
+#### <a name="WebView" id="WebView"></a>WebView
 1. **safe-java-js-webview-bridge** 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/               
 [https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
 
 
-#### <A NAME="Other"></A>Other
+#### <a name="Other" id="Other"></a>Other
 1. **MaterialScrollBar**  An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.        
 [https://github.com/krimin-killr21/MaterialScrollBar](https://github.com/krimin-killr21/MaterialScrollBar)
 1. **ScratchView**  ScratchView repo is UX Design involving scratch cards like views which are scratched to reveal the information they conceal.         
@@ -1802,34 +1803,34 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Component"></A>Component
-#### <A NAME="Component_Page"></A>Page
+### <a name="Component" id="Component"></a>Component
+#### <a name="Component_Page" id="Component_Page"></a>Page
 1. **android-about-page**  Create an awesome About Page for your Android App in 2 minutes               
 [https://github.com/medyo/android-about-page](https://github.com/medyo/android-about-page)
 1. **welcome-android**  A customizable welcome screen http://stephentuso.github.io/welcome-android/ 
 [https://github.com/stephentuso/welcome-android](https://github.com/stephentuso/welcome-android)
 
-#### <A NAME="Component_Media"></A>Media
+#### <a name="Component_Media" id="Component_Media"></a>Media
 1. **ijkplayer**  Video player based on ffplay           
 [https://github.com/Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 1. **GiraffePlayer**  out of the box android video player base on ijkplayer        
 [https://github.com/tcking/GiraffePlayer](https://github.com/tcking/GiraffePlayer)
 
-#### <A NAME="Component_Image"></A>Image
+#### <a name="Component_Image" id="Component_Image"></a>Image
 1. **ImageEditor-Android** AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作         
 [https://github.com/siwangqishiq/ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android)
 
-#### <A NAME="Component_ScreenShot"></A>ScreenShot
+#### <a name="Component_ScreenShot" id="Component_ScreenShot"></a>ScreenShot
 1. **InstaCapture**  Android library to capture screenshot from your app                                 
 [https://github.com/tarek360/InstaCapture](https://github.com/tarek360/InstaCapture)
 
 
 
-#### <A NAME="Component_Update"></A>Update
+#### <a name="Component_Update" id="Component_Update"></a>Update
 1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
 
-#### <A NAME="Component_QRCode"></A>QRCode
+#### <a name="Component_QRCode" id="Component_QRCode"></a>QRCode
 1. **BGAQRCode-Android**  Android QRCode Library       
 [https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 1. **QRGen**  a simple QRCode generation api for java built on top ZXING http://glxn.net/2012/03/10/qrgen-a-small-wrapper-on-top-of-zxing-for-generating-qrcodes-in-java/    
@@ -1841,12 +1842,12 @@ And this project is not using the image file!
 [https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
 
-### <A NAME="Performance"></A>Performance
-#### <A NAME="Analysis"></A>Performance_Analysis_Tools
+### <a name="Performance" id="Performance"></a>Performance
+#### <a name="Analysis" id="Analysis"></a>Performance_Analysis_Tools
 1. **MAT** The Eclipse Memory Analyzer is a fast and feature-rich Java heap analyzer that helps you find memory leaks and reduce memory consumption.    
 [https://www.eclipse.org/mat/](https://www.eclipse.org/mat/)
 
-#### <A NAME="Tools"></A>Performance_Tools
+#### <a name="Tools" id="Tools"></a>Performance_Tools
 1. **leakcanary** A memory leak detection library for Android and Java.      
 [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
 1. **blockcanary** A transparent ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/    
@@ -1857,7 +1858,7 @@ And this project is not using the image file!
 [https://github.com/NetEase/Emmagee](https://github.com/NetEase/Emmagee)
 
 
-#### <A NAME="Website"></A>Performance_Website_Tools
+#### <a name="Website" id="Website"></a>Performance_Website_Tools
 1. **阿里云测**   阿里移动质量中心（MQC）是为广大移动开发者提供真机测试服务的云平台，拥有大量热门机型，提供7x24全天候服务。    
 [http://mqc.aliyun.com/](http://mqc.aliyun.com/)
 1. **优测**  腾讯移动测试平台        
@@ -1868,8 +1869,8 @@ And this project is not using the image file!
 [http://www.testin.cn/](http://www.testin.cn/)
 
 
-### <A NAME="Plugin"></A>Plugin
-#### <A NAME="Gradle"></A>Gradle
+### <a name="Plugin" id="Plugin"></a>Plugin
+#### <a name="Gradle" id="Gradle"></a>Gradle
 1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.    
 [https://github.com/JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
 1. **lint-cleaner-plugin**  A Gradle Plugin for removing unused resources in Android projects.    
@@ -1886,7 +1887,7 @@ And this project is not using the image file!
 [https://github.com/KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin)
 
 
-#### <A NAME="Maven"></A>Maven
+#### <a name="Maven" id="Maven"></a>Maven
 1. **maven-android-plugin**  Android Maven Plugin    
 [https://github.com/jayway/maven-android-plugin](https://github.com/jayway/maven-android-plugin)
 1. **android-archetypes**  Maven Archetypes for Android development    
@@ -1894,11 +1895,11 @@ And this project is not using the image file!
 1. **m2e-android**  Android for Maven Eclipse    
 [https://github.com/rgladwell/m2e-android](https://github.com/rgladwell/m2e-android)
 
-#### <A NAME="SBT"></A>SBT
+#### <a name="SBT" id="SBT"></a>SBT
 1. **android-sdk-plugin** An easy-to-use sbt plugin for working with all Android projects    
 [https://github.com/pfn/android-sdk-plugin](https://github.com/pfn/android-sdk-plugin)
 
-#### <A NAME="Intellij_IDEA_/_Android_Studio"></A>Intellij IDEA / Android Studio
+#### <a name="Intellij_IDEA_/_Android_Studio" id="Intellij_IDEA_/_Android_Studio"></a>Intellij IDEA / Android Studio
 1. **android-xml-sorter** Android Studio & IntelliJ Plugin for sort xml by name="xxx".           
 [https://github.com/roana0229/android-xml-sorter](https://github.com/roana0229/android-xml-sorter)
 1. **android-material-design-icon-generator-plugin**  This plugin help you to set material design icon to your project.    
@@ -1925,7 +1926,7 @@ And this project is not using the image file!
 [https://github.com/JerzyPuchalski/Android-DPI-Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
 
 
-#### <A NAME="Other-Plugin"></A>Other
+#### <a name="Other-Plugin" id="Other-Plugin"></a>Other
 1. **lein-droid**  A Leiningen plugin for building Clojure/Android projects    
 [https://github.com/clojure-android/lein-droid](https://github.com/clojure-android/lein-droid)
 1. **AndroidProguardScala** AndroidProguardScala is an Eclipse plugin that speeds up the development process when you're using Scala on Android.    
@@ -1934,13 +1935,13 @@ And this project is not using the image file!
 [https://github.com/bpowell/vim-android](https://github.com/bpowell/vim-android)
 
 
-### <A NAME="Intent"></A>Intent
+### <a name="Intent" id="Intent"></a>Intent
 1. **PhotoPicker** 图片选择 & 图片预览    
 [https://github.com/donglua/PhotoPicker](https://github.com/donglua/PhotoPicker)
 
 
 
-### <A NAME="Injector"></A>Injector    
+### <a name="Injector" id="Injector"></a>Injector    
 1. **AndroidAnnotations**  Fast Android Development. Easy maintainance.
 [https://github.com/excilys/androidannotations](https://github.com/excilys/androidannotations)
 1. **roboguice** Google Guice on Android, version 2.0    
@@ -1959,7 +1960,7 @@ And this project is not using the image file!
 [https://github.com/litesuits/android-lite-auto](https://github.com/litesuits/android-lite-auto)
 
 
-### <A NAME="Template"></A>Template
+### <a name="Template" id="Template"></a>Template
 1. **android-material-drawer-template**  An Android template with navigation drawer for material design    
 [https://github.com/kanytu/android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)
 1. **material-design-icons-adt-template**  Android Studio / Eclipse ADT template for material-design-icons resources    
@@ -1968,7 +1969,7 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Adapter"></A>Adapter
+### <a name="Adapter" id="Adapter"></a>Adapter
 1. **BGAAdapter-Android** 在AdapterView和RecyclerView中通用的Adapter和ViewHolder         
 [https://github.com/bingoogolapple/BGAAdapter-Android](https://github.com/bingoogolapple/BGAAdapter-Android)
 1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection    
@@ -1994,24 +1995,24 @@ And this project is not using the image file!
 1. **SectionedRecyclerViewAdapter** An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state(Loading/Loaded/Failed) controlled individually.    
 [https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
 
-### <A NAME="Validation"></A>Validation
+### <a name="Validation" id="Validation"></a>Validation
 1. **android-saripaar**  UI Validation Library for Android    
 [https://github.com/ragunathjawahar/android-saripaar](https://github.com/ragunathjawahar/android-saripaar)
 
 
-### <A NAME="Gesture"></A>Gesture
+### <a name="Gesture" id="Gesture"></a>Gesture
 1. **android-gesture-detectors**  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector    
 [https://github.com/Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors)
 
 
 
-### <A NAME="Game"></A>Game
+### <a name="Game" id="Game"></a>Game
 1. **Space in Charge** Yet another 2D space-war game made with Unity3D for Android    
 [https://github.com/yaa110/Space-in-Charge](https://github.com/yaa110/Space-in-Charge)
 
 
 
-### <A NAME="Game_Engine"></A>Game Engine
+### <a name="Game_Engine" id="Game_Engine"></a>Game Engine
 1. **cocos2d-x** cocos2d-x for C++    
 [https://github.com/cocos2d/cocos2d-x/](https://github.com/cocos2d/cocos2d-x/)
 1. **libgdx**    Desktop/Android/HTML5/iOS Java game development framework    
@@ -2030,7 +2031,7 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Bluetooth"></A>Bluetooth
+### <a name="Bluetooth" id="Bluetooth"></a>Bluetooth
 1. **android-beacon-library** Allows Android apps to interact with BLE beacons      
 [https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
 1. **Android-BluetoothSPPLibrary** Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth    
@@ -2041,11 +2042,11 @@ And this project is not using the image file!
 [https://github.com/litesuits/android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE)
 
 
-### <A NAME="SocialNetworks"></A>SocialNetworks
+### <a name="SocialNetworks" id="SocialNetworks"></a>SocialNetworks
 1. **AndroidSocialNetworks** Library for easy work with Facebook, Twitter, LinkedIn and Google on Android    
 [https://github.com/antonkrasov/AndroidSocialNetworks#license](https://github.com/antonkrasov/AndroidSocialNetworks#license)
 
-### <A NAME="XMPP"></A>XMPP
+### <a name="XMPP" id="XMPP"></a>XMPP
 1. **Smack**    An Open Source XMPP Client Library written in Java for JVMs and Android    
 [https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
 1. **Xabber**    Open source Jabber (XMPP) client with multi-account support, clean and simple interface. Being both free (as in freedom!) and ad-free, Xabber is designed to be the best Jabber client for Android.    
@@ -2059,7 +2060,7 @@ And this project is not using the image file!
 1. **Android-Paho-Mqtt-Service** A simple MQTT Service that will keep running for the duration of your Android application using the Paho Java MQTT Client.      
 [https://github.com/JesseFarebro/Android-Mqtt](https://github.com/JesseFarebro/Android-Mqtt)
 
-### <A NAME="Code_Generation"></A>Code Generation
+### <a name="Code_Generation" id="Code_Generation"></a>Code Generation
 1. **parceler** Android Parcelables made easy through code generation.    
 [https://github.com/johncarl81/parceler](https://github.com/johncarl81/parceler)
 1. **auto-parcel**  Android Parcelable models made easy    
@@ -2086,7 +2087,7 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Media"></A>Media
+### <a name="Media" id="Media"></a>Media
 1. **FFmpeg** mirror of git://source.ffmpeg.org/ffmpeg.git    
 [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 1. **FFMpeg** this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)    
@@ -2112,12 +2113,12 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Embedded"></A>Embedded
+### <a name="Embedded" id="Embedded"></a>Embedded
 1. **usb-serial-for-android**  Android USB host serial driver library for CDC, FTDI, Arduino and other devices.    
 [https://github.com/mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android)
 
 
-### <A NAME="Utility"></A>Utility
+### <a name="Utility" id="Utility"></a>Utility
 1. **easydeviceinfo**  Android library to get device information in a super easy way. http://nisrulz.github.io/easydeviceinfo                
 [https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
 1. **StatusBarUtil** A util for setting status bar style on Android App. It can work above API 19(KitKat 4.4).    
@@ -2263,12 +2264,12 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Storage"></A>Storage
+### <a name="Storage" id="Storage"></a>Storage
 1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.    
 [https://github.com/SanDisk-Open-Source/RealStoragePathLibrary](https://github.com/SanDisk-Open-Source/RealStoragePathLibrary)
 
 
-### <A NAME="SDK"></A>SDK
+### <a name="SDK" id="SDK"></a>SDK
 1. **mapbox-android-sdk**    Open Source Maps SDK for Android    
 [https://github.com/mapbox/mapbox-android-sdk](https://github.com/mapbox/mapbox-android-sdk)
 1. **android-checkout**    Library for Android In-App Billing (Version 3)    
@@ -2323,7 +2324,7 @@ And this project is not using the image file!
 [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 
 
-### <A NAME="Test"></A>Test
+### <a name="Test" id="Test"></a>Test
 1. **macaca-android**  macaca-android          
 [https://github.com/macacajs/macaca-android](https://github.com/macacajs/macaca-android)
 1. **Junit**   A programmer-oriented testing framework for Java.    
@@ -2346,7 +2347,7 @@ And this project is not using the image file!
 [https://github.com/jayway/powermock](https://github.com/jayway/powermock)
 
 
-### <A NAME="Chart"></A>Chart
+### <a name="Chart" id="Chart"></a>Chart
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
 [https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
 1. **achartengine** This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.    
@@ -2373,7 +2374,7 @@ And this project is not using the image file!
 [https://github.com/numetriclabz/numAndroidCharts](https://github.com/numetriclabz/numAndroidCharts)
 
 
-### <A NAME="Icons"></A>Icons
+### <a name="Icons" id="Icons"></a>Icons
 1. **Skycons** Forecast / DarkSky's Skycons, Animated Weather icons recreated for Android    
 [https://github.com/torryharris/Skycons](https://github.com/torryharris/Skycons)
 1. **droidicon**  Over 1600 customizable icons for Android including 750+ Google Material Design icons, 25 ready-made social badges, and more!    
@@ -2388,12 +2389,12 @@ And this project is not using the image file!
 [https://github.com/mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 
 
-### <A NAME="Colors"></A>Colors
+### <a name="Colors" id="Colors"></a>Colors
 1. **Android-Material-Design-Colors**  Android Material Design Colors    
 [https://github.com/wada811/Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors)    
 
 
-### <A NAME="Font"></A>Font
+### <a name="Font" id="Font"></a>Font
 1. **Calligraphy**    Custom fonts in Android the easy way...    
 [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
 1. **android-typeface-helper** Typeface helper for Android    
@@ -2411,17 +2412,17 @@ And this project is not using the image file!
 
 
 
-### <A NAME="OpenGL"></A>OpenGL
+### <a name="OpenGL" id="OpenGL"></a>OpenGL
 1. **Rajawali** Rajawali is a 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.    
 [https://github.com/MasDennis/Rajawali](https://github.com/MasDennis/Rajawali)
 
-### <A NAME="Debug"></A>Debug
+### <a name="Debug" id="Debug"></a>Debug
 1. **android-grid-wichterle** This app will show grid overlay over whole system which helps you to verify your excellent app design.    
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **Goreinu** Goreinu allows to copy application files on sdcard.      
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 
-### <A NAME="Demo"></A>Demo
+### <a name="Demo" id="Demo"></a>Demo
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
 [https://github.com/android10/Android-AOPExample](https://github.com/android10/Android-AOPExample)
 1. **AndroidStudyDemo**  AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。       
@@ -2540,7 +2541,7 @@ And this project is not using the image file!
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 
 
-### <A NAME="App"></A>App
+### <a name="App" id="App"></a>App
 1. **Bourbon**  An MVP Dribbble client for Android Mobile, Tablet, Wear and TV.         
 [https://github.com/hitherejoe/Bourbon](https://github.com/hitherejoe/Bourbon)
 1. **BlackLight**   A light Sina Weibo client for Android https://black.lighting          
@@ -2681,7 +2682,7 @@ And this project is not using the image file!
 [https://github.com/YiuChoi/MicroReader](https://github.com/YiuChoi/MicroReader)
 
 
-### <A NAME="Security"></A>Security
+### <a name="Security" id="Security"></a>Security
 1. **gnupg-for-android** A port of gnupg to Android    
 [https://github.com/guardianproject/gnupg-for-android](https://github.com/guardianproject/gnupg-for-android)
 1. **openssl-android**  a version of the official Android openssl setup to build standalone for use in app    
@@ -2697,7 +2698,7 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Tools"></A>Tools
+### <a name="Tools" id="Tools"></a>Tools
 1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
 [https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development    
@@ -2768,7 +2769,7 @@ And this project is not using the image file!
 [https://github.com/canelmas/let](https://github.com/canelmas/let)
 
 
-### <A NAME="Decompiler"></A>Security & Decompiler
+### <a name="Decompiler" id="Decompiler"></a>Security & Decompiler
 1. **jadx**  Dex to Java decompiler    
 [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 1. **simplify**  Generic Android Deobfuscator    
@@ -2788,7 +2789,7 @@ And this project is not using the image file!
 
 
 
-### <A NAME="Android_Wear"></A>Android Wear
+### <a name="Android_Wear" id="Android_Wear"></a>Android Wear
 1. **BusWear**  EventBus for Android Wear devices.    
 [https://github.com/tajchert/BusWear](https://github.com/tajchert/BusWear)
 1. **CuXtom Cam**  An open source camera for google glass. This is a an alternative to the default camera on Glass. CuXtom Cam provides you the default behaviour along with some special features.    
@@ -2801,7 +2802,7 @@ And this project is not using the image file!
 [https://github.com/Mariuxtheone/Teleport](https://github.com/Mariuxtheone/Teleport)
 
 
-### <A NAME="Other1"></A>Other
+### <a name="Other1" id="Other1"></a>Other
 1. **AndroidVideoCache** Cache support for any video player with help of single line         
 [https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process    
@@ -2850,7 +2851,7 @@ And this project is not using the image file!
 [https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 
-### <A NAME="Books"></A>Books
+### <a name="Books" id="Books"></a>Books
 1. **RxJava Essentials 中文翻译版**   RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途 http://rxjava.yuxingxin.com    
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           
