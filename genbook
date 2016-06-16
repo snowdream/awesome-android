@@ -1,6 +1,29 @@
 #!/usr/bin/env bash
 
 echo -e "\n build book"
-gitbook pdf ./ ./books/awesome-android.pdf
-gitbook epub ./ ./books/awesome-android.epub
-gitbook mobi ./ ./books/awesome-android.mobi
+
+DIR_PATH="books"
+BOOK_NAME="awesome-android"
+echo ${DIR_PATH}
+echo ${BOOK_NAME}
+
+PDF_PATH=${DIR_PATH}/${BOOK_NAME}.pdf
+EPUB_PATH=${DIR_PATH}/${BOOK_NAME}.epub
+MOBI_PATH=${DIR_PATH}/${BOOK_NAME}.mobi
+
+if [ ! -e ${DIR_PATH} ];then
+  echo " create dir ${DIR_PATH}"
+  mkdir ${DIR_PATH}
+fi
+
+# for path in ${PDF_PATH} ${EPUB_PATH} ${MOBI_PATH}
+# do
+#   if [ ! -e ${path} ];then
+#     echo " touch file ${path}"
+#     touch ${path}
+#   fi
+# done
+  
+gitbook pdf ./ ${PDF_PATH}
+gitbook epub ./ ${EPUB_PATH}
+gitbook mobi ./ ${MOBI_PATH}

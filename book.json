@@ -1,6 +1,6 @@
 {
   "gitbook": "3.1.1",
-  "plugins": ["editlink", "github-buttons"],
+  "plugins": ["editlink", "github-buttons","anchor-navigation"],
   "pluginsConfig": {
     "editlink": {
       "base": "https://github.com/snowdream/awesome-android/edit/master/",
@@ -15,6 +15,22 @@
         "fork",
         "follow"
       ]
+    },
+    "autocover": {
+        "title": "Effective android with gradle",
+        "author": "snowdream <yanghui1986527@gmail.com>",
+        "font": {
+            "size": null,
+            "family": "Impact",
+            "color": "#FFF"
+        },
+        "size": {
+            "w": 1800,
+            "h": 2360
+        },
+        "background": {
+            "color": "#09F"
+        }
     }
   }
 }
