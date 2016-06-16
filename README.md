@@ -763,6 +763,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <A NAME="Progressbar/Progress_View"></A>Progressbar/Progress View
+1. **CircleProgressBar**  A circular android ProgressBar library which extends ProgressBar, It has both solid and line two styles. Besides, progress value can be freely customized.      
+[https://github.com/dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
 1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
 [https://github.com/GIGAMOLE/ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView)
 1. **KProgressHUD** An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.    
