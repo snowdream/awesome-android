@@ -589,7 +589,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
 1. **MaterialLoadingProgressBar**  MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)                              
 [https://github.com/lsjwzh/MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
-
+1. **uberprogressview** An android progress view developed after taking inspiration from Uber app. 
+[https://github.com/ishan1604/uberprogressview](https://github.com/ishan1604/uberprogressview)
 
 
 
