@@ -520,6 +520,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 1. **MaterialProgressBar** A Material design ProgressBar with consistent appearance on Android 4.0+    
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+1. **uberprogressview** An android progress view developed after taking inspiration from Uber app.    
+[https://github.com/ishan1604/uberprogressview](https://github.com/ishan1604/uberprogressview)
 
 
 #### <a name="UI" id="UI"></a>UI
