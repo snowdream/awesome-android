@@ -28,6 +28,8 @@ install:
 
 script:
 - chmod u+x ./build
+- chmod u+x ./genbook
+- chmod u+x ./genwebsite
 - ./build
 - chmod u+x .travis/deploy.sh
 - .travis/deploy.sh
