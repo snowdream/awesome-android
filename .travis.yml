@@ -1,0 +1,30 @@
+language: node_js
+node_js:
+- '6'
+cache:
+  apt: true
+  directories:
+  - node_modules
+# Optional
+addons:
+  apt:
+    packages:
+      # used by setenv.sh
+      - expect
+env:
+  global:
+  - secure: "h3JyKsiuUBZzq2Dug4yuOdFpL/sEZ6gtUQSCey4Q2Y8Qqtc3ZxUXVPR+WO/dCgxt8UN7FLzHR3oPVtpgvT7Ry85a7c6FO00/ajkwSb9cWR4iJjXEO8Z+DMcwETT6AMDt16qkxch097VQep1FhR61aCaEIEFvCYQHFShPN1yBJGR9qvAdjmVzsTiJ8/id8j+DMD6j9Fk8INVlxq9sA74C2Wjzi4o7lYvH20eY/8agSV/h8/KtG6TUZvxAZfSzan2+p8VRfrDqoKmILHL7psu0+Gs2QP1lNIBYRtBdhBjU5hEKShHof85QrTKuoaNfBDOZRWkkHz2MWj+eQZuE2ivp9mlneZ9KVPEFeOE+L8jVDoRVMYoQaJnXVHBZBBtdZqLnId9QeZmcPK5qDcNHWmhoYz9LtTuMA5GqDHpJBcIztRHMfuBDXFZfeGVw/HhJshrrTQ+JB4gmSendIO6KJBS9RLACiBDanknzCPeDIPsubiCYSLuefP15JdUbKx8+mSTimydurRN2JYSC9ff2SWJ3HHJB9gmsrvvQDxjpG8zSwt+QVEpP2/Ru306Bn1Ykj6q+cjXN8Vhs3uAmdAEobHIyYhofi5LeuIx/4Ocle+jzcHnGFZrl8Eo1aLR4ZNBSTDKmiXq6yuK2HmdY5m1SqkO3rrEUaW0t9TV2benP9VGvr2k="
+branches:
+  only:
+  - master 
+before_install:
+  # - openssl aes-256-cbc -K $encrypted_b9113630a4c4_key -iv $encrypted_b9113630a4c4_iv
+  #   -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
+
+install:
+- npm install hexo-cli -g
+- npm install
+
+script:
+- chmod u+x .travis/deploy.sh
+- .travis/deploy.sh
