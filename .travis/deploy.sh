@@ -58,6 +58,11 @@ expect  << EOF
     }
   }
   expect {
+    "Enter passphrase for" {
+      send "$ssh_pass\r"
+    }
+  }
+  expect {
     timeout { exit 1 }
     "denied" { exit 1 }
     eof { exit 0 }
