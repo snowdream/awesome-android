@@ -23,6 +23,7 @@ before_install:
   
 install:
 - npm install gitbook-cli -g
+- npm install
 - gitbook install
 
 script:

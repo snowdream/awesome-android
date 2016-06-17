@@ -1,5 +1,8 @@
 # build
 .git
+.publish
+.travis
+.gulp
 node_modules
 build
 genbook
