@@ -31,6 +31,7 @@ script:
 - chmod u+x ./build
 - chmod u+x ./genbook
 - chmod u+x ./genwebsite
-- ./build
+# - ./build
+- ./genwebsite
 - chmod u+x .travis/deploy.sh
 - .travis/deploy.sh
