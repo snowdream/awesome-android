@@ -22,9 +22,11 @@ before_install:
     -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
   
 install:
-- npm install hexo-cli -g
-- npm install
+- npm install gitbook-cli -g
+- gitbook install
 
 script:
+- chmod u+x ./build
+- ./build
 - chmod u+x .travis/deploy.sh
 - .travis/deploy.sh

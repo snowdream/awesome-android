@@ -43,7 +43,6 @@ git config --global user.email yanghui1986527@gmail.com
 expect >/dev/null 2>&1 << EOF
   set timeout 600
   spawn hexo clean
-  spawn hexo d -g
   expect {
     "Enter passphrase for" {
       send "$ssh_pass\r"
