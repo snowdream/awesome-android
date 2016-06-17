@@ -10,7 +10,7 @@ addons:
   apt:
     packages:
       # used by setenv.sh
-      - Calibre
+      - calibre
       - expect
 env:
   global:
