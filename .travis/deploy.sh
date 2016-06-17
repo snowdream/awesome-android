@@ -43,13 +43,14 @@ git config --global user.email yanghui1986527@gmail.com
 expect << EOF
   set timeout 600
   spawn gulp deploy
-  for {set i 0} {$i<3} {incr i} {
+  for i in {1..3}
+  do
     expect {
       "Enter passphrase for" {
         send "$ssh_pass\r"
       }
     }
-  }
+  done 
   expect {
     timeout { exit 1 }
     "denied" { exit 1 }
