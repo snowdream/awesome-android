@@ -2161,6 +2161,9 @@ And this project is not using the image file!
 [https://github.com/pents90/svg-android](https://github.com/pents90/svg-android)
 1. **vector-compat**   A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop      
 [https://github.com/wnafee/vector-compat](https://github.com/wnafee/vector-compat)
+1. **MrVector**  AKA VectorDrawableCompat: A 7+ backport of VectorDrawable.       
+[https://github.com/telly/MrVector](https://github.com/telly/MrVector)
+
 1. **davdroid**  DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices    
 [https://github.com/rfc2822/davdroid](https://github.com/rfc2822/davdroid)
 1. **phrase**    
