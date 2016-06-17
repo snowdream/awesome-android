@@ -2163,7 +2163,8 @@ And this project is not using the image file!
 [https://github.com/wnafee/vector-compat](https://github.com/wnafee/vector-compat)
 1. **MrVector**  AKA VectorDrawableCompat: A 7+ backport of VectorDrawable.       
 [https://github.com/telly/MrVector](https://github.com/telly/MrVector)
-
+1. **sharp**  Scalable vector graphics for Android       
+[https://github.com/Pixplicity/sharp](https://github.com/Pixplicity/sharp)
 1. **davdroid**  DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices    
 [https://github.com/rfc2822/davdroid](https://github.com/rfc2822/davdroid)
 1. **phrase**    
