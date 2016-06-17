@@ -1,4 +1,5 @@
 # awesome-android
+[![Build Status](https://travis-ci.org/snowdream/awesome-android.svg?branch=master)](https://travis-ci.org/snowdream/awesome-android)
 
 ## Introduction
 android libs from github
