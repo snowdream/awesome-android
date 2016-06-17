@@ -40,7 +40,7 @@ git config --global user.email yanghui1986527@gmail.com
 # Deploy with Hexo
 # Hide any sensitive credential data that might otherwise be exposed
 # In case of debugging you should remove those redirections to /dev/null
-expect >/dev/null 2>&1 << EOF
+expect << EOF
   set timeout 600
   spawn gulp deploy
   for {set i 0} {$i<3} {incr i} {
