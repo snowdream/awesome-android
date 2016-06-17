@@ -2159,6 +2159,8 @@ And this project is not using the image file!
 [https://github.com/throrin19/Android-Validator](https://github.com/throrin19/Android-Validator)
 1. **svg-android**  Support for scalable vector graphics in Android    
 [https://github.com/pents90/svg-android](https://github.com/pents90/svg-android)
+1. **vector-compat**   A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop      
+[https://github.com/wnafee/vector-compat](https://github.com/wnafee/vector-compat)
 1. **davdroid**  DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices    
 [https://github.com/rfc2822/davdroid](https://github.com/rfc2822/davdroid)
 1. **phrase**    
