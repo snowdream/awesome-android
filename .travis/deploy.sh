@@ -12,7 +12,6 @@ chmod 600 ~/.ssh/id_rsa
 # Start SSH agent in the background
 eval "$(ssh-agent -s)"
 
-echo "1"
 # Add the private key to the ssh-agent
 # Enter passphrase automatically
 expect >/dev/null 2>&1 << EOF
@@ -29,22 +28,19 @@ expect >/dev/null 2>&1 << EOF
     eof { exit 0 }
   }
 EOF
-echo "2"
 
 # Copy SSH config and known_hosts
 cp .travis/ssh_config ~/.ssh/config
 # cp .travis/ssh_known_hosts ~/.ssh/known_hosts
-echo "3"
 
 # Set Git config
 git config --global user.name 'snowdream'
 git config --global user.email yanghui1986527@gmail.com 
-echo "4"
 
 # Deploy with Hexo
 # Hide any sensitive credential data that might otherwise be exposed
 # In case of debugging you should remove those redirections to /dev/null
-expect  << EOF
+expect >/dev/null 2>&1 << EOF
   set timeout 600
   spawn gulp deploy
   expect {
@@ -68,4 +64,3 @@ expect  << EOF
     eof { exit 0 }
   }
 EOF
-echo "5"
