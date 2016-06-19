@@ -642,7 +642,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/pinball83/Masked-Edittext](https://github.com/pinball83/Masked-Edittext)
 1. **KerningViews** Provides a set of views which allows to adjust the spacing between the characters in the text of that view, also known as Kerning effect.
 [https://github.com/aritraroy/KerningViews](https://github.com/aritraroy/KerningViews)
-
+1. **SectionedRecyclerViewAdapter**  An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state(Loading/Loaded/Failed) controlled individually.          
+[https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
 1. **subsampling-scale-image-view**  Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.                  
