@@ -309,6 +309,8 @@ Step 2. The item should fall under the appropriate category.
 1. **SoBitmap** Bitmap decoder, handle resize & quality & compress stuff following user's configurations.     [https://github.com/airk000/SoBitmap](https://github.com/airk000/SoBitmap)
 1. **Fresco**   An image management library by FaceBook    
 [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
+1. **Glide Bitmap Pool**   Glide Bitmap Pool is a memory management library for reusing the bitmap memory
+[https://github.com/amitshekhariitbhu/GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
 
 
 ### <a name="Animations" id="Animations"></a>Animations
