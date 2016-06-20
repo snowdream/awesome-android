@@ -311,6 +311,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 1. **Glide Bitmap Pool**   Glide Bitmap Pool is a memory management library for reusing the bitmap memory
 [https://github.com/amitshekhariitbhu/GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
+1. **Compressor**   Compressor is a lightweight and powerful android image compression library, also support RxJava.
+[https://github.com/zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
 
 
 ### <a name="Animations" id="Animations"></a>Animations
