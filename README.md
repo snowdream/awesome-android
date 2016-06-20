@@ -447,7 +447,8 @@ Step 2. The item should fall under the appropriate category.
 [https://github.com/qibin0506/AndNet](https://github.com/qibin0506/AndNet)
 1. **AndroidNetworking**    Android Networking is a powerful library for doing any type of networking in Android applications.    
 [https://github.com/amitshekhariitbhu/AndroidNetworking](https://github.com/amitshekhariitbhu/AndroidNetworking)
-
+1. **HttpAgent** A perfectically simple library to manage http requests.            
+[https://github.com/studioidan/HttpAgent](https://github.com/studioidan/HttpAgent)
 
 
 
