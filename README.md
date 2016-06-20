@@ -773,6 +773,8 @@ Step 2. The item should fall under the appropriate category.
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **BezierLoadingView**  A cool loading view with Bezier and a smooth circular motion
+[https://github.com/JeasonWong/BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView)
 1. **CircleProgressBar**  A circular android ProgressBar library which extends ProgressBar, It has both solid and line two styles. Besides, progress value can be freely customized.      
 [https://github.com/dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
 1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
