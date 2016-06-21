@@ -1361,3 +1361,5 @@ And this project is not using the image file!
 [https://github.com/qyxxjd/MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)
 1. **AndroidExpandingViewLibrary** This is a library to help creating expanding views with animation in Android       
 [https://github.com/diegodobelo/AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary)
+1. **material-tip**   Android Library for prompt tip            
+[https://github.com/fcannizzaro/material-tip](https://github.com/fcannizzaro/material-tip)
