@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html lang="" >
     <head>
-        <title>Introduction · GitBook</title>
+        <title>Plugin · GitBook</title>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -65,8 +65,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="Framework.html" />
+    <link rel="next" href="Plugin.html" />
     
+    
+    <link rel="prev" href="Performance.html" />
     
 
     </head>
@@ -95,7 +97,7 @@
         
         
     
-        <li class="chapter active" data-level="1.1" data-path="./">
+        <li class="chapter " data-level="1.1" data-path="./">
             
                 <a href="./">
             
@@ -860,7 +862,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.11" data-path="Plugin.html">
+        <li class="chapter active" data-level="1.11" data-path="Plugin.html">
             
                 <a href="Plugin.html">
             
@@ -1390,7 +1392,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Introduction</a>
+        <a href="." >Plugin</a>
     </h1>
 </div>
 
@@ -1405,39 +1407,49 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="awesome-android">awesome-android</h1>
-<p><a href="https://travis-ci.org/snowdream/awesome-android" target="_blank"><img src="https://travis-ci.org/snowdream/awesome-android.svg?branch=master" alt="Build Status"></a></p>
-<h2 id="introduction">Introduction</h2>
-<p>android libs from github or other websites </p>
-<h2 id="system-requirements">System requirements</h2>
-<p>Android</p>
-<h2 id="notice">Notice</h2>
-<p>If the lib is no longer being maintained,please do not add it here.</p>
-<h2 id="how-to-contribute">How To Contribute</h2>
-<p>Step 1. Add a Item as follows:</p>
-<pre><code>**Library Name**[one space]Short Description[at least four space,then press enter]
-[link](link)
-</code></pre><p>Step 2. The item should fall under the appropriate category.</p>
-<h3 id="contacts">Contacts</h3>
-<ul>
-<li>Email&#xFF1A;yanghui1986527#gmail.com</li>
-<li>QQ Group: 529327615<br><strong>Welcome to talk about Android.</strong></li>
-</ul>
-<h2 id="license">License</h2>
-<pre><code>Copyright (C) 2014 Snowdream Mobile &lt;yanghui1986527@gmail.com&gt;
+                                <h4 id="gradle"><a name="Gradle" id="Gradle"></a>Gradle</h4>
+<ol>
+<li><strong>sdk-manager-plugin</strong>  Gradle plugin which downloads and manages your Android SDK.<br><a href="https://github.com/JakeWharton/sdk-manager-plugin" target="_blank">https://github.com/JakeWharton/sdk-manager-plugin</a></li>
+<li><strong>lint-cleaner-plugin</strong>  A Gradle Plugin for removing unused resources in Android projects.<br><a href="https://github.com/marcoRS/lint-cleaner-plugin" target="_blank">https://github.com/marcoRS/lint-cleaner-plugin</a></li>
+<li><strong>groovy-android-gradle-plugin</strong>  A Gradle plugin to support the Groovy language for building Android apps<br><a href="https://github.com/melix/groovy-android-gradle-plugin" target="_blank">https://github.com/melix/groovy-android-gradle-plugin</a></li>
+<li><strong>gradle-android-scala-plugin</strong>  gradle-android-scala-plugin adds scala language support to official gradle android plugin<br><a href="https://github.com/saturday06/gradle-android-scala-plugin" target="_blank">https://github.com/saturday06/gradle-android-scala-plugin</a></li>
+<li><strong>gradle-protobuf-plugin</strong>  Gradle plugin for Google Protocol Buffers<br><a href="https://github.com/andrewkroh/gradle-protobuf-plugin" target="_blank">https://github.com/andrewkroh/gradle-protobuf-plugin</a></li>
+<li><strong>gradle-play-publisher</strong>    Gradle Plugin to upload your APK and metadata to the Google Play Store<br><a href="https://github.com/Triple-T/gradle-play-publisher" target="_blank">https://github.com/Triple-T/gradle-play-publisher</a></li>
+<li><strong>dexcount-gradle-plugin</strong>  A Gradle plugin that reports how many DEX methods are in your APK on each build
+<a href="https://github.com/KeepSafe/dexcount-gradle-plugin" target="_blank">https://github.com/KeepSafe/dexcount-gradle-plugin</a></li>
+</ol>
+<h4 id="maven"><a name="Maven" id="Maven"></a>Maven</h4>
+<ol>
+<li><strong>maven-android-plugin</strong>  Android Maven Plugin<br><a href="https://github.com/jayway/maven-android-plugin" target="_blank">https://github.com/jayway/maven-android-plugin</a></li>
+<li><strong>android-archetypes</strong>  Maven Archetypes for Android development<br><a href="https://github.com/akquinet/android-archetypes" target="_blank">https://github.com/akquinet/android-archetypes</a></li>
+<li><strong>m2e-android</strong>  Android for Maven Eclipse<br><a href="https://github.com/rgladwell/m2e-android" target="_blank">https://github.com/rgladwell/m2e-android</a></li>
+</ol>
+<h4 id="sbt"><a name="SBT" id="SBT"></a>SBT</h4>
+<ol>
+<li><strong>android-sdk-plugin</strong> An easy-to-use sbt plugin for working with all Android projects<br><a href="https://github.com/pfn/android-sdk-plugin" target="_blank">https://github.com/pfn/android-sdk-plugin</a></li>
+</ol>
+<h4 id="intellij-idea--android-studio"><a name="Intellij_IDEA_/_Android_Studio" id="Intellij_IDEA_/_Android_Studio"></a>Intellij IDEA / Android Studio</h4>
+<ol>
+<li><strong>android-xml-sorter</strong> Android Studio &amp; IntelliJ Plugin for sort xml by name=&quot;xxx&quot;.<br><a href="https://github.com/roana0229/android-xml-sorter" target="_blank">https://github.com/roana0229/android-xml-sorter</a></li>
+<li><strong>android-material-design-icon-generator-plugin</strong>  This plugin help you to set material design icon to your project.<br><a href="https://github.com/konifar/android-material-design-icon-generator-plugin" target="_blank">https://github.com/konifar/android-material-design-icon-generator-plugin</a></li>
+<li><strong>android-holo-colors-idea-plugin</strong>    IntelliJ / Android Studio plugin for Android Holo Colors<br><a href="https://github.com/jeromevdl/android-holo-colors-idea-plugin" target="_blank">https://github.com/jeromevdl/android-holo-colors-idea-plugin</a></li>
+<li><strong>android-studio-unit-test-plugin</strong> Android Studio IDE support for Android gradle unit tests. Prepared for Robolectric.<br><a href="https://github.com/evant/android-studio-unit-test-plugin" target="_blank">https://github.com/evant/android-studio-unit-test-plugin</a></li>
+<li><strong>android-selector-chapek</strong>  Android Studio plugin which automatically generates drawable selectors from appropriately named resources<br><a href="https://github.com/inmite/android-selector-chapek" target="_blank">https://github.com/inmite/android-selector-chapek</a></li>
+<li><strong>android-parcelable-intellij-plugin</strong>  IntelliJ Plugin for Android Parcelable boilerplate code generation.<br><a href="https://github.com/mcharmas/android-parcelable-intellij-plugin" target="_blank">https://github.com/mcharmas/android-parcelable-intellij-plugin</a></li>
+<li><strong>adb-idea</strong> A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.<br><a href="https://github.com/pbreault/adb-idea" target="_blank">https://github.com/pbreault/adb-idea</a></li>
+<li><strong>android-butterknife-zelezny</strong> Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.<br><a href="https://github.com/inmite/android-butterknife-zelezny" target="_blank">https://github.com/inmite/android-butterknife-zelezny</a></li>
+<li><strong>DroidLane</strong>  Plugin help you to upload apk to Google Play.<br><a href="https://github.com/Jintin/DroidLane" target="_blank">https://github.com/Jintin/DroidLane</a></li>
+<li><strong>eventbus-intellij-plugin</strong>  Plugin to navigate between events posted by EventBus.<br><a href="https://github.com/kgmyshin/eventbus-intellij-plugin" target="_blank">https://github.com/kgmyshin/eventbus-intellij-plugin</a></li>
+<li><strong>GsonFormat</strong>  &#x6839;&#x636E;Gson&#x5E93;&#x4F7F;&#x7528;&#x7684;&#x8981;&#x6C42;,&#x5C06;JSONObject&#x683C;&#x5F0F;&#x7684;String &#x89E3;&#x6790;&#x6210;&#x5B9E;&#x4F53;<br><a href="https://github.com/zzz40500/GsonFormat" target="_blank">https://github.com/zzz40500/GsonFormat</a></li>
+<li><strong>Android-DPI-Calculator</strong>  Android Studio plugin allowing to calculate sizes in different densities like xxxhdpi, xxhdpi, xhdpi, hdpi, mdpi, ldpi and tvdpi.<br><a href="https://github.com/JerzyPuchalski/Android-DPI-Calculator" target="_blank">https://github.com/JerzyPuchalski/Android-DPI-Calculator</a></li>
+</ol>
+<h4 id="other"><a name="Other-Plugin" id="Other-Plugin"></a>Other</h4>
+<ol>
+<li><strong>lein-droid</strong>  A Leiningen plugin for building Clojure/Android projects<br><a href="https://github.com/clojure-android/lein-droid" target="_blank">https://github.com/clojure-android/lein-droid</a></li>
+<li><strong>AndroidProguardScala</strong> AndroidProguardScala is an Eclipse plugin that speeds up the development process when you&apos;re using Scala on Android.<br><a href="https://github.com/banshee/AndroidProguardScala" target="_blank">https://github.com/banshee/AndroidProguardScala</a></li>
+<li><strong>vim-android</strong>  Vim plugin to do android development.<br><a href="https://github.com/bpowell/vim-android" target="_blank">https://github.com/bpowell/vim-android</a></li>
+</ol>
 
-Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-</code></pre>
                                 
                                 </section>
                             
@@ -1464,8 +1476,12 @@ limitations under the License.
 
             
                 
+                <a href="Performance.html#Performance_Website_Tools" class="navigation navigation-prev " aria-label="Previous page: Website">
+                    <i class="fa fa-angle-left"></i>
+                </a>
                 
-                <a href="Framework.html" class="navigation navigation-next navigation-unique" aria-label="Next page: Framework">
+                
+                <a href="Plugin.html#Gradle" class="navigation navigation-next " aria-label="Next page: Gradle">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -1476,7 +1492,7 @@ limitations under the License.
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"next":{"title":"Framework","level":"1.2","depth":1,"path":"Framework.md","ref":"Framework.md","articles":[{"title":"Common","level":"1.2.1","depth":2,"anchor":"#Framework_Common","path":"Framework.md","ref":"Framework.md#Framework_Common","articles":[]},{"title":"Plugin","level":"1.2.2","depth":2,"anchor":"#Framework_Plugin","path":"Framework.md","ref":"Framework.md#Framework_Plugin","articles":[]},{"title":"MVC/MVVM/MVP","level":"1.2.3","depth":2,"anchor":"#Framework_MVC_MVVM_MVP","path":"Framework.md","ref":"Framework.md#Framework_MVC_MVVM_MVP","articles":[]},{"title":"Theme","level":"1.2.4","depth":2,"anchor":"#Framework_Theme","path":"Framework.md","ref":"Framework.md#Framework_Theme","articles":[]},{"title":"Hook","level":"1.2.5","depth":2,"anchor":"#Framework_Hook","path":"Framework.md","ref":"Framework.md#Framework_Hook","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"3.1.1","theme":"default","variables":{},"plugins":["editlink","github-buttons","anchor-navigation","ad"],"pluginsConfig":{"ad":{"contentBottom":"%3Cscript%20async%20src%3D%22//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E%3C%21--%20github%20--%3E%3Cins%20class%3D%22adsbygoogle%22%20style%3D%22display%3Ablock%22%20data-ad-client%3D%22ca-pub-4784160492252285%22%20data-ad-slot%3D%226568520857%22%20data-ad-format%3D%22auto%22%3E%3C/ins%3E%3Cscript%3E%28adsbygoogle%20%3D%20window.adsbygoogle%20%7C%7C%20%5B%5D%29.push%28%7B%7D%29%3B%3C/script%3E%3C/p%3E%3Cdiv%20id%3D%22disqus_thread%22%3E%3C/div%3E%3Cscript%3E%28function%28%29%20%7Bvar%20d%20%3D%20document%2C%20s%20%3D%20d.createElement%28%27script%27%29%3Bs.src%20%3D%20%27//awesomeandroid.disqus.com/embed.js%27%3Bs.setAttribute%28%27data-timestamp%27%2C%20+new%20Date%28%29%29%3B%28d.head%20%7C%7C%20d.body%29.appendChild%28s%29%3B%7D%29%28%29%3B%3C/script%3E%3Cnoscript%3EPlease%20enable%20JavaScript%20to%20view%20the%20%3Ca%20href%3D%22https%3A//disqus.com/%3Fref_noscript%22%20rel%3D%22nofollow%22%3Ecomments%20powered%20by%20Disqus.%3C/a%3E%3C/noscript%3E"},"editlink":{"label":"Edit This Page","multilingual":false,"base":"https://github.com/snowdream/awesome-android/edit/master/"},"search":{},"autocover":{"title":"Effective android with gradle","author":"snowdream <yanghui1986527@gmail.com>","font":{"size":null,"family":"Impact","color":"#FFF"},"size":{"w":1800,"h":2360},"background":{"color":"#09F"}},"anchor-navigation":{},"lunr":{"maxIndexSize":1000000},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"github-buttons":{"repo":"snowdream/awesome-android","types":["star","watch","fork","follow"]},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"README.md","mtime":"2016-06-21T00:42:39.700Z","type":"markdown"},"gitbook":{"version":"3.1.1","time":"2016-06-21T00:44:09.267Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Plugin","level":"1.11","depth":1,"next":{"title":"Gradle","level":"1.11.1","depth":2,"anchor":"#Gradle","path":"Plugin.md","ref":"Plugin.md#Gradle","articles":[]},"previous":{"title":"Website","level":"1.10.3","depth":2,"anchor":"#Performance_Website_Tools","path":"Performance.md","ref":"Performance.md#Performance_Website_Tools","articles":[]},"dir":"ltr"},"config":{"gitbook":"3.1.1","theme":"default","variables":{},"plugins":["editlink","github-buttons","anchor-navigation","ad"],"pluginsConfig":{"ad":{"contentBottom":"%3Cscript%20async%20src%3D%22//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E%3C/script%3E%3C%21--%20github%20--%3E%3Cins%20class%3D%22adsbygoogle%22%20style%3D%22display%3Ablock%22%20data-ad-client%3D%22ca-pub-4784160492252285%22%20data-ad-slot%3D%226568520857%22%20data-ad-format%3D%22auto%22%3E%3C/ins%3E%3Cscript%3E%28adsbygoogle%20%3D%20window.adsbygoogle%20%7C%7C%20%5B%5D%29.push%28%7B%7D%29%3B%3C/script%3E%3C/p%3E%3Cdiv%20id%3D%22disqus_thread%22%3E%3C/div%3E%3Cscript%3E%28function%28%29%20%7Bvar%20d%20%3D%20document%2C%20s%20%3D%20d.createElement%28%27script%27%29%3Bs.src%20%3D%20%27//awesomeandroid.disqus.com/embed.js%27%3Bs.setAttribute%28%27data-timestamp%27%2C%20+new%20Date%28%29%29%3B%28d.head%20%7C%7C%20d.body%29.appendChild%28s%29%3B%7D%29%28%29%3B%3C/script%3E%3Cnoscript%3EPlease%20enable%20JavaScript%20to%20view%20the%20%3Ca%20href%3D%22https%3A//disqus.com/%3Fref_noscript%22%20rel%3D%22nofollow%22%3Ecomments%20powered%20by%20Disqus.%3C/a%3E%3C/noscript%3E"},"editlink":{"label":"Edit This Page","multilingual":false,"base":"https://github.com/snowdream/awesome-android/edit/master/"},"search":{},"autocover":{"title":"Effective android with gradle","author":"snowdream <yanghui1986527@gmail.com>","font":{"size":null,"family":"Impact","color":"#FFF"},"size":{"w":1800,"h":2360},"background":{"color":"#09F"}},"anchor-navigation":{},"lunr":{"maxIndexSize":1000000},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"github-buttons":{"repo":"snowdream/awesome-android","types":["star","watch","fork","follow"]},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Plugin.md","mtime":"2016-06-21T00:42:39.700Z","type":"markdown"},"gitbook":{"version":"3.1.1","time":"2016-06-21T00:44:09.267Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
