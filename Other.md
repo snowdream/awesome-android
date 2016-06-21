@@ -394,6 +394,8 @@
 [https://github.com/ks3sdk/KSYMediaPlayer-Android-SDK](https://github.com/ks3sdk/KSYMediaPlayer-Android-SDK)
 1. **GalleryFinal**   Android自定义相册，实现了拍照、图片选择（单选/多选）、 裁剪（单/多裁剪）、旋转、ImageLoader无绑定任由开发者选 择、功能可配置、主题样式可配置。GalleryFinal为你定制相册。【GalleryFinal新版正在开发中，大家有什么好的建议和想法请尽快在issues上提】                
 [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
+1. **cloudrail-si-android-sdk**  Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs. Included services are Dropbox, Google Drive, OneDrive, Box, Facebook, GitHub, Google+, LinkedIn, Slack, Twitter, Windows Live, Yahoo, PayPal, Stripe, Mailjet, Sendgrid, Twilio, Nexmo, Google Places, Foursquare, Yelp. https://cloudrail.com                
+[https://github.com/CloudRail/cloudrail-si-android-sdk/](https://github.com/CloudRail/cloudrail-si-android-sdk/)
 
 
 ### <a name="Test" id="Test"></a>Test
