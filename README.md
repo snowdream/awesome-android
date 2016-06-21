@@ -4,6 +4,10 @@
 ## Introduction
 android libs from github or other websites 
 
+Read it online:
+1. https://snowdream.github.io/awesome-android
+1. https://snowdream86.gitbooks.io/awesome-android/content/
+
 ## System requirements
 Android
 
