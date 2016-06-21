@@ -870,6 +870,10 @@ And this project is not using the image file!
 
 
 #### <a name="Layout" id="Layout"></a>Layout
+1. **HoldToLoadLayout**  HoldToLoadLayout is a view group that can contain a single child. It draws your child to middle of layout, and performs loading wheel around it with settings you determined.
+       
+[https://github.com/melihaksoy/HoldToLoadLayout](https://github.com/melihaksoy/HoldToLoadLayout)       
+
 1. **flexbox-layout**  Flexbox for Android              
 [https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)
 1. **CursorWheelLayout**  An Android Widget for selecting items that rotate on a wheel.           
