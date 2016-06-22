@@ -29,6 +29,9 @@ Step 2. The item should fall under the appropriate category.
 * QQ Group: 529327615      
 **Welcome to talk about Android.**
 
+### Donate
+If the project is useful to you, and you like it, you can buy me a beer. 
+[Click to donate](Donate.md)
 
 ## License
 ```
