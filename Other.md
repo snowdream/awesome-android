@@ -843,7 +843,9 @@
 [https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
 1. **Let** Annotation based simple API flavoured with AOP to handle new Android runtime permission model    
 [https://github.com/canelmas/let](https://github.com/canelmas/let)
-
+1. **ApkCustomizationTool** apk定制工具，用于渠道打包等自定义apk。此工具使用JavaFX需要JDK1.8的支持。
+此工具适合渠道及相关人员!(不懂编程概念的相关人员)                
+[https://github.com/SSOOnline/ApkCustomizationTool](https://github.com/SSOOnline/ApkCustomizationTool)
 
 ### <a name="Decompiler" id="Decompiler"></a>Security & Decompiler
 1. **jadx**  Dex to Java decompiler    
