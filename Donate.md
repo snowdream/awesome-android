@@ -6,7 +6,7 @@ If the project is useful to you, and you like it, you can buy me a beer.
 yanghui1986527#gmail.com
 
 ## AliPay
-![AliPay donate][donate/alipay.jpg]
+![AliPay donate](donate/alipay.jpg)
 
 ## WeixinPay
-![WeixinPay donate][donate/weixinpay.jpg]
+![WeixinPay donate](donate/weixinpay.jpg)
