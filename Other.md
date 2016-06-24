@@ -944,3 +944,5 @@
 [https://github.com/GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)
 1. **AndroidSdkSourceAnalysis** android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！        
 [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+1. **AndroidInterview** android 面试资料             
+[https://github.com/fanrunqi/AndroidInterview](https://github.com/fanrunqi/AndroidInterview)
