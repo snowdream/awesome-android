@@ -313,6 +313,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **LoadingView**  a simple lodingview for android with animation           
+[https://github.com/ldoublem/LoadingView](https://github.com/ldoublem/LoadingView)
 1. **BezierLoadingView**  A cool loading view with Bezier and a smooth circular motion
 [https://github.com/JeasonWong/BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView)
 1. **CircleProgressBar**  A circular android ProgressBar library which extends ProgressBar, It has both solid and line two styles. Besides, progress value can be freely customized.      
