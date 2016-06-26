@@ -102,6 +102,8 @@
 
 
 ### <a name="Animations" id="Animations"></a>Animations
+1. **Transitions-Everywhere**  Backport of Android Transitions API for animations. Animations backported to Android 4.0+. API compatible with Android 2.2+         
+[https://github.com/andkulikov/Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
 1. **FragmentAnimations**  3D animations for support-v4 Fragment transition.      
 [https://github.com/kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations)
 1. **Road Runner** Road Runner is a library for android which allow you to make your own loading animation using a SVG image           
