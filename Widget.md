@@ -1367,3 +1367,5 @@ And this project is not using the image file!
 [https://github.com/fcannizzaro/material-tip](https://github.com/fcannizzaro/material-tip)
 1. **StepView**  Step by step，just use stepviewIndicator，step indicator，flow indicator，timeline                  
 [https://github.com/baoyachi/StepView](https://github.com/baoyachi/StepView)
+1. **DashboardView** Android 自定义View 仪表盘                 
+[https://github.com/SuperKung/DashboardView](https://github.com/SuperKung/DashboardView)
