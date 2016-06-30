@@ -10,6 +10,10 @@
 [https://github.com/Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 1. **GiraffePlayer**  out of the box android video player base on ijkplayer        
 [https://github.com/tcking/GiraffePlayer](https://github.com/tcking/GiraffePlayer)
+1. **JieCaoVideoPlayer**  Android VideoPlayer MediaPlayer VideoView MediaView and fullscreen        
+[https://github.com/lipangit/JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer)
+
+
 
 #### <a name="Component_Image" id="Component_Image"></a>Image
 1. **ImageEditor-Android** AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作         
