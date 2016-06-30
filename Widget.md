@@ -1369,3 +1369,5 @@ And this project is not using the image file!
 [https://github.com/baoyachi/StepView](https://github.com/baoyachi/StepView)
 1. **DashboardView** Android 自定义View 仪表盘                 
 [https://github.com/SuperKung/DashboardView](https://github.com/SuperKung/DashboardView)
+1. **StackOverView**  a custom widget of android，like task manager of android 5.0.       
+[https://github.com/Bossyao168/StackOverView](https://github.com/Bossyao168/StackOverView)
