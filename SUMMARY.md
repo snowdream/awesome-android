@@ -52,6 +52,7 @@
   * [ScreenShot](Component.md#Component_ScreenShot)
   * [Update](Component.md#Component_Update)
   * [QRCode](Component.md#Component_QRCode)
+  * [Other](Component.md#Component_Other)
 * [Performance](Performance.md)
   * [Analysis](Performance.md#Performance_Analysis_Tools)
   * [Tools](Performance.md#Performance_Tools)
