@@ -86,6 +86,8 @@
 
 
 #### <a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText
+1. **SlantedTextView** Android slanted TextView .     一个倾斜的TextView,适用于标签效果。             
+[https://github.com/HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 1. **ReadMoreTextView**  A Custom TextView with trim text         
 [https://github.com/borjabravo10/ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView)
 1. **MaskFormatter**  MaskFormatter adds mask functionality to your EditText. It will prevent user from inserting not allowed signs, and format input as well.         
