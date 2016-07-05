@@ -83,6 +83,8 @@
 #### <a name="Framework_Theme" id="Framework_Theme"></a>Theme
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.    
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
+1. **MagicaSakura**  MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com           
+[https://github.com/Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)  
 
 
 #### <a name="Framework_Hook" id="Framework_Hook"></a>Hook
