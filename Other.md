@@ -34,6 +34,8 @@
 
 
 ### <a name="Adapter" id="Adapter"></a>Adapter
+1. **LastAdapter**  Don't write a RecyclerView adapter again. Not even a ViewHolder!       
+[https://github.com/nitrico/LastAdapter](https://github.com/nitrico/LastAdapter)
 1. **BGAAdapter-Android** 在AdapterView和RecyclerView中通用的Adapter和ViewHolder         
 [https://github.com/bingoogolapple/BGAAdapter-Android](https://github.com/bingoogolapple/BGAAdapter-Android)
 1. **MultiChoiceAdapter**  Android - A ListView adapter with support for multiple choice modal selection    
