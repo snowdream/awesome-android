@@ -193,6 +193,8 @@
 [https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
+1. **AndroidGradientImageView**  AndroidGradientImageView is a simple imageview which overlays gradient on its content.           
+[https://github.com/skyfe79/AndroidGradientImageView](https://github.com/skyfe79/AndroidGradientImageView)
 1. **subsampling-scale-image-view**  Highly configurable, easily extendable view with pan and zoom gestures for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.                  
  [https://github.com/davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)
 1. **BadgedImageview** BadgedImageview allow you show a badge into a Imageview.    
