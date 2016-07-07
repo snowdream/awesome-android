@@ -1375,3 +1375,5 @@ And this project is not using the image file!
 [https://github.com/SuperKung/DashboardView](https://github.com/SuperKung/DashboardView)
 1. **StackOverView**  a custom widget of android，like task manager of android 5.0.       
 [https://github.com/Bossyao168/StackOverView](https://github.com/Bossyao168/StackOverView)
+1. **TEmptyView** Just a Wheel——A easy way to setEmptyView to ListView、GridView or RecyclerView etc..         
+[https://github.com/barryhappy/TEmptyView](https://github.com/barryhappy/TEmptyView)
