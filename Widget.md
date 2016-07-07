@@ -308,6 +308,8 @@
 [https://github.com/fenjuly/ArrowDownloadButton](https://github.com/fenjuly/ArrowDownloadButton)
 1. **FABProgressCircle**  Material progress circle around any FloatingActionButton. 100% Guidelines.    
 [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+1. **ShineButton** This is a UI lib for Android. Effects like shining.     
+[https://github.com/ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
 
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
@@ -1377,3 +1379,5 @@ And this project is not using the image file!
 [https://github.com/Bossyao168/StackOverView](https://github.com/Bossyao168/StackOverView)
 1. **TEmptyView** Just a Wheel——A easy way to setEmptyView to ListView、GridView or RecyclerView etc..         
 [https://github.com/barryhappy/TEmptyView](https://github.com/barryhappy/TEmptyView)
+1. **Popview-Android** Pop animation with circular dust effect for any view updation         
+[https://github.com/krishnarb3/Popview-Android](https://github.com/krishnarb3/Popview-Android)
