@@ -34,6 +34,8 @@
 
 
 ### <a name="Adapter" id="Adapter"></a>Adapter
+1. **SuperAdapter** Adapter(BaseAdapter, RecyclerView.Adapter) wrapper for android. 一个Adapter同时适用RecyclerView、ListView、GridView等。 http://www.jianshu.com/p/d6a76fd3ea5b        
+[https://github.com/byteam/SuperAdapter](https://github.com/byteam/SuperAdapter)
 1. **LastAdapter**  Don't write a RecyclerView adapter again. Not even a ViewHolder!       
 [https://github.com/nitrico/LastAdapter](https://github.com/nitrico/LastAdapter)
 1. **BGAAdapter-Android** 在AdapterView和RecyclerView中通用的Adapter和ViewHolder         
