@@ -71,6 +71,8 @@
 ### <a name="Gesture" id="Gesture"></a>Gesture
 1. **android-gesture-detectors**  Gesture detector framework for multitouch handling on Android, based on Android's ScaleGestureDetector    
 [https://github.com/Almeros/android-gesture-detectors](https://github.com/Almeros/android-gesture-detectors)
+1. **sensey**  Android library which makes detecting gestures a breeze    
+[https://github.com/nisrulz/sensey](https://github.com/nisrulz/sensey)
 
 
 
