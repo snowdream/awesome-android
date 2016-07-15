@@ -598,6 +598,8 @@ And this project is not using the image file!
 [https://github.com/andraskindler/quickscroll](https://github.com/andraskindler/quickscroll)
 1. **FilterSelectorListView**   FilterSelectorListView is useful for making multiple selection with see selection on the top of ListView.    
 [https://github.com/pchauhan/FilterSelectorListView](https://github.com/pchauhan/FilterSelectorListView)
+1. **Animated Expanding ListView**   Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.    
+[https://github.com/LeonardoCardoso/Animated-Expanding-ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView)
 
 
 
