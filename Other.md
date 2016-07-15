@@ -859,6 +859,8 @@
 [https://github.com/SSOOnline/ApkCustomizationTool](https://github.com/SSOOnline/ApkCustomizationTool)
 1. **Android-Material-Icon-Generator**  Android icons with looooong material shadows! http://bitdroid.de/Android-Material-Icon-Generator/      
 [https://github.com/Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
+1. **Android-Link-Preview**   It makes a preview from an url, grabbing all the information such as title, relevant texts and images.    
+[https://github.com/LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)
 
 
 
