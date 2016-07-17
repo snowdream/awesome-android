@@ -774,7 +774,8 @@ And this project is not using the image file!
 [https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
 1. **AwesomeSplash**   Awesome-looking customizable splash screen    
 [https://github.com/ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash)
-
+1. **EasyIntro** The flexible, easy to use, all in one app intro library for your Android project.    
+[https://github.com/meNESS/EasyIntro](https://github.com/meNESS/EasyIntro)
 
 
 #### <a name="Tabs" id="Tabs"></a>Tabs
