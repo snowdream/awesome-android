@@ -1,5 +1,7 @@
 
 ### <a name="EventBus" id="EventBus"></a>EventBus
+1. **HermesEventBus**  A library for using EventBus between processes, useful in IPC or plugin-in development.       
+[https://github.com/eleme/HermesEventBus](https://github.com/eleme/HermesEventBus)
 1. **EventBus** Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.    
 [https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 1. **otto**   An enhanced Guava-based event bus with emphasis on Android support.    
