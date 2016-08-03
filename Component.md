@@ -28,6 +28,8 @@
 #### <a name="Component_Update" id="Component_Update"></a>Update
 1. **AppUpdater**  A library that checks for your apps' updates on Google Play, GitHub, Amazon, F-Droid or your own server. API 8+ required.       
 [https://github.com/javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater)
+1. **MAHAndroidUpdater**  Android app update checker. Library checks if there are any update on app and if app has moved to new address.    
+[https://github.com/hummatli/MAHAndroidUpdater](https://github.com/hummatli/MAHAndroidUpdater)
 
 #### <a name="Component_QRCode" id="Component_QRCode"></a>QRCode
 1. **BGAQRCode-Android**  Android QRCode Library       
