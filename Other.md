@@ -782,6 +782,10 @@
 [https://github.com/InstantWebP2P/tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java)
 
 
+### <a name="Advertisement" id="Advertisement"></a>Advertisement
+1. **MAHAds** Library for advertisement own apps through your other apps    
+[https://github.com/hummatli/MAHAds](https://github.com/hummatli/MAHAds)
+
 
 
 
