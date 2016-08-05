@@ -158,6 +158,8 @@
 
 
 ### <a name="Media" id="Media"></a>Media
+1. **AndroidVideoCache** Cache support for any video player with help of single line
+[https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
 1. **FFmpeg** mirror of git://source.ffmpeg.org/ffmpeg.git    
 [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 1. **FFMpeg** this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)    
@@ -899,9 +901,7 @@
 
 
 ### <a name="Other1" id="Other1"></a>Other
-1. **AndroidVideoCache** Cache support for any video player with help of single line         
-[https://github.com/danikula/AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)
-1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process    
+1. **FileDownloader**  Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process
 [https://github.com/lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader)
 1. **PasswordLoadingView** Provide an animation when finished the password    
 [https://github.com/Rogero0o/PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)
