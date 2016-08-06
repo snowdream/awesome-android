@@ -1386,3 +1386,5 @@ And this project is not using the image file!
 [https://github.com/barryhappy/TEmptyView](https://github.com/barryhappy/TEmptyView)
 1. **Popview-Android** Pop animation with circular dust effect for any view updation         
 [https://github.com/krishnarb3/Popview-Android](https://github.com/krishnarb3/Popview-Android)
+1. **PaperShredder** a PaperShredder view for android         
+[https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
