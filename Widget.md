@@ -639,6 +639,8 @@ And this project is not using the image file!
 
 
 #### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
+1. **BeautifulParallax** Beautify your RecyclerViews with a great parallax effect !           
+[https://github.com/florent37/BeautifulParallax](https://github.com/florent37/BeautifulParallax)
 1. **sectioned-recyclerview**   Implement a multi-sectioned RecyclerView using a custom adapter interface. http://aidanfollestad.com        [https://github.com/afollestad/sectioned-recyclerview](https://github.com/afollestad/sectioned-recyclerview)
 1. **SuperSLiM**  A layout manager for the RecyclerView with interchangeable linear, grid, and staggered displays of views, all with configurable section headers including the sticky variety as specified in the material design docs. http://tonicartos.com        
 [https://github.com/TonicArtos/SuperSLiM](https://github.com/TonicArtos/SuperSLiM)
