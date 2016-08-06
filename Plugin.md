@@ -1,8 +1,6 @@
 #### <a name="Gradle" id="Gradle"></a>Gradle
 1. **img-optimizer-gradle-plugin** 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。      
 [https://github.com/chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
-1. **sdk-manager-plugin**  Gradle plugin which downloads and manages your Android SDK.    
-[https://github.com/JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)
 1. **lint-cleaner-plugin**  A Gradle Plugin for removing unused resources in Android projects.    
 [https://github.com/marcoRS/lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
 1. **groovy-android-gradle-plugin**  A Gradle plugin to support the Groovy language for building Android apps    
