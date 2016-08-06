@@ -71,6 +71,11 @@ require(['gitbook'], function (gitbook) {
         return window["gitbook-plugin-github-buttons"];
     }
 
+    // make sure configuration gets injected
+    gitbook.events.bind('start', function (e, config) {
+        window["gitbook-plugin-github-buttons"] = config["github-buttons"];
+    });
+
     gitbook.events.bind('page.change', function () {
         init(getPluginConfig());
     });
