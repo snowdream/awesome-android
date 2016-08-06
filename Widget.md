@@ -807,6 +807,8 @@ And this project is not using the image file!
 1. **pretty-toast**  This is quite simple toast library, that make it easier to show and create custom toast. Library provides Builder which can be used to create flexible custom Toast messages.
          
 [https://github.com/CROSP/pretty-toast](https://github.com/CROSP/pretty-toast)
+1. **TastyToast**   Make your native android toast look beautiful.              
+[https://github.com/yadav-rahul/TastyToast](https://github.com/yadav-rahul/TastyToast)
 
 
 #### <a name="LockView" id="LockView"></a>LockView
