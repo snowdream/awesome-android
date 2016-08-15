@@ -1057,6 +1057,8 @@ And this project is not using the image file!
 #### <a name="WebView" id="WebView"></a>WebView
 1. **safe-java-js-webview-bridge** 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/               
 [https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+1. **Android-AdvancedWebView** Enhanced WebView component for Android that works as intended out of the box      
+[https://github.com/delight-im/Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)
 
 
 #### <a name="Other" id="Other"></a>Other
