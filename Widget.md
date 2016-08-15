@@ -408,7 +408,8 @@ And this project is not using the image file!
 [https://github.com/Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 1. **LoadingDrawable**  some android loading drawable, can be combined with any View as the loading View and Progressbar, and is especially suitable for the loading animation of the RecyclerRefreshLayout.         
 [https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
-
+1. **LikeSinaSportProgress**  仿新浪体育客户端的进度条        
+[https://github.com/YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)
 
 
 
