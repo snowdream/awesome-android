@@ -639,6 +639,8 @@ And this project is not using the image file!
 
 
 #### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
+1. **PullZoomRecyclerView**   A pull to zoom-in RecyclerView for android        
+[https://github.com/dinuscxj/PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
 1. **BeautifulParallax** Beautify your RecyclerViews with a great parallax effect !           
 [https://github.com/florent37/BeautifulParallax](https://github.com/florent37/BeautifulParallax)
 1. **sectioned-recyclerview**   Implement a multi-sectioned RecyclerView using a custom adapter interface. http://aidanfollestad.com        [https://github.com/afollestad/sectioned-recyclerview](https://github.com/afollestad/sectioned-recyclerview)
