@@ -1401,3 +1401,5 @@ And this project is not using the image file!
 [https://github.com/krishnarb3/Popview-Android](https://github.com/krishnarb3/Popview-Android)
 1. **PaperShredder** a PaperShredder view for android         
 [https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
+1. **Blur** 高斯模糊库，四种模糊方式      
+[https://github.com/robinxdroid/Blur](https://github.com/robinxdroid/Blur)
