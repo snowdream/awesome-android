@@ -73,7 +73,8 @@
 [https://bitbucket.org/qbusict/cupboard](https://bitbucket.org/qbusict/cupboard)
 1. **SquiDB** is a simple SQLite database layer for Android    
 [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
-
+1. **Android-Orma** A lightning-fast ORM for Android as a wrapper of SQLiteDatabase http://gfx.github.io/Android-Orma        
+[https://github.com/gfx/Android-Orma](https://github.com/gfx/Android-Orma)  
 
 ### <a name="Image_Loading" id="Image_Loading"></a>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.    
