@@ -885,6 +885,10 @@ And this project is not using the image file!
 [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
 1. **material-calendar-view** A calendar with pretty Material look, that runs on Android API 8+
 [https://github.com/JonatanSalas/material-calendar-view](https://github.com/JonatanSalas/material-calendar-view)
+1. **FlatTimeCollection**  Amazing Dynamic Time UI :clock1030: :hourglass: and More        
+[https://github.com/anastr/FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)
+
+
 
 
 #### <a name="Layout" id="Layout"></a>Layout
