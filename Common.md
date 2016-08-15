@@ -102,6 +102,11 @@
 [https://github.com/amitshekhariitbhu/GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
 1. **Compressor**   Compressor is a lightweight and powerful android image compression library, also support RxJava.
 [https://github.com/zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+1. **Luban**  Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法          
+[https://github.com/Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+
+
 
 
 ### <a name="Animations" id="Animations"></a>Animations
