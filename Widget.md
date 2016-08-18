@@ -1403,3 +1403,7 @@ And this project is not using the image file!
 [https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
 1. **Blur** 高斯模糊库，四种模糊方式      
 [https://github.com/robinxdroid/Blur](https://github.com/robinxdroid/Blur)
+1. **SpeedView**  Dynamic Speedometer UI for Android :zap:
+[https://github.com/anastr/SpeedView](https://github.com/anastr/SpeedView)
+1. **TargetView**  Animation View to Highlight particular Views :dart:
+[https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
