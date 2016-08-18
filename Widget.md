@@ -819,6 +819,8 @@ And this project is not using the image file!
 [https://github.com/AmniX/MaterialPatternllockView](https://github.com/AmniX/MaterialPatternllockView)
 1.  **PinLockView**   A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android
 [https://github.com/aritraroy/PinLockView](https://github.com/aritraroy/PinLockView)
+1.  **PinCodeView** A custom view with keyboard and character display to be used for authentication
+[https://github.com/Arjun-sna/android-passcodeview](https://github.com/Arjun-sna/android-passcodeview)
 
 
 
