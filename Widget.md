@@ -265,6 +265,8 @@
 [https://github.com/lawloretienne/ImageGallery](https://github.com/lawloretienne/ImageGallery)
 1. **GestureViews**  ImageView and FrameLayout with gestures control and position animation.    
 [https://github.com/alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)
+1. **MusicCoverView** ImageView that 'morphs' into a circle shape and can rotates. Useful to be used as album cover in Music apps.    
+[https://github.com/andremion/Music-Cover-View](https://github.com/andremion/Music-Cover-View)
 
 
 
@@ -487,7 +489,8 @@ And this project is not using the image file!
 [https://github.com/melvinjlobo/MetaballMenu](https://github.com/melvinjlobo/MetaballMenu)
 1. **TapBarMenu**  Simple library that helps creating a "Tap Bar" menu layout.    
 [https://github.com/michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu)
-
+1. **FloatingNavigationView** A Floating Action Button that shows an anchored Navigation View.    
+[https://github.com/andremion/Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View)
 
 
 
