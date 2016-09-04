@@ -321,6 +321,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **SmileyLoadingView** A custom loading view, just like alipay             
+[https://github.com/andyxialm/SmileyLoadingView](https://github.com/andyxialm/SmileyLoadingView)
 1. **RingProgress**   a circle progress bar with effect       
 [https://github.com/ldoublem/RingProgress](https://github.com/ldoublem/RingProgress)
 1. **SlackLoadingView** Imitate Slack loading animation.           
