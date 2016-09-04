@@ -78,6 +78,8 @@
 [https://github.com/Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy)
 1. **Mosby**  A Model-View-Presenter library for modern Android apps.    
 [https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
+1. **Archi**  This repository showcases and compares different architectural patterns that can be used to build Android apps.           
+[https://github.com/ivacf/archi](https://github.com/ivacf/archi)
 
 
 #### <a name="Framework_Theme" id="Framework_Theme"></a>Theme
