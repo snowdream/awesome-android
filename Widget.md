@@ -1422,3 +1422,7 @@ And this project is not using the image file!
 [https://github.com/dynamitechetan/FogView_Library](https://github.com/dynamitechetan/FogView_Library)
 1. **MaterialTapTargetPrompt**  Material Design tap target for Android.           
 [https://github.com/sjwall/MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt)  
+1. **BlurredView**  Dynamic blur of image views for Android        
+[https://github.com/wl9739/BlurredView](https://github.com/wl9739/BlurredView)
+1. **codeview-android**  Show code content with syntax highlighting in native way.         
+[https://github.com/Softwee/codeview-android](https://github.com/Softwee/codeview-android)
