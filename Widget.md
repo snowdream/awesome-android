@@ -321,6 +321,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **SlackLoadingView** Imitate Slack loading animation.           
+[https://github.com/JeasonWong/SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView)
 1. **LoadingView**  a simple lodingview for android with animation           
 [https://github.com/ldoublem/LoadingView](https://github.com/ldoublem/LoadingView)
 1. **BezierLoadingView**  A cool loading view with Bezier and a smooth circular motion
