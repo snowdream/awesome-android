@@ -1416,3 +1416,5 @@ And this project is not using the image file!
 [https://github.com/anastr/SpeedView](https://github.com/anastr/SpeedView)
 1. **TargetView**  Animation View to Highlight particular Views :dart:
 [https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
+1. **FogView_Library**  FogView is a android library that can show fog on any layout and the fog removes when user rubs it.            
+[https://github.com/dynamitechetan/FogView_Library](https://github.com/dynamitechetan/FogView_Library)
