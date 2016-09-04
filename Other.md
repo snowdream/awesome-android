@@ -432,6 +432,8 @@
 
 
 ### <a name="Chart" id="Chart"></a>Chart
+1. **Jgraph**  图表控件         
+[https://github.com/mychoices/Jgraph](https://github.com/mychoices/Jgraph)
 1. **GraphView** Android Graph Library for creating zoomable and scrollable line and bar graphs.    
 [https://github.com/jjoe64/GraphView](https://github.com/jjoe64/GraphView)
 1. **achartengine** This is a charting software library for Android applications. Mobile phones, tablets and other gadgets running Android will probably benefit of this charting library.    
