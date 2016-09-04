@@ -1418,3 +1418,5 @@ And this project is not using the image file!
 [https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
 1. **FogView_Library**  FogView is a android library that can show fog on any layout and the fog removes when user rubs it.            
 [https://github.com/dynamitechetan/FogView_Library](https://github.com/dynamitechetan/FogView_Library)
+1. **MaterialTapTargetPrompt**  Material Design tap target for Android.           
+[https://github.com/sjwall/MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt)  
