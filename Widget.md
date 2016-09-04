@@ -1442,3 +1442,5 @@ And this project is not using the image file!
 [https://github.com/wl9739/BlurredView](https://github.com/wl9739/BlurredView)
 1. **codeview-android**  Show code content with syntax highlighting in native way.         
 [https://github.com/Softwee/codeview-android](https://github.com/Softwee/codeview-android)
+1. **TutoShowcase**    A simple and Elegant Showcase view for Android           
+[https://github.com/florent37/TutoShowcase](https://github.com/florent37/TutoShowcase)
