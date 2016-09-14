@@ -1452,3 +1452,5 @@ And this project is not using the image file!
 [https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
 1. **WaveSideBar**  You can use WaveSideBar in the contacts page of your application.          
 [https://github.com/gjiazhe/WaveSideBar](https://github.com/gjiazhe/WaveSideBar)
+1. **FlipShare**  It's a cool way to show share widget.                   
+[https://github.com/JeasonWong/FlipShare](https://github.com/JeasonWong/FlipShare)
