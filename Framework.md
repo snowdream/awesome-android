@@ -96,3 +96,7 @@
 [https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
 1. **Xposed** The native part of the Xposed framework (mainly the modified app_process binary).    
 [https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
+
+#### <a name="Framework_HotFix" id="Framework_HotFix"></a>HotFix
+1. **Amigo**  A hotfix library for Android platform, and not just this...           
+[https://github.com/eleme/Amigo](https://github.com/eleme/Amigo)
