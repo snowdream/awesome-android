@@ -104,3 +104,5 @@
 [https://github.com/alibaba/AndFix](https://github.com/alibaba/AndFix)
 1. **DroidFix**   AndroidHotFix/Android 代码热修复 http://bunnyblue.github.io/DroidFix        
 [https://github.com/bunnyblue/DroidFix](https://github.com/bunnyblue/DroidFix)
+1. **HotFix**  安卓App热补丁动态修复框架          
+[https://github.com/dodola/HotFix](https://github.com/dodola/HotFix)
