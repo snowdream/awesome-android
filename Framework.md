@@ -100,3 +100,5 @@
 #### <a name="Framework_HotFix" id="Framework_HotFix"></a>HotFix
 1. **Amigo**  A hotfix library for Android platform, and not just this...           
 [https://github.com/eleme/Amigo](https://github.com/eleme/Amigo)
+1. **AndFix**  AndFix is a library that offer hot-fix for Android App.          
+[https://github.com/alibaba/AndFix](https://github.com/alibaba/AndFix)
