@@ -22,6 +22,8 @@
 [https://github.com/Arasthel/SwissKnife](https://github.com/Arasthel/SwissKnife)
 1. **LiteAuto** lite your android ! the code is on the way~ http://lihttp//litesuits.com?from=auto              
 [https://github.com/litesuits/android-lite-auto](https://github.com/litesuits/android-lite-auto)
+1. **fragmentargs**  Annotation Processor for setting arguments in android fragments http://hannesdorfmann.com/android/fragmentargs/         
+[https://github.com/sockeqwe/fragmentargs](https://github.com/sockeqwe/fragmentargs)
 
 
 ### <a name="Template" id="Template"></a>Template
