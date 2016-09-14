@@ -6,6 +6,7 @@
   * [MVC/MVVM/MVP](Framework.md#Framework_MVC_MVVM_MVP)
   * [Theme](Framework.md#Framework_Theme)
   * [Hook](Framework.md#Framework_Hook)
+  * [HotFix](Framework.md#Framework_HotFix)
 * [Orm](Common.md#Orm)
 * [Image Loading](Common.md#Image_Loading)
 * [Animations](Common.md#Animations)
