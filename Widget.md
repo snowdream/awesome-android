@@ -1454,3 +1454,5 @@ And this project is not using the image file!
 [https://github.com/gjiazhe/WaveSideBar](https://github.com/gjiazhe/WaveSideBar)
 1. **FlipShare**  It's a cool way to show share widget.                   
 [https://github.com/JeasonWong/FlipShare](https://github.com/JeasonWong/FlipShare)
+1. **ScratchView**    This is a android custom view , like a scratch card effect!              
+[https://github.com/D-clock/ScratchView](https://github.com/D-clock/ScratchView)
