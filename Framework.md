@@ -106,3 +106,5 @@
 [https://github.com/bunnyblue/DroidFix](https://github.com/bunnyblue/DroidFix)
 1. **HotFix**  安卓App热补丁动态修复框架          
 [https://github.com/dodola/HotFix](https://github.com/dodola/HotFix)
+1. **Nuwa**  Nuwa, pure java implementation, can hotfix your android application.               
+[https://github.com/jasonross/Nuwa](https://github.com/jasonross/Nuwa)
