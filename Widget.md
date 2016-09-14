@@ -1446,3 +1446,5 @@ And this project is not using the image file!
 [https://github.com/Softwee/codeview-android](https://github.com/Softwee/codeview-android)
 1. **TutoShowcase**    A simple and Elegant Showcase view for Android           
 [https://github.com/florent37/TutoShowcase](https://github.com/florent37/TutoShowcase)
+1. **TapTargetView**  An implementation of tap targets from the Material Design guidelines for feature discovery               
+[https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
