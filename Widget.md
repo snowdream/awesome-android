@@ -1,5 +1,7 @@
 
 #### <a name="Material" id="Material"></a>Material
+1. **material-design-dimens**  Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.        
+[https://github.com/DmitryMalkovich/material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens)
 1. **MaterialDesignLibrary**  This is a library with components of Android L to you use in android 4.0    
 [https://github.com/navasmdc/MaterialDesignLibrary#flat-button](https://github.com/navasmdc/MaterialDesignLibrary#flat-button)
 1. **Carbon** Material Design implementation for Android 2.1+. Realtime shadows, ripples, animations, SVGs and more.    
