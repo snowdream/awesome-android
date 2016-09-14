@@ -208,8 +208,8 @@
 [https://github.com/MasayukiSuda/EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator)
 1. **TargetView**  Animation View to Highlight particular Views for Android.    
 [https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
-
-
+1. **CannyViewAnimator**  CannyViewAnimator is an enhanced version of ViewAnimator. It allows to use Animators and Transitions to extend Visibility.                
+[https://github.com/LiveTyping/CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)
 
 
 
