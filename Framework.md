@@ -102,3 +102,5 @@
 [https://github.com/eleme/Amigo](https://github.com/eleme/Amigo)
 1. **AndFix**  AndFix is a library that offer hot-fix for Android App.          
 [https://github.com/alibaba/AndFix](https://github.com/alibaba/AndFix)
+1. **DroidFix**   AndroidHotFix/Android 代码热修复 http://bunnyblue.github.io/DroidFix        
+[https://github.com/bunnyblue/DroidFix](https://github.com/bunnyblue/DroidFix)
