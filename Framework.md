@@ -108,3 +108,5 @@
 [https://github.com/dodola/HotFix](https://github.com/dodola/HotFix)
 1. **Nuwa**  Nuwa, pure java implementation, can hotfix your android application.               
 [https://github.com/jasonross/Nuwa](https://github.com/jasonross/Nuwa)
+1. **dexposed** dexposed enable 'god' mode for single android application.    
+[https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
