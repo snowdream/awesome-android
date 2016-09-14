@@ -1456,3 +1456,5 @@ And this project is not using the image file!
 [https://github.com/JeasonWong/FlipShare](https://github.com/JeasonWong/FlipShare)
 1. **ScratchView**    This is a android custom view , like a scratch card effect!              
 [https://github.com/D-clock/ScratchView](https://github.com/D-clock/ScratchView)
+1. **CreditSesameRingView**  Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/8486a5baa708               
+[https://github.com/HotBitmapGG/CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView)
