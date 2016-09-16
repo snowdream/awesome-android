@@ -406,6 +406,8 @@
 [https://github.com/pengjianbo/GalleryFinal](https://github.com/pengjianbo/GalleryFinal)
 1. **cloudrail-si-android-sdk**  Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs. Included services are Dropbox, Google Drive, OneDrive, Box, Facebook, GitHub, Google+, LinkedIn, Slack, Twitter, Windows Live, Yahoo, PayPal, Stripe, Mailjet, Sendgrid, Twilio, Nexmo, Google Places, Foursquare, Yelp. https://cloudrail.com                
 [https://github.com/CloudRail/cloudrail-si-android-sdk/](https://github.com/CloudRail/cloudrail-si-android-sdk/)
+1. **Qiscus SDK** A lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.    
+[https://github.com/qiscus/qiscus-sdk-android](https://github.com/qiscus/qiscus-sdk-android)
 
 
 ### <a name="Test" id="Test"></a>Test
