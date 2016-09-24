@@ -98,6 +98,8 @@
 [https://github.com/rovo89/Xposed](https://github.com/rovo89/Xposed)
 
 #### <a name="Framework_HotFix" id="Framework_HotFix"></a>HotFix
+1. **tinker**  Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.     
+[https://github.com/Tencent/tinker](https://github.com/Tencent/tinker)
 1. **Amigo**  A hotfix library for Android platform, and not just this...           
 [https://github.com/eleme/Amigo](https://github.com/eleme/Amigo)
 1. **AndFix**  AndFix is a library that offer hot-fix for Android App.          
