@@ -193,6 +193,11 @@
 [https://github.com/aritraroy/KerningViews](https://github.com/aritraroy/KerningViews)
 1. **SectionedRecyclerViewAdapter**  An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state(Loading/Loaded/Failed) controlled individually.          
 [https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
+1. **android-ago**  An Android TextView that always displays an auto refreshing relative time span with respect to a reference time                       
+[https://github.com/curioustechizen/android-ago](https://github.com/curioustechizen/android-ago)
+
+
+
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
 1. **FrescoImageViewer**  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures http://stfalcon.com                 
