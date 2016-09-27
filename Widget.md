@@ -660,6 +660,8 @@ And this project is not using the image file!
 
 
 #### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
+1. **RecyclerTabLayout**  An efficient TabLayout library implemented with RecyclerView.         
+[https://github.com/nshmura/RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout)
 1. **PullZoomRecyclerView**   A pull to zoom-in RecyclerView for android        
 [https://github.com/dinuscxj/PullZoomRecyclerView](https://github.com/dinuscxj/PullZoomRecyclerView)
 1. **BeautifulParallax** Beautify your RecyclerViews with a great parallax effect !           
