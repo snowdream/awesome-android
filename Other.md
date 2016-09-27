@@ -184,6 +184,8 @@
 [https://github.com/jcodec/jcodec](https://github.com/jcodec/jcodec)
 1. **ipcam-view** MJPEG video streaming on Android    
 [https://github.com/niqdev/ipcam-view](https://github.com/niqdev/ipcam-view)
+1. **AndroidAudioConverter** Convert audio files inside your Android app easily. This is a wrapper of FFmpeg-Android-Java lib.        
+[https://github.com/adrielcafe/AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter)
 
 
 
