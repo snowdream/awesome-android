@@ -632,6 +632,8 @@
 
 
 ### <a name="App" id="App"></a>App
+1. **BookReader**  任阅小说阅读器。实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。             
+[https://github.com/JustWayward/BookReader](https://github.com/JustWayward/BookReader)
 1. **bookdash-android-app**  Book Dash is an Android App for the NPO where you can download books in different languages for free.      
 [https://github.com/bookdash/bookdash-android-app](https://github.com/bookdash/bookdash-android-app)
 1. **Bourbon**  An MVP Dribbble client for Android Mobile, Tablet, Wear and TV.         
