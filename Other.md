@@ -195,6 +195,8 @@
 
 
 ### <a name="Utility" id="Utility"></a>Utility
+1. **LowPoly**  LowPoly is implemented by JNI, so it's much faster than other in java.                 
+[https://github.com/CoXier/LowPoly](https://github.com/CoXier/LowPoly)
 1. **easydeviceinfo**  Android library to get device information in a super easy way. http://nisrulz.github.io/easydeviceinfo                
 [https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
 1. **StatusBarUtil** A util for setting status bar style on Android App. It can work above API 19(KitKat 4.4).    
