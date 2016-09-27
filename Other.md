@@ -971,3 +971,5 @@
 [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 1. **ForAndroidInterview**  android interview experience and question in (android、java、data structure、tcp/ip、os)          
 [https://github.com/Mr-YangCheng/ForAndroidInterview](https://github.com/Mr-YangCheng/ForAndroidInterview)
+1. **android_design_patterns_analysis**  Android源码设计模式分析项目        
+[https://github.com/simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
