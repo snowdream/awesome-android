@@ -330,6 +330,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **BounceLoadingView**   模仿饿了么加载效果       
+[https://github.com/niniloveyou/BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)
 1. **GradeProgressView**   a progress view used to grade mobiles phone       
 [https://github.com/niniloveyou/GradeProgressView](https://github.com/niniloveyou/GradeProgressView)
 1. **SmileyLoadingView** A custom loading view, just like alipay             
