@@ -330,6 +330,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **GradeProgressView**   a progress view used to grade mobiles phone       
+[https://github.com/niniloveyou/GradeProgressView](https://github.com/niniloveyou/GradeProgressView)
 1. **SmileyLoadingView** A custom loading view, just like alipay             
 [https://github.com/andyxialm/SmileyLoadingView](https://github.com/andyxialm/SmileyLoadingView)
 1. **RingProgress**   a circle progress bar with effect       
