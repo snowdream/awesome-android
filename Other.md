@@ -782,7 +782,8 @@
 [https://github.com/HeinrichReimer/material-intro](https://github.com/HeinrichReimer/material-intro)
 1. **MarkdownEditors**  Android Markdown编辑器        
 [https://github.com/qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors)
-
+1. **Android-SecretCodes** Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone. http://simonmarquis.github.io/Android-SecretCodes/     
+[https://github.com/SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes)
 
 
 ### <a name="Security" id="Security"></a>Security
@@ -796,7 +797,8 @@
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **tweetnacl-java**    This is TweetNacl security library written in Java for Android.    
 [https://github.com/InstantWebP2P/tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java)
-
+1. **AESCrypt-Android**   Simple API to perform AES encryption on Android. This is the Android counterpart to the AESCrypt library Ruby and Obj-C (with the same less than ideal security defaults) created by Gurpartap Singh. https://github.com/Gurpartap/aescrypt      
+[https://github.com/scottyab/AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android)
 
 
 
@@ -964,6 +966,8 @@
 ### <a name="Books" id="Books"></a>Books
 1. **awesome-adb**  ADB Usage Complete / ADB 用法大全            
 [https://github.com/mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb)
+1. **AndroidShell (Mac Os Commands)** Android Developers are used to use an amount of shell commands in their everyday work, so I'm gonna recopilate some good shell commands to make search easier       
+[https://github.com/cesards/AndroidShell](https://github.com/cesards/AndroidShell)
 1. **RxJava Essentials 中文翻译版**   RxJava Essentials 中文翻译版 仅供交流学习使用，严禁商业用途 http://rxjava.yuxingxin.com    
 [https://github.com/yuxingxin/RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN)
 1. **android_guides**  Extensive Open-Source Guides for Android Developers http://guides.codepath.com           

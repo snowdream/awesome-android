@@ -74,7 +74,10 @@
 1. **SquiDB** is a simple SQLite database layer for Android    
 [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
 1. **Android-Orma** A lightning-fast ORM for Android as a wrapper of SQLiteDatabase http://gfx.github.io/Android-Orma        
-[https://github.com/gfx/Android-Orma](https://github.com/gfx/Android-Orma)  
+[https://github.com/gfx/Android-Orma](https://github.com/gfx/Android-Orma) 
+1. **RushOrm**       Object-relational mapping for Android http://www.rushorm.com/           
+[https://github.com/Stuart-campbell/RushOrm](https://github.com/Stuart-campbell/RushOrm)
+ 
 
 ### <a name="Image_Loading" id="Image_Loading"></a>Image Loading
 1. **Android-Universal-Image-Loader**  Powerful and flexible library for loading, caching and displaying images on Android.    
@@ -210,7 +213,7 @@
 [https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
 1. **CannyViewAnimator**  CannyViewAnimator is an enhanced version of ViewAnimator. It allows to use Animators and Transitions to extend Visibility.                
 [https://github.com/LiveTyping/CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)
-
+1. 
 
 
 ### <a name="Network" id="Network"></a>Network
@@ -246,7 +249,8 @@
 [https://github.com/amitshekhariitbhu/AndroidNetworking](https://github.com/amitshekhariitbhu/AndroidNetworking)
 1. **HttpAgent** A perfectically simple library to manage http requests.            
 [https://github.com/studioidan/HttpAgent](https://github.com/studioidan/HttpAgent)
-
+1. **ActSwitchAnimTool** ActSwitchAnimTool make the Animation easy to implements, and it compat the version of Android 4.0 or above.            
+[https://github.com/Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
 
 
 ### <a name="Task/Job" id="Task/Job"></a>Task/Job

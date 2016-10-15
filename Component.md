@@ -42,6 +42,11 @@
 [http://zbar.sourceforge.net/](http://zbar.sourceforge.net/)      
 [https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
 
+#### <a name="Component_Permission" id="Component_Permission"></a>Permission
+1. **Permissify** Simplifying Android Permissions    
+[https://github.com/holidaycheck/Permissify](https://github.com/holidaycheck/Permissify)
+
+
 #### <a name="Component_Other" id="Component_Other"></a>Other
 1. **Android-DirectoryChooser**  A directory chooser library for Android.       
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)

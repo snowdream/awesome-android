@@ -113,6 +113,8 @@
 [https://github.com/rockerhieu/emojicon](https://github.com/rockerhieu/emojicon)
 1. **android-autofittextview**  A TextView that automatically resizes text to fit perfectly within its bounds.    
 [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
+1. **AutoFitTextView** A TextView that automatically fit its font and line count based on its available size and content       
+[https://github.com/AndroidDeveloperLB/AutoFitTextView](https://github.com/AndroidDeveloperLB/AutoFitTextView)
 1. **Android-RobotoTextView**   Implementation of a TextView and all its direct/indirect subclasses with native support for the Roboto fonts, includes the brand new Roboto Slab fonts.    
 [https://github.com/johnkil/Android-RobotoTextView](https://github.com/johnkil/Android-RobotoTextView)
 1. **SizeAdjustingTextView** This is based on an open source autosizing textview for Android.    
@@ -348,6 +350,8 @@
 [https://github.com/dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar)
 1. **ArcProgressStackView**  Present your progress bars in arc mode with information and total control.    
 [https://github.com/GIGAMOLE/ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView)
+1. **ArcProgressStackView** Present your progress bars in arc mode with information and total control.           
+[https://github.com/DevLight-Mobile-Agency/ArcProgressStackView](https://github.com/DevLight-Mobile-Agency/ArcProgressStackView)
 1. **KProgressHUD** An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.    
 [https://github.com/Kaopiz/KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
 1. **SmoothProgressBar**  A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar    
@@ -1046,6 +1050,8 @@ And this project is not using the image file!
 [https://github.com/Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android)
 1. **BubbleLayout**  Bubble View for Android.    
 [https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
+1. **BubbleAnimationLayout** You don’t want your apps look and feel boring, do you? Add some bubbles! https://www.cleveroad.com           
+[https://github.com/Cleveroad/BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
@@ -1469,3 +1475,15 @@ And this project is not using the image file!
 [https://github.com/D-clock/ScratchView](https://github.com/D-clock/ScratchView)
 1. **CreditSesameRingView**  Imitation of Ali credit sesame new old ring view.http://www.jianshu.com/p/8486a5baa708               
 [https://github.com/HotBitmapGG/CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView)
+1. **FiftyShadesOf**  An elegant context-care loading placeholder for Android       
+[https://github.com/florent37/FiftyShadesOf](https://github.com/florent37/FiftyShadesOf)
+1. **PlaceHolderView** A wrapper for android recyclerview and contains stacked view            
+[https://github.com/janishar/PlaceHolderView](https://github.com/janishar/PlaceHolderView)
+1. **FreshDownloadView** FreshDownloadView is a java library for Android，It's a good way to show download progress with a cool animtion.some inspiration are from Dribbble            
+[https://github.com/dudu90/FreshDownloadView](https://github.com/dudu90/FreshDownloadView)
+1. **MultiStateView** Android View that displays different content based on its state        
+[https://github.com/Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView)
+1. **RealtimeBlurView**     It's just a realtime blurring overlay like iOS UIVisualEffectView.
+[https://github.com/mmin18/RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView)
+1. **SnowingView** 一个看起来还不错的下雪动画。    
+[https://github.com/HelloVass/SnowingView](https://github.com/HelloVass/SnowingView)
