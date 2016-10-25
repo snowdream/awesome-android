@@ -1076,6 +1076,8 @@ And this project is not using the image file!
 [https://github.com/airbnb/AirMapView](https://github.com/airbnb/AirMapView)
 2. **Google Maps Android API utility library** This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.    
 [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+3. **MapScaleView** Scale bar for Google Maps Android API.    
+[https://github.com/pengrad/MapScaleView](https://github.com/pengrad/MapScaleView)
 
 
 #### <a name="Choreographer" id="Choreographer"></a>Choreographer
