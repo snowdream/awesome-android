@@ -52,3 +52,5 @@
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
 1. **AndroidLogCollector**  android app崩溃日志收集sdk 1.0      
 [https://github.com/DrJia/AndroidLogCollector](https://github.com/DrJia/AndroidLogCollector)
+1. **android-sql-logging**  App-local sql logging with viewer activity            
+[https://github.com/explodes/android-sql-logging](https://github.com/explodes/android-sql-logging)
