@@ -213,7 +213,8 @@
 [https://github.com/anastr/SimpleTargetView](https://github.com/anastr/SimpleTargetView)
 1. **CannyViewAnimator**  CannyViewAnimator is an enhanced version of ViewAnimator. It allows to use Animators and Transitions to extend Visibility.                
 [https://github.com/LiveTyping/CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)
-1. 
+1. **MaterialImageLoading**  Material image loading implementation           
+[https://github.com/florent37/MaterialImageLoading](https://github.com/florent37/MaterialImageLoading)
 
 
 ### <a name="Network" id="Network"></a>Network
