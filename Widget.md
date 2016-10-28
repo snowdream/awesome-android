@@ -630,7 +630,8 @@ And this project is not using the image file!
 [https://github.com/pchauhan/FilterSelectorListView](https://github.com/pchauhan/FilterSelectorListView)
 1. **Animated Expanding ListView**   Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.    
 [https://github.com/LeonardoCardoso/Animated-Expanding-ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView)
-
+1. **FanLayoutManager**  Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades https://www.cleveroad.com           
+[https://github.com/Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)
 
 
 
