@@ -112,6 +112,8 @@
 [https://github.com/palaima/AndroidSmoothBluetooth](https://github.com/palaima/AndroidSmoothBluetooth)
 1. **LiteBle**  BLE Framework. Based on Bluetooth 4.0. Based on callback. Extremely simple! Communication with BluetoothLE(BLE) device as easy as HTTP communication. Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单。 http://litesuits.com?form=gble           
 [https://github.com/litesuits/android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE)
+1. **BluetoothHelper**  Bluetooth Helper Library.—-蓝牙操作库                
+[https://github.com/a-voyager/BluetoothHelper](https://github.com/a-voyager/BluetoothHelper)
 
 
 ### <a name="SocialNetworks" id="SocialNetworks"></a>SocialNetworks
