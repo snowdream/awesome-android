@@ -1490,3 +1490,5 @@ And this project is not using the image file!
 [https://github.com/mmin18/RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView)
 1. **SnowingView** 一个看起来还不错的下雪动画。    
 [https://github.com/HelloVass/SnowingView](https://github.com/HelloVass/SnowingView)
+1. **DotMatrixView** An Android custom view to display digits rendered as dots in a grid, with a style like a 1970s LED clock.              
+[https://github.com/EscapeIndustries/DotMatrixView](https://github.com/EscapeIndustries/DotMatrixView)
