@@ -989,4 +989,6 @@
 1. **android_design_patterns_analysis**  Android源码设计模式分析项目        
 [https://github.com/simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
 1. **Android-Session-Slides**  Here are the slides in MDCC 2016 Android Session.       
-[https://github.com/MDCC2016/Android-Session-Slides]()[https://github.com/MDCC2016/Android-Session-Slides]()
+[https://github.com/MDCC2016/Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
+  1. **from-java-to-kotlin**  From Java to Kotlin                   
+[https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
