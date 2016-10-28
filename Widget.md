@@ -70,7 +70,8 @@
 [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 1. **uberprogressview** An android progress view developed after taking inspiration from Uber app.    
 [https://github.com/ishan1604/uberprogressview](https://github.com/ishan1604/uberprogressview)
-
+1. **MaterialRatingBar**  Material Design RatingBar with better appearance.         
+[https://github.com/DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
 
 #### <a name="UI" id="UI"></a>UI
 1. **android-ui**   Android UI library.  Requires API level 14+    
