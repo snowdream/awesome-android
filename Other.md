@@ -808,6 +808,8 @@
 
 
 ### <a name="Tools" id="Tools"></a>Tools
+1. **super-adb** 用busybox加持的功能更加强大的adb shell；不需要root。             
+[https://github.com/tiann/super-adb](https://github.com/tiann/super-adb)
 1. **density-converter**  This is a simple tool that helps converting single or batches of images to Android, iOS and Windows specific formats and density versions given the source scale factor or width in dp. It has a graphical and command line interface and supports many image types (svg,psd,etc.)              
 [https://github.com/patrickfav/density-converter](https://github.com/patrickfav/density-converter)
 1. **ViewInspector**  View Inspection Toolbar for Android Development    
