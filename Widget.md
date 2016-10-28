@@ -773,6 +773,8 @@ And this project is not using the image file!
 [https://github.com/Telenav/ExpandablePager](https://github.com/Telenav/ExpandablePager)
 1. **ParallaxViewPager**  ViewPager页面切换视差效果    
 [https://github.com/ybq/ParallaxViewPager](https://github.com/ybq/ParallaxViewPager)
+1. **BubbleTab**  Put some bubble in your tabs and give your apps a supa fresh style !             
+[https://github.com/florent37/BubbleTab](https://github.com/florent37/BubbleTab)
 
 
 
