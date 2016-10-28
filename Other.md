@@ -965,7 +965,8 @@
 [https://github.com/rmtheis/android-ocr](https://github.com/rmtheis/android-ocr)
 1. **MasteringAndroidDataBinding**  A comprehensive tutorial for Android Data Binding    
 [https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
-
+1. **FingerprintAuthHelper**  A small library that allows You to easily manage fingererprint authentication inside your Activity or Fragment on devices with fingerprint scanner and Android M and higher. Min sdk 14                    
+[https://github.com/pro100svitlo/FingerprintAuthHelper](https://github.com/pro100svitlo/FingerprintAuthHelper)
 
 ### <a name="Books" id="Books"></a>Books
 1. **awesome-adb**  ADB Usage Complete / ADB 用法大全            
