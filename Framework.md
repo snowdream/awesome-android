@@ -80,7 +80,8 @@
 [https://github.com/sockeqwe/mosby](https://github.com/sockeqwe/mosby)
 1. **Archi**  This repository showcases and compares different architectural patterns that can be used to build Android apps.           
 [https://github.com/ivacf/archi](https://github.com/ivacf/archi)
-
+1. **EasyMVP** A full-featured framework that allows building android applications following the principles of Clean Architecture.    
+[https://github.com/6thsolution/EasyMVP](https://github.com/6thsolution/EasyMVP)
 
 #### <a name="Framework_Theme" id="Framework_Theme"></a>Theme
 1. **MultipleTheme**  Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.    
