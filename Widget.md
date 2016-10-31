@@ -817,6 +817,8 @@ And this project is not using the image file!
 [https://github.com/ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash)
 1. **EasyIntro** The flexible, easy to use, all in one app intro library for your Android project.    
 [https://github.com/meNESS/EasyIntro](https://github.com/meNESS/EasyIntro)
+1. **TGOCMessagesActivity** Flexible chat activity for Android.    
+[https://github.com/two-guys-one-code/TGOCMessagesActivity](https://github.com/two-guys-one-code/TGOCMessagesActivity)
 
 
 #### <a name="Tabs" id="Tabs"></a>Tabs
