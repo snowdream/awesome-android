@@ -333,6 +333,8 @@
 
 
 #### <a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View
+1. **AwesomeProgressbar**   支持左右两边同时滚动的进度条       
+[https://github.com/alex5241/AwesomeProgressbar](https://github.com/alex5241/AwesomeProgressbar)
 1. **BounceLoadingView**   模仿饿了么加载效果       
 [https://github.com/niniloveyou/BounceLoadingView](https://github.com/niniloveyou/BounceLoadingView)
 1. **GradeProgressView**   a progress view used to grade mobiles phone       
@@ -1125,6 +1127,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **TumblrLikeAnimView**  仿Tumblr点赞动画效果        
+[https://github.com/alex5241/TumblrLikeAnimView](https://github.com/alex5241/TumblrLikeAnimView)
 1. **MaterialScrollBar**  An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.        
 [https://github.com/krimin-killr21/MaterialScrollBar](https://github.com/krimin-killr21/MaterialScrollBar)
 1. **ScratchView**  ScratchView repo is UX Design involving scratch cards like views which are scratched to reveal the information they conceal.         
