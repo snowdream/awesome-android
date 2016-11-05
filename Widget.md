@@ -1131,6 +1131,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **Audiogram** Lightweight audio wave component        
+[https://github.com/alxrm/Audiogram](https://github.com/alxrm/Audiogram)
 1. **TumblrLikeAnimView**  仿Tumblr点赞动画效果        
 [https://github.com/alex5241/TumblrLikeAnimView](https://github.com/alex5241/TumblrLikeAnimView)
 1. **MaterialScrollBar**  An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.        
