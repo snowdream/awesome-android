@@ -324,7 +324,8 @@
 [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
 1. **ShineButton** This is a UI lib for Android. Effects like shining.     
 [https://github.com/ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)
-
+1. **RaiflatButton** A raised button that lowers down to 0dp of elevation     
+[https://github.com/rubensousa/RaiflatButton](https://github.com/rubensousa/RaiflatButton)
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
 1. **AnimCheckBox**  AnimCheckBox    
