@@ -674,6 +674,8 @@ And this project is not using the image file!
 
 
 #### <a name="Recyclerview" id="Recyclerview"></a>Recyclerview
+1. **ChipsLayoutManager** ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features          
+[https://github.com/BelooS/ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager)
 1. **RecyclerTabLayout**  An efficient TabLayout library implemented with RecyclerView.         
 [https://github.com/nshmura/RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout)
 1. **PullZoomRecyclerView**   A pull to zoom-in RecyclerView for android        
