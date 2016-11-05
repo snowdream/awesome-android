@@ -54,3 +54,5 @@
 [https://github.com/DrJia/AndroidLogCollector](https://github.com/DrJia/AndroidLogCollector)
 1. **android-sql-logging**  App-local sql logging with viewer activity            
 [https://github.com/explodes/android-sql-logging](https://github.com/explodes/android-sql-logging)
+1. **MultiType-FilePicker** This is a light Android file picker library.      
+[https://github.com/fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
