@@ -808,6 +808,8 @@
 
 
 ### <a name="Tools" id="Tools"></a>Tools
+1. **WIFIADB** Connect adb from devices to androidstudio by wifi without usb anymore          
+[https://github.com/Sausure/WIFIADB](https://github.com/Sausure/WIFIADB)
 1. **AndroidHttpCapture** AndroidHttpCapture网络诊断工具               
 [https://github.com/JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)
 1. **super-adb** 用busybox加持的功能更加强大的adb shell；不需要root。             
