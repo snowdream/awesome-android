@@ -198,7 +198,8 @@
 [https://github.com/luizgrp/SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)
 1. **android-ago**  An Android TextView that always displays an auto refreshing relative time span with respect to a reference time                       
 [https://github.com/curioustechizen/android-ago](https://github.com/curioustechizen/android-ago)
-
+1. **SuperTextView** a super textview for android           
+[https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
 
 
 
