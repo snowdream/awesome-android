@@ -215,6 +215,8 @@
 [https://github.com/LiveTyping/CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)
 1. **MaterialImageLoading**  Material image loading implementation           
 [https://github.com/florent37/MaterialImageLoading](https://github.com/florent37/MaterialImageLoading)
+1. **android-TNRAnimationHelper** This is a library that contains practical animations: Rotation, Flip, Horizontal and Vertical Shake, Pulse. http://thunderrise.com/           
+[https://github.com/thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
 
 
 ### <a name="Network" id="Network"></a>Network
