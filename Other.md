@@ -638,6 +638,8 @@
 
 
 ### <a name="App" id="App"></a>App
+1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
+[https://github.com/GeekGhost/Ghost](https://github.com/GeekGhost/Ghost)
 1. **banya**  An open resource for Douban API with NETEASY Music's UI.        
 [https://github.com/forezp/banya](https://github.com/forezp/banya)
 1. **BookReader**  任阅小说阅读器。实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能。             
