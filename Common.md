@@ -217,7 +217,8 @@
 [https://github.com/florent37/MaterialImageLoading](https://github.com/florent37/MaterialImageLoading)
 1. **android-TNRAnimationHelper** This is a library that contains practical animations: Rotation, Flip, Horizontal and Vertical Shake, Pulse. http://thunderrise.com/           
 [https://github.com/thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
-
+1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.
+[https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
 
 ### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
