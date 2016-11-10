@@ -635,6 +635,8 @@
 [https://github.com/chenyangcun/MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample)
 1. **MaterialPowerMenu**   A demo of the power menu with Reveal and other animations    
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
+1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.    
+[https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
 
 
 ### <a name="App" id="App"></a>App
