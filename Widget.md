@@ -283,7 +283,8 @@
 [https://github.com/alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews)
 1. **MusicCoverView** ImageView that 'morphs' into a circle shape and can rotates. Useful to be used as album cover in Music apps.    
 [https://github.com/andremion/Music-Cover-View](https://github.com/andremion/Music-Cover-View)
-
+1. **BigImageViewer**  Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso.            
+[https://github.com/Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer)
 
 
 
