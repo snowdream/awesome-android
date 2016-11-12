@@ -1514,3 +1514,5 @@ And this project is not using the image file!
 [https://github.com/zhgeaits/ZGDanmaku](https://github.com/zhgeaits/ZGDanmaku)
 1. **RadarChart** 一个可以自由定制、旋转交互的Android雷达图Lib         
 [https://github.com/qstumn/RadarChart](https://github.com/qstumn/RadarChart)
+1. **FloatingView**  FloatingView can make the target view floating above the anchor view with cool animation             
+[https://github.com/UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
