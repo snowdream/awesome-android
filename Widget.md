@@ -200,6 +200,9 @@
 [https://github.com/curioustechizen/android-ago](https://github.com/curioustechizen/android-ago)
 1. **SuperTextView** a super textview for android           
 [https://github.com/lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+1. **input-mask-android** The library allows to format user input on the fly according to the provided mask and to extract valueable characters.          
+[https://github.com/RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android)
+
 
 
 
