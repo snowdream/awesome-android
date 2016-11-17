@@ -907,6 +907,8 @@ And this project is not using the image file!
 
 
 #### <a name="Time_View" id="Time_View"></a>Time View
+1. **Timecon**  Easy-to-use animated clock icon        
+[https://github.com/alxrm/Timecon](https://github.com/alxrm/Timecon)
 1. **Caldroid**  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.    
 [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
 1. **android-times-square**  Standalone Android widget for picking a single date from a calendar view.    
