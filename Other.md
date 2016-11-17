@@ -517,6 +517,8 @@
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **Goreinu** Goreinu allows to copy application files on sdcard.      
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
+1. **Android Debug Database** It's is a powerful library for debugging databases and shared preferences in Android applications.
+[https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 ### <a name="Demo" id="Demo"></a>Demo
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
