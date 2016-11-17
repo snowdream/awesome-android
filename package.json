@@ -1,0 +1,10 @@
+{
+  "name": "awesome-android",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-mocha": "^2.2.0"
+  }
+}
