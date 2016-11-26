@@ -1138,6 +1138,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **Thermometer** Android Thermometer Widget.       
+[https://github.com/kofigyan/Thermometer](https://github.com/kofigyan/Thermometer)
 1. **RMSwitch**  A simple and customizable two or three states Switch View         
 [https://github.com/RiccardoMoro/RMSwitch](https://github.com/RiccardoMoro/RMSwitch)
 1. **Audiogram** Lightweight audio wave component        
