@@ -217,6 +217,8 @@
 [https://github.com/florent37/MaterialImageLoading](https://github.com/florent37/MaterialImageLoading)
 1. **android-TNRAnimationHelper** This is a library that contains practical animations: Rotation, Flip, Horizontal and Vertical Shake, Pulse. http://thunderrise.com/           
 [https://github.com/thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
+1. **TransitionHelper**  This is a simple util to create Activity transition animation.   API compatible with Android 2.2+                 
+[https://github.com/ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
 
 
 ### <a name="Network" id="Network"></a>Network
