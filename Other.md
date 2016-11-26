@@ -1005,3 +1005,5 @@
 [https://github.com/MDCC2016/Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
 1. **from-java-to-kotlin**  From Java to Kotlin                   
 [https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
+1. **DylanStepCount** Android精准计步器 http://blog.csdn.net/linglongxin24/article/details/52868803         
+[https://github.com/linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
