@@ -56,3 +56,5 @@
 [https://github.com/explodes/android-sql-logging](https://github.com/explodes/android-sql-logging)
 1. **MultiType-FilePicker** This is a light Android file picker library.      
 [https://github.com/fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
+1. **ActivityRouter**  Router activities and methods with url for android          
+[https://github.com/mzule/ActivityRouter](https://github.com/mzule/ActivityRouter)
