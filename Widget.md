@@ -1532,3 +1532,5 @@ And this project is not using the image file!
 [https://github.com/UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
 1. **Android-PickerView**  仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果       
 [https://github.com/saiwu-bigkoo/Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
+1. **ENViews**  A cool dynamic view library      
+[https://github.com/codeestX/ENViews](https://github.com/codeestX/ENViews)
