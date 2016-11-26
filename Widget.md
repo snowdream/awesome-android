@@ -953,6 +953,8 @@ And this project is not using the image file!
 [https://github.com/JonatanSalas/material-calendar-view](https://github.com/JonatanSalas/material-calendar-view)
 1. **FlatTimeCollection**  Amazing Dynamic Time UI :clock1030: :hourglass: and More        
 [https://github.com/anastr/FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)
+1. **SublimePicker**    A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.         
+[https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
 
 
 
