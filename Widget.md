@@ -1138,6 +1138,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **RMSwitch**  A simple and customizable two or three states Switch View         
+[https://github.com/RiccardoMoro/RMSwitch](https://github.com/RiccardoMoro/RMSwitch)
 1. **Audiogram** Lightweight audio wave component        
 [https://github.com/alxrm/Audiogram](https://github.com/alxrm/Audiogram)
 1. **TumblrLikeAnimView**  仿Tumblr点赞动画效果        
