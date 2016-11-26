@@ -89,6 +89,8 @@
 
 
 #### <a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText
+1. **html-textview**  TextView to display simple HTML content     
+[https://github.com/SufficientlySecure/html-textview](https://github.com/SufficientlySecure/html-textview)
 1. **SlantedTextView** Android slanted TextView .     一个倾斜的TextView,适用于标签效果。             
 [https://github.com/HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 1. **ReadMoreTextView**  A Custom TextView with trim text         
