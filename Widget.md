@@ -287,7 +287,8 @@
 [https://github.com/andremion/Music-Cover-View](https://github.com/andremion/Music-Cover-View)
 1. **BigImageViewer**  Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso.            
 [https://github.com/Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer)
-
+1. **Crescento** Android library that adds a curve at the below of image views and relative layouts. CrescentoImageView and CrescentoContainer are the image view and relative layout respectively. You can change the radius of curve with attribute:curvature.       
+[https://github.com/developer-shivam/Crescento](https://github.com/developer-shivam/Crescento)
 
 
 #### <a name="Button" id="Button"></a>Button
