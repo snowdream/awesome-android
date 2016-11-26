@@ -1536,3 +1536,5 @@ And this project is not using the image file!
 [https://github.com/saiwu-bigkoo/Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
 1. **ENViews**  A cool dynamic view library      
 [https://github.com/codeestX/ENViews](https://github.com/codeestX/ENViews)
+1. **Android-3DTouch-PeekView** Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android.                      
+[https://github.com/klinker24/Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView)
