@@ -446,6 +446,8 @@ And this project is not using the image file!
 [https://github.com/YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)
 1. **SquareLoading**   A square animated loader.        
 [https://github.com/yuweiguocn/SquareLoading](https://github.com/yuweiguocn/SquareLoading)
+1. **StateProgressBar**  Android library to realize the various states and transitions in a ProgressBar.         
+[https://github.com/kofigyan/StateProgressBar](https://github.com/kofigyan/StateProgressBar)
 
 
 
