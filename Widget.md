@@ -444,7 +444,8 @@ And this project is not using the image file!
 [https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
 1. **LikeSinaSportProgress**  仿新浪体育客户端的进度条        
 [https://github.com/YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress)
-
+1. **SquareLoading**   A square animated loader.        
+[https://github.com/yuweiguocn/SquareLoading](https://github.com/yuweiguocn/SquareLoading)
 
 
 
