@@ -13,12 +13,12 @@ require(['gitbook'], function (gitbook) {
         var repo = _ref.repo;
         var type = _ref.type;
         var size = _ref.size;
+        var width = _ref.width;
+        var height = _ref.height;
         var count = _ref.count;
 
-        var width = size === "large" ? "170" : "160";
-        var height = size === "large" ? "30" : "20";
         var extraParam = type === "watch" ? "&v=2" : "";
-        return '<a class="btn pull-right" aria-label="github">\n        <iframe style="display:inline-block;vertical-align:middle;" src="https://ghbtns.com/github-btn.html?user=' + user + '&repo=' + repo + '&type=' + type + '&count=' + count + '&size=' + size + extraParam + '" frameborder="0" scrolling="0" width="' + width + 'px" height="' + height + 'px"></iframe>\n        </a>';
+        return '<a class="btn pull-right hidden-mobile" aria-label="github">\n        <iframe style="display:inline-block;vertical-align:middle;" src="https://ghbtns.com/github-btn.html?user=' + user + '&repo=' + repo + '&type=' + type + '&count=' + count + '&size=' + size + extraParam + '" frameborder="0" scrolling="0" width="' + width + 'px" height="' + height + 'px"></iframe>\n        </a>';
     }
 
     function insertGitHubLink(_ref2) {
@@ -26,6 +26,8 @@ require(['gitbook'], function (gitbook) {
         var repo = _ref2.repo;
         var types = _ref2.types;
         var size = _ref2.size;
+        var width = _ref2.width;
+        var height = _ref2.height;
         var count = _ref2.count;
 
         types.reverse().forEach(function (type) {
@@ -34,6 +36,8 @@ require(['gitbook'], function (gitbook) {
                 repo: repo,
                 type: type,
                 size: size,
+                width: width,
+                height: height,
                 count: count
             });
             addBeforeHeader(elementString);
@@ -56,12 +60,16 @@ require(['gitbook'], function (gitbook) {
         }
         var types = config.types || ["star", "watch"];
         var size = config.size || "large";
+        var width = config.width || (size === "large" ? "150" : "100");
+        var height = config.height || (size === "large" ? "30" : "20");
         var count = typeof config.count === "undefined" ? "true" : "false";
         insertGitHubLink({
             user: user,
             repo: repo,
             types: types,
             size: size,
+            width: width,
+            height: height,
             count: count
         });
     }
