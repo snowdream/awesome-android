@@ -219,6 +219,8 @@
 [https://github.com/thunderrise/android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)
 1. **TransitionHelper**  This is a simple util to create Activity transition animation.   API compatible with Android 2.2+                 
 [https://github.com/ImmortalZ/TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)
+1. **ViewAnimator**  A fluent Android animation library                   
+[https://github.com/florent37/ViewAnimator](https://github.com/florent37/ViewAnimator)
 
 
 ### <a name="Network" id="Network"></a>Network
