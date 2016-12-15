@@ -72,6 +72,8 @@
 [https://github.com/ishan1604/uberprogressview](https://github.com/ishan1604/uberprogressview)
 1. **MaterialRatingBar**  Material Design RatingBar with better appearance.         
 [https://github.com/DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
+1. **youtube-play-icon** Material styled morphing play/pause drawable.         
+[https://github.com/alxrm/youtube-play-icon](https://github.com/alxrm/youtube-play-icon)
 
 #### <a name="UI" id="UI"></a>UI
 1. **android-ui**   Android UI library.  Requires API level 14+    
