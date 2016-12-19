@@ -641,7 +641,8 @@
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.    
 [https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
-
+1. **MaterialLogin** Amazing Material Login effect       
+[https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)
 
 ### <a name="App" id="App"></a>App
 1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
