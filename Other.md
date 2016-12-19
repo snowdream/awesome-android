@@ -901,7 +901,8 @@
 [https://github.com/Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 1. **Android-Link-Preview**   It makes a preview from an url, grabbing all the information such as title, relevant texts and images.    
 [https://github.com/LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)
-
+1. **SwissArmyKnife** android免root兼容所有版本ui调试工具       
+[https://github.com/android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
 
 
 
