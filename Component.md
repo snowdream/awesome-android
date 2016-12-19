@@ -58,3 +58,5 @@
 [https://github.com/fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
 1. **ActivityRouter**  Router activities and methods with url for android          
 [https://github.com/mzule/ActivityRouter](https://github.com/mzule/ActivityRouter)
+1. **oAuthLibGithub** Oauth integration for github API v3    
+[https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
