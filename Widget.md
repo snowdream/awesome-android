@@ -1545,3 +1545,5 @@ And this project is not using the image file!
 [https://github.com/klinker24/Android-3DTouch-PeekView](https://github.com/klinker24/Android-3DTouch-PeekView)
 1. **DrawView** Android view that allows the user to create drawings. Customize settings like color, width or tools. Undo or redo actions.           
 [https://github.com/ByoxCode/DrawView](https://github.com/ByoxCode/DrawView)
+1. **segmentedview** ios风格的分段控件，类似 UISegmentedControl     
+[https://github.com/czy1121/segmentedview](https://github.com/czy1121/segmentedview)
