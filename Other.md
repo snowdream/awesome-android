@@ -812,7 +812,8 @@
 [https://github.com/InstantWebP2P/tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java)
 1. **AESCrypt-Android**   Simple API to perform AES encryption on Android. This is the Android counterpart to the AESCrypt library Ruby and Obj-C (with the same less than ideal security defaults) created by Gurpartap Singh. https://github.com/Gurpartap/aescrypt      
 [https://github.com/scottyab/AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android)
-
+1. **FolioReader-Android**  A Java ePub reader and parser framework for Android.      
+[https://github.com/FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)
 
 
 
