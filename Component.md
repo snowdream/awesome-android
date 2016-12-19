@@ -62,3 +62,5 @@
 [https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
 1. **VideoChatHeads**  A custom chat head implementation for videos      
 [https://github.com/TakeoffAndroid/VideoChatHeads](https://github.com/TakeoffAndroid/VideoChatHeads)
+1. **smart-scheduler-android** A utility library for scheduling periodic and non-periodic jobs efficiently.         
+[https://github.com/hypertrack/smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)
