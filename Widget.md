@@ -208,6 +208,11 @@
 [https://github.com/RedMadRobot/input-mask-android](https://github.com/RedMadRobot/input-mask-android)
 1. **NumberAnimTextView** 数字增加动画的 TextView        
 [https://github.com/Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)
+1. **PinchZoomTextView** A TextView library that allows the user to increase/decrease font size with a two finger gesture by the user.    
+[https://github.com/androidessence/PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView)
+
+
+
 
 
 
