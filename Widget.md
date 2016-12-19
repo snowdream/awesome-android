@@ -460,6 +460,8 @@ And this project is not using the image file!
 [https://github.com/yuweiguocn/SquareLoading](https://github.com/yuweiguocn/SquareLoading)
 1. **StateProgressBar**  Android library to realize the various states and transitions in a ProgressBar.         
 [https://github.com/kofigyan/StateProgressBar](https://github.com/kofigyan/StateProgressBar)
+1. **GALeafLoading** The project implements the following animation          
+[https://github.com/Ajian-studio/GALeafLoading](https://github.com/Ajian-studio/GALeafLoading)
 
 
 
