@@ -812,6 +812,10 @@
 1. **AESCrypt-Android**   Simple API to perform AES encryption on Android. This is the Android counterpart to the AESCrypt library Ruby and Obj-C (with the same less than ideal security defaults) created by Gurpartap Singh. https://github.com/Gurpartap/aescrypt      
 [https://github.com/scottyab/AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android)
 
+### <a name="Advertisement" id="Advertisement"></a>Advertisement
+1. **MAHAds** Library for advertisement own apps through your other apps    
+[https://github.com/hummatli/MAHAds](https://github.com/hummatli/MAHAds)
+
 
 
 
