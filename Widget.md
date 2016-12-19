@@ -291,7 +291,8 @@
 [https://github.com/Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer)
 1. **Crescento** Android library that adds a curve at the below of image views and relative layouts. CrescentoImageView and CrescentoContainer are the image view and relative layout respectively. You can change the radius of curve with attribute:curvature.       
 [https://github.com/developer-shivam/Crescento](https://github.com/developer-shivam/Crescento)
-
+1. **CaptchaImageView**  Custom ImageView to generate captcha image.     
+[https://github.com/jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)
 
 #### <a name="Button" id="Button"></a>Button
 1. **circular-progress-button**   Android Circular Progress Button    
