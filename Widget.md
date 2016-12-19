@@ -746,7 +746,8 @@ And this project is not using the image file!
 [https://github.com/simplify20/PowerfulRecyclerViewAdapter](https://github.com/simplify20/PowerfulRecyclerViewAdapter)
 1. **RecyclerViewEnhanced**  Android Library to provide swipe, click and other functionality to RecyclerView.    
 [https://github.com/nikhilpanju/RecyclerViewEnhanced/](https://github.com/nikhilpanju/RecyclerViewEnhanced/)
-
+1. **CircleRecyclerView** the library is a loop RecyclerView, can show some effects when display       
+[https://github.com/kHRYSTAL/CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
 
 
 
