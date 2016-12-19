@@ -60,3 +60,5 @@
 [https://github.com/mzule/ActivityRouter](https://github.com/mzule/ActivityRouter)
 1. **oAuthLibGithub** Oauth integration for github API v3    
 [https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
+1. **VideoChatHeads**  A custom chat head implementation for videos      
+[https://github.com/TakeoffAndroid/VideoChatHeads](https://github.com/TakeoffAndroid/VideoChatHeads)
