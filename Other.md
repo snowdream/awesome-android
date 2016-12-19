@@ -505,6 +505,8 @@
 [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
 1. **fontbinding**  Easy custom fonts in XML using data binding.    
 [https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
+1. **DroidAwesome**  An android library to display FontAwesome Icons in any View or a MenuItem.    
+[https://github.com/Livin21/DroidAwesome](https://github.com/Livin21/DroidAwesome)
 
 
 
