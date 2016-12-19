@@ -912,6 +912,10 @@ And this project is not using the image file!
 [https://github.com/ahmedrizwan/SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat)
 1. **HorizontalWheelView**  Custom view for user input that models horizontal wheel controller.       
 [https://github.com/shchurov/HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView)
+1. **BubbleSeekBar** 自定义SeekBar，进度变化由可视化气泡样式呈现      
+[https://github.com/woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
+
+
 
 
 #### <a name="PopupWindow" id="PopupWindow"></a>PopupWindow
