@@ -462,7 +462,8 @@ And this project is not using the image file!
 [https://github.com/kofigyan/StateProgressBar](https://github.com/kofigyan/StateProgressBar)
 1. **GALeafLoading** The project implements the following animation          
 [https://github.com/Ajian-studio/GALeafLoading](https://github.com/Ajian-studio/GALeafLoading)
-
+1. **GADownloading**  GADownloading      
+[https://github.com/Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading)
 
 
 #### <a name="Menu" id="Menu"></a>Menu
