@@ -1548,3 +1548,5 @@ And this project is not using the image file!
 [https://github.com/ByoxCode/DrawView](https://github.com/ByoxCode/DrawView)
 1. **segmentedview** ios风格的分段控件，类似 UISegmentedControl     
 [https://github.com/czy1121/segmentedview](https://github.com/czy1121/segmentedview)
+1. **WheelPicker** Simple and fantastic wheel view in realistic effect for android.        
+[https://github.com/AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker)
