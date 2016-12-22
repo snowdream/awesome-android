@@ -12,7 +12,8 @@
 [https://github.com/tcking/GiraffePlayer](https://github.com/tcking/GiraffePlayer)
 1. **JieCaoVideoPlayer**  Android VideoPlayer MediaPlayer VideoView MediaView and fullscreen        
 [https://github.com/lipangit/JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer)
-
+1. **SuperPlayer** SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换     
+[https://github.com/supercwn/SuperPlayer](https://github.com/supercwn/SuperPlayer)
 
 
 #### <a name="Component_Image" id="Component_Image"></a>Image
@@ -56,3 +57,11 @@
 [https://github.com/explodes/android-sql-logging](https://github.com/explodes/android-sql-logging)
 1. **MultiType-FilePicker** This is a light Android file picker library.      
 [https://github.com/fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
+1. **ActivityRouter**  Router activities and methods with url for android          
+[https://github.com/mzule/ActivityRouter](https://github.com/mzule/ActivityRouter)
+1. **oAuthLibGithub** Oauth integration for github API v3    
+[https://github.com/geniushkg/github-oauth](https://github.com/geniushkg/github-oauth)
+1. **VideoChatHeads**  A custom chat head implementation for videos      
+[https://github.com/TakeoffAndroid/VideoChatHeads](https://github.com/TakeoffAndroid/VideoChatHeads)
+1. **smart-scheduler-android** A utility library for scheduling periodic and non-periodic jobs efficiently.         
+[https://github.com/hypertrack/smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)

@@ -505,6 +505,8 @@
 [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
 1. **fontbinding**  Easy custom fonts in XML using data binding.    
 [https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
+1. **DroidAwesome**  An android library to display FontAwesome Icons in any View or a MenuItem.    
+[https://github.com/Livin21/DroidAwesome](https://github.com/Livin21/DroidAwesome)
 
 
 
@@ -517,6 +519,8 @@
 [https://github.com/inmite/android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)
 1. **Goreinu** Goreinu allows to copy application files on sdcard.      
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
+1. **Android Debug Database** It's is a powerful library for debugging databases and shared preferences in Android applications.
+[https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 ### <a name="Demo" id="Demo"></a>Demo
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
@@ -637,7 +641,8 @@
 [https://github.com/naman14/MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)
 1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.    
 [https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
-
+1. **MaterialLogin** Amazing Material Login effect       
+[https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)
 
 ### <a name="App" id="App"></a>App
 1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
@@ -807,7 +812,8 @@
 [https://github.com/InstantWebP2P/tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java)
 1. **AESCrypt-Android**   Simple API to perform AES encryption on Android. This is the Android counterpart to the AESCrypt library Ruby and Obj-C (with the same less than ideal security defaults) created by Gurpartap Singh. https://github.com/Gurpartap/aescrypt      
 [https://github.com/scottyab/AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android)
-
+1. **FolioReader-Android**  A Java ePub reader and parser framework for Android.      
+[https://github.com/FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)
 
 
 
@@ -896,7 +902,8 @@
 [https://github.com/Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 1. **Android-Link-Preview**   It makes a preview from an url, grabbing all the information such as title, relevant texts and images.    
 [https://github.com/LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)
-
+1. **SwissArmyKnife** android免root兼容所有版本ui调试工具       
+[https://github.com/android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
 
 
 
@@ -1001,5 +1008,7 @@
 [https://github.com/simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis)
 1. **Android-Session-Slides**  Here are the slides in MDCC 2016 Android Session.       
 [https://github.com/MDCC2016/Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides)
-  1. **from-java-to-kotlin**  From Java to Kotlin                   
+1. **from-java-to-kotlin**  From Java to Kotlin                   
 [https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
+1. **DylanStepCount** Android精准计步器 http://blog.csdn.net/linglongxin24/article/details/52868803         
+[https://github.com/linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
