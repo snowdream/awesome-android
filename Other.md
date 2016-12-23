@@ -797,6 +797,10 @@
 [https://github.com/qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors)
 1. **Android-SecretCodes** Secret Codes is an Open Source application that allows you to browse through hidden codes of your Android phone. http://simonmarquis.github.io/Android-SecretCodes/     
 [https://github.com/SimonMarquis/Android-SecretCodes](https://github.com/SimonMarquis/Android-SecretCodes)
+1. **Music-Player** From UI Proposal to Code    
+[https://github.com/andremion/Music-Player](https://github.com/andremion/Music-Player)
+1. **Villains-and-Heroes** Android app built with MVP architectural approach and uses Marvel Comics API that allows developers everywhere to access information about Marvel's vast library of comics    
+[https://github.com/andremion/Villains-and-Heroes](https://github.com/andremion/Villains-and-Heroes)
 
 
 ### <a name="Security" id="Security"></a>Security
