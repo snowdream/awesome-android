@@ -904,6 +904,8 @@
 [https://github.com/LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview)
 1. **SwissArmyKnife** android免root兼容所有版本ui调试工具       
 [https://github.com/android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
+1. **gifcap** Make a GIF from your Android device's screen    
+[https://github.com/outlook/gifcap](https://github.com/outlook/gifcap)
 
 
 
