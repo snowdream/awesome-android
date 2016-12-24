@@ -643,6 +643,9 @@
 [https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
 1. **MaterialLogin** Amazing Material Login effect       
 [https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)
+1. **AndroidShortcuts** Example app for shortcuts in design library v25           
+[https://github.com/pcevikogullari/AndroidShortcuts](https://github.com/pcevikogullari/AndroidShortcuts)
+
 
 ### <a name="App" id="App"></a>App
 1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
