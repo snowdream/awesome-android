@@ -65,3 +65,5 @@
 [https://github.com/TakeoffAndroid/VideoChatHeads](https://github.com/TakeoffAndroid/VideoChatHeads)
 1. **smart-scheduler-android** A utility library for scheduling periodic and non-periodic jobs efficiently.         
 [https://github.com/hypertrack/smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)
+1. **AppIntro**  Make a cool intro for your Android app.                
+[https://github.com/paolorotolo/AppIntro](https://github.com/paolorotolo/AppIntro)
