@@ -67,3 +67,7 @@
 [https://github.com/hypertrack/smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)
 1. **AppIntro**  Make a cool intro for your Android app.                
 [https://github.com/paolorotolo/AppIntro](https://github.com/paolorotolo/AppIntro)
+1. **SlidingBall** 仿QQ身边的人的水平滑动效果        
+[https://github.com/dalong982242260/SlidingBall](https://github.com/dalong982242260/SlidingBall)
+1. **SlidingBallViewPager** 仿qq身边的人Viewpager实现        
+[https://github.com/dalong982242260/SlidingBallViewPager](https://github.com/dalong982242260/SlidingBallViewPager)
