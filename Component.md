@@ -46,7 +46,10 @@
 #### <a name="Component_Permission" id="Component_Permission"></a>Permission
 1. **Permissify** Simplifying Android Permissions    
 [https://github.com/holidaycheck/Permissify](https://github.com/holidaycheck/Permissify)
-
+1. **AndPermission** Android Permission = AndPermission. Android运行时权限管理最佳实践。
+[https://github.com/yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
+1. **PermissionGen** Android API easy to use permission for Android M       
+[https://github.com/lovedise/PermissionGen](https://github.com/lovedise/PermissionGen)
 
 #### <a name="Component_Other" id="Component_Other"></a>Other
 1. **Android-DirectoryChooser**  A directory chooser library for Android.       
