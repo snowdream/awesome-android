@@ -1567,3 +1567,5 @@ And this project is not using the image file!
 [https://github.com/AigeStudio/WheelPicker](https://github.com/AigeStudio/WheelPicker)
 1. **DragScaleCircleView** a custom view that provides dragged and scaled      
 [https://github.com/hpfs0/DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView)
+1. **EmojiRain**  Implement a simple and funny Android animation —— the emoji rain in WeChat app.         
+[https://github.com/Luolc/EmojiRain](https://github.com/Luolc/EmojiRain)
