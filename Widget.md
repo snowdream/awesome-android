@@ -1098,6 +1098,8 @@ And this project is not using the image file!
 [https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
 1. **BubbleAnimationLayout** You don’t want your apps look and feel boring, do you? Add some bubbles! https://www.cleveroad.com           
 [https://github.com/Cleveroad/BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)
+1. **BufferTextInputLayout**  A simple customised version of the TextInputLayout from the Android Design Support Library           
+[https://github.com/bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
