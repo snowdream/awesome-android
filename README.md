@@ -23,6 +23,7 @@ Step 1. Add a Item as follows:
 
 Step 2. The item should fall under the appropriate category.
 
+awesome-android 开发维护指南 https://github.com/snowdream/awesome-android/wiki
 
 ### Contacts
 * Email：yanghui1986527#gmail.com
