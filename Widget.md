@@ -1576,3 +1576,5 @@ And this project is not using the image file!
 [https://github.com/Luolc/EmojiRain](https://github.com/Luolc/EmojiRain)
 1. **WindView** WindView is an Android Library to show Weather's Wind & pressure Status     
 [https://github.com/AhmadNemati/WindView](https://github.com/AhmadNemati/WindView)
+1. **TapTargetView** An implementation of tap targets from the Material Design guidelines for feature discovery                  
+[https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
