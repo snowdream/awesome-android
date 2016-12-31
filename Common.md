@@ -223,7 +223,8 @@
 [https://github.com/florent37/ViewAnimator](https://github.com/florent37/ViewAnimator)
 1. **android-PageFlip** This project is aimed to implement 3D style page flip on Android system based on OpenGL 2.0.      
 [https://github.com/eschao/android-PageFlip](https://github.com/eschao/android-PageFlip)
-
+1. **CircularAnim** Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)            
+[https://github.com/XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
 
 
 
