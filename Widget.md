@@ -210,7 +210,8 @@
 [https://github.com/Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)
 1. **PinchZoomTextView** A TextView library that allows the user to increase/decrease font size with a two finger gesture by the user.    
 [https://github.com/androidessence/PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView)
-
+1. **html-builder** Build valid HTML for Android TextView             
+[https://github.com/jrummyapps/html-builder](https://github.com/jrummyapps/html-builder)
 
 
 
