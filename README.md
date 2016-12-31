@@ -27,7 +27,11 @@ awesome-android 开发维护指南 https://github.com/snowdream/awesome-android/
 
 ### Contacts
 * Email：yanghui1986527#gmail.com
-* QQ Group: 529327615      
+* QQ Group: 529327615     
+* WeChat:  sn0wdr1am      
+
+![sn0wdr1am](https://static.dingtalk.com/media/lADOmAwFCs0BAs0BAg_258_258.jpg)
+
 **Welcome to talk about Android.**
 
 ### Donate
