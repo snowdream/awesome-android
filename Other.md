@@ -197,6 +197,8 @@
 
 
 ### <a name="Utility" id="Utility"></a>Utility
+1. **StatusBarUtil** StatusBarUtil 状态栏工具类（实现沉浸式状态栏/变色状态栏）                
+[https://github.com/laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil)
 1. **LowPoly**  LowPoly is implemented by JNI, so it's much faster than other in java.                 
 [https://github.com/CoXier/LowPoly](https://github.com/CoXier/LowPoly)
 1. **easydeviceinfo**  Android library to get device information in a super easy way. http://nisrulz.github.io/easydeviceinfo                
