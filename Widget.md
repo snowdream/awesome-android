@@ -1582,3 +1582,5 @@ And this project is not using the image file!
 [https://github.com/AhmadNemati/WindView](https://github.com/AhmadNemati/WindView)
 1. **TapTargetView** An implementation of tap targets from the Material Design guidelines for feature discovery                  
 [https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
+1. **FreeDrawView** A View on which you can freely draw, customizing paint width, alpha and color, and take a screenshot of the content. Useful for note apps, signatures or free hand writing.             
+[https://github.com/RiccardoMoro/FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)
