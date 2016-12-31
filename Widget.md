@@ -1100,6 +1100,8 @@ And this project is not using the image file!
 [https://github.com/Cleveroad/BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)
 1. **BufferTextInputLayout**  A simple customised version of the TextInputLayout from the Android Design Support Library           
 [https://github.com/bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
+1. **ParticleDismissLayout** Effect of particle Boom.  视图碎裂效果      
+[https://github.com/zhangke3016/ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
