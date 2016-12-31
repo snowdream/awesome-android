@@ -19,6 +19,10 @@
 #### <a name="Component_Image" id="Component_Image"></a>Image
 1. **ImageEditor-Android** AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作         
 [https://github.com/siwangqishiq/ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android)
+1. **ImagePicker** 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数      
+[https://github.com/jeasonlzy/ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+
+
 
 #### <a name="Component_ScreenShot" id="Component_ScreenShot"></a>ScreenShot
 1. **InstaCapture**  Android library to capture screenshot from your app                                 
