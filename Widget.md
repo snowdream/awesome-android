@@ -301,6 +301,10 @@
 [https://github.com/developer-shivam/Crescento](https://github.com/developer-shivam/Crescento)
 1. **CaptchaImageView**  Custom ImageView to generate captcha image.     
 [https://github.com/jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)
+1. **DragPhotoView**  A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView              
+[https://github.com/githubwing/DragPhotoView](https://github.com/githubwing/DragPhotoView)
+
+
 
 #### <a name="Button" id="Button"></a>Button
 1. **circular-progress-button**   Android Circular Progress Button    
