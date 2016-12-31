@@ -214,8 +214,8 @@
 [https://github.com/jrummyapps/html-builder](https://github.com/jrummyapps/html-builder)
 1. **AvatarLabelView** 一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。     
 [https://github.com/yanbober/AvatarLabelView](https://github.com/yanbober/AvatarLabelView)
-
-
+1. **LogcatTextView** A simple view to see logcat in your app                     
+[https://github.com/munix/LogcatTextView](https://github.com/munix/LogcatTextView)
 
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
