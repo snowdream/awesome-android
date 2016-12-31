@@ -975,7 +975,8 @@ And this project is not using the image file!
 [https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
 1. **LightCalendarView** A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.    
 [https://github.com/recruit-mp/LightCalendarView](https://github.com/recruit-mp/LightCalendarView)
-
+1. **DateTimeRangePicker** A date time range picker for android written in Kotlin              
+[https://github.com/skedgo/DateTimeRangePicker](https://github.com/skedgo/DateTimeRangePicker)
 
 
 
