@@ -995,7 +995,6 @@ And this project is not using the image file!
 1. **MaterialLeanBack** A beautiful leanback port for Smartphones and Tablets      
 [https://github.com/florent37/MaterialLeanBack](https://github.com/florent37/MaterialLeanBack)
 1. **HoldToLoadLayout**  HoldToLoadLayout is a view group that can contain a single child. It draws your child to middle of layout, and performs loading wheel around it with settings you determined.
-       
 [https://github.com/melihaksoy/HoldToLoadLayout](https://github.com/melihaksoy/HoldToLoadLayout)       
 1. **flexbox-layout**  Flexbox for Android              
 [https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)
@@ -1109,6 +1108,8 @@ And this project is not using the image file!
 [https://github.com/bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)
 1. **ParticleDismissLayout** Effect of particle Boom.  视图碎裂效果      
 [https://github.com/zhangke3016/ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout)
+1. **Vorolay** VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.    
+[https://github.com/Quatja/Vorolay](https://github.com/Quatja/Vorolay)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
