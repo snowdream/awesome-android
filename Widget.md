@@ -757,6 +757,8 @@ And this project is not using the image file!
 [https://github.com/nikhilpanju/RecyclerViewEnhanced/](https://github.com/nikhilpanju/RecyclerViewEnhanced/)
 1. **CircleRecyclerView** the library is a loop RecyclerView, can show some effects when display       
 [https://github.com/kHRYSTAL/CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
+1. **epoxy** Epoxy is an Android library for building complex screens in a RecyclerView.    
+[https://github.com/airbnb/epoxy](https://github.com/airbnb/epoxy)
 
 
 
