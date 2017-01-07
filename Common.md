@@ -228,7 +228,6 @@
 
 
 
-
 ### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
 [https://github.com/loopj/android-async-http](https://github.com/loopj/android-async-http)
@@ -269,3 +268,9 @@
 ### <a name="Task/Job" id="Task/Job"></a>Task/Job
 1. **LiteAsync**  An ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExecutor which can executes ordered, cyclicbarrier, delayed and timer Task.        
 [https://github.com/litesuits/android-lite-async](https://github.com/litesuits/android-lite-async)
+
+### <a name="Sample" id="Sample"></a>Sample
+Sample
+1. **UI-Motion** How to apply meaningful and delightful motion in a sample Android app.    
+[https://github.com/andremion/UI-Motion](https://github.com/andremion/UI-Motion)
+
