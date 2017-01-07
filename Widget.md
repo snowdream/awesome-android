@@ -1587,3 +1587,5 @@ And this project is not using the image file!
 [https://github.com/KeepSafe/TapTargetView](https://github.com/KeepSafe/TapTargetView)
 1. **FreeDrawView** A View on which you can freely draw, customizing paint width, alpha and color, and take a screenshot of the content. Useful for note apps, signatures or free hand writing.             
 [https://github.com/RiccardoMoro/FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)
+1. **android-snowfall** Fully customizable implementation of "Snowfall View" on Android.                  
+[https://github.com/JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall)
