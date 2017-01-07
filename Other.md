@@ -525,6 +525,8 @@
 [https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 ### <a name="Demo" id="Demo"></a>Demo
+1. **android-animated-menu-items** The example Android project of animated menu items in toolbar        
+[https://github.com/adonixis/android-animated-menu-items](https://github.com/adonixis/android-animated-menu-items)
 1. **Android-AOPExample** This is a simple example of Aspect Oriented Programming in Android              
 [https://github.com/android10/Android-AOPExample](https://github.com/android10/Android-AOPExample)
 1. **AndroidStudyDemo**  AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。       
