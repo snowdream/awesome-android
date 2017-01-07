@@ -470,6 +470,8 @@ And this project is not using the image file!
 [https://github.com/Ajian-studio/GALeafLoading](https://github.com/Ajian-studio/GALeafLoading)
 1. **GADownloading**  GADownloading      
 [https://github.com/Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading)
+1. **GABottleLoading**   Bezier storm（贝塞尔风暴）                                      
+[https://github.com/Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading)
 
 
 #### <a name="Menu" id="Menu"></a>Menu
