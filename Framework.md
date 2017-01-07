@@ -113,3 +113,5 @@
 [https://github.com/jasonross/Nuwa](https://github.com/jasonross/Nuwa)
 1. **dexposed** dexposed enable 'god' mode for single android application.    
 [https://github.com/alibaba/dexposed](https://github.com/alibaba/dexposed)
+1. **xLua** xLua is a hot-fix solution plugin for Unity3D, it supports android, ios, windows, osx, etc.                    
+[https://github.com/Tencent/xLua](https://github.com/Tencent/xLua)
