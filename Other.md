@@ -652,6 +652,8 @@
 
 
 ### <a name="App" id="App"></a>App
+1. **MusicStreamer**  A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.                     
+[https://github.com/harjot-oberai/MusicStreamer](https://github.com/harjot-oberai/MusicStreamer)
 1. **remusic** 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载                          
 [https://github.com/aa112901/remusic](https://github.com/aa112901/remusic)
 1. **Ghost** 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide         
