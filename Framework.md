@@ -88,6 +88,9 @@
 [https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 1. **MagicaSakura**  MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com           
 [https://github.com/Bilibili/MagicaSakura](https://github.com/Bilibili/MagicaSakura)  
+1. **Colorful** Colorful is a dynamic theme library allowing you to change your apps' color schemes easily.              
+[https://github.com/garretyoder/Colorful](https://github.com/garretyoder/Colorful)
+
 
 
 #### <a name="Framework_Hook" id="Framework_Hook"></a>Hook
