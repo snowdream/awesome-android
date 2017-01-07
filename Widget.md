@@ -1589,3 +1589,5 @@ And this project is not using the image file!
 [https://github.com/RiccardoMoro/FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)
 1. **android-snowfall** Fully customizable implementation of "Snowfall View" on Android.                  
 [https://github.com/JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall)
+1. **PathAnimView** 用于做Path动画的自定义View。           
+[https://github.com/mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView)
