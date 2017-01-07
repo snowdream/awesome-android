@@ -1031,3 +1031,5 @@
 [https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/)
 1. **DylanStepCount** Android精准计步器 http://blog.csdn.net/linglongxin24/article/details/52868803         
 [https://github.com/linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
+1. **hawk** Secure, simple key-value storage for Android              
+[https://github.com/orhanobut/hawk](https://github.com/orhanobut/hawk)
