@@ -228,7 +228,8 @@
 [https://github.com/eschao/android-PageFlip](https://github.com/eschao/android-PageFlip)
 1. **CircularAnim** Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.3.3)            
 [https://github.com/XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
-
+1. **Particle**  It's a cool animation which can use in splash or somewhere else.            
+[https://github.com/JeasonWong/Particle](https://github.com/JeasonWong/Particle)
 
 
 
