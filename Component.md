@@ -14,7 +14,8 @@
 [https://github.com/lipangit/JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer)
 1. **SuperPlayer** SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上滑音量亮度的变化，支持指点位置播放，播放源的切换     
 [https://github.com/supercwn/SuperPlayer](https://github.com/supercwn/SuperPlayer)
-
+1. **VidEffects** This library uses OpenGL Shaders to apply effects on Videos at Runtime           
+[https://github.com/krazykira/VidEffects](https://github.com/krazykira/VidEffects)
 
 #### <a name="Component_Image" id="Component_Image"></a>Image
 1. **ImageEditor-Android** AndroidImageEdit 安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作         
