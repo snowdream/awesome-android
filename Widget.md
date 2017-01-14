@@ -1185,6 +1185,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **EasyFlipView** A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.          
+[https://github.com/wajahatkarim3/EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView)
 1. **Thermometer** Android Thermometer Widget.       
 [https://github.com/kofigyan/Thermometer](https://github.com/kofigyan/Thermometer)
 1. **RMSwitch**  A simple and customizable two or three states Switch View         
