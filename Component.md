@@ -58,6 +58,8 @@
 [https://github.com/lovedise/PermissionGen](https://github.com/lovedise/PermissionGen)
 
 #### <a name="Component_Other" id="Component_Other"></a>Other
+1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!         
+[https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
 1. **Android-DirectoryChooser**  A directory chooser library for Android.       
 [https://github.com/passy/Android-DirectoryChooser](https://github.com/passy/Android-DirectoryChooser)
 1. **AndroidLogCollector**  android app崩溃日志收集sdk 1.0      
