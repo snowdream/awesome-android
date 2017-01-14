@@ -767,8 +767,8 @@ And this project is not using the image file!
 [https://github.com/kHRYSTAL/CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView)
 1. **epoxy** Epoxy is an Android library for building complex screens in a RecyclerView.    
 [https://github.com/airbnb/epoxy](https://github.com/airbnb/epoxy)
-
-
+1. **ShimmerRecyclerView** A custom recycler view with shimmer views to indicate that views are loading.       
+[https://github.com/sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
 
 
 #### <a name="SearchView" id="SearchView"></a>SearchView
