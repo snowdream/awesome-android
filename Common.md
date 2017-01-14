@@ -230,7 +230,8 @@
 [https://github.com/XunMengWinter/CircularAnim](https://github.com/XunMengWinter/CircularAnim)
 1. **Particle**  It's a cool animation which can use in splash or somewhere else.            
 [https://github.com/JeasonWong/Particle](https://github.com/JeasonWong/Particle)
-
+1. **RxAnimations** Repository for android animations Rx wrapper            
+[https://github.com/0ximDigital/RxAnimations](https://github.com/0ximDigital/RxAnimations)
 
 
 ### <a name="Network" id="Network"></a>Network
