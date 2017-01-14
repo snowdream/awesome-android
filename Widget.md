@@ -352,7 +352,8 @@
 [https://github.com/rubensousa/RaiflatButton](https://github.com/rubensousa/RaiflatButton)
 1. **AnimShopButton** A shopping cart button with a telescopic displacement rotation animation ...一个带伸缩位移旋转动画的购物车按钮          
 [https://github.com/mcxtzhang/AnimShopButton](https://github.com/mcxtzhang/AnimShopButton)
-
+1. **Android-SwitchIcon** Google launcher-style implementation of switch (enable/disable) icon        
+[https://github.com/zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
 
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
