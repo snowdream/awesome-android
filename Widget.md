@@ -1593,3 +1593,5 @@ And this project is not using the image file!
 [https://github.com/JetradarMobile/android-snowfall](https://github.com/JetradarMobile/android-snowfall)
 1. **PathAnimView** 用于做Path动画的自定义View。           
 [https://github.com/mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView)
+1. **TimelineView**  Customzable TimelineView for Android      
+[https://github.com/qapqap/TimelineView](https://github.com/qapqap/TimelineView)
