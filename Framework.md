@@ -50,6 +50,8 @@
 [https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 1. **Android-ZBLibrary**  Android快速开发框架，Android Studio、Eclipse多平台支持。MVP架构的Android开发框架，丰富的功能、简单的实现、详细的注释、规范的风格。      
 [https://github.com/TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)
+1. **Conductor**  A small, yet full-featured framework that allows building View-based Android applications         
+[https://github.com/bluelinelabs/Conductor](https://github.com/bluelinelabs/Conductor)
 
 #### <a name="Framework_Plugin" id="Framework_Plugin"></a>Plugin
 1. **DroidPlugin**   DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。    
