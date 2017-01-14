@@ -216,7 +216,8 @@
 [https://github.com/yanbober/AvatarLabelView](https://github.com/yanbober/AvatarLabelView)
 1. **LogcatTextView** A simple view to see logcat in your app                     
 [https://github.com/munix/LogcatTextView](https://github.com/munix/LogcatTextView)
-
+1. **MarqueeViewLibrary** 一个帮您快速实现跑马灯效果的library            
+[https://github.com/gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
 1. **FrescoImageViewer**  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures http://stfalcon.com                 
