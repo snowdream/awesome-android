@@ -1605,3 +1605,5 @@ And this project is not using the image file!
 [https://github.com/qapqap/TimelineView](https://github.com/qapqap/TimelineView)
 1. **SuperIndicator**  a superindicatorlibray for viewpager, banner  仿爱奇艺视频，腾讯视频，搜狐视频首页推荐位轮播图        
 [https://github.com/hejunlin2013/SuperIndicator](https://github.com/hejunlin2013/SuperIndicator)
+1. **QingtingBannerView** 仿蜻蜓FM轮播banner       
+[https://github.com/JeasonWong/QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
