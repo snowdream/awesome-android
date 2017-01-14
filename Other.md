@@ -509,7 +509,8 @@
 [https://github.com/lisawray/fontbinding](https://github.com/lisawray/fontbinding)
 1. **DroidAwesome**  An android library to display FontAwesome Icons in any View or a MenuItem.    
 [https://github.com/Livin21/DroidAwesome](https://github.com/Livin21/DroidAwesome)
-
+1. **FontometricsLibrary** Android Library to use custom fonts with ease.             
+[https://github.com/Ishmeetsingh97/FontometricsLibrary](https://github.com/Ishmeetsingh97/FontometricsLibrary)
 
 
 ### <a name="OpenGL" id="OpenGL"></a>OpenGL
