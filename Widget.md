@@ -1607,3 +1607,5 @@ And this project is not using the image file!
 [https://github.com/hejunlin2013/SuperIndicator](https://github.com/hejunlin2013/SuperIndicator)
 1. **QingtingBannerView** 仿蜻蜓FM轮播banner       
 [https://github.com/JeasonWong/QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
+1. **ChatMessageView** Chat UI library for Android               
+[https://github.com/bassaer/ChatMessageView](https://github.com/bassaer/ChatMessageView)
