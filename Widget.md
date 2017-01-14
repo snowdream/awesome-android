@@ -1185,6 +1185,8 @@ And this project is not using the image file!
 
 
 #### <a name="Other" id="Other"></a>Other
+1. **TagViewGroup** Android 仿小红书图片标签，实现了图片标签的动画，布局，水波纹，编辑等功能，还可以自定义 Tag。         
+[https://github.com/shellljx/TagViewGroup](https://github.com/shellljx/TagViewGroup)
 1. **EasyFlipView** A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.          
 [https://github.com/wajahatkarim3/EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView)
 1. **Thermometer** Android Thermometer Widget.       
