@@ -1603,3 +1603,5 @@ And this project is not using the image file!
 [https://github.com/mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView)
 1. **TimelineView**  Customzable TimelineView for Android      
 [https://github.com/qapqap/TimelineView](https://github.com/qapqap/TimelineView)
+1. **SuperIndicator**  a superindicatorlibray for viewpager, banner  仿爱奇艺视频，腾讯视频，搜狐视频首页推荐位轮播图        
+[https://github.com/hejunlin2013/SuperIndicator](https://github.com/hejunlin2013/SuperIndicator)
