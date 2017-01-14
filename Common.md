@@ -232,7 +232,10 @@
 [https://github.com/JeasonWong/Particle](https://github.com/JeasonWong/Particle)
 1. **RxAnimations** Repository for android animations Rx wrapper            
 [https://github.com/0ximDigital/RxAnimations](https://github.com/0ximDigital/RxAnimations)
+1. **android-slidingactivity**  Android library which allows you to swipe down from an activity to close it.            
+[https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
 
+  
 
 ### <a name="Network" id="Network"></a>Network
 1. **android-async-http**    An Asynchronous HTTP Library for Android    
