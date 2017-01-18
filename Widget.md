@@ -20,7 +20,7 @@
 [https://github.com/ikimuhendis/LDrawer](https://github.com/ikimuhendis/LDrawer)
 1. **material-design-icons** Material Design icons by Google    
 [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
-1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar.    
+1. **AndroidMaterialDesignToolbar** Android Sample Project with Material Design and Toolbar. PROJECT IS NOT SUPPORTED!   
 [https://github.com/tekinarslan/AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar)
 1. **MaterialEditText**  EditText in Material Design    
 [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
