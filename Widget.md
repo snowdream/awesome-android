@@ -8,8 +8,6 @@
 [https://github.com/ZieIony/Carbon](https://github.com/ZieIony/Carbon)
 1. **MaterialEverywhere**  Showcase of the new AppCompat 21, which includes new Material Theme, working in pre-21 devices.    
 [https://github.com/antoniolg/MaterialEverywhere](https://github.com/antoniolg/MaterialEverywhere)
-1. **MaterialWidget** Android L design widget in Android 4.0 ~ 4.4.    
-[https://github.com/keithellis/MaterialWidget](https://github.com/keithellis/MaterialWidget)
 1. **MaterialTabs** Custom Tabs with Material Design effects. It requires 14+ API and android support v7 (Toolbar)    
 [https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)
 1. **material-ripple**    Android L Ripple effect wrapper for Views    
