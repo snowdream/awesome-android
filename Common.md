@@ -250,6 +250,8 @@
 [https://github.com/AsyncHttpClient/async-http-client](https://github.com/AsyncHttpClient/async-http-client)
 1. **http-request**    Java HTTP Request Library    
 [https://github.com/kevinsawicki/http-request](https://github.com/kevinsawicki/http-request)
+1. **android-upload-service**    Easily upload files (FTP / Multipart / Binary) in the background with progress indication notification. Supports OkHttp and Hurl stack. Can be extended with custom network layers and custom upload types    
+[https://github.com/gotev/android-upload-service](https://github.com/gotev/android-upload-service)
 1. **node-android**    Run Node.js on Android    
 [https://github.com/InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android)
 1. **android-lite-http** Arrow(LiteHttp) is a simple, intelligent and flexible HTTP client for Android.    
