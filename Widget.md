@@ -852,6 +852,8 @@ And this project is not using the image file!
 
 
 #### <a name="Activity" id="Activity"></a>Activity
+1. **ActivityStarter** Android Library that provide simpler way to start the Activities with multiple arguments.  
+[https://github.com/MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter)
 1. **CustomActivityOnCrash** Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.    
 [https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash)
 1. **android-slidingactivity**      Android library which allows you to swipe down from an activity to close it.    
