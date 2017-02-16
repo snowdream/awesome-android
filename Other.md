@@ -352,12 +352,11 @@
 [https://github.com/tzutalin/Android-ConfigIO](https://github.com/tzutalin/Android-ConfigIO)
 
 
-
-
-
 ### <a name="Storage" id="Storage"></a>Storage
 1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.    
 [https://github.com/SanDisk-Open-Source/RealStoragePathLibrary](https://github.com/SanDisk-Open-Source/RealStoragePathLibrary)
+1. **KotlinPreferences** Kotlin Android Library, that makes preference usage simple and fun.                
+[https://github.com/MarcinMoskala/KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences)
 
 
 ### <a name="SDK" id="SDK"></a>SDK
