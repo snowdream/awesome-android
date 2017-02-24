@@ -302,6 +302,8 @@
 [https://github.com/jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)
 1. **DragPhotoView**  A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView              
 [https://github.com/githubwing/DragPhotoView](https://github.com/githubwing/DragPhotoView)
+1. **ViewEffects** Apply custom effects on view backgrounds        
+[https://github.com/mirrajabi/ViewEffects](https://github.com/mirrajabi/ViewEffects)
 
 
 
