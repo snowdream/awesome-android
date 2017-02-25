@@ -216,6 +216,9 @@
 [https://github.com/munix/LogcatTextView](https://github.com/munix/LogcatTextView)
 1. **MarqueeViewLibrary** 一个帮您快速实现跑马灯效果的library            
 [https://github.com/gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)
+1. **FadingTextView**  A textview that changes its content automatically every few seconds     
+[https://github.com/rosenpin/FadingTextView](https://github.com/rosenpin/FadingTextView)
+
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
 1. **FrescoImageViewer**  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures http://stfalcon.com                 
