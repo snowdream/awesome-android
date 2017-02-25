@@ -31,7 +31,8 @@
 [https://github.com/kanytu/android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)
 1. **material-design-icons-adt-template**  Android Studio / Eclipse ADT template for material-design-icons resources    
 [https://github.com/intrications/material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)
-
+1. **OnActivityResult**    Generates boilerplate code for OnActivityResult callbacks and lets you focus on what matters     
+[https://github.com/vanniktech/OnActivityResult](https://github.com/vanniktech/OnActivityResult)
 
 
 
