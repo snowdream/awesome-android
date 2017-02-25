@@ -82,3 +82,5 @@
 [https://github.com/dalong982242260/SlidingBall](https://github.com/dalong982242260/SlidingBall)
 1. **SlidingBallViewPager** 仿qq身边的人Viewpager实现        
 [https://github.com/dalong982242260/SlidingBallViewPager](https://github.com/dalong982242260/SlidingBallViewPager)
+1. **PickPhotoSample**  Photo Picker Of Android Library
+[https://github.com/Werb/PickPhotoSample](https://github.com/Werb/PickPhotoSample)
