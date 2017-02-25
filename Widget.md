@@ -562,6 +562,9 @@ And this project is not using the image file!
 [https://github.com/andremion/Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View)
 1. **FantasySlide** 一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互。一次手势完成滑出侧边栏与选择菜单。         
 [https://github.com/mzule/FantasySlide](https://github.com/mzule/FantasySlide)
+1. **FragNav**  An Android library for managing multiple stacks of fragments     
+[https://github.com/ncapdevi/FragNav](https://github.com/ncapdevi/FragNav)
+
 
 #### <a name="Dialog" id="Dialog"></a>Dialog
 1. **QustomDialog** a quick custom android dialog project    
