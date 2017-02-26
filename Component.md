@@ -84,3 +84,5 @@
 [https://github.com/dalong982242260/SlidingBallViewPager](https://github.com/dalong982242260/SlidingBallViewPager)
 1. **PickPhotoSample**  Photo Picker Of Android Library
 [https://github.com/Werb/PickPhotoSample](https://github.com/Werb/PickPhotoSample)
+1. **excelPanel**  An Android's two-dimensional RecyclerView
+[https://github.com/zhouchaoyuan/excelPanel](https://github.com/zhouchaoyuan/excelPanel)
