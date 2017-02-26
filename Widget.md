@@ -218,6 +218,8 @@
 [https://github.com/gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)
 1. **FadingTextView**  A textview that changes its content automatically every few seconds     
 [https://github.com/rosenpin/FadingTextView](https://github.com/rosenpin/FadingTextView)
+1. **WaitingDots**  Small library that provides... bouncing dots      
+[https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
 
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
