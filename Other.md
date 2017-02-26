@@ -525,6 +525,10 @@
 [https://github.com/kgmyshin/Goreinu](https://github.com/kgmyshin/Goreinu)
 1. **Android Debug Database** It's is a powerful library for debugging databases and shared preferences in Android applications.
 [https://github.com/amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+1. **Under the Hood** A flexible and powerful Android debug view library. It uses a modular template system that can be easily extended    
+[https://github.com/patrickfav/under-the-hood](https://github.com/patrickfav/under-the-hood)
+1. **Uber-Adb-Tools** A tool that enables advanced features through adb installing and uninstalling apps like wildcards and multi device support.     
+[https://github.com/patrickfav/uber-adb-tools](https://github.com/patrickfav/uber-adb-tools)
 
 ### <a name="Demo" id="Demo"></a>Demo
 1. **android-animated-menu-items** The example Android project of animated menu items in toolbar        
