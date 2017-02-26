@@ -220,6 +220,8 @@
 [https://github.com/rosenpin/FadingTextView](https://github.com/rosenpin/FadingTextView)
 1. **WaitingDots**  Small library that provides... bouncing dots      
 [https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
+1. **CodeView**  Android Code Highlighter     
+[https://github.com/tiagohm/CodeView](https://github.com/tiagohm/CodeView)
 
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
