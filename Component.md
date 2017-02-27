@@ -57,6 +57,12 @@
 1. **PermissionGen** Android API easy to use permission for Android M       
 [https://github.com/lovedise/PermissionGen](https://github.com/lovedise/PermissionGen)
 
+
+#### <a name="Component_Media" id="Component_Media"></a>Router
+1. **ARouter**  A android router middleware that help app navigating to activities and custom services.    
+[https://github.com/alibaba/ARouter](https://github.com/alibaba/ARouter)
+
+
 #### <a name="Component_Other" id="Component_Other"></a>Other
 1. **ShortcutBadger**  The ShortcutBadger makes your Android App show the count of unread messages as a badge on your App shortcut!         
 [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)
