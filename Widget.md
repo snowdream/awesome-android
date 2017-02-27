@@ -903,7 +903,7 @@ And this project is not using the image file!
 1. **loadtoast**  Pretty material design toasts with feedback animations    
 [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
 1. **pretty-toast**  This is quite simple toast library, that make it easier to show and create custom toast. Library provides Builder which can be used to create flexible custom Toast messages.
-         
+
 [https://github.com/CROSP/pretty-toast](https://github.com/CROSP/pretty-toast)
 1. **TastyToast**   Make your native android toast look beautiful.              
 [https://github.com/yadav-rahul/TastyToast](https://github.com/yadav-rahul/TastyToast)
@@ -1623,3 +1623,5 @@ And this project is not using the image file!
 [https://github.com/JeasonWong/QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
 1. **ChatMessageView** Chat UI library for Android               
 [https://github.com/bassaer/ChatMessageView](https://github.com/bassaer/ChatMessageView)
+1. **Dali**  An image blur library for Android. It contains several modules for static blurring, live blurring and animations.               
+[https://github.com/patrickfav/Dali](https://github.com/patrickfav/Dali)
