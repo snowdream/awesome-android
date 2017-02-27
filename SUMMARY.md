@@ -55,6 +55,7 @@
   * [Update](Component.md#Component_Update)
   * [QRCode](Component.md#Component_QRCode)
   * [Permission](Component.md#Component_Permission)
+  * [Router](Component.md#Component_Router)
   * [Other](Component.md#Component_Other)
 * [Performance](Performance.md)
   * [Analysis](Performance.md#Performance_Analysis_Tools)
