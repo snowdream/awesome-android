@@ -222,6 +222,8 @@
 [https://github.com/tajchert/WaitingDots](https://github.com/tajchert/WaitingDots)
 1. **CodeView**  Android Code Highlighter     
 [https://github.com/tiagohm/CodeView](https://github.com/tiagohm/CodeView)
+1.**SlantedTextView**  Android slanted TextView
+[https://github.com/HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
 
 
 #### <a name="ImageView" id="ImageView"></a>ImageView
