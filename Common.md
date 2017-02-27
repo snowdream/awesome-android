@@ -236,6 +236,8 @@
 [https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
 1. **ActSwitchAnimTool** ActSwitchAnimTool make the Animation easy to implements, and it compat the version of Android 4.0 or above.     
 [https://github.com/Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
+1. **AnimatedRecordingView**  Android animated recording view     
+[https://github.com/HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView)
 
   
 
