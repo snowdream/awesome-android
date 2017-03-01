@@ -46,6 +46,7 @@
   * [Tag](Widget.md#Tag)
   * [Keyboard](Widget.md#Keyboard)
   * [WebView](Widget.md#WebView)
+  * [Notification](Widget.md#Notification)
   * [Other](Widget.md#Other)
 * [Component](Component.md)
   * [Page](Component.md#Component_Page)
