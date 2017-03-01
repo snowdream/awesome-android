@@ -1627,3 +1627,5 @@ And this project is not using the image file!
 [https://github.com/bassaer/ChatMessageView](https://github.com/bassaer/ChatMessageView)
 1. **Dali**  An image blur library for Android. It contains several modules for static blurring, live blurring and animations.               
 [https://github.com/patrickfav/Dali](https://github.com/patrickfav/Dali)
+1. **cameraview**  CameraView aims to help Android developers easily integrate Camera features.     
+[https://github.com/google/cameraview](https://github.com/google/cameraview)
