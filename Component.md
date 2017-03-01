@@ -48,6 +48,8 @@
 1. **ZBar** Barcode & QRCode Scanner Libraries for Android
 [http://zbar.sourceforge.net/](http://zbar.sourceforge.net/)      
 [https://github.com/ZBar/ZBar](https://github.com/ZBar/ZBar)
+1. **zxing-android-embedded**  Port of the ZXing Android application as an Android library project, for embedding in an Android application.
+[https://github.com/journeyapps/zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)
 
 #### <a name="Component_Permission" id="Component_Permission"></a>Permission
 1. **Permissify** Simplifying Android Permissions    
