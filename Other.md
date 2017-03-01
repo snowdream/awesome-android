@@ -820,6 +820,8 @@
 [https://github.com/andremion/Villains-and-Heroes](https://github.com/andremion/Villains-and-Heroes)
 1. **likequanmintv** 基于MVP的Retrofit2(okhttp3)+rxjava+dagger2+greendao+glide+rtmp直播。该项目系仿全民TV,属于独立开发者作品,仅供参考学习，拒绝做一切商业用途，如有侵权，请告知删除。
 [https://github.com/a371166028/likequanmintv](https://github.com/a371166028/likequanmintv)
+1. **JianDou**  豆瓣Material design风格的客户端
+[https://github.com/ChinaLHR/JianDou](https://github.com/ChinaLHR/JianDou)
 
 
 ### <a name="Security" id="Security"></a>Security
