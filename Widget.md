@@ -570,6 +570,8 @@ And this project is not using the image file!
 [https://github.com/mzule/FantasySlide](https://github.com/mzule/FantasySlide)
 1. **FragNav**  An Android library for managing multiple stacks of fragments     
 [https://github.com/ncapdevi/FragNav](https://github.com/ncapdevi/FragNav)
+1. **hover**  A floating menu library for Android.     
+[https://github.com/google/hover](https://github.com/google/hover)
 
 
 #### <a name="Dialog" id="Dialog"></a>Dialog
