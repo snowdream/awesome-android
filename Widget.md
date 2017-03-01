@@ -1134,6 +1134,8 @@ And this project is not using the image file!
 [https://github.com/zhangke3016/ParticleDismissLayout](https://github.com/zhangke3016/ParticleDismissLayout)
 1. **Vorolay** VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.    
 [https://github.com/Quatja/Vorolay](https://github.com/Quatja/Vorolay)
+1. ****  Android Activity 滑动返回     
+[https://github.com/bingoogolapple/BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 
 
 #### <a name="Toolbar" id="Toolbar"></a>Toolbar
