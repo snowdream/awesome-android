@@ -1201,6 +1201,9 @@ And this project is not using the image file!
 1. **Android-AdvancedWebView** Enhanced WebView component for Android that works as intended out of the box      
 [https://github.com/delight-im/Android-AdvancedWebView](https://github.com/delight-im/Android-AdvancedWebView)
 
+#### <a name="WebView" id="WebView"></a>Notification
+1. **Carousel-Notification**  Carousel-Notification lets you make carousel type notification where user can navigate within the notification
+[https://github.com/shaileshmamgain5/Carousel-Notification](https://github.com/shaileshmamgain5/Carousel-Notification)
 
 #### <a name="Other" id="Other"></a>Other
 1. **TagViewGroup** Android 仿小红书图片标签，实现了图片标签的动画，布局，水波纹，编辑等功能，还可以自定义 Tag。         
