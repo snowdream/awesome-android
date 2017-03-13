@@ -363,6 +363,8 @@
 [https://github.com/mcxtzhang/AnimShopButton](https://github.com/mcxtzhang/AnimShopButton)
 1. **Android-SwitchIcon** Google launcher-style implementation of switch (enable/disable) icon        
 [https://github.com/zagum/Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+1. **iOS-SwitchView** A lightweight iOS switch view style for Android
+[https://github.com/luongvo/iOS-SwitchView](https://github.com/luongvo/iOS-SwitchView)
 
 
 #### <a name="CheckBox" id="CheckBox"></a>CheckBox
