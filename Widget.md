@@ -922,6 +922,8 @@ And this project is not using the image file!
 [https://github.com/aritraroy/PinLockView](https://github.com/aritraroy/PinLockView)
 1.  **PinCodeView** A custom view with keyboard and character display to be used for authentication
 [https://github.com/Arjun-sna/android-passcodeview](https://github.com/Arjun-sna/android-passcodeview)
+1. **PatternLockView**   An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android
+[https://github.com/aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView)
 
 
 
