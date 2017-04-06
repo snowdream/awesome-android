@@ -931,6 +931,8 @@
 [https://github.com/android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)
 1. **gifcap** Make a GIF from your Android device's screen    
 [https://github.com/outlook/gifcap](https://github.com/outlook/gifcap)
+1. **Fakeit** It generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment
+[https://github.com/moove-it/fakeit](https://github.com/moove-it/fakeit)
 
 
 
