@@ -583,6 +583,8 @@ And this project is not using the image file!
 [https://github.com/orhanobut/dialogplus](https://github.com/orhanobut/dialogplus)
 1. **spots-dialog**  Android AlertDialog with mowing dots progress indicator    
 [https://github.com/d-max/spots-dialog](https://github.com/d-max/spots-dialog)
+1. **search-dialog**  An awesome and customizable search dialog with built-in search options.       
+[https://github.com/mirrajabi/search-dialog](https://github.com/mirrajabi/search-dialog)
 
 
 
