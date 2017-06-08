@@ -1,7 +1,7 @@
 # awesome-android
 [![Build Status](https://travis-ci.org/snowdream/awesome-android.svg?branch=master)](https://travis-ci.org/snowdream/awesome-android)
 
- *This is NOT BEING MAINTAINED*
+ *This is NOT BEING MAINTAINED*.
  
  check https://github.com/blog/2309-introducing-topics instead.
  
