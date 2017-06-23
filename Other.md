@@ -351,7 +351,8 @@
 [https://github.com/microsoft/thrifty](https://github.com/microsoft/thrifty)
 1. **Android-ConfigIO**   A library for creating, accessing, and modifying configuration file with Xml / Json format.    
 [https://github.com/tzutalin/Android-ConfigIO](https://github.com/tzutalin/Android-ConfigIO)
-
+1. **PrivacyStreams** Access and process various types of personal data in Android with an easy, uniform, and privacy-friendly API.
+[https://github.com/PrivacyStreams/PrivacyStreams](https://github.com/PrivacyStreams/PrivacyStreams)
 
 ### <a name="Storage" id="Storage"></a>Storage
 1. **RealStoragePathLibrary**   RealStoragePathLibrary is an open source library with very minimal footprint which helps to find the real paths of the storage devices attached to the Android device.    
