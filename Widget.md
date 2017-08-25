@@ -86,7 +86,8 @@
 [https://github.com/Narfss/ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere)
 1. **ShowcaseView**  Highlight the best bits of your app to users quickly, simply, and cool...ly    
 [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
-
+1. **Spotlight**  Android Library that lights items for tutorials or walk-throughs etc...
+[https://github.com/TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight)
 
 #### <a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText
 1. **html-textview**  TextView to display simple HTML content     
