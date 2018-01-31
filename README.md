@@ -3,7 +3,9 @@
 
  *This is NOT BEING MAINTAINED*.
  
- check https://github.com/blog/2309-introducing-topics instead.
+ check https://github.com/JStumpp/awesome-android 
+ 
+ or https://github.com/blog/2309-introducing-topics instead.
  
 ## Introduction
 android libs from github or other websites 
