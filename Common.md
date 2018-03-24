@@ -238,6 +238,8 @@
 [https://github.com/Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool)
 1. **AnimatedRecordingView**  Android animated recording view     
 [https://github.com/HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView)
+1. **ShimmerLayout**  Memory efficient shimmering effect for Android applications.    
+[https://github.com/team-supercharge/ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)
 
   
 
