@@ -72,6 +72,8 @@
 [https://github.com/DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)
 1. **youtube-play-icon** Material styled morphing play/pause drawable.         
 [https://github.com/alxrm/youtube-play-icon](https://github.com/alxrm/youtube-play-icon)
+1. **MaterialPlayPauseDrawable** Material Design play/pause Drawable with animation.         
+[https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawable](https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawable)
 
 #### <a name="UI" id="UI"></a>UI
 1. **android-ui**   Android UI library.  Requires API level 14+    
