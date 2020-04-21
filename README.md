@@ -36,14 +36,6 @@ awesome-android 开发维护指南 https://github.com/snowdream/awesome-android/
 * QQ Group: 82695646     
 * WeChat:  sn0wdr1am86      
 
-![sn0wdr1am](https://static.dingtalk.com/media/lADOmAwFCs0BAs0BAg_258_258.jpg)
-
-**Welcome to talk about Android.**
-
-### Donate
-If the project is useful to you, and you like it, you can buy me a beer. 
-[Click to donate](Donate.md)
-
 ## License
 ```
 Copyright (C) 2014 Snowdream Mobile <yanghui1986527@gmail.com>
